@@ -7,5 +7,8 @@ tags: []
 
 # MIPT harmonic analysis 2025
 # Семинары Монченко
-[[1738753790-mipt-harmonic-analysis-04-02-25|MIPT harmonic analysis 04-02-25]]
+1. [[1738753790-mipt-harmonic-analysis-seminar-04-02-25|04-02-25]]
+
+# Лекции Тюленева
+1. [[676-mipt-harmonic-analysis-lecture-06-02-25|06-02-25]]
 
