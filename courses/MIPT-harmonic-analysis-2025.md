@@ -11,4 +11,3 @@ tags: []
 
 # Лекции Тюленева
 1. [[676-mipt-harmonic-analysis-lecture-06-02-25|06-02-25]]
-
