@@ -30,8 +30,11 @@ $P(A) \defeq \frac{K}{N}$
 
 $0 \le P(A) \le 1$
 $P(\Omega) = 1$
-$P(A \cup B) > P(A) + P(B)$
+$P(A \cup B) \le P(A) + P(B)$
 
 ## Геометрическое
+$g \subseteq G$
+Бросание точки на удачу.
+ $P(g) = \frac{\mu(g)}{\mu(G)}$, $\mu$ - мера
 
 ## Аксиоматическое
