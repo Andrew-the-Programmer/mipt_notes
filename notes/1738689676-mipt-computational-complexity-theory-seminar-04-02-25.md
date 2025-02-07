@@ -7,17 +7,6 @@ tags: []
 
 # MIPT complexity theory-seminar 04-02-25
 
-$M\ работает\ T(n)$
-$$
-T: \NN \to \NN : \forall x \in \Sigma^* \hthen
-Stop(M, x, T(\abs{x})) = True
-$$
-$$
-DTIME(n) \subseteq \Sigma^* : \exists M - \text{MТ} : M\ \text{работает за}\ O(n)\ на\ DTIME(n)
-$$
-$$
-P = \bigcup_{k=1}^{\infty}{DTIME(n^k)}
-$$
 ## 1
 Найти $O(n \log n)$ алгоритм на одноленточной МТ M : $M(1^n) = 1^{2n}$
 ## 2

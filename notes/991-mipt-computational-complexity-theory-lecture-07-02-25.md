@@ -1,12 +1,12 @@
 ---
-id: 991-mipt-theory-of-computational-complexity-lecture-07-02-25
+id: 991-mipt-computational-complexity-theory-lecture-07-02-25
 aliases:
-  - MIPT theory of computational complexity lecture 07-02-25
-  - MIPT TCC lecture 07-02-25
+  - MIPT computational complexity theory lecture 07-02-25
+  - MIPT CCT lecture 07-02-25
 tags: []
 ---
 
-# MIPT theory of computational complexity lecture 07-02-25
+# MIPT computational complexity theory lecture 07-02-25
 # Напоминание
 ДМТ - детерминированная [[1729687005-машина-Тьюринга|машина Тьюринга]].
 НМТ - недетерминированная.
