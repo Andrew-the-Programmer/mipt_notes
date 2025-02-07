@@ -4,9 +4,9 @@ aliases:
   - MIPT probability theory lecture 07-02-25
 tags: []
 ---
-
 # MIPT probability theory lecture 07-02-25
-***"yap yap yap yap yap yap yap"***
+
+**_"yap yap yap yap yap yap yap"_**
 
 Аристотель - 4 век д.н.э.
 Задача о разделе ставки - 15 век.
@@ -19,9 +19,19 @@ tags: []
 Мысленный эксперимент.
 
 # Определения вероятности
-## Классическое
-$\Omega = \set{E_k}_{k\in[1,n]}$ - ***мн-во элементарных исходов***
- ***событие***
-## Геометрическое
-## Аксиоматическое
 
+## Классическое
+
+$\Omega = \set{\emptyset, E_n}_{n\in[1,N]}$ - **_мн-во элементарных исходов_**
+**_Событие_** $A = \bigcup_{k=1}^{K}{E_{n_k}}$
+
+$P(\emptyset) \defeq 0$
+$P(A) \defeq \frac{K}{N}$
+
+$0 \le P(A) \le 1$
+$P(\Omega) = 1$
+$P(A \cup B) > P(A) + P(B)$
+
+## Геометрическое
+
+## Аксиоматическое
