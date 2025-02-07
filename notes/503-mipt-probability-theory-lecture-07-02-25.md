@@ -6,7 +6,7 @@ tags: []
 ---
 # MIPT probability theory lecture 07-02-25
 
-**_"yap yap yap yap yap yap yap"_**
+# Тема лекции: "yap yap yap yap yap yap yap"
 
 Аристотель - 4 век д.н.э.
 Задача о разделе ставки - 15 век.
