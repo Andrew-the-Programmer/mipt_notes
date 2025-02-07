@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/486-вероятность.md",
+                "file": "notes/875-mipt-probability-theory-seminar-07-02-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "486-вероятность"
+              "title": "875-mipt-probability-theory-seminar-07-02-25"
             }
           }
         ]
@@ -182,11 +182,12 @@
   },
   "active": "ca6a15d860e76df4",
   "lastOpenFiles": [
+    "notes/875-mipt-probability-theory-seminar-07-02-25.md~",
+    "notes/486-вероятность.md",
+    "assets/imgs/1738926316.png",
     "notes/613-вероятностное-пространство.md",
     "notes/503-mipt-probability-theory-lecture-07-02-25.md~",
     "notes/486-вероятность.md~",
-    "notes/486-вероятность.md",
-    "notes/875-mipt-probability-theory-seminar-07-02-25.md~",
     "notes/875-mipt-probability-theory-seminar-07-02-25.md",
     "notes/929-парадокс-Монти-Холла.md~",
     "notes/503-mipt-probability-theory-lecture-07-02-25.md",
