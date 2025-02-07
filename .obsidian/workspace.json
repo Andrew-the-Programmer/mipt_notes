@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/613-вероятностное-пространство.md",
+                "file": "notes/712-механическое-равновесие.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "613-вероятностное-пространство"
+              "title": "712-механическое-равновесие"
             }
           }
         ]
@@ -182,13 +182,17 @@
   },
   "active": "ca6a15d860e76df4",
   "lastOpenFiles": [
+    "notes/712-механическое-равновесие.md~",
+    "notes/613-вероятностное-пространство.md",
+    "notes/712-механическое-равновесие.md",
+    "notes/698-mipt-anmech-seminar-07-02-25.md",
+    "notes/1729104266-mipt-anmech-seminar-16-10-24.md~",
     "notes/613-вероятностное-пространство.md~",
     "notes/875-mipt-probability-theory-seminar-07-02-25.md",
     "notes/875-mipt-probability-theory-seminar-07-02-25.md~",
     "assets/imgs/1738927970.png",
     "notes/486-вероятность.md",
     "assets/imgs/1738926316.png",
-    "notes/613-вероятностное-пространство.md",
     "notes/503-mipt-probability-theory-lecture-07-02-25.md~",
     "notes/486-вероятность.md~",
     "notes/929-парадокс-Монти-Холла.md~",
@@ -204,9 +208,7 @@
     "courses/512-mipt-probability-theory-2025.md",
     "notes/512-mipt-probability-theory-2025.md~",
     "notes/512-mipt-probability-theory-2025.md",
-    "notes/147-время-работы-машины-Тьюринга.md~",
     "courses/MIPT-computational-complexity-theory-2025.md",
-    "notes/1738689676-mipt-computational-complexity-theory-seminar-04-02-25.md~",
     "notes/991-mipt-computational-complexity-theory-lecture-07-02-25.md",
     "notes/991-mipt-theory-of-computational-complexity-lecture-07-02-25.md",
     "courses/MIPT-theory-of-computational-complexity-2025.md",
@@ -218,8 +220,6 @@
     "notes/676-mipt-harmonic-analysis-lecture-06-02-25.md",
     "notes/1738654869-интегрируемая-по-лебегу-функция.md",
     "courses/MIPT-harmonic-analysis-2025.md",
-    "notes/1738753790-mipt-harmonic-analysis-seminar-04-02-25.md",
-    "notes/458-линейное-нормированное-пространство.md",
-    "notes/276-фундаментальная-последовательность.md"
+    "notes/1738753790-mipt-harmonic-analysis-seminar-04-02-25.md"
   ]
 }
