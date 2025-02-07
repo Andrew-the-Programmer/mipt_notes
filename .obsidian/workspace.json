@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/503-mipt-probability-theory-lecture-07-02-25.md",
+                "file": "notes/929-парадокс-Монти-Холла.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "503-mipt-probability-theory-lecture-07-02-25"
+              "title": "929-парадокс-Монти-Холла"
             }
           }
         ]
@@ -184,11 +184,12 @@
   "lastOpenFiles": [
     "notes/503-mipt-probability-theory-lecture-07-02-25.md~",
     "notes/929-парадокс-Монти-Холла.md~",
+    "assets/imgs/1738924671.png",
+    "notes/503-mipt-probability-theory-lecture-07-02-25.md",
     "notes/929-парадокс-Монти-Холла.md",
     "notes/500-парадокс-Бертрана.md",
     "notes/500-парадокс-Бертрана.md~",
     "assets/imgs/1738923232.png",
-    "notes/503-mipt-probability-theory-lecture-07-02-25.md",
     "courses/MIPT-probability-theory-2025.md",
     "courses/MIPT-probability-theory-2025.md~",
     "notes/147-время-работы-машины-Тьюринга.md",
@@ -204,7 +205,6 @@
     "notes/991-mipt-theory-of-computational-complexity-lecture-07-02-25.md",
     "notes/991-mipt-theory-of-computational-complexity-lecture-07-02-25.md~",
     "courses/MIPT-theory-of-computational-complexity-2025.md",
-    "courses/MIPT-theory-of-computational-complexity-2025.md~",
     "notes/1738689676-mipt-computational-complexity-theory-seminar-04-02-25.md",
     "courses/437-mipt-theory-of-computational-complexity-2025.md",
     "notes/1729687005-машина-Тьюринга.md",
