@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/MIPT-theory-of-computational-complexity-2025.md",
+                "file": "notes/991-mipt-theory-of-computational-complexity-lecture-07-02-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -23,12 +23,12 @@
                   "sortOrder": "alphabetical",
                   "showSearch": false,
                   "searchQuery": "",
-                  "backlinkCollapsed": true,
+                  "backlinkCollapsed": false,
                   "unlinkedCollapsed": true
                 }
               },
               "icon": "lucide-file",
-              "title": "MIPT-theory-of-computational-complexity-2025"
+              "title": "991-mipt-theory-of-computational-complexity-lecture-07-02-25"
             }
           }
         ]
@@ -182,11 +182,14 @@
   },
   "active": "ca6a15d860e76df4",
   "lastOpenFiles": [
-    "notes/991-mipt-theory-of-computational-complexity-lecture-07-02-25.md",
-    "courses/MIPT-theory-of-computational-complexity-2025.md~",
+    "courses/MIPT-computational-complexity-theory-2025.md~",
     "courses/MIPT-theory-of-computational-complexity-2025.md",
-    "courses/437-mipt-theory-of-computational-complexity-2025.md",
+    "courses/MIPT-computational-complexity-theory-2025.md",
+    "courses/MIPT-theory-of-computational-complexity-2025.md~",
+    "notes/1738689676-mipt-computational-complexity-theory-seminar-04-02-25.md",
+    "notes/991-mipt-theory-of-computational-complexity-lecture-07-02-25.md",
     "notes/991-mipt-theory-of-computational-complexity-lecture-07-02-25.md~",
+    "courses/437-mipt-theory-of-computational-complexity-2025.md",
     "notes/1729687005-машина-Тьюринга.md",
     "notes/1738649083-функция-ограниченной-вариации.md",
     "notes/437-mipt-theory-of-computational-complexity-2025.md~",

@@ -5,4 +5,4 @@ aliases:
 tags: []
 ---
 
-[[1738689676-mipt-complexity-theory-seminar-04-02-25|MIPT complexity theory-seminar 04-02-25]]
+[[1738689676-mipt-computational-complexity-theory-seminar-04-02-25|MIPT complexity theory-seminar 04-02-25]]
