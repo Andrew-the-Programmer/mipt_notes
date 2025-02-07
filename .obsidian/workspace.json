@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/1738649083-функция-ограниченной-вариации.md",
+                "file": "courses/MIPT-theory-of-computational-complexity-2025.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1738649083-функция-ограниченной-вариации"
+              "title": "MIPT-theory-of-computational-complexity-2025"
             }
           }
         ]
@@ -182,8 +182,13 @@
   },
   "active": "ca6a15d860e76df4",
   "lastOpenFiles": [
-    "notes/991-mipt-theory-of-computational-complexity-lecture-07-02-25.md~",
     "notes/991-mipt-theory-of-computational-complexity-lecture-07-02-25.md",
+    "courses/MIPT-theory-of-computational-complexity-2025.md~",
+    "courses/MIPT-theory-of-computational-complexity-2025.md",
+    "courses/437-mipt-theory-of-computational-complexity-2025.md",
+    "notes/991-mipt-theory-of-computational-complexity-lecture-07-02-25.md~",
+    "notes/1729687005-машина-Тьюринга.md",
+    "notes/1738649083-функция-ограниченной-вариации.md",
     "notes/437-mipt-theory-of-computational-complexity-2025.md~",
     "notes/437-mipt-theory-of-computational-complexity-2025.md",
     "notes/1738649083-функция-ограниченной-вариации.md~",
@@ -201,10 +206,7 @@
     "notes/1728837879-метрическое-пространство.md",
     "notes/1728837986-метрика.md",
     "notes/1728837879-метрическое-пространство.md~",
-    "notes/276-фундаментальная-последовательность.md~",
     "notes/1738651715-абсолютно-непрерывная-функция.md",
-    "notes/1738651715-абсолютно-непрерывная-функция.md~",
-    "notes/1738649083-функция-ограниченной-вариации.md",
     "Zettelkasten/676-mipt-harmonic-analysis-lecture-06-02-25.md",
     "Zettelkasten/458-линейное-нормированное-пространство.md",
     "Zettelkasten/276-фундаментальная-последовательность.md",

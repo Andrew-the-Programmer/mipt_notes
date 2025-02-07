@@ -7,4 +7,5 @@ tags: []
 ---
 
 # MIPT theory of computational complexity 2025
-
+# Lectures
+1. [[991-mipt-theory-of-computational-complexity-lecture-07-02-25|MIPT TCC lecture 07-02-25]]
