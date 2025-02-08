@@ -11,12 +11,24 @@
             "id": "ca6a15d860e76df4",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "sourses/MIPT-physics-lectures-2025/Лекция_1.pdf"
+                "file": "notes/260-микроскоп.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "Лекция_1"
+              "icon": "lucide-file",
+              "title": "260-микроскоп"
             }
           }
         ]
@@ -170,25 +182,29 @@
   },
   "active": "ca6a15d860e76df4",
   "lastOpenFiles": [
-    "notes/916-mipt-physics-lecture-01-02-25.md",
+    "notes/260-микроскоп.md~",
+    "sourses/MIPT-physics-lectures-2025/Лекция_2.pdf",
+    "assets/imgs/1739003962.png",
     "notes/570-mipt-physics-lecture-08-02-25.md",
-    "notes/916-mipt-physics-lecture-01-02-25.md~",
+    "courses/MIPT-physics-2025.md",
+    "notes/916-mipt-physics-lecture-01-02-25.md",
+    "courses/MIPT-physics-2025.md~",
+    "courses/4913",
     "notes/570-mipt-physics-lecture-08-02-25.md~",
+    "sourses/MIPT-physics-lectures-2025/Лекция_1.pdf",
+    "notes/260-микроскоп.md",
+    "notes/916-mipt-physics-lecture-01-02-25.md~",
     "notes/500-подзорная-труба.md",
     "notes/780-телескоп.md",
     "notes/298-лупа.md",
     "notes/534-линза.md",
     "notes/1738658604-геометрическая-оптика.md",
     "notes/929-линза.md",
-    "sourses/MIPT-physics-lectures-2025/Лекция_2.pdf",
     "sourses/MIPT-physics-lectures-2025/Лекция_2.pdf.crdownload",
-    "sourses/MIPT-physics-lectures-2025/Лекция_1.pdf",
     "sourses/MIPT-physics-lectures-2025/Лекция_1.pdf.crdownload",
     "sourses/MIPT-physics-lectures-2025",
     "notes/869-очки.md~",
     "notes/869-очки.md",
-    "notes/929-линза.md~",
-    "notes/1738658604-геометрическая-оптика.md~",
     "notes/1731663299-преломление-и-отражение-электромагнитных-волн.md",
     "notes/1738655241-mipt-physics-seminar-04-02-25.md",
     "notes/613-вероятностное-пространство.md",
@@ -206,8 +222,6 @@
     "courses/MIPT-probability-theory-2025.md",
     "notes/147-время-работы-машины-Тьюринга.md",
     "courses/512-mipt-probability-theory-2025.md",
-    "notes/512-mipt-probability-theory-2025.md",
-    "courses/MIPT-computational-complexity-theory-2025.md",
-    "notes/991-mipt-computational-complexity-theory-lecture-07-02-25.md"
+    "notes/512-mipt-probability-theory-2025.md"
   ]
 }
