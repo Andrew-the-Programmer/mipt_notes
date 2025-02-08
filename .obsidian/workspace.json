@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/980-толстая-линза.md",
+                "file": "notes/775-световой-поток.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "980-толстая-линза"
+              "title": "775-световой-поток"
             }
           }
         ]
@@ -182,11 +182,15 @@
   },
   "active": "ca6a15d860e76df4",
   "lastOpenFiles": [
+    "notes/666-фотометрия.md~",
+    "notes/999-сила-света.md",
     "notes/570-mipt-physics-lecture-08-02-25.md~",
+    "notes/980-толстая-линза.md",
+    "notes/666-фотометрия.md",
+    "notes/775-световой-поток.md",
     "notes/929-линза.md",
     "notes/980-толстая-линза.md~",
     "assets/imgs/1739004867.png",
-    "notes/980-толстая-линза.md",
     "assets/imgs/1739004854.png",
     "notes/298-лупа.md",
     "notes/929-линза.md~",
@@ -211,7 +215,6 @@
     "courses/MIPT-physics-2025.md",
     "notes/916-mipt-physics-lecture-01-02-25.md",
     "courses/MIPT-physics-2025.md~",
-    "courses/4913",
     "notes/1738658604-геометрическая-оптика.md",
     "notes/869-очки.md",
     "notes/1731663299-преломление-и-отражение-электромагнитных-волн.md",
@@ -223,9 +226,6 @@
     "notes/486-вероятность.md",
     "notes/503-mipt-probability-theory-lecture-07-02-25.md",
     "notes/929-парадокс-Монти-Холла.md",
-    "notes/500-парадокс-Бертрана.md",
-    "courses/MIPT-probability-theory-2025.md",
-    "notes/147-время-работы-машины-Тьюринга.md",
-    "courses/512-mipt-probability-theory-2025.md"
+    "notes/500-парадокс-Бертрана.md"
   ]
 }
