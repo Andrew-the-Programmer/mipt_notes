@@ -11,24 +11,12 @@
             "id": "ca6a15d860e76df4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "notes/1731663299-преломление-и-отражение-электромагнитных-волн.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "sourses/АиСД 2024. Лекции/05.SuffixTree.pdf"
               },
-              "icon": "lucide-file",
-              "title": "1731663299-преломление-и-отражение-электромагнитных-волн"
+              "icon": "lucide-file-text",
+              "title": "05.SuffixTree"
             }
           }
         ]
@@ -189,8 +177,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ca43457cb299a78c",
+  "active": "ca6a15d860e76df4",
   "lastOpenFiles": [
+    "notes/1731663299-преломление-и-отражение-электромагнитных-волн.md",
     "notes/775-световой-поток.md",
     "notes/775-световой-поток.md~",
     "notes/666-фотометрия.md~",
@@ -226,7 +215,6 @@
     "notes/916-mipt-physics-lecture-01-02-25.md",
     "notes/1738658604-геометрическая-оптика.md",
     "notes/869-очки.md",
-    "notes/1731663299-преломление-и-отражение-электромагнитных-волн.md",
     "notes/1738655241-mipt-physics-seminar-04-02-25.md",
     "notes/613-вероятностное-пространство.md",
     "notes/712-механическое-равновесие.md",
