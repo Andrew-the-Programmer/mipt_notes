@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/260-микроскоп.md",
+                "file": "notes/500-подзорная-труба.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "260-микроскоп"
+              "title": "500-подзорная-труба"
             }
           }
         ]
@@ -182,6 +182,10 @@
   },
   "active": "ca6a15d860e76df4",
   "lastOpenFiles": [
+    "notes/500-подзорная-труба.md~",
+    "assets/imgs/1739004287.png",
+    "notes/260-микроскоп.md",
+    "assets/imgs/1739004121.png",
     "notes/260-микроскоп.md~",
     "sourses/MIPT-physics-lectures-2025/Лекция_2.pdf",
     "assets/imgs/1739003962.png",
@@ -192,7 +196,6 @@
     "courses/4913",
     "notes/570-mipt-physics-lecture-08-02-25.md~",
     "sourses/MIPT-physics-lectures-2025/Лекция_1.pdf",
-    "notes/260-микроскоп.md",
     "notes/916-mipt-physics-lecture-01-02-25.md~",
     "notes/500-подзорная-труба.md",
     "notes/780-телескоп.md",
@@ -202,8 +205,6 @@
     "notes/929-линза.md",
     "sourses/MIPT-physics-lectures-2025/Лекция_2.pdf.crdownload",
     "sourses/MIPT-physics-lectures-2025/Лекция_1.pdf.crdownload",
-    "sourses/MIPT-physics-lectures-2025",
-    "notes/869-очки.md~",
     "notes/869-очки.md",
     "notes/1731663299-преломление-и-отражение-электромагнитных-волн.md",
     "notes/1738655241-mipt-physics-seminar-04-02-25.md",
