@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/929-линза.md",
+                "file": "notes/980-толстая-линза.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "929-линза"
+              "title": "980-толстая-линза"
             }
           }
         ]
@@ -182,6 +182,18 @@
   },
   "active": "ca6a15d860e76df4",
   "lastOpenFiles": [
+    "notes/570-mipt-physics-lecture-08-02-25.md~",
+    "notes/929-линза.md",
+    "notes/980-толстая-линза.md~",
+    "assets/imgs/1739004867.png",
+    "notes/980-толстая-линза.md",
+    "assets/imgs/1739004854.png",
+    "notes/298-лупа.md",
+    "notes/929-линза.md~",
+    "assets/imgs/1739004740.png",
+    "notes/298-лупа.md~",
+    "assets/imgs/1739004712.png",
+    "assets/imgs/1739004650.png",
     "notes/780-телескоп.md",
     "notes/534-линза.md",
     "notes/780-телескоп.md~",
@@ -195,19 +207,12 @@
     "assets/imgs/1739004121.png",
     "notes/260-микроскоп.md~",
     "sourses/MIPT-physics-lectures-2025/Лекция_2.pdf",
-    "assets/imgs/1739003962.png",
     "notes/570-mipt-physics-lecture-08-02-25.md",
     "courses/MIPT-physics-2025.md",
     "notes/916-mipt-physics-lecture-01-02-25.md",
     "courses/MIPT-physics-2025.md~",
     "courses/4913",
-    "notes/570-mipt-physics-lecture-08-02-25.md~",
-    "sourses/MIPT-physics-lectures-2025/Лекция_1.pdf",
-    "notes/916-mipt-physics-lecture-01-02-25.md~",
-    "notes/298-лупа.md",
     "notes/1738658604-геометрическая-оптика.md",
-    "notes/929-линза.md",
-    "sourses/MIPT-physics-lectures-2025/Лекция_2.pdf.crdownload",
     "notes/869-очки.md",
     "notes/1731663299-преломление-и-отражение-электромагнитных-волн.md",
     "notes/1738655241-mipt-physics-seminar-04-02-25.md",
@@ -215,17 +220,12 @@
     "notes/712-механическое-равновесие.md",
     "notes/698-mipt-anmech-seminar-07-02-25.md",
     "notes/875-mipt-probability-theory-seminar-07-02-25.md",
-    "assets/imgs/1738927970.png",
     "notes/486-вероятность.md",
-    "assets/imgs/1738926316.png",
     "notes/503-mipt-probability-theory-lecture-07-02-25.md",
     "notes/929-парадокс-Монти-Холла.md",
-    "assets/imgs/1738924671.png",
     "notes/500-парадокс-Бертрана.md",
-    "assets/imgs/1738923232.png",
     "courses/MIPT-probability-theory-2025.md",
     "notes/147-время-работы-машины-Тьюринга.md",
-    "courses/512-mipt-probability-theory-2025.md",
-    "notes/512-mipt-probability-theory-2025.md"
+    "courses/512-mipt-probability-theory-2025.md"
   ]
 }
