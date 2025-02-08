@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/712-механическое-равновесие.md",
+                "file": "notes/929-линза.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "712-механическое-равновесие"
+              "title": "929-линза"
             }
           }
         ]
@@ -182,6 +182,15 @@
   },
   "active": "ca6a15d860e76df4",
   "lastOpenFiles": [
+    "notes/929-линза.md~",
+    "notes/1738658604-геометрическая-оптика.md",
+    "notes/1738658604-геометрическая-оптика.md~",
+    "notes/1731663299-преломление-и-отражение-электромагнитных-волн.md",
+    "notes/1731663299-преломление-и-отражение-электромагнитных-волн.md~",
+    "notes/1738655241-mipt-physics-seminar-04-02-25.md",
+    "notes/1738655241-mipt-physics-seminar-04-02-25.md~",
+    "notes/570-mipt-physics-lecture-08-02-25.md",
+    "courses/MIPT-physics-2025.md~",
     "notes/712-механическое-равновесие.md~",
     "notes/613-вероятностное-пространство.md",
     "notes/712-механическое-равновесие.md",
@@ -194,19 +203,14 @@
     "notes/486-вероятность.md",
     "assets/imgs/1738926316.png",
     "notes/503-mipt-probability-theory-lecture-07-02-25.md~",
-    "notes/486-вероятность.md~",
-    "notes/929-парадокс-Монти-Холла.md~",
     "notes/503-mipt-probability-theory-lecture-07-02-25.md",
     "notes/929-парадокс-Монти-Холла.md",
     "assets/imgs/1738924671.png",
     "notes/500-парадокс-Бертрана.md",
-    "notes/500-парадокс-Бертрана.md~",
     "assets/imgs/1738923232.png",
     "courses/MIPT-probability-theory-2025.md",
-    "courses/MIPT-probability-theory-2025.md~",
     "notes/147-время-работы-машины-Тьюринга.md",
     "courses/512-mipt-probability-theory-2025.md",
-    "notes/512-mipt-probability-theory-2025.md~",
     "notes/512-mipt-probability-theory-2025.md",
     "courses/MIPT-computational-complexity-theory-2025.md",
     "notes/991-mipt-computational-complexity-theory-lecture-07-02-25.md",
@@ -216,10 +220,6 @@
     "courses/437-mipt-theory-of-computational-complexity-2025.md",
     "notes/1729687005-машина-Тьюринга.md",
     "notes/1738649083-функция-ограниченной-вариации.md",
-    "notes/437-mipt-theory-of-computational-complexity-2025.md",
-    "notes/676-mipt-harmonic-analysis-lecture-06-02-25.md",
-    "notes/1738654869-интегрируемая-по-лебегу-функция.md",
-    "courses/MIPT-harmonic-analysis-2025.md",
-    "notes/1738753790-mipt-harmonic-analysis-seminar-04-02-25.md"
+    "notes/437-mipt-theory-of-computational-complexity-2025.md"
   ]
 }
