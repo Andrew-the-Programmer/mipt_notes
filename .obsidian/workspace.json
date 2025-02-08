@@ -11,12 +11,24 @@
             "id": "ca6a15d860e76df4",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "sourses/АиСД 2024. Лекции/05.SuffixTree.pdf"
+                "file": "notes/1731593863-дерево-отрезков-segment-tree.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "05.SuffixTree"
+              "icon": "lucide-file",
+              "title": "1731593863-дерево-отрезков-segment-tree"
             }
           }
         ]
@@ -51,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "segment",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,7 +84,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -179,6 +192,7 @@
   },
   "active": "ca6a15d860e76df4",
   "lastOpenFiles": [
+    "sourses/АиСД 2024. Лекции/05.SuffixTree.pdf",
     "notes/1731663299-преломление-и-отражение-электромагнитных-волн.md",
     "notes/775-световой-поток.md",
     "notes/775-световой-поток.md~",
