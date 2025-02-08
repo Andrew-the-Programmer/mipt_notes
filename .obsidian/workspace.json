@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "118388a6ab5b8fbb",
@@ -161,13 +160,23 @@
               "icon": "lucide-list",
               "title": "Outline of 1738654869-интегрируемая-по-лебегу-функция"
             }
+          },
+          {
+            "id": "fc4bfb5360dcdbeb",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,7 +189,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ca6a15d860e76df4",
+  "active": "ca43457cb299a78c",
   "lastOpenFiles": [
     "notes/775-световой-поток.md",
     "notes/775-световой-поток.md~",
