@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/1731593863-дерево-отрезков-segment-tree.md",
-                "mode": "source",
+                "file": "notes/1735458431-mipt-algorithms-lecture-12-12-24.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1731593863-дерево-отрезков-segment-tree"
+              "title": "1735458431-mipt-algorithms-lecture-12-12-24"
             }
           }
         ]
@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "118388a6ab5b8fbb",
@@ -177,7 +178,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,6 +194,13 @@
   },
   "active": "ca6a15d860e76df4",
   "lastOpenFiles": [
+    "courses/MIPT-algorithms-lectures-2024.md",
+    "notes/1733407700-mipt-algorithms-lecture-05-12-24.md",
+    "notes/1732803885-mipt-algorithms-lecture-28-11-24.md",
+    "notes/1732809294-cartesion-tree-декартово-дерево.md",
+    "notes/1732198088-mipt-algorithms-lecture-21-11-24.md",
+    "notes/1729783595-mipt-algorithms-lecture-24-10-24.md",
+    "notes/1729778868-range-min-query-rmq-range-sum-query-rsq.md",
     "sourses/АиСД 2024. Лекции/05.SuffixTree.pdf",
     "notes/1731663299-преломление-и-отражение-электромагнитных-волн.md",
     "notes/775-световой-поток.md",
@@ -223,7 +232,6 @@
     "notes/260-микроскоп.md",
     "assets/imgs/1739004121.png",
     "notes/260-микроскоп.md~",
-    "sourses/MIPT-physics-lectures-2025/Лекция_2.pdf",
     "notes/570-mipt-physics-lecture-08-02-25.md",
     "courses/MIPT-physics-2025.md",
     "notes/916-mipt-physics-lecture-01-02-25.md",
@@ -231,12 +239,6 @@
     "notes/869-очки.md",
     "notes/1738655241-mipt-physics-seminar-04-02-25.md",
     "notes/613-вероятностное-пространство.md",
-    "notes/712-механическое-равновесие.md",
-    "notes/698-mipt-anmech-seminar-07-02-25.md",
-    "notes/875-mipt-probability-theory-seminar-07-02-25.md",
-    "notes/486-вероятность.md",
-    "notes/503-mipt-probability-theory-lecture-07-02-25.md",
-    "notes/929-парадокс-Монти-Холла.md",
-    "notes/500-парадокс-Бертрана.md"
+    "notes/712-механическое-равновесие.md"
   ]
 }
