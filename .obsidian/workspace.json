@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/1735458431-mipt-algorithms-lecture-12-12-24.md",
+                "file": "notes/1732809294-cartesion-tree-декартово-дерево.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1735458431-mipt-algorithms-lecture-12-12-24"
+              "title": "1732809294-cartesion-tree-декартово-дерево"
             }
           }
         ]
@@ -194,13 +194,14 @@
   },
   "active": "ca6a15d860e76df4",
   "lastOpenFiles": [
+    "notes/1729778868-range-min-query-rmq-range-sum-query-rsq.md",
+    "notes/1735458431-mipt-algorithms-lecture-12-12-24.md",
     "courses/MIPT-algorithms-lectures-2024.md",
     "notes/1733407700-mipt-algorithms-lecture-05-12-24.md",
     "notes/1732803885-mipt-algorithms-lecture-28-11-24.md",
     "notes/1732809294-cartesion-tree-декартово-дерево.md",
     "notes/1732198088-mipt-algorithms-lecture-21-11-24.md",
     "notes/1729783595-mipt-algorithms-lecture-24-10-24.md",
-    "notes/1729778868-range-min-query-rmq-range-sum-query-rsq.md",
     "sourses/АиСД 2024. Лекции/05.SuffixTree.pdf",
     "notes/1731663299-преломление-и-отражение-электромагнитных-волн.md",
     "notes/775-световой-поток.md",
@@ -238,7 +239,6 @@
     "notes/1738658604-геометрическая-оптика.md",
     "notes/869-очки.md",
     "notes/1738655241-mipt-physics-seminar-04-02-25.md",
-    "notes/613-вероятностное-пространство.md",
-    "notes/712-механическое-равновесие.md"
+    "notes/613-вероятностное-пространство.md"
   ]
 }
