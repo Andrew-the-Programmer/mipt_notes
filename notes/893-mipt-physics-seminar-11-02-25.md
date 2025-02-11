@@ -31,3 +31,16 @@ D = -\frac{1}{L_d} \\
 D = -2 \frac{1}{m} = -2\ дптр
 }
 $$
+
+## T1
+![[1739263709.png]]
+У доски.
+$$
+\AlignLeft{
+\frac{1}{F} = (n-1) \left(\frac{1}{R_1} + \frac{1}{R_2}\right) \\
+F = \frac{R}{n-1} \\
+D = \frac{1}{F} \\
+\frac{1}{F} = \frac{1}{L} - \frac{1}{b} \\
+\Gamma = \frac{b}{L}
+}
+$$
