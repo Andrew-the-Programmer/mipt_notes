@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/1730454310-ряд-Фурье-fourier-series.md",
+                "file": "notes/803-Гильбертово-пространство-hilbert-space.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1730454310-ряд-Фурье-fourier-series"
+              "title": "803-Гильбертово-пространство-hilbert-space"
             }
           }
         ]
@@ -194,6 +194,11 @@
   },
   "active": "ca6a15d860e76df4",
   "lastOpenFiles": [
+    "notes/803-Гильбертово-пространство-hilbert-space.md~",
+    "notes/879-евклидово-пространство.md~",
+    "notes/879-евклидово-пространство.md",
+    "notes/1730454310-ряд-Фурье-fourier-series.md",
+    "notes/803-Гильбертово-пространство-hilbert-space.md",
     "notes/1730454310-ряд-Фурье-fourier-series.md~",
     "notes/1738654869-интегрируемая-по-лебегу-функция.md",
     "notes/1738654869-интегрируемая-по-лебегу-функция.md~",
@@ -212,7 +217,6 @@
     "assets/imgs/1739176085.png",
     "assets/imgs/1739176055.png",
     "notes/1732809294-cartesion-tree-декартово-дерево.md",
-    "notes/1738667846-mipt-chinese-lesson-13.md~",
     "notes/1729778868-range-min-query-rmq-range-sum-query-rsq.md",
     "notes/1735458431-mipt-algorithms-lecture-12-12-24.md",
     "courses/MIPT-algorithms-lectures-2024.md",
@@ -233,11 +237,8 @@
     "assets/imgs/1739004712.png",
     "assets/imgs/1739004650.png",
     "notes/780-телескоп.md",
-    "notes/534-линза.md",
     "assets/imgs/1739004424.png",
-    "notes/500-подзорная-труба.md",
     "assets/imgs/1739004389.png",
-    "assets/imgs/1739004309.png",
-    "notes/260-микроскоп.md"
+    "assets/imgs/1739004309.png"
   ]
 }
