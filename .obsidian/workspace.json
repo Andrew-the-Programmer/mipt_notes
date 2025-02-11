@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/1729599214-chinese-比-bi.md",
+                "file": "notes/228-малое-Лебегово-пространство-lp.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1729599214-chinese-比-bi"
+              "title": "228-малое-Лебегово-пространство-lp"
             }
           }
         ]
@@ -194,6 +194,10 @@
   },
   "active": "ca6a15d860e76df4",
   "lastOpenFiles": [
+    "notes/228-малое-Лебегово-пространство-lp.md~",
+    "notes/1738654869-интегрируемая-по-лебегу-функция.md",
+    "notes/228-малое-Лебегово-пространство-lp.md",
+    "notes/1738654869-интегрируемая-по-лебегу-функция.md~",
     "notes/1729599214-chinese-比-bi.md~",
     "notes/1728385858-chinese-numbers.md",
     "notes/1728385858-chinese-numbers.md~",
@@ -220,11 +224,9 @@
     "notes/980-толстая-линза.md",
     "notes/666-фотометрия.md",
     "notes/929-линза.md",
-    "notes/980-толстая-линза.md~",
     "assets/imgs/1739004867.png",
     "assets/imgs/1739004854.png",
     "notes/298-лупа.md",
-    "notes/929-линза.md~",
     "assets/imgs/1739004740.png",
     "assets/imgs/1739004712.png",
     "assets/imgs/1739004650.png",
@@ -236,8 +238,6 @@
     "assets/imgs/1739004309.png",
     "notes/260-микроскоп.md",
     "notes/570-mipt-physics-lecture-08-02-25.md",
-    "courses/MIPT-physics-2025.md",
-    "notes/916-mipt-physics-lecture-01-02-25.md",
-    "notes/1738658604-геометрическая-оптика.md"
+    "courses/MIPT-physics-2025.md"
   ]
 }
