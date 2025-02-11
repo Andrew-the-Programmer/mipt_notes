@@ -25,6 +25,9 @@ $$
 ![[1739261670.png]]
 $$
 \AlignLeft{
-a = \infty
+a = \infty \\
+\frac{1}{a} - \frac{1}{L_d} = D \\
+D = -\frac{1}{L_d} \\
+D = -2 \frac{1}{m} = -2\ дптр
 }
 $$
