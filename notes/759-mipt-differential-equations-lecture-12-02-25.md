@@ -71,3 +71,11 @@ $$
 $$
 \delta J_y[h] = \Dv{t}{J[y + th]} \rvert_{t=0}
 $$
+
+## Lemma
+$\exists \D J[h] \implies \exists\ \delta J[h] \land \D J = \delta J$
+$$
+\AlignLeft{
+
+}
+$$
