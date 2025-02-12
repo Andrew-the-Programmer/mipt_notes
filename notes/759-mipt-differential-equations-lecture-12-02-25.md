@@ -38,3 +38,20 @@ $$
 $$
 \norm{J(f) - J(f_0)}_{C^k} \defeq \sum_{i=1}^{k}{\sup_{x \in X}{\abs{f^{(i)} - f_0^{(i)}}(x)}}
 $$
+
+# Дифференцируемость
+$$
+f = A \D x + o(\D x)
+$$
+
+## Линейный функционал
+$L[y]$
+
+- $L$ непрерывен
+-  $$
+\Gather{
+\forall \alpha, \beta \in \CC, \forall f_1, f_2 \in M_k \hthen
+
+}
+
+$$
