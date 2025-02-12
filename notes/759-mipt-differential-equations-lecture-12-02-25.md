@@ -129,4 +129,13 @@ $$
 $$
 
 # Лемма
-
+$$
+\AlignLeft{
+X = [a,b] \\
+\exists h \in C^1(X): \quad
+h(a) = h(b) = 0, \quad
+\int_X{\Phi(x) h^{'}(x) \d x} = 0 \\
+\implies \\
+\Phi \equiv const
+}
+$$
