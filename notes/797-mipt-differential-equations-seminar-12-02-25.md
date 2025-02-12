@@ -30,7 +30,18 @@ $$
 \AlignLeft{
 y(0) = 0, \quad y(1) = 3 \\
 \int_0^1{xy \d x} = 1 \\
+}
+$$
+$$
+\AlignLeft{
 L = 2xy + (y^{(1)})^2 + \lambda xy \\
 L_y = \Dv{x}{L_{y^{(1)}}} \\
+k = \frac{2 + \lambda}{2} \\
+y = k \frac{x^3}{6} + C_1 x + C_2 \\
+\Cases{
+C_2 = 0 \\
+\frac{k}{6} + C_1 = 3 \\
+\int_0^1{xy \d x} = \frac{k}{30} + \frac{C_1}{3} + \frac{C_2}{2} = 1 \\
+} \\
 }
 $$
