@@ -6,9 +6,9 @@ tags: []
 ---
 
 # MIPT differential equations seminar 12-02-25
-## 20.2.4
+# 20.2.4
 У доски
-## 20.3.5
+# 20.3.5
 $$
 \AlignLeft{
 J = \int_0^1{(y^2 + 2 {( y^{(1)} )}^{2} + {(y^{(2)})}^{2}) \d x} \\
@@ -18,5 +18,16 @@ y = e^{\alpha x} \\
 (\alpha - 1)^2 (\alpha + 1)^2 = 0 \\
 \alpha = \pm 1^2 \\
 y = C_1 e^x + C_2 e^{-x} + C_3 x e^x + C_4 x e^{-x}
+}
+$$
+![[1739367212.png]]
+
+# 21.7
+$$
+J = \int_0^1{2xy + (y^{(1)})^2}
+$$
+$$
+\AlignLeft{
+y(0) = 0, \quad y(1) = 3 \\
 }
 $$
