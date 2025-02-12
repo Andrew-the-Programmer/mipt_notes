@@ -59,8 +59,15 @@ L[\alpha f_1 + \beta f_2] = \alpha L[f_1] + \beta L[f_2]
 $$
 
 # Вариация функционала
+## Опр. по Фреше
 $y \in M$
-$y + h \in M$
+$y + h \in M$ 
+$h$ - допустимое приращение
 $$
-\D J = J[f + h] - J[f] = L[y,h] + o(\norm{h}_{C^k})
+\D J[h] \defeq J[f + h] - J[f] = L[y,h] + o(\norm{h}_{C^k})
+$$
+## Опр. Гато
+Первая вариация
+$$
+\delta J_y[h] = \Dv{t}{J[y + th]} \rvert_{t=0}
 $$
