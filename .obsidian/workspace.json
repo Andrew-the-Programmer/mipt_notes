@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/759-mipt-differential-equations-lecture-12-02-25.md",
+                "file": "notes/737-преобразования-Лорентца.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "759-mipt-differential-equations-lecture-12-02-25"
+              "title": "737-преобразования-Лорентца"
             }
           }
         ]
@@ -194,6 +194,8 @@
   },
   "active": "ca6a15d860e76df4",
   "lastOpenFiles": [
+    "notes/328-mipt-field-theory-lecture-12-02-25.md",
+    "notes/759-mipt-differential-equations-lecture-12-02-25.md",
     "notes/759-mipt-differential-equations-lecture-12-02-25.md~",
     "assets/imgs/1739350691.png",
     "assets/imgs/1739350684.png",
@@ -206,7 +208,6 @@
     "assets/imgs/1739346602.png",
     "notes/737-преобразования-Лорентца.md",
     "assets/imgs/1739346552.png",
-    "notes/759-mipt-differential-equations-lecture-12-02-25.md",
     "notes/1738741597-mipt-differential-equations-lecture-05-02-25.md~",
     "notes/1738741597-mipt-differential-equations-lecture-05-02-25.md",
     "notes/1738741597-mipt-differential-equations-05-02-25.md~",
@@ -218,7 +219,6 @@
     "preamble.sty~",
     "notes/1738738971-пространство-время-Минковского.md~",
     "notes/328-mipt-field-theory-lecture-12-02-25.md~",
-    "notes/328-mipt-field-theory-lecture-12-02-25.md",
     "1738737444-преобразования-Лорентца.md",
     "notes/1738737444-преобразование-Лорентца.md",
     "notes/1738738971-пространство-время-Минковского.md",
