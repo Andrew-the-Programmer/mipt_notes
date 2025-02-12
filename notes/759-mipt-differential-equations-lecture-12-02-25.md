@@ -121,9 +121,12 @@ $$
 # Theorem. Основная теорема вариационного исчисления.
 $$
 \AlignLeft{
+\mu(X) > 0 \\
 \Phi \in C(X) \\
 \forall h \in C^1(X) \hthen
-\int_X{\Phi(x) h(x) \d x} = 0 \implies \\
+\int_X{\Phi(x) h(x) \d x} = 0 \implies \Phi \equiv 0 
 }
 $$
-$$
+
+# Лемма
+
