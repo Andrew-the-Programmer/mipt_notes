@@ -29,5 +29,8 @@ $$
 $$
 \AlignLeft{
 y(0) = 0, \quad y(1) = 3 \\
+\int_0^1{xy \d x} = 1 \\
+L = 2xy + (y^{(1)})^2 + \lambda xy \\
+L_y = \Dv{x}{L_{y^{(1)}}} \\
 }
 $$
