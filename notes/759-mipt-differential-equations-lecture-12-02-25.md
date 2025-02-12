@@ -38,42 +38,53 @@ $$
 $$
 \norm{J(f) - J(f_0)}_{C^k} \defeq \sum_{i=1}^{k}{\sup_{x \in X}{\abs{f^{(i)} - f_0^{(i)}}(x)}}
 $$
+
 $$
 M_k = \set{f \in M \mid f \in C^k(X)}
 $$
 
 # Дифференцируемость
+
 $$
 f = A \D x + o(\D x)
 $$
 
 ## Линейный функционал
+
 $L[y]$
 
 - $L$ непрерывен
--  $$
-\Gather{
-\forall \alpha, \beta \in \CC, \forall f_1, f_2 \in M_k \hthen \\
-L[\alpha f_1 + \beta f_2] = \alpha L[f_1] + \beta L[f_2]
-}
-$$
+- $$
+  \Gather{
+  \forall \alpha, \beta \in \CC, \forall f_1, f_2 \in M_k \hthen \\
+  L[\alpha f_1 + \beta f_2] = \alpha L[f_1] + \beta L[f_2]
+  }
+  $$
 
 # Вариация функционала
+
 ## Опр. по Фреше
+
 $y \in M$
-$y + h \in M$ 
+$y + h \in M$
 $h$ - допустимое приращение
+
 $$
 \D J[h] \defeq J[f + h] - J[f] = L[y,h] + o(\norm{h}_{C^k})
 $$
+
 ## Опр. Гато
+
 Первая вариация
+
 $$
 \delta J_y[h] = \Dv{t}{J[y + th]} \rvert_{t=0}
 $$
 
 ## Lemma
+
 $\exists\ \D J[h] \implies \exists\ \delta J[h] \land \D J = \delta J$
+
 $$
 \AlignLeft{
 
@@ -81,13 +92,21 @@ $$
 $$
 
 # Экстремум
+
 $y_0 \in M_k$
+
 $$
 \forall y \in M_k : \norm{y - y_0}_{C^k} \le \delta \hthen
 J[y] < J[y_0] (>)
 $$
+
 # Lemma (вариация в экстремуме)
-$y_0$ - экстремум
- $$
+
+$y_0 \in M_1$ - экстремум
+
+$$
 \delta J_{y_0}[h] = 0
 $$
+
+# Lemma
+$y \in M_1$
