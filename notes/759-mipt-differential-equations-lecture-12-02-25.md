@@ -73,7 +73,7 @@ $$
 $$
 
 ## Lemma
-$\exists \D J[h] \implies \exists\ \delta J[h] \land \D J = \delta J$
+$\exists\ \D J[h] \implies \exists\ \delta J[h] \land \D J = \delta J$
 $$
 \AlignLeft{
 
