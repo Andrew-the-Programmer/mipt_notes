@@ -1,11 +1,11 @@
 ---
 id: 1738741597-mipt-differential-equations-05-02-25
 aliases:
-  - MIPT differential equations 05-02-25
+  - MIPT differential equations lecture 05-02-25
 tags: []
 ---
 
-# MIPT differential equations 05-02-25
+# MIPT differential equations lecture 05-02-25
 # Theorem
 $$
 \AlignLeft{
