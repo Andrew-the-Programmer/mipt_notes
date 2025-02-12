@@ -7,6 +7,7 @@ tags: []
 $$
 {{A}_{d}}^{u}
 {{B}_{d}}^{u}
+B._d.^u/
 $$
 # MIPT differential equations lecture 12-02-25
 
