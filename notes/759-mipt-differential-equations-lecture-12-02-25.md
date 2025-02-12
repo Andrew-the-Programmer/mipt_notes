@@ -115,3 +115,15 @@ $F \in C^2$
  $$
 \exists \delta J_y[h] = \int_X{\left(F_y h + F_{{y}^{(1)}} {h}^{(1)}\right)\d x}
 $$
+![[1739350684.png]]
+![[1739350691.png]]
+
+# Theorem. Основная теорема вариационного исчисления.
+$$
+\AlignLeft{
+\Phi \in C(X) \\
+\forall h \in C^1(X) \hthen
+\int_X{\Phi(x) h(x) \d x} = 0 \implies \\
+}
+$$
+$$
