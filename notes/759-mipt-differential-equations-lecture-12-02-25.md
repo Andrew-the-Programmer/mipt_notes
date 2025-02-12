@@ -20,5 +20,8 @@ $J \in C(f_0)$
 \abs{J(f) - J(f_0)} < \varepsilon
 $$
 $$
-\abs{J(f) - J(f_0)} = \sup_{x \in X}{\abs{f(x) - f_0(x)}}
+\norm{J(f) - J(f_0)}_{C} \defeq \sup_{x \in X}{\abs{f - f_0}(x)}
+$$
+$$
+\norm{J(f) - J(f_0)}_{{C}^{'}} = \sup_{x \in X}{\abs{f - f_0}(x)} + \sup_{x \in X}{\abs{{f}^{'} - f_0^{'}}(x)}
 $$
