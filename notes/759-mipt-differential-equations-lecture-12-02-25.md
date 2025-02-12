@@ -38,6 +38,9 @@ $$
 $$
 \norm{J(f) - J(f_0)}_{C^k} \defeq \sum_{i=1}^{k}{\sup_{x \in X}{\abs{f^{(i)} - f_0^{(i)}}(x)}}
 $$
+$$
+M_k = \set{f \in M \mid f \in C^k(X)}
+$$
 
 # Дифференцируемость
 $$
@@ -50,8 +53,14 @@ $L[y]$
 - $L$ непрерывен
 -  $$
 \Gather{
-\forall \alpha, \beta \in \CC, \forall f_1, f_2 \in M_k \hthen
-
+\forall \alpha, \beta \in \CC, \forall f_1, f_2 \in M_k \hthen \\
+L[\alpha f_1 + \beta f_2] = \alpha L[f_1] + \beta L[f_2]
 }
+$$
 
+# Вариация функционала
+$y \in M$
+$y + h \in M$
+$$
+\D J = J[f + h] - J[f] = L[y,h] + o(\norm{h}_{C^k})
 $$
