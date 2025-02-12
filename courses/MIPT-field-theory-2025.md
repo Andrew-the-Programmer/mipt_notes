@@ -7,6 +7,7 @@ tags: []
 
 # MIPT field theory 2025
 # Lectures
+![[1739361541.png]]
 1. [[1738735357-mipt-field-theory-lecture-05-02-25|05-02-25]]
-2. 
+2. [[328-mipt-field-theory-lecture-12-02-25|12-02-25]]
 
