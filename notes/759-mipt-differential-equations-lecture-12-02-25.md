@@ -110,3 +110,8 @@ $$
 
 # Lemma
 $y \in M_1$
+$J[y] = \int_{X}{F(x,y,{y}^{(1)}) \d \mu}$
+$F \in C^2$
+ $$
+\exists \delta J_y[h] = \int_X{\left(F_y h + F_{{y}^{(1)}} {h}^{(1)}\right)\d x}
+$$
