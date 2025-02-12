@@ -4,11 +4,6 @@ aliases:
   - MIPT differential equations lecture 12-02-25
 tags: []
 ---
-$$
-{{A}_{d}}^{u}
-{{B}_{d}}^{u}
-B._d.^u/
-$$
 # MIPT differential equations lecture 12-02-25
 
 ![[1739346552.png]]

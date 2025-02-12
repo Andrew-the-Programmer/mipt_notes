@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/759-mipt-differential-equations-lecture-12-02-25.md",
+                "file": "notes/797-mipt-differential-equations-seminar-12-02-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "759-mipt-differential-equations-lecture-12-02-25"
+              "title": "797-mipt-differential-equations-seminar-12-02-25"
             }
           }
         ]
@@ -194,6 +194,11 @@
   },
   "active": "ca6a15d860e76df4",
   "lastOpenFiles": [
+    "notes/797-mipt-differential-equations-seminar-12-02-25.md~",
+    "notes/759-mipt-differential-equations-lecture-12-02-25.md",
+    "notes/797-mipt-differential-equations-seminar-12-02-25.md",
+    "courses/MIPT-differential-equations-2025.md~",
+    "courses/4913",
     "notes/759-mipt-differential-equations-lecture-12-02-25.md~",
     "notes/737-преобразования-Лорентца.md",
     "notes/1738735357-mipt-field-theory-lecture-05-02-25.md~",
@@ -209,12 +214,8 @@
     "notes/1738749330-mipt-field-theory-seminar-05-02-25.md~",
     "notes/328-mipt-field-theory-lecture-12-02-25.md~",
     "assets/imgs/1739354561.png",
-    "notes/759-mipt-differential-equations-lecture-12-02-25.md",
     "assets/imgs/1739350691.png",
     "assets/imgs/1739350684.png",
-    "courses/MIPT-differential-equations-2025.md~",
-    "notes/4913",
-    "notes/test.md~",
     "notes/test.md",
     "assets/imgs/1739347540.png",
     "assets/imgs/1739346720.png",
@@ -237,7 +238,6 @@
     "notes/712-нормированное-пространство.md",
     "notes/914-норма.md",
     "notes/803-Гильбертово-пространство-hilbert-space.md",
-    "notes/879-евклидово-пространство.md",
-    "notes/1730454310-ряд-Фурье-fourier-series.md"
+    "notes/879-евклидово-пространство.md"
   ]
 }
