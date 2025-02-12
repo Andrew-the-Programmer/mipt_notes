@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/1738738971-пространство-время-Минковского.md",
+                "file": "notes/328-mipt-field-theory-lecture-12-02-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1738738971-пространство-время-Минковского"
+              "title": "328-mipt-field-theory-lecture-12-02-25"
             }
           }
         ]
@@ -194,6 +194,11 @@
   },
   "active": "ca6a15d860e76df4",
   "lastOpenFiles": [
+    "notes/1738737444-преобразование-Лорентца.md~",
+    "notes/328-mipt-field-theory-lecture-12-02-25.md~",
+    "notes/1738738971-пространство-время-Минковского.md",
+    "notes/328-mipt-field-theory-lecture-12-02-25.md",
+    "courses/MIPT-field-theory-2025.md~",
     "notes/1738738971-пространство-время-Минковского.md~",
     "notes/893-mipt-physics-seminar-11-02-25.md",
     "notes/893-mipt-physics-seminar-11-02-25.md~",
@@ -208,9 +213,6 @@
     "assets/imgs/1739263709.png",
     "assets/imgs/1739261670.png",
     "sourses/zadavalnik_4_semester_PMF.pdf",
-    "sourses/4_semester_PMF.pdf",
-    "sourses/4_semester_kurs_PMF.pdf",
-    "sourses/Задавальник-2 курс ПМФ, ИВТф, САУ.pdf",
     "notes/929-линза.md",
     "notes/937-тонкая-линза.md",
     "assets/imgs/1739260316.png",
@@ -236,8 +238,6 @@
     "assets/imgs/1739176055.png",
     "notes/1732809294-cartesion-tree-декартово-дерево.md",
     "notes/1729778868-range-min-query-rmq-range-sum-query-rsq.md",
-    "notes/1735458431-mipt-algorithms-lecture-12-12-24.md",
-    "courses/MIPT-algorithms-lectures-2024.md",
     "assets/imgs/1739004867.png"
   ]
 }

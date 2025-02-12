@@ -6,5 +6,7 @@ tags: []
 ---
 
 # MIPT field theory 2025
-[[1738735357-mipt-field-theory-lecture-05-02-25|MIPT field theory lecture 05-02-25]]
+# Lectures
+1. [[1738735357-mipt-field-theory-lecture-05-02-25|05-02-25]]
+2. 
 
