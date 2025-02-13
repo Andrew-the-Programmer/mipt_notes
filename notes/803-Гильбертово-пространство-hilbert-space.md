@@ -16,8 +16,13 @@ $$
 $$
 $\mcH$ - [[416-банахово-пространство|банахово пространство]]
 
-# Базис Шалдера
-$\set{e_n}_{n\in\NN}$
+# Базис Шалдера (топологический Базис)
 $$
-x = \sum_{n=1}^{\infty} {c_n e_n}, \quad c_n = \frac{\veccross{x}{e_n}}{\norm{e_n}}
+\AlignLeft{
+\set{e_n}_{n\in\NN} \\
+\set{e_n}\ ортогоналeн\ (\veccross{e_i}{e_j} = 0)
+}
+$$
+$$
+x = \sum_{n=1}^{\infty} {\alpha_n e_n}, \quad \alpha_n = \frac{\veccross{x}{e_n}}{\veccross{e_n}{e_n}}
 $$
