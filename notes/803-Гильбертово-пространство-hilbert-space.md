@@ -1,8 +1,8 @@
 ---
 id: 803-Гильбертово-пространство-hilbert-space
 aliases:
-  - Hilbert space
-  - Гильбертово пространство
+  - hilbert space
+  - гильбертово пространство
 tags: []
 ---
 
