@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/1729417685-теорема-эквивалентность-счетной-аддитивности-и-счетной-полуаддитивности.md",
+                "file": "notes/943-условная-вероятность.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1729417685-теорема-эквивалентность-счетной-аддитивности-и-счетной-полуаддитивности"
+              "title": "943-условная-вероятность"
             }
           }
         ]
@@ -194,6 +194,8 @@
   },
   "active": "ca6a15d860e76df4",
   "lastOpenFiles": [
+    "notes/943-условная-вероятность.md~",
+    "notes/1729417685-теорема-эквивалентность-счетной-аддитивности-и-счетной-полуаддитивности.md",
     "notes/608-mipt-probability-theory-lecture-14-02-25.md",
     "courses/MIPT-probability-theory-2025.md~",
     "notes/364-mipt-probability-theory-seminar-14-02-25.md",
@@ -214,7 +216,6 @@
     "notes/249-независимые-события.md",
     "notes/249-независимые-события.md~",
     "notes/943-условная-вероятность.md",
-    "notes/943-условная-вероятность.md~",
     "notes/486-вероятность.md",
     "assets/imgs/1739526250.png",
     "notes/875-mipt-probability-theory-seminar-07-02-25.md",
@@ -234,7 +235,6 @@
     "notes/227-test-89.md",
     "notes/1729599214-chinese-比-bi.md",
     "assets/imgs/1739466680.png",
-    "notes/710-test-1.md",
     "assets/imgs/1739384720.png",
     "assets/imgs/1739367212.png",
     "assets/imgs/1739361541.png",
