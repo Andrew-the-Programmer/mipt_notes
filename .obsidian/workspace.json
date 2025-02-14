@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/864-время-работы-машины-НМТ.md",
+                "file": "notes/147-время-работы-машины-Тьюринга.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "864-время-работы-машины-НМТ"
+              "title": "147-время-работы-машины-Тьюринга"
             }
           }
         ]
@@ -195,11 +195,11 @@
   "active": "ca6a15d860e76df4",
   "lastOpenFiles": [
     "notes/864-время-работы-машины-НМТ.md~",
+    "notes/147-время-работы-машины-Тьюринга.md~",
+    "notes/864-время-работы-машины-НМТ.md",
     "notes/4913",
     "notes/932-mipt-computational-complexity-theory-lecture-14-02-25.md~",
     "notes/147-время-работы-машины-Тьюринга.md",
-    "notes/864-время-работы-машины-НМТ.md",
-    "notes/147-время-работы-машины-Тьюринга.md~",
     "notes/991-mipt-computational-complexity-theory-lecture-07-02-25.md~",
     "notes/1729687005-машина-Тьюринга.md",
     "notes/582-l2-как-гильбертово-пространство.md",
@@ -209,7 +209,6 @@
     "notes/1730454310-ряд-Фурье-fourier-series.md~",
     "notes/582-l2-как-гильбертово-пространство.md~",
     "notes/416-банахово-пространство.md~",
-    "notes/803-Гильбертово-пространство-hilbert-space.md~",
     "notes/1730454310-ряд-Фурье-fourier-series.md",
     "notes/1738654869-интегрируемая-по-лебегу-функция.md",
     "notes/282-базис-Шаудера.md",
