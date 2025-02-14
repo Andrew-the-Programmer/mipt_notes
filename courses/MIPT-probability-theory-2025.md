@@ -11,3 +11,4 @@ tags: []
 # Lectures
 
 1. [[503-mipt-probability-theory-lecture-07-02-25|07-02-25]]
+2. [[608-mipt-probability-theory-lecture-14-02-25|MIpT probability theory lecture 14-02-25]]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/723-формула-включений-исключений.md",
+                "file": "notes/608-mipt-probability-theory-lecture-14-02-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "723-формула-включений-исключений"
+              "title": "608-mipt-probability-theory-lecture-14-02-25"
             }
           }
         ]
@@ -194,19 +194,21 @@
   },
   "active": "ca6a15d860e76df4",
   "lastOpenFiles": [
+    "courses/MIPT-probability-theory-2025.md~",
+    "notes/608-mipt-probability-theory-lecture-14-02-25.md~",
+    "assets/imgs/1739536466.png",
+    "notes/723-формула-включений-исключений.md",
     "notes/723-формула-включений-исключений.md~",
     "assets/imgs/1739529716.png",
     "assets/imgs/1739529706.png",
     "assets/imgs/1739529699.png",
     "notes/4913",
     "notes/835-формула-Байеса.md",
-    "notes/723-формула-включений-исключений.md",
     "notes/817-формула-полной-вероятности.md",
     "notes/835-формула-Байеса.md~",
     "notes/817-формула-полной-вероятности.md~",
     "notes/249-независимые-события.md",
     "notes/249-независимые-события.md~",
-    "notes/608-mipt-probability-theory-lecture-14-02-25.md~",
     "notes/943-условная-вероятность.md",
     "notes/943-условная-вероятность.md~",
     "notes/486-вероятность.md",
@@ -237,7 +239,6 @@
     "assets/imgs/1739384720.png",
     "assets/imgs/1739367212.png",
     "assets/imgs/1739361541.png",
-    "assets/imgs/images/image10.png",
-    "assets/imgs/1739354561.png"
+    "assets/imgs/images/image10.png"
   ]
 }
