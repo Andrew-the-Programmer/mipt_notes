@@ -4,6 +4,7 @@ aliases:
   - MIPT anmech seminar 14-02-25
 tags: []
 ---
+![[1739553274.png]]
 # MIPT anmech seminar 14-02-25
 
 # Теория
