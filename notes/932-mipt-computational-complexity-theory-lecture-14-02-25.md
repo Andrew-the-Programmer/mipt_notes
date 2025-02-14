@@ -6,4 +6,4 @@ tags: []
 ---
 
 # MIPT computational complexity theory lecture 14-02-25
-
+[[864-время-работы-машины-НМТ|время работы машины НМТ]]
