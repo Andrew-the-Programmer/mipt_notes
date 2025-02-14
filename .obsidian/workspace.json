@@ -194,6 +194,9 @@
   },
   "active": "ca6a15d860e76df4",
   "lastOpenFiles": [
+    "courses/MIPT-anmech-2025.md",
+    "notes/885-mipt-anmech-seminar-14-02-25.md",
+    "courses/MIPT-anmech-2025.md~",
     "notes/885-mipt-anmech-seminar-14-02-25.md~",
     "assets/imgs/1739553778.png",
     "assets/imgs/1739553688.png",
@@ -206,7 +209,6 @@
     "assets/imgs/1739552454.png",
     "assets/imgs/1739552417.png",
     "notes/943-условная-вероятность.md",
-    "notes/885-mipt-anmech-seminar-14-02-25.md",
     "notes/943-условная-вероятность.md~",
     "notes/1729417685-теорема-эквивалентность-счетной-аддитивности-и-счетной-полуаддитивности.md",
     "notes/608-mipt-probability-theory-lecture-14-02-25.md",
@@ -223,7 +225,6 @@
     "notes/835-формула-Байеса.md~",
     "notes/817-формула-полной-вероятности.md~",
     "notes/249-независимые-события.md",
-    "notes/249-независимые-события.md~",
     "notes/486-вероятность.md",
     "notes/875-mipt-probability-theory-seminar-07-02-25.md",
     "notes/864-время-работы-машины-НМТ.md",
@@ -237,7 +238,6 @@
     "notes/282-базис-Шаудера.md",
     "notes/369-mipt-harmonic-analysis-lecture-13-02-25.md",
     "notes/803-Гильбертово-пространство-hilbert-space.md",
-    "notes/416-банахово-пространство.md",
-    "notes/227-test-89.md"
+    "notes/416-банахово-пространство.md"
   ]
 }
