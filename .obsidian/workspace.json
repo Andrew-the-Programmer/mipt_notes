@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/943-условная-вероятность.md",
+                "file": "notes/885-mipt-anmech-seminar-14-02-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "943-условная-вероятность"
+              "title": "885-mipt-anmech-seminar-14-02-25"
             }
           }
         ]
@@ -194,6 +194,17 @@
   },
   "active": "ca6a15d860e76df4",
   "lastOpenFiles": [
+    "notes/885-mipt-anmech-seminar-14-02-25.md~",
+    "assets/imgs/1739552264.png",
+    "assets/imgs/1739552256.png",
+    "assets/imgs/1739552203.png",
+    "notes/943-условная-вероятность.md",
+    "assets/imgs/1739552166.png",
+    "assets/imgs/1739552157.png",
+    "assets/imgs/1739552147.png",
+    "assets/imgs/1739552140.png",
+    "assets/imgs/1739552129.png",
+    "notes/885-mipt-anmech-seminar-14-02-25.md",
     "notes/943-условная-вероятность.md~",
     "notes/1729417685-теорема-эквивалентность-счетной-аддитивности-и-счетной-полуаддитивности.md",
     "notes/608-mipt-probability-theory-lecture-14-02-25.md",
@@ -206,8 +217,6 @@
     "notes/723-формула-включений-исключений.md",
     "notes/723-формула-включений-исключений.md~",
     "assets/imgs/1739529716.png",
-    "assets/imgs/1739529706.png",
-    "assets/imgs/1739529699.png",
     "notes/4913",
     "notes/835-формула-Байеса.md",
     "notes/817-формула-полной-вероятности.md",
@@ -215,11 +224,8 @@
     "notes/817-формула-полной-вероятности.md~",
     "notes/249-независимые-события.md",
     "notes/249-независимые-события.md~",
-    "notes/943-условная-вероятность.md",
     "notes/486-вероятность.md",
-    "assets/imgs/1739526250.png",
     "notes/875-mipt-probability-theory-seminar-07-02-25.md",
-    "notes/486-вероятность.md~",
     "notes/864-время-работы-машины-НМТ.md",
     "notes/141-верификатор-языка.md",
     "notes/147-время-работы-машины-Тьюринга.md",
@@ -232,12 +238,6 @@
     "notes/369-mipt-harmonic-analysis-lecture-13-02-25.md",
     "notes/803-Гильбертово-пространство-hilbert-space.md",
     "notes/416-банахово-пространство.md",
-    "notes/227-test-89.md",
-    "notes/1729599214-chinese-比-bi.md",
-    "assets/imgs/1739466680.png",
-    "assets/imgs/1739384720.png",
-    "assets/imgs/1739367212.png",
-    "assets/imgs/1739361541.png",
-    "assets/imgs/images/image10.png"
+    "notes/227-test-89.md"
   ]
 }
