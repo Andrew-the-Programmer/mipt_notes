@@ -1,5 +1,5 @@
 ---
-id: 1729605109-chinese-倍-bei
+id: 166-chinese-倍-bèi
 aliases:
   - chinese 倍-bei
   - chinese 倍-bèi

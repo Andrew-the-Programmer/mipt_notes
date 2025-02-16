@@ -16,7 +16,7 @@ tags: []
 [[1728560394-chinese-выражение_желания|chinese-выражение желания]]
 [[1728560491-chinese-得_de|chinese-得 de]]
 [[1729599214-chinese-比-bi|chinese 比-bi]]
-[[1729605109-chinese-倍-bei|chinese 倍-bèi]]
+[[166-chinese-倍-bèi|chinese 倍-bèi]]
 
 ## Exercises
 ### Exercise 1
