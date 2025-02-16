@@ -1,5 +1,5 @@
 ---
-id: 1733316194-теорема-Фридеберга-Мучника-friedberg–muchnik-theorem
+id: 1733316194-теорема-Фридберга-Мучника-friedberg–muchnik-theorem
 aliases:
   - теорема Фридеберга-Мучника
   - Friedberg–Muchnik theorem
