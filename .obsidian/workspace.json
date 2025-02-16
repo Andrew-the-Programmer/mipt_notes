@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/1730897304-разрешимый-рекурсивный-язык.md",
+                "file": "notes/1733316194-теорема-Фридберга-Мучника-friedberg–muchnik-theorem.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1730897304-разрешимый-рекурсивный-язык"
+              "title": "1733316194-теорема-Фридберга-Мучника-friedberg–muchnik-theorem"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "segment",
+                "query": "fried",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "118388a6ab5b8fbb",
@@ -194,6 +193,13 @@
   },
   "active": "ca6a15d860e76df4",
   "lastOpenFiles": [
+    "notes/1729605109-chinese-倍-bei.md",
+    "notes/1733316194-теорема-Фридберга-Мучника-friedberg–muchnik-theorem.md",
+    "notes/1729605109-chinese-倍-bei.md~",
+    "notes/1733316194-теорема-Фридберга-Мучника-friedberg–muchnik-theorem.md~",
+    "notes/4913",
+    "notes/1730897304-разрешимый-рекурсивный-язык.md",
+    "notes/1729599214-chinese-比-bi.md~",
     "notes/1728837785-борелевская-sigma-алгебра.md~",
     "notes/1730897304-разрешимый-рекурсивный-язык.md~",
     "notes/1729687005-машина-Тьюринга.md",
@@ -203,13 +209,8 @@
     "notes/406-test.md~",
     "notes/1728559095-chinese-money.md~",
     "notes/406-test.md",
-    "notes/4913",
     "home/andrew/MEGA/mipt/mipt_notes/notes/1730380997-z2p.md",
     "notes/885-mipt-anmech-seminar-14-02-25.md",
-    "home/andrew/MEGA/mipt/mipt_notes/notes",
-    "home/andrew/MEGA/mipt/mipt_notes",
-    "home/andrew/MEGA/mipt",
-    "home/andrew/MEGA",
     "courses/MIPT-anmech-2025.md",
     "assets/imgs/1739553778.png",
     "assets/imgs/1739553688.png",
@@ -237,8 +238,6 @@
     "notes/147-время-работы-машины-Тьюринга.md",
     "notes/582-l2-как-гильбертово-пространство.md",
     "notes/932-mipt-computational-complexity-theory-lecture-14-02-25.md",
-    "notes/1730454310-ряд-Фурье-fourier-series.md",
-    "notes/1738654869-интегрируемая-по-лебегу-функция.md",
-    "notes/282-базис-Шаудера.md"
+    "notes/1730454310-ряд-Фурье-fourier-series.md"
   ]
 }
