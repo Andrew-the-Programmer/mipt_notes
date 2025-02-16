@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/737-преобразования-Лорентца.md",
+                "file": "notes/1733321768-уравнение-Лагранжа.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "737-преобразования-Лорентца"
+              "title": "1733321768-уравнение-Лагранжа"
             }
           }
         ]
@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "118388a6ab5b8fbb",
