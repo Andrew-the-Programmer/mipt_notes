@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/1730372107-mipt-chinese-lesson-12.md",
+                "file": "notes/737-преобразования-Лорентца.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1730372107-mipt-chinese-lesson-12"
+              "title": "737-преобразования-Лорентца"
             }
           }
         ]
@@ -193,6 +193,8 @@
   },
   "active": "ca6a15d860e76df4",
   "lastOpenFiles": [
+    "notes/737-преобразования-Лорентца.md~",
+    "courses/MIPT-field-theory-2025.md",
     "notes/1730372107-mipt-chinese-lesson-12.md~",
     "notes/1730119060-measurable-function-измеримые-функции.md",
     "notes/1728386089-chinese-lesson-11.md~",
@@ -236,7 +238,6 @@
     "notes/817-формула-полной-вероятности.md",
     "notes/249-независимые-события.md",
     "notes/486-вероятность.md",
-    "notes/875-mipt-probability-theory-seminar-07-02-25.md",
-    "notes/864-время-работы-машины-НМТ.md"
+    "notes/875-mipt-probability-theory-seminar-07-02-25.md"
   ]
 }
