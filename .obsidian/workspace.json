@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/736-полиномиальная-сводимость-сводимсть-по-Карпу.md",
+                "file": "notes/932-mipt-computational-complexity-theory-lecture-14-02-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "736-полиномиальная-сводимость-сводимсть-по-Карпу"
+              "title": "932-mipt-computational-complexity-theory-lecture-14-02-25"
             }
           }
         ],
@@ -219,22 +219,23 @@
   },
   "active": "3b5f48d99d9c77f5",
   "lastOpenFiles": [
+    "notes/991-mipt-computational-complexity-theory-lecture-07-02-25.md",
+    "notes/932-mipt-computational-complexity-theory-lecture-14-02-25.md~",
+    "notes/991-mipt-computational-complexity-theory-lecture-07-02-25.md~",
+    "notes/373-p-np.md",
+    "notes/736-полиномиальная-сводимость-сводимсть-по-Карпу.md",
     "notes/373-p-np.md~",
-    "notes/864-время-работы-машины-НМТ.md",
     "notes/864-время-работы-машины-НМТ.md~",
+    "notes/4913",
+    "notes/864-время-работы-машины-НМТ.md",
     "notes/147-время-работы-машины-Тьюринга.md",
     "notes/147-время-работы-машины-Тьюринга.md~",
-    "notes/373-p-np.md",
     "notes/498-тезис-Чёрча-Тьюринга.md",
     "notes/498-тезис-Чёрча-Тьюринга.md~",
     "preamble.sty~",
-    "notes/736-полиномиальная-сводимость-сводимсть-по-Карпу.md",
     "notes/736-полиномиальная-сводимость-сводимсть-по-Карпу.md~",
     "courses/MIPT-computational-complexity-theory-2025.md~",
-    "courses/4913",
-    "notes/496-конструируемая-по-времени-сложность.md~",
     "notes/875-сложность-вычисления.md",
-    "notes/875-сложность-вычисления.md~",
     "notes/496-конструируемая-по-времени-сложность.md",
     "notes/1733321768-уравнение-Лагранжа.md",
     "notes/1728729433-потенциальная-сила.md",
