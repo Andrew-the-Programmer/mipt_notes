@@ -220,6 +220,11 @@
   "active": "3b5f48d99d9c77f5",
   "lastOpenFiles": [
     "notes/147-время-работы-машины-Тьюринга.md~",
+    "notes/875-сложность-вычисления.md",
+    "notes/875-сложность-вычисления.md~",
+    "notes/147-время-работы-машины-Тьюринга.md",
+    "notes/496-конструируемая-по-времени-сложность.md~",
+    "notes/496-конструируемая-по-времени-сложность.md",
     "notes/1733321768-уравнение-Лагранжа.md",
     "notes/991-mipt-computational-complexity-theory-lecture-07-02-25.md~",
     "notes/1732097527-арифметика-Пеано-peano-axioms-pa.md~",
@@ -232,9 +237,7 @@
     "notes/1730119060-measurable-function-измеримые-функции.md~",
     "notes/1733316194-теорема-Фридберга-Мучника-friedberg–muchnik-theorem.md",
     "notes/1733316194-теорема-Фридберга-Мучника-friedberg–muchnik-theorem.md~",
-    "notes/166-chinese-倍-bèi.md~",
     "notes/166-chinese-倍-bèi.md",
-    "notes/908-chinese-倍-bèi.md~",
     "notes/455-chinese-倍-bèi.md",
     "notes/908-chinese-倍-bèi.md",
     "notes/1729605109-chinese-倍-bei.md",
@@ -260,9 +263,6 @@
     "notes/608-mipt-probability-theory-lecture-14-02-25.md",
     "notes/364-mipt-probability-theory-seminar-14-02-25.md",
     "notes/806-14-02-25.md",
-    "notes/723-формула-включений-исключений.md",
-    "notes/835-формула-Байеса.md",
-    "notes/817-формула-полной-вероятности.md",
-    "notes/249-независимые-события.md"
+    "notes/723-формула-включений-исключений.md"
   ]
 }
