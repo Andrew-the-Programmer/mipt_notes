@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/864-время-работы-машины-НМТ.md",
+                "file": "notes/736-полиномиальная-сводимость-сводимсть-по-Карпу.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "864-время-работы-машины-НМТ"
+              "title": "736-полиномиальная-сводимость-сводимсть-по-Карпу"
             }
           }
         ],
@@ -220,6 +220,9 @@
   "active": "3b5f48d99d9c77f5",
   "lastOpenFiles": [
     "notes/864-время-работы-машины-НМТ.md~",
+    "notes/864-время-работы-машины-НМТ.md",
+    "notes/736-полиномиальная-сводимость-сводимсть-по-Карпу.md~",
+    "notes/736-полиномиальная-сводимость-сводимсть-по-Карпу.md",
     "notes/147-время-работы-машины-Тьюринга.md",
     "courses/MIPT-computational-complexity-theory-2025.md~",
     "courses/4913",
@@ -234,7 +237,6 @@
     "notes/1728729433-потенциальная-сила.md",
     "notes/737-преобразования-Лорентца.md~",
     "courses/MIPT-field-theory-2025.md",
-    "notes/1730372107-mipt-chinese-lesson-12.md~",
     "notes/1730119060-measurable-function-измеримые-функции.md",
     "notes/1733316194-теорема-Фридберга-Мучника-friedberg–muchnik-theorem.md",
     "notes/166-chinese-倍-bèi.md",
@@ -261,8 +263,6 @@
     "notes/943-условная-вероятность.md",
     "notes/1729417685-теорема-эквивалентность-счетной-аддитивности-и-счетной-полуаддитивности.md",
     "notes/608-mipt-probability-theory-lecture-14-02-25.md",
-    "notes/364-mipt-probability-theory-seminar-14-02-25.md",
-    "notes/806-14-02-25.md",
-    "notes/723-формула-включений-исключений.md"
+    "notes/364-mipt-probability-theory-seminar-14-02-25.md"
   ]
 }
