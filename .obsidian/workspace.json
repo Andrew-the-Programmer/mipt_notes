@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/147-время-работы-машины-Тьюринга.md",
+                "file": "notes/864-время-работы-машины-НМТ.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "147-время-работы-машины-Тьюринга"
+              "title": "864-время-работы-машины-НМТ"
             }
           }
         ],
@@ -219,11 +219,14 @@
   },
   "active": "3b5f48d99d9c77f5",
   "lastOpenFiles": [
+    "notes/864-время-работы-машины-НМТ.md~",
+    "notes/147-время-работы-машины-Тьюринга.md",
+    "courses/MIPT-computational-complexity-theory-2025.md~",
+    "courses/4913",
     "notes/147-время-работы-машины-Тьюринга.md~",
+    "notes/496-конструируемая-по-времени-сложность.md~",
     "notes/875-сложность-вычисления.md",
     "notes/875-сложность-вычисления.md~",
-    "notes/147-время-работы-машины-Тьюринга.md",
-    "notes/496-конструируемая-по-времени-сложность.md~",
     "notes/496-конструируемая-по-времени-сложность.md",
     "notes/1733321768-уравнение-Лагранжа.md",
     "notes/991-mipt-computational-complexity-theory-lecture-07-02-25.md~",
@@ -233,10 +236,7 @@
     "courses/MIPT-field-theory-2025.md",
     "notes/1730372107-mipt-chinese-lesson-12.md~",
     "notes/1730119060-measurable-function-измеримые-функции.md",
-    "notes/1728386089-chinese-lesson-11.md~",
-    "notes/1730119060-measurable-function-измеримые-функции.md~",
     "notes/1733316194-теорема-Фридберга-Мучника-friedberg–muchnik-theorem.md",
-    "notes/1733316194-теорема-Фридберга-Мучника-friedberg–muchnik-theorem.md~",
     "notes/166-chinese-倍-bèi.md",
     "notes/455-chinese-倍-bèi.md",
     "notes/908-chinese-倍-bèi.md",
