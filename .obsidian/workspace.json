@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/1733321768-уравнение-Лагранжа.md",
+                "file": "notes/147-время-работы-машины-Тьюринга.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1733321768-уравнение-Лагранжа"
+              "title": "147-время-работы-машины-Тьюринга"
             }
           }
         ],
@@ -219,8 +219,11 @@
   },
   "active": "3b5f48d99d9c77f5",
   "lastOpenFiles": [
-    "notes/1728729433-потенциальная-сила.md",
+    "notes/147-время-работы-машины-Тьюринга.md~",
     "notes/1733321768-уравнение-Лагранжа.md",
+    "notes/991-mipt-computational-complexity-theory-lecture-07-02-25.md~",
+    "notes/1732097527-арифметика-Пеано-peano-axioms-pa.md~",
+    "notes/1728729433-потенциальная-сила.md",
     "notes/737-преобразования-Лорентца.md~",
     "courses/MIPT-field-theory-2025.md",
     "notes/1730372107-mipt-chinese-lesson-12.md~",
@@ -234,10 +237,7 @@
     "notes/908-chinese-倍-bèi.md~",
     "notes/455-chinese-倍-bèi.md",
     "notes/908-chinese-倍-bèi.md",
-    "notes/455-chinese-倍-bèi.md~",
     "notes/1729605109-chinese-倍-bei.md",
-    "notes/1729605109-chinese-倍-bei.md~",
-    "notes/4913",
     "notes/1730897304-разрешимый-рекурсивный-язык.md",
     "notes/1729687005-машина-Тьюринга.md",
     "notes/1728559095-chinese-money.md",
@@ -263,7 +263,6 @@
     "notes/723-формула-включений-исключений.md",
     "notes/835-формула-Байеса.md",
     "notes/817-формула-полной-вероятности.md",
-    "notes/249-независимые-события.md",
-    "notes/486-вероятность.md"
+    "notes/249-независимые-события.md"
   ]
 }
