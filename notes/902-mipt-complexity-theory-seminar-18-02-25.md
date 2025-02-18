@@ -15,6 +15,11 @@ P = NP \same P \text{замкнут отн. нестирающих морф.}
 $$
 $$
 \AlignLeft{
-\implies 
+\implies \\
+P = NP \\
+L \in P \\
+\text{Want to show } f(L) \in P = NP \\
+M_s(x,y):
+1) \abs{y} \le \abs{x}
 }
 $$
