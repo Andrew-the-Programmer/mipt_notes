@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/893-mipt-physics-seminar-11-02-25.md",
+                "file": "notes/904-mipt-physics-seminar-18-02-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "893-mipt-physics-seminar-11-02-25"
+              "title": "904-mipt-physics-seminar-18-02-25"
             }
           }
         ],
@@ -219,7 +219,9 @@
   },
   "active": "3b5f48d99d9c77f5",
   "lastOpenFiles": [
+    "notes/893-mipt-physics-seminar-11-02-25.md",
     "notes/904-mipt-physics-seminar-18-02-25.md~",
+    "assets/imgs/1739868650.png",
     "courses/MIPT-physics-2025.md~",
     "notes/1738655241-mipt-physics-seminar-04-02-25.md",
     "notes/893-mipt-physics-seminar-11-02-25.md~",
@@ -262,7 +264,6 @@
     "notes/1728729433-потенциальная-сила.md",
     "courses/MIPT-field-theory-2025.md",
     "notes/1730119060-measurable-function-измеримые-функции.md",
-    "notes/1733316194-теорема-Фридберга-Мучника-friedberg–muchnik-theorem.md",
-    "assets/imgs/1739553778.png"
+    "notes/1733316194-теорема-Фридберга-Мучника-friedberg–muchnik-theorem.md"
   ]
 }
