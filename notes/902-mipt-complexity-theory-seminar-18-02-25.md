@@ -6,4 +6,5 @@ tags: []
 ---
 
 # MIPT complexity theory seminar 18-02-25
-Морфизм
+Морфизм.
+Нестирающий морфизм.
