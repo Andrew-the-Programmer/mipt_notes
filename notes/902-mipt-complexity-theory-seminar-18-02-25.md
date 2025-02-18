@@ -51,3 +51,13 @@ $$
 $$
 L \in NP-c, \quad L \in \co NP \implies NP = \co NP
 $$
+
+# 4
+$$
+(\co NP)-complete = \co(NP-complete)
+$$
+
+# 5
+$$
+\Halt \in NP-hard
+$$
