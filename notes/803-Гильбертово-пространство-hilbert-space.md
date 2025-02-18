@@ -31,7 +31,7 @@ $$
 }
 $$
 $$
-x = \sum_{n=1}^{\infty} {x_n e_n}, \quad \alpha_n = \frac{\veccross{x}{e_n}}{\veccross{e_n}{e_n}}
+x = \sum_{n=1}^{\infty} {x_n e_n}, \quad x_n = \frac{\veccross{x}{e_n}}{\veccross{e_n}{e_n}}
 $$
 
 # Theorem
@@ -46,7 +46,7 @@ $$
 
 # Claim. Равенство Парсеваля.
 $$
-\norm{x}^2 = \sum_{n\in\NN}{\veccross{x}{e_n}^2}
+\norm{x}^2 = \sum_{n\in\NN}{x_n^2 \norm{e_n}^2}
 $$
 
 # Claim. Неравенство Бесселя.
@@ -55,3 +55,7 @@ $$
 $$
 
 # Claim. 
+$S_N = \sum_{n=1}^{N}{x_n e_n}$
+ $$
+\norm{x - S_N} = \rho(x, Lin\set{e_1, \dots, e_N})
+$$
