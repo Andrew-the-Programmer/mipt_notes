@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/1729599214-chinese-比-bi.md",
+                "file": "notes/902-mipt-complexity-theory-seminar-18-02-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1729599214-chinese-比-bi"
+              "title": "902-mipt-complexity-theory-seminar-18-02-25"
             }
           }
         ],
@@ -220,6 +220,7 @@
   "active": "3b5f48d99d9c77f5",
   "lastOpenFiles": [
     "notes/902-mipt-complexity-theory-seminar-18-02-25.md~",
+    "notes/1729599214-chinese-比-bi.md",
     "notes/902-mipt-complexity-theory-seminar-18-02-25.md",
     "notes/1729599214-chinese-比-bi.md~",
     "notes/1738667846-mipt-chinese-lesson-13.md",
@@ -248,7 +249,6 @@
     "notes/582-l2-как-гильбертово-пространство.md",
     "notes/582-l2-как-гильбертово-пространство.md~",
     "notes/1738654869-интегрируемая-по-лебегу-функция.md",
-    "notes/1738654869-интегрируемая-по-лебегу-функция.md~",
     "notes/803-Гильбертово-пространство-hilbert-space.md",
     "notes/370-метод-ортогонализации-Грама-Шмидта.md",
     "notes/364-полином-Лежандра.md",
@@ -263,7 +263,6 @@
     "notes/147-время-работы-машины-Тьюринга.md",
     "notes/498-тезис-Чёрча-Тьюринга.md",
     "notes/875-сложность-вычисления.md",
-    "notes/496-конструируемая-по-времени-сложность.md",
-    "notes/1733321768-уравнение-Лагранжа.md"
+    "notes/496-конструируемая-по-времени-сложность.md"
   ]
 }
