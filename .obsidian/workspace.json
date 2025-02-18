@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/228-малое-Лебегово-пространство-lp.md",
+                "file": "notes/582-l2-как-гильбертово-пространство.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "228-малое-Лебегово-пространство-lp"
+              "title": "582-l2-как-гильбертово-пространство"
             }
           }
         ],
@@ -219,12 +219,16 @@
   },
   "active": "3b5f48d99d9c77f5",
   "lastOpenFiles": [
-    "notes/364-полином-Лежандра.md~",
+    "notes/582-l2-как-гильбертово-пространство.md~",
+    "notes/4913",
+    "notes/803-Гильбертово-пространство-hilbert-space.md",
     "notes/364-полином-Лежандра.md",
+    "notes/369-mipt-harmonic-analysis-lecture-13-02-25.md~",
+    "notes/364-полином-Лежандра.md~",
+    "notes/228-малое-Лебегово-пространство-lp.md",
     "notes/228-малое-Лебегово-пространство-lp.md~",
     "notes/901-сепарабельность.md",
     "notes/901-сепарабельность.md~",
-    "notes/803-Гильбертово-пространство-hilbert-space.md",
     "notes/282-базис-Шаудера.md",
     "notes/803-Гильбертово-пространство-hilbert-space.md~",
     "notes/282-базис-Шаудера.md~",
@@ -233,11 +237,8 @@
     "notes/909-базис-Гамеля.md~",
     "notes/991-mipt-computational-complexity-theory-lecture-07-02-25.md",
     "notes/932-mipt-computational-complexity-theory-lecture-14-02-25.md~",
-    "notes/991-mipt-computational-complexity-theory-lecture-07-02-25.md~",
     "notes/373-p-np.md",
     "notes/736-полиномиальная-сводимость-сводимсть-по-Карпу.md",
-    "notes/373-p-np.md~",
-    "notes/864-время-работы-машины-НМТ.md~",
     "notes/864-время-работы-машины-НМТ.md",
     "notes/147-время-работы-машины-Тьюринга.md",
     "notes/498-тезис-Чёрча-Тьюринга.md",
@@ -254,7 +255,6 @@
     "notes/1729605109-chinese-倍-bei.md",
     "notes/1730897304-разрешимый-рекурсивный-язык.md",
     "notes/1729687005-машина-Тьюринга.md",
-    "notes/1728559095-chinese-money.md",
     "assets/imgs/1739553778.png",
     "assets/imgs/1739553688.png",
     "assets/imgs/1739553666.png",
