@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/500-подзорная-труба.md",
+                "file": "notes/1738667846-mipt-chinese-lesson-13.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "500-подзорная-труба"
+              "title": "1738667846-mipt-chinese-lesson-13"
             }
           }
         ],
@@ -219,6 +219,9 @@
   },
   "active": "3b5f48d99d9c77f5",
   "lastOpenFiles": [
+    "notes/500-подзорная-труба.md",
+    "notes/1738667846-mipt-chinese-lesson-13.md~",
+    "notes/500-подзорная-труба.md~",
     "notes/904-mipt-physics-seminar-18-02-25.md",
     "notes/893-mipt-physics-seminar-11-02-25.md",
     "notes/904-mipt-physics-seminar-18-02-25.md~",
@@ -245,9 +248,7 @@
     "notes/803-Гильбертово-пространство-hilbert-space.md",
     "notes/803-Гильбертово-пространство-hilbert-space.md~",
     "notes/370-метод-ортогонализации-Грама-Шмидта.md",
-    "notes/4913",
     "notes/364-полином-Лежандра.md",
-    "notes/369-mipt-harmonic-analysis-lecture-13-02-25.md~",
     "notes/228-малое-Лебегово-пространство-lp.md",
     "notes/901-сепарабельность.md",
     "notes/282-базис-Шаудера.md",
@@ -263,7 +264,6 @@
     "notes/1733321768-уравнение-Лагранжа.md",
     "notes/1728729433-потенциальная-сила.md",
     "courses/MIPT-field-theory-2025.md",
-    "notes/1730119060-measurable-function-измеримые-функции.md",
-    "notes/1733316194-теорема-Фридберга-Мучника-friedberg–muchnik-theorem.md"
+    "notes/1730119060-measurable-function-измеримые-функции.md"
   ]
 }
