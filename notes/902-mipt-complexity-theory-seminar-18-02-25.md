@@ -38,3 +38,11 @@ M_s(x,y): y \mid x \\
 bombaclat 💔 \\
 }
 $$
+
+# Сводимость
+
+- CNF-SAT
+- 3-CNF-SAT
+- VertexCover
+- Clique
+- 3-color
