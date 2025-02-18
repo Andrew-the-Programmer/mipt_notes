@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/582-l2-как-гильбертово-пространство.md",
+                "file": "notes/803-Гильбертово-пространство-hilbert-space.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "582-l2-как-гильбертово-пространство"
+              "title": "803-Гильбертово-пространство-hilbert-space"
             }
           }
         ],
@@ -219,6 +219,9 @@
   },
   "active": "3b5f48d99d9c77f5",
   "lastOpenFiles": [
+    "notes/803-Гильбертово-пространство-hilbert-space.md~",
+    "notes/370-метод-ортогонализации-Грама-Шмидта.md",
+    "notes/582-l2-как-гильбертово-пространство.md",
     "notes/582-l2-как-гильбертово-пространство.md~",
     "notes/4913",
     "notes/803-Гильбертово-пространство-hilbert-space.md",
@@ -230,13 +233,11 @@
     "notes/901-сепарабельность.md",
     "notes/901-сепарабельность.md~",
     "notes/282-базис-Шаудера.md",
-    "notes/803-Гильбертово-пространство-hilbert-space.md~",
     "notes/282-базис-Шаудера.md~",
     "notes/416-банахово-пространство.md~",
     "notes/909-базис-Гамеля.md",
     "notes/909-базис-Гамеля.md~",
     "notes/991-mipt-computational-complexity-theory-lecture-07-02-25.md",
-    "notes/932-mipt-computational-complexity-theory-lecture-14-02-25.md~",
     "notes/373-p-np.md",
     "notes/736-полиномиальная-сводимость-сводимсть-по-Карпу.md",
     "notes/864-время-работы-машины-НМТ.md",
@@ -253,8 +254,6 @@
     "notes/455-chinese-倍-bèi.md",
     "notes/908-chinese-倍-bèi.md",
     "notes/1729605109-chinese-倍-bei.md",
-    "notes/1730897304-разрешимый-рекурсивный-язык.md",
-    "notes/1729687005-машина-Тьюринга.md",
     "assets/imgs/1739553778.png",
     "assets/imgs/1739553688.png",
     "assets/imgs/1739553666.png",
