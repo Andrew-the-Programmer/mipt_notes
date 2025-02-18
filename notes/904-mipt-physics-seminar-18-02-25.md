@@ -12,8 +12,10 @@ $e_1 = e_x, \quad e_2 = e_x \cos\alpha + e_y \sin\alpha$
  $$
 \AlignLeft{
 I \sim \avrg{E^2} = 
+\avrg{E_x}^2 + \avrg{E_y}^2 =
 \avrg{E_1 e^{i(\varphi_1 - \omega t)} + E_{2x} e^{i(\varphi_2 - \omega t)}}^2 + 
-\avrg{E_{2y} e^{i(\varphi_2 - \omega t)}}^2
+\avrg{E_{2y} e^{i(\varphi_2 - \omega t)}}^2 =
+E_1^2 + E_{2}^2 + 2E_1 E_{2x} \cos{\varphi_1 - \varphi_2} = 
 }
 $$
 
@@ -23,3 +25,4 @@ V \defeq \frac{I_\max - I_\min}{I_\max + I_\min} =
 \frac{2 E_1 E_2 \cos\alpha}{E_1^2 + E_2^2}
 $$
 
+# 1
