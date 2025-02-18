@@ -8,7 +8,7 @@ tags: []
 ---
 # Ряд Фурье | Fourier series
 
-# В [[1738654869-интегрируемая-по-лебегу-функция|$L_2$]]
+# В [[582-l2-как-гильбертово-пространство|$L_2$ как гильбертово пространство]]
 # В $L_1$
 
 $f \in L_1[-\pi, \pi]$
@@ -19,6 +19,15 @@ f = 2\pi a_0 + \pi \sum_{n\in\NN}{a_n \cos{nx} + b_n \sin{nx}} \\
 a_0 = \frac{1}{2\pi} \int_{-\pi}^{\pi}{f \d x} \\
 a_n = \frac{1}{\pi} \int_{-\pi}^{\pi}{f \cos{nx} \d x} \\
 b_n = \frac{1}{\pi} \int_{-\pi}^{\pi}{f \sin{nx} \d x} \\
+}
+$$
+$$
+\Gather{
+f = \sum_{n\in\ZZ}{c_n e^{inx}} \\
+c_n = \frac{1}{\pi} \int_{-\pi}^{\pi}{f(x) e^{inx} \d x} \\
+a_0 = c_0 \\
+2 a_n = c_n + c_{-n} \\
+2 b_n = c_{n} - c_{-n} \\
 }
 $$
 
