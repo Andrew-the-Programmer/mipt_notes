@@ -25,4 +25,19 @@ V \defeq \frac{I_\max - I_\min}{I_\max + I_\min} =
 \frac{2 E_1 E_2 \cos\alpha}{E_1^2 + E_2^2}
 $$
 
+***Призма***
+
+
 # 1
+![[1739866145.png]]
+
+# T4
+![[1739866220.png]]
+$$
+\AlignLeft{
+\Lambda = \frac{\lambda}{\alpha} \\
+V = \cos\alpha = \cos{\frac{\lambda}{\Lambda}} \approx 1 - \frac{1}{2} \left(\frac{\lambda}{\Lambda}\right)^2
+}
+$$
+
+# 3.11
