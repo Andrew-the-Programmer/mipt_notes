@@ -33,6 +33,6 @@ $Primes \defeq \set{\text{двоичная запись простых}} \in NP,
  $$
 \AlignLeft{
 1)\ Primes \in \co NP \\
-
+M_s(x,y): y \mid x
 }
 $$
