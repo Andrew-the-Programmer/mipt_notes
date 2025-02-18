@@ -26,7 +26,7 @@ V \defeq \frac{I_\max - I_\min}{I_\max + I_\min} =
 $$
 
 ***Призма***
-
+![[1739866443.png]]
 
 # 1
 ![[1739866145.png]]
@@ -41,3 +41,4 @@ V = \cos\alpha = \cos{\frac{\lambda}{\Lambda}} \approx 1 - \frac{1}{2} \left(\fr
 $$
 
 # 3.11
+![[1739866610.png]]
