@@ -27,3 +27,12 @@ M_s(x,y): \\
 \impliedby \\
 }
 $$
+
+# 2
+$Primes \defeq \set{\text{двоичная запись простых}} \in NP, \co NP$
+ $$
+\AlignLeft{
+1)\ Primes \in \co NP \\
+
+}
+$$
