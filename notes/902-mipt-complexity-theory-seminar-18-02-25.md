@@ -46,3 +46,8 @@ $$
 - VertexCover
 - Clique
 - 3-color
+
+# 3
+$$
+L \in NP-c, \quad L \in \co NP \implies NP = \co NP
+$$
