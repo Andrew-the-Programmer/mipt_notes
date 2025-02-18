@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/803-Гильбертово-пространство-hilbert-space.md",
+                "file": "notes/228-малое-Лебегово-пространство-lp.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "803-Гильбертово-пространство-hilbert-space"
+              "title": "228-малое-Лебегово-пространство-lp"
             }
           }
         ],
@@ -219,14 +219,14 @@
   },
   "active": "3b5f48d99d9c77f5",
   "lastOpenFiles": [
+    "notes/901-сепарабельность.md",
     "notes/228-малое-Лебегово-пространство-lp.md~",
+    "notes/901-сепарабельность.md~",
+    "notes/803-Гильбертово-пространство-hilbert-space.md",
     "notes/282-базис-Шаудера.md",
     "notes/803-Гильбертово-пространство-hilbert-space.md~",
     "notes/282-базис-Шаудера.md~",
-    "notes/803-Гильбертово-пространство-hilbert-space.md",
     "notes/416-банахово-пространство.md~",
-    "notes/901-сепарабельность.md~",
-    "notes/901-сепарабельность.md",
     "notes/909-базис-Гамеля.md",
     "notes/909-базис-Гамеля.md~",
     "notes/991-mipt-computational-complexity-theory-lecture-07-02-25.md",
@@ -236,7 +236,6 @@
     "notes/736-полиномиальная-сводимость-сводимсть-по-Карпу.md",
     "notes/373-p-np.md~",
     "notes/864-время-работы-машины-НМТ.md~",
-    "notes/4913",
     "notes/864-время-работы-машины-НМТ.md",
     "notes/147-время-работы-машины-Тьюринга.md",
     "notes/498-тезис-Чёрча-Тьюринга.md",
