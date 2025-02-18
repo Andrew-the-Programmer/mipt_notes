@@ -12,4 +12,5 @@ tags: []
 
 # Seminars
 1. [[1738655241-mipt-physics-seminar-04-02-25|04-02-25]]
+3. [[904-mipt-physics-seminar-18-02-25|18-02-25]]
 

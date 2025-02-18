@@ -15,11 +15,14 @@ $f \in L_1[-\pi, \pi]$
 
 $$
 \Gather{
-f = 2\pi a_0 + \pi \sum_{n\in\NN}{a_n \cos{nx} + b_n \sin{nx}} \\
+f = a_0 + \sum_{n\in\NN}{a_n \cos{nx} + b_n \sin{nx}} \\
 a_0 = \frac{1}{2\pi} \int_{-\pi}^{\pi}{f \d x} \\
 a_n = \frac{1}{\pi} \int_{-\pi}^{\pi}{f \cos{nx} \d x} \\
 b_n = \frac{1}{\pi} \int_{-\pi}^{\pi}{f \sin{nx} \d x} \\
 }
+$$
+$$
+\norm{f}^2 = 2\pi a_0^2 + \pi \sum_{n\in\NN}{a_n^2 + b_n^2}
 $$
 $$
 \Gather{

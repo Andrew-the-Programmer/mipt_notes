@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/1730454310-ряд-Фурье-fourier-series.md",
+                "file": "notes/904-mipt-physics-seminar-18-02-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1730454310-ряд-Фурье-fourier-series"
+              "title": "904-mipt-physics-seminar-18-02-25"
             }
           }
         ],
@@ -219,11 +219,15 @@
   },
   "active": "3b5f48d99d9c77f5",
   "lastOpenFiles": [
+    "courses/MIPT-physics-2025.md~",
+    "notes/904-mipt-physics-seminar-18-02-25.md~",
+    "notes/1730454310-ряд-Фурье-fourier-series.md",
+    "notes/904-mipt-physics-seminar-18-02-25.md",
+    "notes/1738655241-mipt-physics-seminar-04-02-25.md~",
     "notes/1730454310-ряд-Фурье-fourier-series.md~",
     "notes/582-l2-как-гильбертово-пространство.md",
     "notes/582-l2-как-гильбертово-пространство.md~",
     "notes/1738654869-интегрируемая-по-лебегу-функция.md",
-    "notes/1730454310-ряд-Фурье-fourier-series.md",
     "notes/1738654869-интегрируемая-по-лебегу-функция.md~",
     "notes/803-Гильбертово-пространство-hilbert-space.md",
     "notes/803-Гильбертово-пространство-hilbert-space.md~",
@@ -233,11 +237,8 @@
     "notes/369-mipt-harmonic-analysis-lecture-13-02-25.md~",
     "notes/364-полином-Лежандра.md~",
     "notes/228-малое-Лебегово-пространство-lp.md",
-    "notes/228-малое-Лебегово-пространство-lp.md~",
     "notes/901-сепарабельность.md",
-    "notes/901-сепарабельность.md~",
     "notes/282-базис-Шаудера.md",
-    "notes/282-базис-Шаудера.md~",
     "notes/909-базис-Гамеля.md",
     "notes/991-mipt-computational-complexity-theory-lecture-07-02-25.md",
     "notes/373-p-np.md",
@@ -253,7 +254,6 @@
     "notes/1730119060-measurable-function-измеримые-функции.md",
     "notes/1733316194-теорема-Фридберга-Мучника-friedberg–muchnik-theorem.md",
     "notes/166-chinese-倍-bèi.md",
-    "notes/455-chinese-倍-bèi.md",
     "assets/imgs/1739553778.png",
     "assets/imgs/1739553688.png",
     "assets/imgs/1739553666.png",
