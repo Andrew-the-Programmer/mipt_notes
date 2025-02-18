@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/1738667846-mipt-chinese-lesson-13.md",
+                "file": "notes/1729599214-chinese-比-bi.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1738667846-mipt-chinese-lesson-13"
+              "title": "1729599214-chinese-比-bi"
             }
           }
         ],
@@ -219,6 +219,8 @@
   },
   "active": "3b5f48d99d9c77f5",
   "lastOpenFiles": [
+    "notes/1729599214-chinese-比-bi.md~",
+    "notes/1738667846-mipt-chinese-lesson-13.md",
     "notes/500-подзорная-труба.md",
     "notes/1738667846-mipt-chinese-lesson-13.md~",
     "notes/500-подзорная-труба.md~",
@@ -262,8 +264,6 @@
     "notes/875-сложность-вычисления.md",
     "notes/496-конструируемая-по-времени-сложность.md",
     "notes/1733321768-уравнение-Лагранжа.md",
-    "notes/1728729433-потенциальная-сила.md",
-    "courses/MIPT-field-theory-2025.md",
-    "notes/1730119060-measurable-function-измеримые-функции.md"
+    "notes/1728729433-потенциальная-сила.md"
   ]
 }
