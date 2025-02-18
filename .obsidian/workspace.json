@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/803-Гильбертово-пространство-hilbert-space.md",
+                "file": "notes/582-l2-как-гильбертово-пространство.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "803-Гильбертово-пространство-hilbert-space"
+              "title": "582-l2-как-гильбертово-пространство"
             }
           }
         ],
@@ -219,12 +219,12 @@
   },
   "active": "3b5f48d99d9c77f5",
   "lastOpenFiles": [
+    "notes/582-l2-как-гильбертово-пространство.md~",
+    "notes/803-Гильбертово-пространство-hilbert-space.md",
     "notes/803-Гильбертово-пространство-hilbert-space.md~",
     "notes/370-метод-ортогонализации-Грама-Шмидта.md",
     "notes/582-l2-как-гильбертово-пространство.md",
-    "notes/582-l2-как-гильбертово-пространство.md~",
     "notes/4913",
-    "notes/803-Гильбертово-пространство-hilbert-space.md",
     "notes/364-полином-Лежандра.md",
     "notes/369-mipt-harmonic-analysis-lecture-13-02-25.md~",
     "notes/364-полином-Лежандра.md~",
