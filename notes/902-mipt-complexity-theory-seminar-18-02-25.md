@@ -19,7 +19,11 @@ $$
 P = NP \\
 L \in P \\
 \text{Want to show } f(L) \in P = NP \\
-M_s(x,y):
-1) \abs{y} \le \abs{x}
+M_s(x,y): \\
+1) \abs{y} \le \abs{x} \\
+2) M_L(y) = 1 \\
+3) z = f(y) \\
+4) x = z \\
+\impliedby \\
 }
 $$
