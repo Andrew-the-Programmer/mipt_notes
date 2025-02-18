@@ -31,7 +31,7 @@ $$
 }
 $$
 $$
-x = \sum_{n=1}^{\infty} {\alpha_n e_n}, \quad \alpha_n = \frac{\veccross{x}{e_n}}{\veccross{e_n}{e_n}}
+x = \sum_{n=1}^{\infty} {x_n e_n}, \quad \alpha_n = \frac{\veccross{x}{e_n}}{\veccross{e_n}{e_n}}
 $$
 
 # Theorem
@@ -53,3 +53,5 @@ $$
 $$
 \sum_{n=1}^{N}{\veccross{x}{e_n} e_n} \le \norm{x}
 $$
+
+# Claim. 
