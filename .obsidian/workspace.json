@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/909-базис-Гамеля.md",
+                "file": "notes/803-Гильбертово-пространство-hilbert-space.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "909-базис-Гамеля"
+              "title": "803-Гильбертово-пространство-hilbert-space"
             }
           }
         ],
@@ -219,6 +219,9 @@
   },
   "active": "3b5f48d99d9c77f5",
   "lastOpenFiles": [
+    "notes/803-Гильбертово-пространство-hilbert-space.md~",
+    "notes/909-базис-Гамеля.md",
+    "notes/282-базис-Шаудера.md~",
     "notes/909-базис-Гамеля.md~",
     "notes/991-mipt-computational-complexity-theory-lecture-07-02-25.md",
     "notes/932-mipt-computational-complexity-theory-lecture-14-02-25.md~",
@@ -233,9 +236,6 @@
     "notes/147-время-работы-машины-Тьюринга.md~",
     "notes/498-тезис-Чёрча-Тьюринга.md",
     "notes/498-тезис-Чёрча-Тьюринга.md~",
-    "preamble.sty~",
-    "notes/736-полиномиальная-сводимость-сводимсть-по-Карпу.md~",
-    "courses/MIPT-computational-complexity-theory-2025.md~",
     "notes/875-сложность-вычисления.md",
     "notes/496-конструируемая-по-времени-сложность.md",
     "notes/1733321768-уравнение-Лагранжа.md",
@@ -263,7 +263,6 @@
     "assets/imgs/1739552474.png",
     "assets/imgs/1739552468.png",
     "assets/imgs/1739552454.png",
-    "assets/imgs/1739552417.png",
-    "notes/943-условная-вероятность.md"
+    "assets/imgs/1739552417.png"
   ]
 }
