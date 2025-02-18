@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/932-mipt-computational-complexity-theory-lecture-14-02-25.md",
+                "file": "notes/909-базис-Гамеля.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "932-mipt-computational-complexity-theory-lecture-14-02-25"
+              "title": "909-базис-Гамеля"
             }
           }
         ],
@@ -219,6 +219,7 @@
   },
   "active": "3b5f48d99d9c77f5",
   "lastOpenFiles": [
+    "notes/909-базис-Гамеля.md~",
     "notes/991-mipt-computational-complexity-theory-lecture-07-02-25.md",
     "notes/932-mipt-computational-complexity-theory-lecture-14-02-25.md~",
     "notes/991-mipt-computational-complexity-theory-lecture-07-02-25.md~",
@@ -263,7 +264,6 @@
     "assets/imgs/1739552468.png",
     "assets/imgs/1739552454.png",
     "assets/imgs/1739552417.png",
-    "notes/943-условная-вероятность.md",
-    "notes/1729417685-теорема-эквивалентность-счетной-аддитивности-и-счетной-полуаддитивности.md"
+    "notes/943-условная-вероятность.md"
   ]
 }
