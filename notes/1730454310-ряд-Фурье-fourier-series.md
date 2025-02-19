@@ -59,6 +59,22 @@ S_n[f](x) \defeq a_0 + \sum_{k=1}^{n}{a_k \cos{kx} + b_k \sin{kx}}
 }
 $$
 
+# Ядро Дирихле
+$D_n$ - ядро Дирихле:
+$$
+\Gather{
+S_n[f](x) = \int_{-\pi}^{\pi}{D_n(t - x) f(t) \d t} \\
+D_n(x) = \frac{\sin{(x(n + \frac{1}{2}))}}{2\pi \sin{\frac{x}{2}}}
+}
+$$
+## Proof
+$$
+\AlignLeft{
+S_n[f](x) = \int_{-\pi}^{\pi}{ \left[\right] \d t} \\
+}
+$$
+
+
 # Из курса физики...
 
 $f$ - [[1729932429-периодическая-функция|периодическая функция]].
