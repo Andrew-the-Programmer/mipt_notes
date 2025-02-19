@@ -43,6 +43,9 @@ $$
 \AlignLeft{
 F \in C^2 \\
 F_y = \Dv{x}{F_{{y}^{'}}} \\
-
+\pdv[2]{{y}^{'}}{F} \neq 0 \\
+\implies \\
+y \in C^2
 }
 $$
+## Proof
