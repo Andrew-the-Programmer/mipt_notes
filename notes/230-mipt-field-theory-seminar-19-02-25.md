@@ -11,6 +11,8 @@ $$
 \delta_{ij} \delta_{jk} = \delta_{ik} \\
 \delta_{ij} \delta_{kj} = \delta_{ik} \\
 \delta_{ij} \delta_{ji} = 3 \\
-e_{ijk} e_{ijk} = 0
+e_{ijk} e_{ijk} = 3! = 6 \\
+e_{ijk} e_{ijl} = \alpha \delta_{kl} = \frac{6}{3} \delta_{kl} = 2 \delta_{kl} \\
+e_{ikl} e_{imw} = 
 }
 $$
