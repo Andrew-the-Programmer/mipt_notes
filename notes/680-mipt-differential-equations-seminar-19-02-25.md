@@ -6,6 +6,7 @@ tags: []
 ---
 
 # MIPT differential equations seminar 19-02-25
+$a_k(x) \neq 0$
 $$
 \sum_{k = 0}^{n}{a_k y^{(n-k)}} = f
 $$
@@ -13,7 +14,7 @@ $$
 $$
 W_{u_1, \dots, u_n} = \det \Pmatrix{
 u_1 & \dots & u_n \\
-\dots & \ddots & \vdots \\
+\vdots & \ddots & \vdots \\
 u_1^{(n-1)} & \dots & u_n^{(n-1)}
 }
 $$
@@ -36,5 +37,10 @@ y_2 = x^5 \\
 y_3 = \abs{x^5} \\
 x^2 y^{(2)} - 5x y^{(1)} + 5y = 0 \\
 (-1, 1)
+}
+$$
+$$
+\AlignLeft{
+c_1 x + c_2 x^5 + c_3 \abs{x^5} = 0 \\
 }
 $$
