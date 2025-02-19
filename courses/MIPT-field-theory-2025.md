@@ -11,3 +11,4 @@ tags: []
 1. [[1738735357-mipt-field-theory-lecture-05-02-25|05-02-25]]
 2. [[328-mipt-field-theory-lecture-12-02-25|12-02-25]]
 3. [[258-mipt-field-theory-lecture-19-02-25|19-02-25]]
+
