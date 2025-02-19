@@ -16,5 +16,8 @@ e_{ijk} e_{ijl} = \alpha \delta_{kl} = \frac{6}{3} \delta_{kl} = 2 \delta_{kl} \
 e_{ikl} e_{imn} = \alpha \delta_{km} \delta_{ln} + \beta \delta_{kn} \delta_{lm} + \gamma \delta_{kl} \delta_{mn} \\
 Переставим\ k,l \implies \gamma = 0 \\
 \alpha = -\beta \\
+e_{ikl} e_{ikn} = 2 \delta_{ln} = \alpha (3 \delta_{ln} - \delta_{ln}) = \alpha 2 \delta_{ln} \\
+\alpha = 1 \\
+e_{ikl} e_{imn} = \delta_{km} \delta_{ln} - \delta_{kn} \delta_{lm}
 }
 $$
