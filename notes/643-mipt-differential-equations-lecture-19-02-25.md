@@ -66,8 +66,11 @@ $$
 \AlignLeft{
 J[y] = \int_a^b{F(x,y,{y}^{'}) \d x} \\
 F \in C^2 \\
-M_1^{AB} \defeq \set{y \in C^1 \mid y(a) = A, y(b) = B} - \text{допустимый класс функций} \\
+y \in M_1^{AB} \defeq \set{y \in C^1 \mid y(a) = A, y(b) = B} - \text{допустимый класс функций} \\
+h \in M_1^{00} \\
 \implies \\
 \text{Найти допустимые экстремали}
 }
 $$
+
+
