@@ -114,3 +114,15 @@ F_{y_i} = \Dv{x}{F_{y_i^{'}}} & i \in [1,n] \\
 }
 }
 $$
+
+# Закрепленные концы k
+$$
+\AlignLeft{
+M_k^{AB} = \set{y \in C^k([a,b]) \mid\ y^{(i)}(a) = A_i,\ y^{(i)}(b) = B_i, \quad i \in [0, k-1]}
+}
+$$
+
+# Вариация k
+$$
+\delta J_{\vec{y}}[h] = \int_a^b{\left(\sum_{i\in [0,k]}{F_{y^{(i)}} h^{(i)}} \d x}
+$$
