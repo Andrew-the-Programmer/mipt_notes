@@ -34,6 +34,11 @@ $$
 = e_{ijk} a_j e_{klm} b_l c_m = 
 e_{kij} e_{klm} a_j b_l c_m = 
 (\delta_{il} \delta_{jm} - \delta_{im} \delta_{jl}) a_j b_l c_m =
-b_i \veccross{a}{c}
+b_i \veccross{a}{c} - c_i \veccross{a}{b} \\
+\\
+2)\ (a \times b) \cdot (c \times d) \\
+e_{ijk} a_j b_k e_{imn} c_m d_n = 
+e_{ijk} e_{imn} a_j b_k c_m d_n =
+(\delta_{jm} \delta_{kn} - \delta_{jn} \delta_{km}) a_j b_k c_m d_n =
 }
 $$
