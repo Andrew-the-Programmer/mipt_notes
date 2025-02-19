@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/1730454310-ряд-Фурье-fourier-series.md",
+                "file": "notes/508-вторая-теорема-о-среднем-значении.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1730454310-ряд-Фурье-fourier-series"
+              "title": "508-вторая-теорема-о-среднем-значении"
             }
           }
         ],
@@ -219,17 +219,22 @@
   },
   "active": "3b5f48d99d9c77f5",
   "lastOpenFiles": [
+    "notes/508-вторая-теорема-о-среднем-значении.md~",
+    "preamble.sty~",
+    "notes/1730454310-ряд-Фурье-fourier-series.md",
+    "notes/508-вторая-теорема-о-среднем-значении.md",
+    "notes/888-теоремы-о-непрерывности.md~",
+    "notes/369-mipt-harmonic-analysis-lecture-13-02-25.md~",
     "notes/1730454310-ряд-Фурье-fourier-series.md~",
+    "notes/888-теоремы-о-непрерывности.md",
     "notes/709-свертка-функций.md",
     "notes/709-свертка-функций.md~",
-    "notes/1730454310-ряд-Фурье-fourier-series.md",
     "notes/4913",
     "notes/596-carleson-hunt-theorem.md",
     "notes/190-1730454310-ряд-Фурье-fourier-series|Ряд-Фурье-в-mi.md",
     "notes/651-lennart-carleson-theorem.md~",
     "notes/596-carleson-hunt-theorem.md~",
     "notes/369-mipt-harmonic-analysis-lecture-13-02-25.md",
-    "notes/369-mipt-harmonic-analysis-lecture-13-02-25.md~",
     "notes/651-lennart-carleson-theorem.md",
     "notes/457-пример-Колмогорова.md",
     "assets/imgs/1739978736.png",
@@ -237,9 +242,7 @@
     "notes/567-теорема-Римана-Лебега.md",
     "notes/371-теорема-Колмогорова.md~",
     "notes/371-теорема-Колмогорова.md",
-    "notes/567-теорема-Римана-Лебега.md~",
     "notes/680-mipt-differential-equations-seminar-19-02-25.md",
-    "courses/MIPT-harmonic-analysis-2025.md~",
     "assets/imgs/1739975667.png",
     "assets/imgs/1739975638.png",
     "assets/imgs/1739973495.png",
@@ -261,8 +264,6 @@
     "notes/258-mipt-field-theory-lecture-19-02-25.md",
     "notes/902-mipt-complexity-theory-seminar-18-02-25.md",
     "notes/1729599214-chinese-比-bi.md",
-    "notes/1738667846-mipt-chinese-lesson-13.md",
-    "notes/500-подзорная-труба.md",
-    "notes/904-mipt-physics-seminar-18-02-25.md"
+    "notes/1738667846-mipt-chinese-lesson-13.md"
   ]
 }
