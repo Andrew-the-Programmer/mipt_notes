@@ -77,7 +77,11 @@ S_n[f](x) = \int_{-\pi}^{\pi}{ \left[\frac{1}{2\pi} +
 = \int_{-\pi}^{\pi}{ \left[
 \frac{1}{\pi} \left(\frac{1}{2} + \sum_{k=1}^{n}{\cos{( k(t - x) )}}\right)
 \right] f(t) \d t} \\
-D_n(x) = \frac{1}{\pi}\left(\frac{1}{2} + \sum_{k=1}^{n}{\cos{( k(t - x) )}}\right)
+D_n(x) \defeq \frac{1}{\pi}\left(\frac{1}{2} + \sum_{k=1}^{n}{\cos{kx}}\right) \\
+2\pi D_n(x) = 1 + 2 \sum_{k=1}^{n}{\cos{kx}} \\
+2\pi D_n(x) \sin{\frac{x}{2}} = \sin{\frac{x}{2}} + 2 \sum_{k=1}^{n}{\cos{kx} \sin{\frac{x}{2}}} \\
+\cos{kx} \sin{\frac{x}{2}} = \frac{1}{2} 
+\left(\sin{( x(k + \frac{1}{2}) )} - \sin{( x(k - \frac{1}{2}) )}\right)
 }
 $$
 
