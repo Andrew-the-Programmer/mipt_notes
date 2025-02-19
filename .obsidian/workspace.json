@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/643-mipt-differential-equations-lecture-19-02-25.md",
+                "file": "notes/768-прецессия-Томаса.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "643-mipt-differential-equations-lecture-19-02-25"
+              "title": "768-прецессия-Томаса"
             }
           }
         ],
@@ -219,6 +219,9 @@
   },
   "active": "3b5f48d99d9c77f5",
   "lastOpenFiles": [
+    "notes/768-прецессия-Томаса.md~",
+    "notes/643-mipt-differential-equations-lecture-19-02-25.md",
+    "notes/768-прецессия-Томаса.md",
     "courses/MIPT-field-theory-2025.md~",
     "notes/643-mipt-differential-equations-lecture-19-02-25.md~",
     "courses/MIPT-differential-equations-2025.md~",
@@ -232,7 +235,6 @@
     "notes/759-mipt-differential-equations-lecture-12-02-25.md~",
     "notes/759-mipt-differential-equations-lecture-12-02-25.md",
     "notes/856-символ-Леви-Чивиты.md",
-    "notes/643-mipt-differential-equations-lecture-19-02-25.md",
     "notes/686-тензор.md~",
     "notes/856-символ-Леви-Чивиты.md~",
     "assets/imgs/1739950149.png",
@@ -244,10 +246,8 @@
     "assets/imgs/1739947574.png",
     "notes/1731145139-тензор-инерции.md",
     "notes/1731145139-тензор-инерции.md~",
-    "notes/258-mipt-field-theory-lecture-19-02-25.md~",
     "notes/736-полиномиальная-сводимость-сводимсть-по-Карпу.md",
     "notes/258-mipt-field-theory-lecture-19-02-25.md",
-    "notes/736-полиномиальная-сводимость-сводимсть-по-Карпу.md~",
     "notes/902-mipt-complexity-theory-seminar-18-02-25.md",
     "notes/1729599214-chinese-比-bi.md",
     "notes/1738667846-mipt-chinese-lesson-13.md",
@@ -263,7 +263,6 @@
     "notes/364-полином-Лежандра.md",
     "notes/228-малое-Лебегово-пространство-lp.md",
     "notes/901-сепарабельность.md",
-    "notes/282-базис-Шаудера.md",
-    "notes/909-базис-Гамеля.md"
+    "notes/282-базис-Шаудера.md"
   ]
 }
