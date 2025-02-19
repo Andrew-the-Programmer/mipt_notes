@@ -18,4 +18,13 @@ $$
 2)\ \varphi = \dv{x}{f}
 }
 $$
+## Proof
 
+# Theorem.
+$$
+\AlignLeft{
+F(x,y,p) \in C^2 \\
+J[y] = \int_a^b{F \d x} \\
+J[y_m] - max, if only
+}
+$$
