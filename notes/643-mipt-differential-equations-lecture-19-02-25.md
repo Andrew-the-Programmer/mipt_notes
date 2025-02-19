@@ -25,7 +25,7 @@ $$
 ## Note
 ![[1739952301.png]]
 
-# Theorem.
+# Theorem 1.
 $$
 \AlignLeft{
 F(x,y,p) \in C^2 \\
@@ -36,4 +36,13 @@ F_y \rvert_{y_m} = \Dv{x}{F_{{y}^{'}}} \rvert_{y_m}
 }
 $$
 ## Proof
+![[1739952310.png]]
 
+# Theorem 2.
+$$
+\AlignLeft{
+F \in C^2 \\
+F_y = \Dv{x}{F_{{y}^{'}}} \\
+
+}
+$$
