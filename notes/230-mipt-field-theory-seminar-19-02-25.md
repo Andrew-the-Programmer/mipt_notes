@@ -21,3 +21,10 @@ e_{ikl} e_{ikn} = 2 \delta_{ln} = \alpha (3 \delta_{ln} - \delta_{ln}) = \alpha 
 e_{ikl} e_{imn} = \delta_{km} \delta_{ln} - \delta_{kn} \delta_{lm}
 }
 $$
+$$
+\Gather{
+e_{ijk} e_{ijk} = 6 \\
+e_{ijk} e_{ijl} = 2 \delta_{kl} \\
+e_{ikl} e_{imn} = \delta_{km} \delta_{ln} - \delta_{kn} \delta_{lm}
+}
+$$
