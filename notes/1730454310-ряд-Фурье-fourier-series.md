@@ -47,6 +47,7 @@ $$
 О ф-ии, ряд Фурье которой расходится всюду.
 
 # [[651-lennart-carleson-theorem|Lennart Carleson theorem]]
+# [[596-carleson-hunt-theorem|Carleson-Hunt theorem]]
 
 ![[1739978736.png]]
 
