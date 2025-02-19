@@ -12,7 +12,7 @@ $$
 \AlignLeft{
 \varphi, f \in C([a,b]) \\
 \forall h \in C^1([a,b]): h(a) = h(b) = 0 \hthen
-\int_a^b{(h \varphi + {h}^{'})} = 0 \\
+\int_a^b{(h \varphi + {h}^{'} f)} = 0 \\
 \implies \\
 1)\ f \in C^1([a,b]) \\
 2)\ \varphi = \dv{x}{f}
@@ -30,9 +30,9 @@ $$
 \AlignLeft{
 F(x,y,p) \in C^2 \\
 J[y] = \int_a^b{F \d x} \\
-J[y_m] - max \\
+J[y] - экстремум \\
 \implies (условие\ Эйлера) \\
-F_y \rvert_{y_m} = \Dv{x}{F_{{y}^{'}}} \rvert_{y_m}
+F_y = \Dv{x}{F_{{y}^{'}}}
 }
 $$
 ## Proof
