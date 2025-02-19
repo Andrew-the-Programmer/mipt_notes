@@ -46,10 +46,18 @@ $$
 # [[457-пример-Колмогорова|Пример Колмогорова]]
 О ф-ии, ряд Фурье которой расходится всюду.
 
-# [[651-lennart-carleson-theorem|Lennart Carleson theorem]]
 # [[596-carleson-hunt-theorem|Carleson-Hunt theorem]]
 
 ![[1739978736.png]]
+
+# Компактная форма записи
+Оператор $S_n$:
+$$
+\Gather{
+S_n : L_1[-\pi, \pi] \to C[-\pi, \pi] \\
+S_n[f](x) \defeq a_0 + \sum_{k=1}^{n}{a_k \cos{kx} + b_k \sin{kx}}
+}
+$$
 
 # Из курса физики...
 
