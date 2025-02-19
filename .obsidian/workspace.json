@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/1730454310-ряд-Фурье-fourier-series.md",
+                "file": "notes/567-теорема-Римана-Лебега.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1730454310-ряд-Фурье-fourier-series"
+              "title": "567-теорема-Римана-Лебега"
             }
           }
         ],
@@ -220,6 +220,7 @@
   "active": "3b5f48d99d9c77f5",
   "lastOpenFiles": [
     "notes/567-теорема-Римана-Лебега.md~",
+    "notes/1730454310-ряд-Фурье-fourier-series.md",
     "notes/1730454310-ряд-Фурье-fourier-series.md~",
     "notes/567-теорема-Римана-Лебега.md",
     "notes/680-mipt-differential-equations-seminar-19-02-25.md",
@@ -242,7 +243,6 @@
     "sourses/diff_eq",
     "notes/759-mipt-differential-equations-lecture-12-02-25.md",
     "notes/1738759267-mipt-differential-equations-seminar-05-02-25.md~",
-    "notes/759-mipt-differential-equations-lecture-12-02-25.md~",
     "notes/230-mipt-field-theory-seminar-19-02-25.md",
     "notes/686-тензор.md",
     "notes/768-прецессия-Томаса.md",
@@ -259,7 +259,6 @@
     "notes/904-mipt-physics-seminar-18-02-25.md",
     "notes/893-mipt-physics-seminar-11-02-25.md",
     "notes/1738655241-mipt-physics-seminar-04-02-25.md",
-    "notes/1730454310-ряд-Фурье-fourier-series.md",
     "notes/582-l2-как-гильбертово-пространство.md",
     "notes/1738654869-интегрируемая-по-лебегу-функция.md",
     "notes/803-Гильбертово-пространство-hilbert-space.md",
