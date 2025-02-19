@@ -2,6 +2,8 @@
 id: 759-mipt-differential-equations-lecture-12-02-25
 aliases:
   - MIPT differential equations lecture 12-02-25
+  - лемма Дюбуа-Реймона
+  - основная теорема вариационного исчисления
 tags: []
 ---
 # MIPT differential equations lecture 12-02-25
@@ -54,7 +56,7 @@ $$
 $L[y]$
 
 - $L$ непрерывен
-- $$
+- Линейность $$
   \Gather{
   \forall \alpha, \beta \in \CC, \forall f_1, f_2 \in M_k \hthen \\
   L[\alpha f_1 + \beta f_2] = \alpha L[f_1] + \beta L[f_2]
@@ -102,8 +104,7 @@ $$
 
 # Lemma (вариация в экстремуме)
 
-$y_0 \in M_1$ - экстремум
-
+$y_0 \in M_1$ - экстремум $\implies$
 $$
 \delta J_{y_0}[h] = 0
 $$
@@ -128,7 +129,7 @@ $$
 }
 $$
 
-# Лемма. де Буа-Реймона.
+# Лемма. Дюбуа-Реймона.
 $$
 \AlignLeft{
 X = [a,b] \\
