@@ -13,26 +13,39 @@ tags: []
 
 $f \in L_1[-\pi, \pi]$
 
+Сопоставим $f$ ряд, который будем называть рядом Фурье:
 $$
 \Gather{
-f = a_0 + \sum_{n\in\NN}{a_n \cos{nx} + b_n \sin{nx}} \\
+f \sim a_0 + \sum_{n\in\NN}{a_n \cos{nx} + b_n \sin{nx}} \\
 a_0 = \frac{1}{2\pi} \int_{-\pi}^{\pi}{f \d x} \\
 a_n = \frac{1}{\pi} \int_{-\pi}^{\pi}{f \cos{nx} \d x} \\
 b_n = \frac{1}{\pi} \int_{-\pi}^{\pi}{f \sin{nx} \d x} \\
 }
 $$
+При этом:
 $$
 \norm{f}^2 = 2\pi a_0^2 + \pi \sum_{n\in\NN}{a_n^2 + b_n^2}
 $$
+
+Комплексный ряд:
 $$
 \Gather{
-f = \sum_{n\in\ZZ}{c_n e^{inx}} \\
+f \sim \sum_{n\in\ZZ}{c_n e^{inx}} \\
 c_n = \frac{1}{\pi} \int_{-\pi}^{\pi}{f(x) e^{inx} \d x} \\
 a_0 = c_0 \\
 2 a_n = c_n + c_{-n} \\
 2 b_n = c_{n} - c_{-n} \\
 }
 $$
+
+# Note
+Мы не знаем сходиться ли ряд.
+
+# [[567-теорема-Римана-Лебега|Теорема Римана-Лебега]]
+
+
+
+
 
 # Из курса физики...
 
