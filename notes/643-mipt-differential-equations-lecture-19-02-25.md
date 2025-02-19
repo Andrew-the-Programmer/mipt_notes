@@ -19,12 +19,21 @@ $$
 }
 $$
 ## Proof
+![[1739952284.png]]
+![[1739952293.png]]
+
+## Note
+![[1739952301.png]]
 
 # Theorem.
 $$
 \AlignLeft{
 F(x,y,p) \in C^2 \\
 J[y] = \int_a^b{F \d x} \\
-J[y_m] - max, if only
+J[y_m] - max \\
+\implies (условие\ Эйлера) \\
+F_y \rvert_{y_m} = \Dv{x}{F_{{y}^{'}}} \rvert_{y_m}
 }
 $$
+## Proof
+
