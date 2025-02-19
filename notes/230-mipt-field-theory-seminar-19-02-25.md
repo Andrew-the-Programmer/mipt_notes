@@ -28,3 +28,12 @@ e_{ijk} e_{ijl} = 2 \delta_{kl} \\
 e_{ikl} e_{imn} = \delta_{km} \delta_{ln} - \delta_{kn} \delta_{lm}
 }
 $$
+$$
+\AlignLeft{
+1)\ a \times (b \times c) \\
+= e_{ijk} a_j e_{klm} b_l c_m = 
+e_{kij} e_{klm} a_j b_l c_m = 
+(\delta_{il} \delta_{jm} - \delta_{im} \delta_{jl}) a_j b_l c_m =
+b_i \veccross{a}{c}
+}
+$$
