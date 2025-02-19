@@ -81,9 +81,18 @@ D_n(x) \defeq \frac{1}{\pi}\left(\frac{1}{2} + \sum_{k=1}^{n}{\cos{kx}}\right) \
 2\pi D_n(x) = 1 + 2 \sum_{k=1}^{n}{\cos{kx}} \\
 2\pi D_n(x) \sin{\frac{x}{2}} = \sin{\frac{x}{2}} + 2 \sum_{k=1}^{n}{\cos{kx} \sin{\frac{x}{2}}} \\
 \cos{kx} \sin{\frac{x}{2}} = \frac{1}{2} 
-\left(\sin{( x(k + \frac{1}{2}) )} - \sin{( x(k - \frac{1}{2}) )}\right)
+\left(\sin{( x(k + \frac{1}{2}) )} - \sin{( x(k - \frac{1}{2}) )}\right) \\
+2\pi D_n(x) \sin{\frac{x}{2}} = \sin{\frac{x}{2}} + 
+\sum_{k=1}^{n}{\left(\sin{( x(k + \frac{1}{2}) )} - \sin{( x(k - \frac{1}{2}) )}\right)} = 
+\sin{x(n + \frac{1}{2})}\\
+D_n(x) = \frac{\sin{x(n + \frac{1}{2})}}{2\pi \sin{\frac{x}{2}}} \\
+\blacksquare
 }
 $$
+## Properties of $D_n$
+1. четная
+2. $2\pi$ периодическая
+3. $\int_{-\pi}^{\pi}{D_n(x) \d x} = 1$
 
 
 # Из курса физики...
