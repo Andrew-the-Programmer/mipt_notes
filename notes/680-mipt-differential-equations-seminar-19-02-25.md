@@ -90,6 +90,10 @@ $$
 ![[1739972715.png]]
 $$
 \AlignLeft{
-W_{y_1,y_2}(x) = W_{y_1,y_2}(x_0) + \exp{-\int_{x_0}^{x}{\frac{a_1(t)}{a_0(t)} \d t}}
+W_{y_1,y_2}(x) = W_{y_1,y_2}(x_0) + \exp{-\int_{x_0}^{x}{\frac{a_1(t)}{a_0(t)} \d t}} = W_{y_1,y_2}(x_0) \frac{x_0}{x} \\
+W(x) \to \infty, \quad x \to 0 \\
 }
 $$
+![[1739973322.png]]
+
+
