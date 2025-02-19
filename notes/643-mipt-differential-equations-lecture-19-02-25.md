@@ -115,14 +115,27 @@ F_{y_i} = \Dv{x}{F_{y_i^{'}}} & i \in [1,n] \\
 }
 $$
 
-# Закрепленные концы k
+# Закрепленные концы - k
 $$
 \AlignLeft{
 M_k^{AB} = \set{y \in C^k([a,b]) \mid\ y^{(i)}(a) = A_i,\ y^{(i)}(b) = B_i, \quad i \in [0, k-1]}
 }
 $$
 
-# Вариация k
+# Вариация - k
 $$
-\delta J_{\vec{y}}[h] = \int_a^b{\left(\sum_{i\in [0,k]}{F_{y^{(i)}} h^{(i)}} \d x}
+\delta J_{\vec{y}}[h] = \int_a^b{\left(\sum_{i\in [0,k]}{F_{y^{(i)}} h^{(i)}}\right) \d x}
+$$
+
+# Theorem 4.
+$$
+\AlignLeft{
+y \in M_k^{AB} - \text{экстремум} \\
+\implies (условие\ Эйлера-Пуассона) \\
+}
+$$
+$$
+\Gather{
+\sum{(-1)^k \Dv[k]{x}{\pdv{y^{(k)}}{F}}} = 0
+}
 $$
