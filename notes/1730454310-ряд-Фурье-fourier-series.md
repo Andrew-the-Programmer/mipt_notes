@@ -70,7 +70,14 @@ $$
 ## Proof
 $$
 \AlignLeft{
-S_n[f](x) = \int_{-\pi}^{\pi}{ \left[\right] \d t} \\
+S_n[f](x) = \int_{-\pi}^{\pi}{ \left[\frac{1}{2\pi} +
+\sum_{k=1}^{n}{\frac{1}{\pi} \cos{kt} \cos{kx}} +
+\sum_{k=1}^{n}{\frac{1}{\pi} \sin{kt} \sin{kx}}
+\right] f(t) \d t} = \\
+= \int_{-\pi}^{\pi}{ \left[
+\frac{1}{\pi} \left(\frac{1}{2} + \sum_{k=1}^{n}{\cos{( k(t - x) )}}\right)
+\right] f(t) \d t} \\
+D_n(x) = \frac{1}{\pi}\left(\frac{1}{2} + \sum_{k=1}^{n}{\cos{( k(t - x) )}}\right)
 }
 $$
 
