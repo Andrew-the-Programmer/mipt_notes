@@ -58,52 +58,7 @@ S_n : L_1[-\pi, \pi] \to C[-\pi, \pi] \\
 S_n[f](x) \defeq a_0 + \sum_{k=1}^{n}{a_k \cos{kx} + b_k \sin{kx}}
 }
 $$
-
-# Ядро Дирихле
-$D_n$ - ядро Дирихле:
-$$
-\Gather{
-S_n[f](x) = \int_{-\pi}^{\pi}{D_n(t - x) f(t) \d t} \\
-D_n(x) = \frac{\sin{(x(n + \frac{1}{2}))}}{2\pi \sin{\frac{x}{2}}}
-}
-$$
-## Proof
-$$
-\AlignLeft{
-S_n[f](x) = \int_{-\pi}^{\pi}{ \left[\frac{1}{2\pi} +
-\sum_{k=1}^{n}{\frac{1}{\pi} \cos{kt} \cos{kx}} +
-\sum_{k=1}^{n}{\frac{1}{\pi} \sin{kt} \sin{kx}}
-\right] f(t) \d t} = \\
-= \int_{-\pi}^{\pi}{ \left[
-\frac{1}{\pi} \left(\frac{1}{2} + \sum_{k=1}^{n}{\cos{( k(t - x) )}}\right)
-\right] f(t) \d t} \\
-D_n(x) \defeq \frac{1}{\pi}\left(\frac{1}{2} + \sum_{k=1}^{n}{\cos{kx}}\right) \\
-2\pi D_n(x) = 1 + 2 \sum_{k=1}^{n}{\cos{kx}} \\
-2\pi D_n(x) \sin{\frac{x}{2}} = \sin{\frac{x}{2}} + 2 \sum_{k=1}^{n}{\cos{kx} \sin{\frac{x}{2}}} \\
-\cos{kx} \sin{\frac{x}{2}} = \frac{1}{2} 
-\left(\sin{( x(k + \frac{1}{2}) )} - \sin{( x(k - \frac{1}{2}) )}\right) \\
-2\pi D_n(x) \sin{\frac{x}{2}} = \sin{\frac{x}{2}} + 
-\sum_{k=1}^{n}{\left(\sin{( x(k + \frac{1}{2}) )} - \sin{( x(k - \frac{1}{2}) )}\right)} = 
-\sin{x(n + \frac{1}{2})}\\
-D_n(x) = \frac{\sin{x(n + \frac{1}{2})}}{2\pi \sin{\frac{x}{2}}} \\
-\blacksquare
-}
-$$
-## Properties of $D_n$
-1. четная
-2. $2\pi$ периодическая
-3. $\int_{-\pi}^{\pi}{D_n(x) \d x} = 1$
-4. $S_n[f]$ - [[709-свертка-функций|свертка функций]] $D_n$ и $f$.
-$$
-S_n[f] = D_n \star f
-$$
-> Почти :)
-
-## Lemma
-![[1740067802.png]]
-$$
-g(u) = \frac{1}{\tg{\frac{u}{2}}} + \frac{2}{u}
-$$
+# [[594-ядро-Дирихле|ядро Дирихле]]
 
 ## Theorem
 
