@@ -6,4 +6,4 @@ tags: []
 ---
 
 # MIPT harmonic analysis lecture 20-02-25
-[[1730454310-ряд-Фурье-fourier-series|ряд Фурье]]
+1. Лемма о ядре Дирихле.
