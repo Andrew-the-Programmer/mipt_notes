@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/147-время-работы-машины-Тьюринга.md",
+                "file": "notes/230-mipt-field-theory-seminar-19-02-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "147-время-работы-машины-Тьюринга"
+              "title": "230-mipt-field-theory-seminar-19-02-25"
             }
           }
         ],
@@ -219,6 +219,8 @@
   },
   "active": "3b5f48d99d9c77f5",
   "lastOpenFiles": [
+    "notes/230-mipt-field-theory-seminar-19-02-25.md~",
+    "notes/147-время-работы-машины-Тьюринга.md",
     "notes/147-время-работы-машины-Тьюринга.md~",
     "assets/imgs/1740065091.png",
     "notes/1729599214-chinese-比-bi.md",
@@ -236,7 +238,6 @@
     "notes/888-теоремы-о-непрерывности.md",
     "notes/1730454310-ряд-Фурье-fourier-series.md",
     "notes/888-теоремы-о-непрерывности.md~",
-    "notes/1730454310-ряд-Фурье-fourier-series.md~",
     "notes/709-свертка-функций.md",
     "notes/596-carleson-hunt-theorem.md",
     "notes/190-1730454310-ряд-Фурье-fourier-series|Ряд-Фурье-в-mi.md",
@@ -262,7 +263,6 @@
     "notes/856-символ-Леви-Чивиты.md",
     "notes/576-символ-Кронекера.md",
     "notes/1731145139-тензор-инерции.md",
-    "notes/736-полиномиальная-сводимость-сводимсть-по-Карпу.md",
-    "notes/258-mipt-field-theory-lecture-19-02-25.md"
+    "notes/736-полиномиальная-сводимость-сводимсть-по-Карпу.md"
   ]
 }

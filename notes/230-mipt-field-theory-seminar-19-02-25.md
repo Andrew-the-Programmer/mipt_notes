@@ -6,6 +6,7 @@ tags: []
 ---
 
 # MIPT field theory seminar 19-02-25
+[[768-прецессия-Томаса|прецессия Томаса]]
 $$
 \AlignLeft{
 \delta_{ij} \delta_{jk} = \delta_{ik} \\
