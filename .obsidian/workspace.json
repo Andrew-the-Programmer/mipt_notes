@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/508-вторая-теорема-о-среднем-значении.md",
+                "file": "notes/1729599214-chinese-比-bi.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "508-вторая-теорема-о-среднем-значении"
+              "title": "1729599214-chinese-比-bi"
             }
           }
         ],
@@ -219,13 +219,14 @@
   },
   "active": "3b5f48d99d9c77f5",
   "lastOpenFiles": [
+    "notes/508-вторая-теорема-о-среднем-значении.md",
+    "notes/1729599214-chinese-比-bi.md~",
     "notes/508-вторая-теорема-о-среднем-значении.md~",
     "README.md~",
     "notes/369-mipt-harmonic-analysis-lecture-13-02-25.md~",
     "notes/1729796911-python-ocrmypdf-распознать-текст-в-pdf-файле.md~",
     "courses/MIPT-harmonic-analysis-2025.md",
     "notes/369-mipt-harmonic-analysis-lecture-13-02-25.md",
-    "notes/508-вторая-теорема-о-среднем-значении.md",
     "preamble.sty~",
     "notes/749-теоремы-о-среднем.md~",
     "notes/749-теоремы-о-среднем.md",
@@ -235,10 +236,8 @@
     "notes/1730454310-ряд-Фурье-fourier-series.md~",
     "notes/709-свертка-функций.md",
     "notes/709-свертка-функций.md~",
-    "notes/4913",
     "notes/596-carleson-hunt-theorem.md",
     "notes/190-1730454310-ряд-Фурье-fourier-series|Ряд-Фурье-в-mi.md",
-    "notes/651-lennart-carleson-theorem.md~",
     "notes/651-lennart-carleson-theorem.md",
     "notes/457-пример-Колмогорова.md",
     "assets/imgs/1739978736.png",
