@@ -48,3 +48,21 @@ $$
 CNPSad \le \text{3-CNFSat}
 }
 $$
+
+# Lemma. О частном случае.
+$$
+\AlignLeft{
+A \neq \Gamma^* \\
+B \in \P \\
+A \cap B \in \NP-hard
+}
+$$
+$$
+A \in \NP-hard
+$$
+## Proof
+$$
+
+$$
+
+# Hard языки
