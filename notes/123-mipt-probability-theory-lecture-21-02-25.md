@@ -13,6 +13,11 @@ $$
 \Gather{
 \mathpalette{} \\
 \mathbin{hi}\\
-\rlap{=}?
+A \hspace{2pt}\rlap{=}\hspace{1.5pt}? B\\
+A = B \\
+\centernot\in \\
+\not\in \\
+\makebox[0pt][r]{x}Hello \\
+\indent\llap{x}Hello
 }
 $$
