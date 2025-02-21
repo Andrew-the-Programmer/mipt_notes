@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/835-mipt-computational-complexity-theory-lecture-21-02-25.md",
+                "file": "notes/613-вероятностное-пространство.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "835-mipt-computational-complexity-theory-lecture-21-02-25"
+              "title": "613-вероятностное-пространство"
             }
           }
         ],
@@ -219,28 +219,30 @@
   },
   "active": "3b5f48d99d9c77f5",
   "lastOpenFiles": [
+    "notes/613-вероятностное-пространство.md~",
+    "notes/1728837879-метрическое-пространство.md",
+    "notes/835-mipt-computational-complexity-theory-lecture-21-02-25.md",
+    "notes/1728837879-метрическое-пространство.md~",
+    "notes/123-mipt-probability-theory-lecture-21-02-25.md~",
+    "notes/1728830908-симметрическая-разность.md~",
+    "notes/123-mipt-probability-theory-lecture-21-02-25.md",
+    "courses/MIPT-probability-theory-2025.md~",
     "notes/835-mipt-computational-complexity-theory-lecture-21-02-25.md~",
     "notes/736-полиномиальная-сводимость-сводимсть-по-Карпу.md",
     "notes/736-полиномиальная-сводимость-сводимсть-по-Карпу.md~",
-    "notes/835-mipt-computational-complexity-theory-lecture-21-02-25.md",
     "notes/147-время-работы-машины-Тьюринга.md",
     "notes/932-mipt-computational-complexity-theory-lecture-14-02-25.md~",
     "notes/1738689676-mipt-computational-complexity-theory-seminar-04-02-25.md~",
     "notes/498-тезис-Чёрча-Тьюринга.md",
     "notes/147-время-работы-машины-Тьюринга.md~",
-    "notes/498-тезис-Чёрча-Тьюринга.md~",
     "notes/1730454310-ряд-Фурье-fourier-series.md",
-    "notes/609-mipt-harmonic-analysis-lecture-20-02-25.md~",
-    "notes/594-ядро-Дирихле.md~",
     "notes/594-ядро-Дирихле.md",
-    "notes/1730454310-ряд-Фурье-fourier-series.md~",
     "assets/imgs/1740068457.png",
     "notes/885-mipt-anmech-seminar-14-02-25.md",
     "notes/609-mipt-harmonic-analysis-lecture-20-02-25.md",
     "notes/369-mipt-harmonic-analysis-lecture-13-02-25.md",
     "assets/imgs/1740067802.png",
     "notes/230-mipt-field-theory-seminar-19-02-25.md",
-    "notes/369-mipt-harmonic-analysis-lecture-13-02-25.md~",
     "assets/imgs/1740065091.png",
     "notes/1729599214-chinese-比-bi.md",
     "notes/508-вторая-теорема-о-среднем-значении.md",
@@ -261,8 +263,6 @@
     "assets/imgs/1739973495.png",
     "assets/imgs/1739973490.png",
     "assets/imgs/1739973322.png",
-    "assets/imgs/1739972715.png",
-    "notes/759-mipt-differential-equations-lecture-12-02-25.md",
-    "notes/686-тензор.md"
+    "assets/imgs/1739972715.png"
   ]
 }
