@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/249-независимые-события.md",
+                "file": "notes/123-mipt-probability-theory-lecture-21-02-25.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "249-независимые-события"
+              "title": "123-mipt-probability-theory-lecture-21-02-25"
             }
           }
         ],
@@ -219,6 +219,7 @@
   },
   "active": "3b5f48d99d9c77f5",
   "lastOpenFiles": [
+    "notes/249-независимые-события.md",
     "notes/249-независимые-события.md~",
     "notes/613-вероятностное-пространство.md",
     "notes/613-вероятностное-пространство.md~",
