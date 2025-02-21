@@ -17,6 +17,8 @@ A \hspace{2pt}\rlap{=}\hspace{1.5pt}?\hspace{3pt} B\\
 A \eqcmb B \\
 A = B \\
 A \imb= B \\
+\charwidth{S} \\
+\width{s}
 \centernot\in \\
 \not\in \\
 \makebox[0pt][r]{x}Hello \\
