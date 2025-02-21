@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "notes/123-mipt-probability-theory-lecture-21-02-25.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -220,6 +220,7 @@
   "active": "3b5f48d99d9c77f5",
   "lastOpenFiles": [
     "notes/123-mipt-probability-theory-lecture-21-02-25.md~",
+    "preamble.sty~",
     "notes/4913",
     "notes/383-хвостовая-сигма-алгебра.md",
     "courses/MIPT-probability-theory-2025.md~",
@@ -230,7 +231,6 @@
     "notes/249-независимые-события.md",
     "notes/249-независимые-события.md~",
     "notes/1728837879-метрическое-пространство.md~",
-    "preamble.sty~",
     "assets/imgs/1740130657.png",
     "assets/imgs/1740130536.png",
     "notes/1728837879-метрическое-пространство.md",

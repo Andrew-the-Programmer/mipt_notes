@@ -13,8 +13,10 @@ $$
 \Gather{
 \mathpalette{} \\
 \mathbin{hi}\\
-A \hspace{2pt}\rlap{=}\hspace{1.5pt}? B\\
+A \hspace{2pt}\rlap{=}\hspace{1.5pt}?\hspace{3pt} B\\
+A \eqcmb B \\
 A = B \\
+A \imb= B \\
 \centernot\in \\
 \not\in \\
 \makebox[0pt][r]{x}Hello \\
