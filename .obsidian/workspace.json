@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/123-mipt-probability-theory-lecture-21-02-25.md",
+                "file": "notes/383-хвостовая-сигма-алгебра.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "123-mipt-probability-theory-lecture-21-02-25"
+              "title": "383-хвостовая-сигма-алгебра"
             }
           }
         ],
@@ -219,10 +219,13 @@
   },
   "active": "3b5f48d99d9c77f5",
   "lastOpenFiles": [
+    "notes/383-хвостовая-сигма-алгебра.md~",
+    "notes/613-вероятностное-пространство.md",
+    "notes/383-хвостовая-сигма-алгебра.md",
+    "notes/123-mipt-probability-theory-lecture-21-02-25.md",
+    "notes/613-вероятностное-пространство.md~",
     "notes/249-независимые-события.md",
     "notes/249-независимые-события.md~",
-    "notes/613-вероятностное-пространство.md",
-    "notes/613-вероятностное-пространство.md~",
     "notes/1728837879-метрическое-пространство.md~",
     "preamble.sty~",
     "assets/imgs/1740130657.png",
@@ -231,13 +234,11 @@
     "notes/835-mipt-computational-complexity-theory-lecture-21-02-25.md",
     "notes/123-mipt-probability-theory-lecture-21-02-25.md~",
     "notes/1728830908-симметрическая-разность.md~",
-    "notes/123-mipt-probability-theory-lecture-21-02-25.md",
     "courses/MIPT-probability-theory-2025.md~",
     "notes/835-mipt-computational-complexity-theory-lecture-21-02-25.md~",
     "notes/736-полиномиальная-сводимость-сводимсть-по-Карпу.md",
     "notes/736-полиномиальная-сводимость-сводимсть-по-Карпу.md~",
     "notes/147-время-работы-машины-Тьюринга.md",
-    "notes/932-mipt-computational-complexity-theory-lecture-14-02-25.md~",
     "notes/498-тезис-Чёрча-Тьюринга.md",
     "notes/1730454310-ряд-Фурье-fourier-series.md",
     "notes/594-ядро-Дирихле.md",
@@ -259,8 +260,6 @@
     "notes/651-lennart-carleson-theorem.md",
     "notes/457-пример-Колмогорова.md",
     "assets/imgs/1739978736.png",
-    "notes/567-теорема-Римана-Лебега.md",
-    "notes/371-теорема-Колмогорова.md",
     "assets/imgs/1739975667.png",
     "assets/imgs/1739975638.png",
     "assets/imgs/1739973495.png",
