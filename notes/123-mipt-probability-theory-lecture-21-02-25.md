@@ -8,22 +8,3 @@ tags: []
 # MIPT probability theory lecture 21-02-25
 
 Well I have no idea wtf was that...
-
-$$
-\Gather{
-\mathpalette{} \\
-\mathbin{hi}\\
-A \hspace{2pt}\rlap{=}\hspace{1.5pt}?\hspace{3pt} B\\
-A \eqcmb B \\
-A = B \\
-A \imb= B \\
-\charwidth{S} \\
-\sbox{\mybox}{text} \\
-\wd\mybox \\
-\wd\in \\
-\centernot\in \\
-\not\in \\
-\makebox[0pt][r]{x}Hello \\
-\indent\llap{x}Hello
-}
-$$

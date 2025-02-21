@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/1728478219-регулярный-язык.md",
+                "file": "notes/123-mipt-probability-theory-lecture-21-02-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1728478219-регулярный-язык"
+              "title": "123-mipt-probability-theory-lecture-21-02-25"
             }
           }
         ],
@@ -219,9 +219,10 @@
   },
   "active": "3b5f48d99d9c77f5",
   "lastOpenFiles": [
+    "notes/123-mipt-probability-theory-lecture-21-02-25.md~",
+    "notes/1728478219-регулярный-язык.md",
     "notes/1731502739-сводимость.md~",
     "notes/123-mipt-probability-theory-lecture-21-02-25.md",
-    "notes/123-mipt-probability-theory-lecture-21-02-25.md~",
     "preamble.sty~",
     "notes/4913",
     "notes/383-хвостовая-сигма-алгебра.md",
@@ -237,7 +238,6 @@
     "notes/1728837879-метрическое-пространство.md",
     "notes/835-mipt-computational-complexity-theory-lecture-21-02-25.md",
     "notes/1728830908-симметрическая-разность.md~",
-    "notes/835-mipt-computational-complexity-theory-lecture-21-02-25.md~",
     "notes/736-полиномиальная-сводимость-сводимсть-по-Карпу.md",
     "notes/147-время-работы-машины-Тьюринга.md",
     "notes/498-тезис-Чёрча-Тьюринга.md",
@@ -259,7 +259,6 @@
     "notes/596-carleson-hunt-theorem.md",
     "notes/190-1730454310-ряд-Фурье-fourier-series|Ряд-Фурье-в-mi.md",
     "notes/651-lennart-carleson-theorem.md",
-    "notes/457-пример-Колмогорова.md",
     "assets/imgs/1739978736.png",
     "assets/imgs/1739975667.png",
     "assets/imgs/1739975638.png",
