@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/383-хвостовая-сигма-алгебра.md",
+                "file": "notes/123-mipt-probability-theory-lecture-21-02-25.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "383-хвостовая-сигма-алгебра"
+              "title": "123-mipt-probability-theory-lecture-21-02-25"
             }
           }
         ],
@@ -219,9 +219,11 @@
   },
   "active": "3b5f48d99d9c77f5",
   "lastOpenFiles": [
+    "notes/123-mipt-probability-theory-lecture-21-02-25.md~",
+    "notes/383-хвостовая-сигма-алгебра.md",
+    "courses/MIPT-probability-theory-2025.md~",
     "notes/383-хвостовая-сигма-алгебра.md~",
     "notes/613-вероятностное-пространство.md",
-    "notes/383-хвостовая-сигма-алгебра.md",
     "notes/123-mipt-probability-theory-lecture-21-02-25.md",
     "notes/613-вероятностное-пространство.md~",
     "notes/249-независимые-события.md",
@@ -232,9 +234,7 @@
     "assets/imgs/1740130536.png",
     "notes/1728837879-метрическое-пространство.md",
     "notes/835-mipt-computational-complexity-theory-lecture-21-02-25.md",
-    "notes/123-mipt-probability-theory-lecture-21-02-25.md~",
     "notes/1728830908-симметрическая-разность.md~",
-    "courses/MIPT-probability-theory-2025.md~",
     "notes/835-mipt-computational-complexity-theory-lecture-21-02-25.md~",
     "notes/736-полиномиальная-сводимость-сводимсть-по-Карпу.md",
     "notes/736-полиномиальная-сводимость-сводимсть-по-Карпу.md~",

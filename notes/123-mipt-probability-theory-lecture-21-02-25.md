@@ -6,6 +6,6 @@ tags: []
 ---
 
 # MIPT probability theory lecture 21-02-25
-
-[[1728830908-симметрическая-разность|симметрическая разность]]
-
+Well I have no idea wtf was that...
+$$
+$$
