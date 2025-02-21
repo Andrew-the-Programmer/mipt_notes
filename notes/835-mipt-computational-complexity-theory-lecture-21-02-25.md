@@ -25,6 +25,12 @@ $$
 \Gather{
 Sat \defeq \set{\varphi \mid \varphi - выполнима} \\
 CNFSat \defeq \set{\varphi \mid \varphi - КНФ\ и\ выполнима} \\
-3-CNFSat \defeq \set{\varphi \mid \varphi - КНФ,\ выполнима и\ \textit{в каждом дизъюнкте }} \\
 }
+$$
+$$
+\text{3-CNFSat} \defeq \set{\varphi \mid \varphi - КНФ,\ выполнима и\ 
+\textit{в каждом дизъюнкте ровно 3 литерала (переменная или ее отрицание)}} \\
+$$
+$$
+Sat,\ CNFSat,\ 3-CNFSat \in NP-hard
 $$
