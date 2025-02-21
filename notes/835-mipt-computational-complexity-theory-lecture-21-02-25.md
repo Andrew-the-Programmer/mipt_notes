@@ -34,3 +34,7 @@ $$
 $$
 \text{Sat,\ CNFSat,\ 3-CNFSat} \in \text{NP-hard}
 $$
+
+$$
+CNPSad \le \text{3-CNFSat}
+$$
