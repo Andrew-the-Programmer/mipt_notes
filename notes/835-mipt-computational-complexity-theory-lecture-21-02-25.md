@@ -66,3 +66,18 @@ $$
 $$
 
 # Hard языки
+$$
+\Gather{
+VertexCover \\
+3-Color \\
+DHamPath \\
+SubsetSum \\
+}
+$$
+
+# DHamPath
+$$
+\AlignLeft{
+3-CNFSat \le DHamPath \\
+}
+$$
