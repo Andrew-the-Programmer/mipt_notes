@@ -18,7 +18,9 @@ A \eqcmb B \\
 A = B \\
 A \imb= B \\
 \charwidth{S} \\
-\width{s}
+\sbox{\mybox}{text} \\
+\wd\mybox \\
+\wd\in \\
 \centernot\in \\
 \not\in \\
 \makebox[0pt][r]{x}Hello \\
