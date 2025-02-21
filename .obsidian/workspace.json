@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/123-mipt-probability-theory-lecture-21-02-25.md",
+                "file": "notes/1728478219-регулярный-язык.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "123-mipt-probability-theory-lecture-21-02-25"
+              "title": "1728478219-регулярный-язык"
             }
           }
         ],
@@ -219,6 +219,7 @@
   },
   "active": "3b5f48d99d9c77f5",
   "lastOpenFiles": [
+    "notes/123-mipt-probability-theory-lecture-21-02-25.md",
     "notes/123-mipt-probability-theory-lecture-21-02-25.md~",
     "preamble.sty~",
     "notes/4913",
@@ -226,7 +227,6 @@
     "courses/MIPT-probability-theory-2025.md~",
     "notes/383-хвостовая-сигма-алгебра.md~",
     "notes/613-вероятностное-пространство.md",
-    "notes/123-mipt-probability-theory-lecture-21-02-25.md",
     "notes/613-вероятностное-пространство.md~",
     "notes/249-независимые-события.md",
     "notes/249-независимые-события.md~",
@@ -238,7 +238,6 @@
     "notes/1728830908-симметрическая-разность.md~",
     "notes/835-mipt-computational-complexity-theory-lecture-21-02-25.md~",
     "notes/736-полиномиальная-сводимость-сводимсть-по-Карпу.md",
-    "notes/736-полиномиальная-сводимость-сводимсть-по-Карпу.md~",
     "notes/147-время-работы-машины-Тьюринга.md",
     "notes/498-тезис-Чёрча-Тьюринга.md",
     "notes/1730454310-ряд-Фурье-fourier-series.md",
