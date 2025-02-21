@@ -32,5 +32,5 @@ $$
 \textit{в каждом дизъюнкте ровно 3 литерала (переменная или ее отрицание)}} \\
 $$
 $$
-Sat,\ CNFSat,\ 3-CNFSat \in NP-hard
+\text{Sat,\ CNFSat,\ 3-CNFSat} \in \text{NP-hard}
 $$
