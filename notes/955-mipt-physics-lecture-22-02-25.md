@@ -76,3 +76,5 @@ $$
 $$
 \Lambda = \frac{\lambda}{\alpha},\quad \alpha - \textit{угол между лучами}
 $$
+
+Бипризма Френеля.
