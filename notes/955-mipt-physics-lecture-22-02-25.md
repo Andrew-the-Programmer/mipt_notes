@@ -62,5 +62,12 @@ $$
 Схема Юнга.
 
 $$
-T = \Lambda = \frac{\lambda L}{d}
+\Gather{
+T = \Lambda = \frac{\lambda L}{d} \\
+\D L = \frac{xd}{L} \\
+\Cases{
+\D L_{max} = \lambda m \\
+\D L_{min} = \lambda m + \frac{\lambda}{2} \\
+}
+}
 $$
