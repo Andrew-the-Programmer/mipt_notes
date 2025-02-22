@@ -1,7 +1,7 @@
 ---
 id: 916-mipt-physics-lecture-01-02-25
 aliases:
-  - MIPT-physics-lecture-01-02-25
+  - MIPT physics lecture 01-02-25
 tags: []
 ---
 
