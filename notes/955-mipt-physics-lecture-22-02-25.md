@@ -71,3 +71,8 @@ T = \Lambda = \frac{\lambda L}{d} \\
 }
 }
 $$
+
+Ширина полос.
+$$
+\Lambda = \frac{\lambda}{\alpha},\quad \alpha - \textit{угол между лучами}
+$$
