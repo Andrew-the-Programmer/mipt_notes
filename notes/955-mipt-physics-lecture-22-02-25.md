@@ -49,9 +49,18 @@ $$
 
 Важно: истачники должны быть когерентными.
 $E_1 \parallel E_2,\quad \varphi_{10} = \varphi_{20}$
+
 $$
 \Gather{
 I = I_1 + I_2 + \sqrt{I_1 I_2} \cos{k \D L} \\
-
+\D L = z_2 - z_1 \\
+I_1 = I_2 \implies \\
+I = 2 I_0 (1 + \cos{k \D L}) \\
 }
+$$
+
+Схема Юнга.
+
+$$
+T = \Lambda = \frac{\lambda L}{d}
 $$
