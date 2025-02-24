@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/1730904161-углы-Эйлера.md",
+                "file": "notes/1730905684-кватернионы.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1730904161-углы-Эйлера"
+              "title": "1730905684-кватернионы"
             }
           }
         ],
@@ -242,6 +242,12 @@
   },
   "active": "79365aa3e212140e",
   "lastOpenFiles": [
+    "notes/1730906937-параметры-Родрига-Гамильтона.md",
+    "notes/1730905684-кватернионы.md",
+    "notes/1729694499-mipt-anmech-seminar-23-10-24.md",
+    "notes/1730905684-кватернионы.md~",
+    "notes/1730906937-параметры-Родрига-Гамильтона.md~",
+    "notes/1730904161-углы-Эйлера.md",
     "notes/1730902987-mipt-anmech-seminar-06-11-24.md",
     "notes/1729334046-динамика-в-полярных-координатах.md~",
     "notes/955-mipt-physics-lecture-22-02-25.md",
@@ -267,8 +273,6 @@
     "notes/123-mipt-probability-theory-lecture-21-02-25.md",
     "notes/1728478219-регулярный-язык.md",
     "notes/1731502739-сводимость.md~",
-    "preamble.sty~",
-    "notes/4913",
     "notes/383-хвостовая-сигма-алгебра.md",
     "notes/613-вероятностное-пространство.md",
     "notes/249-независимые-события.md",
@@ -283,10 +287,6 @@
     "notes/369-mipt-harmonic-analysis-lecture-13-02-25.md",
     "notes/230-mipt-field-theory-seminar-19-02-25.md",
     "notes/1729599214-chinese-比-bi.md",
-    "notes/508-вторая-теорема-о-среднем-значении.md",
-    "courses/MIPT-harmonic-analysis-2025.md",
-    "notes/749-теоремы-о-среднем.md",
-    "notes/888-теоремы-о-непрерывности.md",
-    "notes/709-свертка-функций.md"
+    "notes/508-вторая-теорема-о-среднем-значении.md"
   ]
 }
