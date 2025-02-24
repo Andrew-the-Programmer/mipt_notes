@@ -54,9 +54,33 @@
               "icon": "lucide-file",
               "title": "1729334046-динамика-в-полярных-координатах"
             }
+          },
+          {
+            "id": "79365aa3e212140e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/1730904161-углы-Эйлера.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1730904161-углы-Эйлера"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -88,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fried",
+                "query": "углы э",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,8 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "118388a6ab5b8fbb",
@@ -217,8 +240,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3b5f48d99d9c77f5",
+  "active": "79365aa3e212140e",
   "lastOpenFiles": [
+    "notes/1730902987-mipt-anmech-seminar-06-11-24.md",
     "notes/1729334046-динамика-в-полярных-координатах.md~",
     "notes/955-mipt-physics-lecture-22-02-25.md",
     "notes/955-mipt-physics-lecture-22-02-25.md~",
