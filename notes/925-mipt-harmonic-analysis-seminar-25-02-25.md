@@ -64,7 +64,7 @@ x = \pi,\quad t = \alpha \pi \\
 }
 $$
 $$
-\frac{\sin x}{x} = \prod_{n=1}^{\infty}{\left(\right)}
+\frac{\sin x}{x} = \prod_{n=1}^{\infty}{\left(1 - \frac{x^2}{n^2 \pi^2}\right)}
 $$
 
 # Claim.

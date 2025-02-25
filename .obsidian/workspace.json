@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/925-mipt-harmonic-analysis-seminar-25-02-25.md",
+                "file": "notes/904-mipt-physics-seminar-18-02-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "925-mipt-harmonic-analysis-seminar-25-02-25"
+              "title": "904-mipt-physics-seminar-18-02-25"
             }
           }
         ],
@@ -243,10 +243,12 @@
   },
   "active": "79365aa3e212140e",
   "lastOpenFiles": [
+    "notes/603-mipt-physics-seminar-25-02-25.md~",
+    "notes/603-mipt-physics-seminar-25-02-25.md",
+    "notes/925-mipt-harmonic-analysis-seminar-25-02-25.md",
     "notes/925-mipt-harmonic-analysis-seminar-25-02-25.md~",
     "notes/1730454310-ряд-Фурье-fourier-series.md",
     "notes/1730454310-ряд-Фурье-fourier-series.md~",
-    "notes/925-mipt-harmonic-analysis-seminar-25-02-25.md",
     "notes/803-Гильбертово-пространство-hilbert-space.md",
     "notes/853-mipt-harmonic-analysis-seminar-18-02-25.md~",
     "courses/MIPT-harmonic-analysis-2025.md~",
@@ -286,7 +288,6 @@
     "notes/147-время-работы-машины-Тьюринга.md",
     "notes/498-тезис-Чёрча-Тьюринга.md",
     "notes/594-ядро-Дирихле.md",
-    "notes/609-mipt-harmonic-analysis-lecture-20-02-25.md",
-    "notes/369-mipt-harmonic-analysis-lecture-13-02-25.md"
+    "notes/609-mipt-harmonic-analysis-lecture-20-02-25.md"
   ]
 }
