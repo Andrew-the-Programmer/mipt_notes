@@ -60,7 +60,10 @@ a_n = 0 \\
 b_n = \frac{1}{\pi} \int_0^{2\pi}{\frac{\pi - x}{2} \sin{nx} \d x} =
 -\frac{1}{2\pi} \int_0^{2\pi}{x \sin{nx} \d x} =
 \frac{1}{n} \\
-f(x) = \frac{\pi - x}{n} \sim \frac{ \sin{nx} }{n}
+f(x) = \frac{\pi - x}{n} \sim \frac{ \sin{nx} }{n} \\
+\norm{f}_2^2 = \int_0^{2\pi}{f \d x} = \frac{\pi^3}{6} \\
+\norm{f}_2^2 = \pi \sum_{n=1}^{\infty}{\frac{1}{n^2}} \\
+\frac{\pi^2}{6} = \sum_{n=1}^{\infty}{\frac{1}{n^2}}
 }
 $$
 
