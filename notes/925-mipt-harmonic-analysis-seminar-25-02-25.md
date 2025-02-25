@@ -48,6 +48,18 @@ b_{2n-1} = \frac{2}{\pi (2n - 1)}
 }
 $$
 
+## 3
+$$
+f(x) = \cos(\alpha x), \quad [-\pi, \pi]
+$$
+$$
+\AlignLeft{
+a_0 = \frac{\sin(\pi \alpha)}{\pi \alpha} \\
+b_n = 0\\
+a_n = 
+}
+$$
+
 # Claim.
 
 $$
