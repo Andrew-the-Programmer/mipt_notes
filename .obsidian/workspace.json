@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/904-mipt-physics-seminar-18-02-25.md",
+                "file": "notes/603-mipt-physics-seminar-25-02-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "904-mipt-physics-seminar-18-02-25"
+              "title": "603-mipt-physics-seminar-25-02-25"
             }
           }
         ],
@@ -243,7 +243,10 @@
   },
   "active": "79365aa3e212140e",
   "lastOpenFiles": [
+    "notes/904-mipt-physics-seminar-18-02-25.md",
     "notes/603-mipt-physics-seminar-25-02-25.md~",
+    "assets/imgs/1740470450.png",
+    "assets/imgs/1740470435.png",
     "notes/955-mipt-physics-lecture-22-02-25.md~",
     "notes/603-mipt-physics-seminar-25-02-25.md",
     "notes/925-mipt-harmonic-analysis-seminar-25-02-25.md",
@@ -262,7 +265,6 @@
     "notes/1730906937-параметры-Родрига-Гамильтона.md~",
     "notes/1730904161-углы-Эйлера.md",
     "notes/1730902987-mipt-anmech-seminar-06-11-24.md",
-    "notes/1729334046-динамика-в-полярных-координатах.md~",
     "notes/955-mipt-physics-lecture-22-02-25.md",
     "notes/278-mipt-anmech-seminar-21-02-25.md",
     "assets/imgs/1740164164.png",
@@ -273,8 +275,6 @@
     "assets/imgs/1740162717.png",
     "assets/imgs/1740162708.png",
     "assets/imgs/1740162682.png",
-    "assets/imgs/1740162659.png",
-    "assets/imgs/1740162646.png",
     "notes/885-mipt-anmech-seminar-14-02-25.md",
     "courses/MIPT-probability-theory-2025.md",
     "notes/123-mipt-probability-theory-lecture-21-02-25.md",
