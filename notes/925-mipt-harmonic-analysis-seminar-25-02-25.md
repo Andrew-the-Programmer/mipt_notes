@@ -56,7 +56,7 @@ $$
 \AlignLeft{
 a_0 = \frac{\sin(\pi \alpha)}{\pi \alpha} \\
 b_n = 0\\
-a_n = 
+a_n = (-1)^n \frac{2\alpha \sin(\pi \alpha)}{\pi(\alpha^2 - n^2)}
 }
 $$
 
