@@ -58,9 +58,13 @@ a_0 = \frac{\sin(\pi \alpha)}{\pi \alpha} \\
 b_n = 0\\
 a_n = (-1)^n \frac{2\alpha \sin(\pi \alpha)}{\pi(\alpha^2 - n^2)} \\
 \cos{\alpha x} = \frac{\sin(\pi \alpha)}{\pi} \left(\frac{1}{\alpha} + 
-\sum_{}^{}{}
-\right) \\
+\sum_{}^{}{(-1)^n \frac{2\alpha}{\alpha^2 - n^2}} \right) \\
+x = \pi,\quad t = \alpha \pi \\
+\ctg t = \frac{1}{t} + \sum_{}^{}{(-1)^n \frac{2\alpha}{t^2 - \pi^2 n^2}}
 }
+$$
+$$
+\frac{\sin x}{x} = \prod_{n=1}^{\infty}{\left(\right)}
 $$
 
 # Claim.
