@@ -6,4 +6,7 @@ tags: []
 ---
 
 # MIPT harmonic analysis seminar 25-02-25
-Ряд фурье.
+
+# [[1730454310-ряд-Фурье-fourier-series|ряд Фурье]]
+
+Пример.
