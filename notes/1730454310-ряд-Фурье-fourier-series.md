@@ -67,7 +67,25 @@ f(x) = \frac{\pi - x}{n} \sim \frac{ \sin{nx} }{n} \\
 }
 $$
 
+## 2
+
+$$
+f(x) = \Cases{
+    1, & 0 \le x \le \pi \\
+    0, & \pi \le x \le 2\pi
+}
+$$
+
+$$
+\AlignLeft{
+a_0 = \frac{1}{2} \\
+a_n = 0 \\
+b_n = -\frac{1}{\pi} \left(\frac{(-1)^n}{n} - \frac{1}{n}\right)
+}
+$$
+
 # Claim.
+
 $$
 \Gather{
 1)\ f - \textit{нечетная} \same a_n = 0 \\
