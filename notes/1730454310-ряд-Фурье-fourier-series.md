@@ -98,22 +98,24 @@ $$
 # Признак Дини
 $$
 \AlignLeft{
-f \in L_1[-\pi, \pi] \\
-\exists f(x-0) = \lim_{x \to x_0-0}{f(x)} \\
-\exists f(x+0) = \lim_{x \to x_0+0}{f(x)} \\
-\exists \delta > 0: \\
+1)\quad f \in L_1[-\pi, \pi] \\
+2)\quad \exists f(x-0) = \lim_{x \to x_0-0}{f(x)} \\
+3)\quad \exists f(x+0) = \lim_{x \to x_0+0}{f(x)} \\
+4)\quad \exists \delta > 0: \textit{интеграл сходится}:\\
 }
 $$
 $$
 I = \int_0^{\delta}{\frac{1}{t} (f(x_0 + t) - f(x_0 + 0) + f(x_0 - t) - f(x_0 - 0)) \d t}
 $$
+Тогда:
+Ряд Фурье в точке $x_0$ сходится к $\frac{f(x+0) + f(x-0)}{2}$.
+
+# Признак Жордана
 $$
 \AlignLeft{
-\textit{сходится} \\
+\exists \varepsilon > 0 : f(x) \in BV \forall x \in U_\varepsilon(x_0)
 }
 $$
-Тогда:
-Ряд Фурье в точке $x_0$ сходится к $\frac{f(x+0) + f(x-0)}{}$
 
 # [[567-теорема-Римана-Лебега|Теорема Римана-Лебега]]
 
