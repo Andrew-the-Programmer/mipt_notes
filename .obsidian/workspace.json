@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/856-символ-Леви-Чивиты.md",
+                "file": "notes/545-mipt-field-theory-seminar-26-02-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "856-символ-Леви-Чивиты"
+              "title": "545-mipt-field-theory-seminar-26-02-25"
             }
           }
         ],
@@ -243,9 +243,10 @@
   },
   "active": "79365aa3e212140e",
   "lastOpenFiles": [
-    "notes/545-mipt-field-theory-seminar-26-02-25.md",
-    "notes/856-символ-Леви-Чивиты.md~",
     "notes/545-mipt-field-theory-seminar-26-02-25.md~",
+    "notes/856-символ-Леви-Чивиты.md",
+    "notes/856-символ-Леви-Чивиты.md~",
+    "notes/545-mipt-field-theory-seminar-26-02-25.md",
     "assets/imgs/1740562744.png",
     "courses/MIPT-field-theory-2025.md",
     "notes/686-тензор.md",
@@ -273,7 +274,6 @@
     "courses/MIPT-differential-equations-2025.md",
     "notes/725-mipt-field-theory-lecture-26-02-25.md",
     "notes/258-mipt-field-theory-lecture-19-02-25.md",
-    "notes/856-символ-Леви-Чивиты.md",
     "notes/1738738971-пространство-время-Минковского.md",
     "notes/576-символ-Кронекера.md",
     "notes/603-mipt-physics-seminar-25-02-25.md",
