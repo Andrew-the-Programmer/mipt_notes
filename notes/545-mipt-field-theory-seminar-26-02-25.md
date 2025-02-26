@@ -55,5 +55,6 @@ $$
 \AlignLeft{
 \divv{a} = d_i a_i \\
 d_i = \pdv{x_i}{} \\
+\rot{a} = e_{ijk} d_j a_k
 }
 $$
