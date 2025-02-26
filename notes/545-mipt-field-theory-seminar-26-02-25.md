@@ -34,6 +34,7 @@ $$
 \avrg{n_i n_j n_k} = 0 \\
 \avrg{n_i n_j n_k n_l} = \frac{1}{15} 
 (\delta_{ij} \delta_{kl} + \delta_{ik} \delta_{jl} + \delta_{il} \delta_{jk}) \\
+(15 = 3^2 + 2 \cdot 3)
 }
 $$
 
@@ -45,5 +46,14 @@ $$
 \avrg{n_i n_j n_k} = 0 \\
 \avrg{n_i n_j n_k n_l} = \frac{1}{8} 
 (\delta_{ij} \delta_{kl} + \delta_{ik} \delta_{jl} + \delta_{il} \delta_{jk}) \\
+(8 = 2^2 + 2 \cdot 2)
+}
+$$
+
+# div, rot
+$$
+\AlignLeft{
+\divv{a} = d_i a_i \\
+d_i = \pdv{x_i}{} \\
 }
 $$
