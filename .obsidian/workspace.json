@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/759-mipt-differential-equations-lecture-12-02-25.md",
+                "file": "notes/525-mipt-differential-equations-lecture-26-02-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "759-mipt-differential-equations-lecture-12-02-25"
+              "title": "525-mipt-differential-equations-lecture-26-02-25"
             }
           }
         ],
@@ -243,6 +243,7 @@
   },
   "active": "79365aa3e212140e",
   "lastOpenFiles": [
+    "notes/759-mipt-differential-equations-lecture-12-02-25.md",
     "notes/525-mipt-differential-equations-lecture-26-02-25.md",
     "notes/759-mipt-differential-equations-lecture-12-02-25.md~",
     "notes/525-mipt-differential-equations-lecture-26-02-25.md~",
