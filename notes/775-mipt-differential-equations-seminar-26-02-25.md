@@ -32,6 +32,14 @@ y_1 = e^{x} \\
 2. \\
 y = e^x \int{\frac{c}{e^x} e^{-I} \d x} \\
 I = \int{-\frac{2x + 1}{x} \d x} = -2x - \ln{x} + C \\
-y = C e^x (\frac{x^2}{2} + C)
+y = C e^x (\frac{x^2}{2} + C) = C_1 e^x x^2 + C_2 e^x \\
+\\
+3. \\
+\Cases{
+{C}_{1}^{'} e^x x^2 + {C}_{2}^{'} e^x = 0 \\
+{C}_{1}^{'} (2x e^x + e^x x^2) + {C}_{2}^{'} e^x = 2x e^{2x} \\
+}\\
+C_1 = e^x + D_1 \\
+C_2 = -x^2 e^x + 2x e^x - 2 e^x + D_2
 }
 $$
