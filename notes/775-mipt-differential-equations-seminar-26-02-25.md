@@ -20,3 +20,18 @@ tags: []
 # 9.16
 
 ![[1740574987.png]]
+
+$$
+\AlignLeft{
+1. \\
+J = 0 \\
+y = e^{\alpha x} \\
+\alpha = 1 \\
+y_1 = e^{x} \\
+\\
+2. \\
+y = e^x \int{\frac{c}{e^x} e^{-I} \d x} \\
+I = \int{-\frac{2x + 1}{x} \d x} = -2x - \ln{x} + C \\
+y = C e^x (\frac{x^2}{2} + C)
+}
+$$
