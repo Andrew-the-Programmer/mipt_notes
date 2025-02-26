@@ -11,7 +11,7 @@ $$
 \AlignLeft{
 K[y] \defeq \int_a^b{G(x,y,{y}^{'}) \d x} = l \\
 Y \defeq \hat{M}^{AB}_k \defeq {M}^{AB}_k \cup \set{y \mid K[y] = l} \\
-H \defeq \stackrel{h}{{M}^{00}_1} \defeq {M}^{00}_1 \cup \set{h \mid \forall y \in \hat{M}^{AB}_1 \hthen
+H \defeq \stackrel{h}{{M}^{00}_1} \defeq {M}^{00}_1 \cup \set{h \mid \forall y \in Y \hthen
 K[y + h] = l} \\
 }
 $$
