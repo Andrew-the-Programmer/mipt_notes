@@ -22,6 +22,7 @@ T_2 & -T_1 & 0 \\
 $$
 
 # Усреднение единичной нормали
+![[1740562744.png]]
 $$
 \AlignLeft{
 \d V = r^2 \d r \sin\theta \d \theta \d \varphi = r^2 \d r \d \Omega \\
