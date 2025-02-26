@@ -24,6 +24,11 @@ $$
 # Усреднение единичной нормали
 $$
 \AlignLeft{
-
+\d V = r^2 \d r \sin\theta \d \theta \d \varphi = r^2 \d r \d \Omega \\
+\d \omega = \frac{\d \Omega}{4\pi} = 
+\frac{\sin\theta \d \theta \d \varphi}{4\pi} \\
+\avrg{f} = \int{f(\theta, \varphi) \d \omega} \\
+\avrg{n_i} = 0 \\
+\avrg{n_i n_j} = \int{n_i n_j \frac{\d \Omega}{4\pi}}
 }
 $$
