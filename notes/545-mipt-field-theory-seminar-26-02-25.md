@@ -30,6 +30,19 @@ $$
 \frac{\sin\theta \d \theta \d \varphi}{4\pi} \\
 \avrg{f} = \int{f(\theta, \varphi) \d \omega} \\
 \avrg{n_i} = 0 \\
-\avrg{n_i n_j} = \int{n_i n_j \frac{\d \Omega}{4\pi}}
+\avrg{n_i n_j} = \int{n_i n_j \frac{\d \Omega}{4\pi}} \\
+\avrg{n_i n_j n_k} = 0 \\
+\avrg{n_i n_j n_k n_l} = \frac{1}{15} \\
+}
+$$
+
+# 2D
+$$
+\AlignLeft{
+\avrg{n_i} = 0 \\
+\avrg{n_i n_j} =  \\
+\avrg{n_i n_j n_k} = 0 \\
+\avrg{n_i n_j n_k n_l} =  \\
+
 }
 $$
