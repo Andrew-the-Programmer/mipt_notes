@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/925-mipt-harmonic-analysis-seminar-25-02-25.md",
+                "file": "notes/609-mipt-harmonic-analysis-lecture-20-02-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "925-mipt-harmonic-analysis-seminar-25-02-25"
+              "title": "609-mipt-harmonic-analysis-lecture-20-02-25"
             }
           }
         ],
@@ -243,9 +243,12 @@
   },
   "active": "79365aa3e212140e",
   "lastOpenFiles": [
+    "notes/609-mipt-harmonic-analysis-lecture-20-02-25.md~",
+    "notes/925-mipt-harmonic-analysis-seminar-25-02-25.md",
+    "notes/594-ядро-Дирихле.md~",
+    "assets/imgs/1740670500.png",
     "notes/925-mipt-harmonic-analysis-seminar-25-02-25.md~",
     "notes/594-ядро-Дирихле.md",
-    "notes/594-ядро-Дирихле.md~",
     "assets/imgs/1740669964.png",
     "notes/567-теорема-Римана-Лебега.md",
     "notes/567-теорема-Римана-Лебега.md~",
@@ -255,7 +258,6 @@
     "assets/imgs/1740667548.png",
     "assets/imgs/1740667518.png",
     "notes/373-p-np.md",
-    "notes/609-mipt-harmonic-analysis-lecture-20-02-25.md~",
     "notes/736-полиномиальная-сводимость-сводимсть-по-Карпу.md",
     "notes/373-p-np.md~",
     "notes/141-верификатор-языка.md",
@@ -265,7 +267,6 @@
     "assets/imgs/1740577779.png",
     "assets/imgs/1740576791.png",
     "assets/imgs/1740576723.png",
-    "assets/imgs/1740576716.png",
     "notes/545-mipt-field-theory-seminar-26-02-25.md",
     "courses/MIPT-differential-equations-2025.md~",
     "notes/797-mipt-differential-equations-seminar-12-02-25.md~",
@@ -286,7 +287,6 @@
     "notes/603-mipt-physics-seminar-25-02-25.md",
     "notes/955-mipt-physics-lecture-22-02-25.md",
     "notes/904-mipt-physics-seminar-18-02-25.md",
-    "notes/925-mipt-harmonic-analysis-seminar-25-02-25.md",
     "notes/1730454310-ряд-Фурье-fourier-series.md"
   ]
 }
