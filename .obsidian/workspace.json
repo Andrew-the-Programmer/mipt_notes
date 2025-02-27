@@ -243,7 +243,10 @@
   },
   "active": "79365aa3e212140e",
   "lastOpenFiles": [
+    "notes/567-теорема-Римана-Лебега.md",
     "notes/594-ядро-Дирихле.md~",
+    "notes/567-теорема-Римана-Лебега.md~",
+    "notes/594-ядро-Дирихле.md",
     "notes/4913",
     "assets/imgs/1740667942.png",
     "assets/imgs/1740667583.png",
@@ -269,10 +272,8 @@
     "notes/230-mipt-field-theory-seminar-19-02-25.md",
     "notes/230-mipt-field-theory-seminar-19-02-25.md~",
     "notes/856-символ-Леви-Чивиты.md",
-    "notes/856-символ-Леви-Чивиты.md~",
     "courses/MIPT-field-theory-2025.md",
     "notes/686-тензор.md",
-    "courses/MIPT-field-theory-2025.md~",
     "notes/525-mipt-differential-equations-lecture-26-02-25.md",
     "notes/759-mipt-differential-equations-lecture-12-02-25.md",
     "notes/643-mipt-differential-equations-lecture-19-02-25.md",
@@ -287,7 +288,6 @@
     "notes/904-mipt-physics-seminar-18-02-25.md",
     "notes/925-mipt-harmonic-analysis-seminar-25-02-25.md",
     "notes/1730454310-ряд-Фурье-fourier-series.md",
-    "notes/803-Гильбертово-пространство-hilbert-space.md",
-    "notes/1730905684-кватернионы.md"
+    "notes/803-Гильбертово-пространство-hilbert-space.md"
   ]
 }
