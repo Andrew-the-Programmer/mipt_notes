@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/594-ядро-Дирихле.md",
+                "file": "notes/925-mipt-harmonic-analysis-seminar-25-02-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "594-ядро-Дирихле"
+              "title": "925-mipt-harmonic-analysis-seminar-25-02-25"
             }
           }
         ],
@@ -243,11 +243,12 @@
   },
   "active": "79365aa3e212140e",
   "lastOpenFiles": [
+    "notes/925-mipt-harmonic-analysis-seminar-25-02-25.md~",
+    "notes/594-ядро-Дирихле.md",
     "notes/594-ядро-Дирихле.md~",
     "assets/imgs/1740669964.png",
     "notes/567-теорема-Римана-Лебега.md",
     "notes/567-теорема-Римана-Лебега.md~",
-    "notes/594-ядро-Дирихле.md",
     "notes/4913",
     "assets/imgs/1740667942.png",
     "assets/imgs/1740667583.png",
@@ -270,7 +271,6 @@
     "notes/797-mipt-differential-equations-seminar-12-02-25.md~",
     "notes/545-mipt-field-theory-seminar-26-02-25.md~",
     "notes/230-mipt-field-theory-seminar-19-02-25.md",
-    "notes/230-mipt-field-theory-seminar-19-02-25.md~",
     "notes/856-символ-Леви-Чивиты.md",
     "courses/MIPT-field-theory-2025.md",
     "notes/686-тензор.md",
