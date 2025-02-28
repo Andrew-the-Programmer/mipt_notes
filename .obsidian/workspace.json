@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/777-mipt-computational-complexity-theory-lecture-28-02-25.md",
+                "file": "notes/173-mipt-probability-theory-lecture-28-02-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "777-mipt-computational-complexity-theory-lecture-28-02-25"
+              "title": "173-mipt-probability-theory-lecture-28-02-25"
             }
           }
         ],
@@ -243,14 +243,15 @@
   },
   "active": "79365aa3e212140e",
   "lastOpenFiles": [
+    "notes/777-mipt-computational-complexity-theory-lecture-28-02-25.md",
     "notes/173-mipt-probability-theory-lecture-28-02-25.md~",
+    "assets/imgs/1740735021.png",
     "courses/MIPT-probability-theory-2025.md~",
     "notes/173-mipt-probability-theory-lecture-28-02-25.md",
     "notes/777-mipt-computational-complexity-theory-lecture-28-02-25.md~",
     "notes/4913",
     "notes/835-mipt-computational-complexity-theory-lecture-21-02-25.md",
     "notes/835-mipt-computational-complexity-theory-lecture-21-02-25.md~",
-    "notes/777-mipt-computational-complexity-theory-lecture-28-02-25.md",
     "courses/MIPT-computational-complexity-theory-2025.md~",
     "notes/680-mipt-differential-equations-seminar-19-02-25.md~",
     "courses/MIPT-field-theory-2025.md~",
@@ -267,8 +268,6 @@
     "assets/imgs/1740670663.png",
     "assets/imgs/1740670589.png",
     "notes/925-mipt-harmonic-analysis-seminar-25-02-25.md",
-    "notes/594-ядро-Дирихле.md~",
-    "assets/imgs/1740670500.png",
     "notes/594-ядро-Дирихле.md",
     "notes/567-теорема-Римана-Лебега.md",
     "notes/373-p-np.md",

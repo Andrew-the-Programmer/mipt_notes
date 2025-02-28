@@ -7,3 +7,4 @@ tags: []
 
 # MIPT probability theory lecture 28-02-25
 # Независимость классов мн-в
+![[1740735021.png]]
