@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/835-mipt-computational-complexity-theory-lecture-21-02-25.md",
+                "file": "notes/777-mipt-computational-complexity-theory-lecture-28-02-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "835-mipt-computational-complexity-theory-lecture-21-02-25"
+              "title": "777-mipt-computational-complexity-theory-lecture-28-02-25"
             }
           }
         ],
@@ -243,10 +243,11 @@
   },
   "active": "79365aa3e212140e",
   "lastOpenFiles": [
+    "notes/777-mipt-computational-complexity-theory-lecture-28-02-25.md~",
+    "notes/835-mipt-computational-complexity-theory-lecture-21-02-25.md",
     "notes/835-mipt-computational-complexity-theory-lecture-21-02-25.md~",
     "notes/4913",
     "notes/777-mipt-computational-complexity-theory-lecture-28-02-25.md",
-    "notes/777-mipt-computational-complexity-theory-lecture-28-02-25.md~",
     "courses/MIPT-computational-complexity-theory-2025.md~",
     "notes/680-mipt-differential-equations-seminar-19-02-25.md~",
     "courses/MIPT-field-theory-2025.md~",
@@ -268,7 +269,6 @@
     "notes/925-mipt-harmonic-analysis-seminar-25-02-25.md~",
     "notes/594-ядро-Дирихле.md",
     "notes/567-теорема-Римана-Лебега.md",
-    "notes/567-теорема-Римана-Лебега.md~",
     "notes/373-p-np.md",
     "notes/736-полиномиальная-сводимость-сводимсть-по-Карпу.md",
     "notes/141-верификатор-языка.md",
@@ -287,7 +287,6 @@
     "notes/258-mipt-field-theory-lecture-19-02-25.md",
     "notes/1738738971-пространство-время-Минковского.md",
     "notes/576-символ-Кронекера.md",
-    "notes/603-mipt-physics-seminar-25-02-25.md",
-    "notes/955-mipt-physics-lecture-22-02-25.md"
+    "notes/603-mipt-physics-seminar-25-02-25.md"
   ]
 }
