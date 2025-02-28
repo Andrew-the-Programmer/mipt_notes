@@ -8,3 +8,5 @@ tags: []
 
 1. [[698-mipt-anmech-seminar-07-02-25|07-02-25]]
 2. [[885-mipt-anmech-seminar-14-02-25|14-02-25]]
+3. [[278-mipt-anmech-seminar-21-02-25|21-02-25]]
+4. [[342-mipt-anmech-seminar-28-02-25|28-02-25]]
