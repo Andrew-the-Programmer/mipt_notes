@@ -30,4 +30,13 @@ $\varphi \to (G,k)$
 2) литералы в одном дизъюнкте соединены ребром
 3) Есть ребро между $x\ и\ \ol{x}\quad \forall x$
 
-$k = 2m$
+$k = 2m$ 
+
+# Theorem. Ла
+$$
+P \neq NP \implies \exists L : \Cases{
+L \in NP \setminus P \\
+L \not\in \text{NP-complete} \\
+}
+$$
+$SAT_H = \set{\left(\varphi, (1^n)^{H(n)}\right) \mid }$
