@@ -7,4 +7,3 @@ tags: []
 
 # MIPT probability theory lecture 21-02-25
 
-Well I have no idea wtf was that...
