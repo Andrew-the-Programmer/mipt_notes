@@ -7,3 +7,4 @@ tags: []
 
 # MIPT probability theory lecture 21-02-25
 [[теорвер_2025-лекция3.pdf|конспект Даши]]
+
