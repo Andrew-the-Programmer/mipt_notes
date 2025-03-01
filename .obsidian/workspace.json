@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/539-mipt-physics-lecture-01-03-25.md",
+                "file": "notes/613-вероятностное-пространство.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "539-mipt-physics-lecture-01-03-25"
+              "title": "613-вероятностное-пространство"
             }
           }
         ],
@@ -242,20 +242,21 @@
   },
   "active": "79365aa3e212140e",
   "lastOpenFiles": [
-    "notes/539-mipt-physics-lecture-01-03-25.md~",
-    "courses/MIPT-physics-2025.md~",
-    "notes/423-видность.md",
-    "notes/123-mipt-probability-theory-lecture-21-02-25.md~",
-    "courses/MIPT-probability-theory-2025.md~",
-    "notes/608-mipt-probability-theory-lecture-14-02-25.md~",
-    "notes/423-видность.md~",
+    "notes/723-формула-включений-исключений.md",
+    "notes/613-вероятностное-пространство.md~",
+    "notes/943-условная-вероятность.md~",
+    "notes/249-независимые-события.md~",
+    "notes/817-формула-полной-вероятности.md~",
+    "notes/723-формула-включений-исключений.md~",
+    "notes/835-формула-Байеса.md~",
     "notes/539-mipt-physics-lecture-01-03-25.md",
+    "notes/608-mipt-probability-theory-lecture-14-02-25.md~",
+    "notes/503-mipt-probability-theory-lecture-07-02-25.md~",
+    "courses/MIPT-probability-theory-2025.md~",
+    "notes/539-mipt-physics-lecture-01-03-25.md~",
+    "notes/423-видность.md",
     "notes/955-mipt-physics-lecture-22-02-25.md",
-    "notes/916-mipt-physics-lecture-01-02-25.md~",
-    "notes/570-mipt-physics-lecture-08-02-25.md~",
     "notes/916-mipt-physics-lecture-01-02-25.md",
-    "notes/955-mipt-physics-lecture-22-02-25.md~",
-    "sourses/physics/lectures_2025/Лекция_4.pdf",
     "sources/physics/lectures_2025.md",
     "courses/MIPT-physics-2025.md",
     "notes/608-mipt-probability-theory-lecture-14-02-25.md",
