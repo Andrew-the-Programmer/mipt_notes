@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/342-mipt-anmech-seminar-28-02-25.md",
+                "file": "notes/173-mipt-probability-theory-lecture-28-02-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "342-mipt-anmech-seminar-28-02-25"
+              "title": "173-mipt-probability-theory-lecture-28-02-25"
             }
           }
         ],
@@ -243,13 +243,19 @@
   },
   "active": "79365aa3e212140e",
   "lastOpenFiles": [
+    "notes/173-mipt-probability-theory-lecture-28-02-25.md~",
+    "notes/123-mipt-probability-theory-lecture-21-02-25.md~",
+    "courses/MIPT-probability-theory-2025.md",
+    "notes/123-mipt-probability-theory-lecture-21-02-25.md",
+    "notes/608-mipt-probability-theory-lecture-14-02-25.md",
+    "notes/835-формула-Байеса.md",
+    "notes/503-mipt-probability-theory-lecture-07-02-25.md",
     "notes/342-mipt-anmech-seminar-28-02-25.md~",
     "notes/885-mipt-anmech-seminar-14-02-25.md",
     "courses/MIPT-anmech-2025.md~",
     "notes/278-mipt-anmech-seminar-21-02-25.md~",
     "notes/342-mipt-anmech-seminar-28-02-25.md",
     "notes/173-mipt-probability-theory-lecture-28-02-25.md",
-    "notes/173-mipt-probability-theory-lecture-28-02-25.md~",
     "notes/777-mipt-computational-complexity-theory-lecture-28-02-25.md",
     "assets/imgs/1740735021.png",
     "courses/MIPT-probability-theory-2025.md~",
@@ -282,11 +288,6 @@
     "courses/MIPT-field-theory-2025.md",
     "notes/686-тензор.md",
     "notes/525-mipt-differential-equations-lecture-26-02-25.md",
-    "notes/759-mipt-differential-equations-lecture-12-02-25.md",
-    "notes/643-mipt-differential-equations-lecture-19-02-25.md",
-    "notes/680-mipt-differential-equations-seminar-19-02-25.md",
-    "courses/MIPT-differential-equations-2025.md",
-    "notes/725-mipt-field-theory-lecture-26-02-25.md",
-    "notes/258-mipt-field-theory-lecture-19-02-25.md"
+    "notes/759-mipt-differential-equations-lecture-12-02-25.md"
   ]
 }
