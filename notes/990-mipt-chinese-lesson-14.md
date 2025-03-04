@@ -55,4 +55,13 @@ tags: []
 开门 - kāimén - Open the door
 关门 - guānmén - close the door
 
+节日 - jiérì - festival
+假日 - jiǎrì - holiday
 
+图书馆 节假日 关门。
+
+带
+
+说定
+
+# Grammar
