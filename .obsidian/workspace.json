@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/695-mipt-physics-seminar-04-03-25.md",
+                "file": "notes/990-mipt-chinese-lesson-14.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "695-mipt-physics-seminar-04-03-25"
+              "title": "990-mipt-chinese-lesson-14"
             }
           }
         ],
@@ -242,6 +242,10 @@
   },
   "active": "79365aa3e212140e",
   "lastOpenFiles": [
+    "notes/990-mipt-chinese-lesson-14.md~",
+    "notes/695-mipt-physics-seminar-04-03-25.md",
+    "notes/990-mipt-chinese-lesson-14.md",
+    "notes/1738667846-mipt-chinese-lesson-13.md~",
     "notes/695-mipt-physics-seminar-04-03-25.md~",
     "assets/imgs/986786.png",
     "assets/imgs/786876.png",
@@ -253,7 +257,6 @@
     "assets/imgs/89769678.png",
     "assets/imgs/9865866878.png",
     "notes/438-mipt-harmonic-analysis-seminar-04-03-25.md",
-    "notes/695-mipt-physics-seminar-04-03-25.md",
     "notes/438-mipt-harmonic-analysis-seminar-04-03-25.md~",
     "notes/123-mipt-probability-theory-lecture-21-02-25.md",
     "notes/123-mipt-probability-theory-lecture-21-02-25.md~",
@@ -266,7 +269,6 @@
     "notes/613-вероятностное-пространство.md~",
     "notes/943-условная-вероятность.md~",
     "notes/249-независимые-события.md~",
-    "notes/817-формула-полной-вероятности.md~",
     "notes/539-mipt-physics-lecture-01-03-25.md",
     "notes/423-видность.md",
     "notes/955-mipt-physics-lecture-22-02-25.md",
@@ -285,7 +287,6 @@
     "notes/609-mipt-harmonic-analysis-lecture-20-02-25.md",
     "notes/925-mipt-harmonic-analysis-seminar-25-02-25.md",
     "notes/594-ядро-Дирихле.md",
-    "notes/567-теорема-Римана-Лебега.md",
-    "notes/373-p-np.md"
+    "notes/567-теорема-Римана-Лебега.md"
   ]
 }
