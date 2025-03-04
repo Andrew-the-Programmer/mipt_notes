@@ -32,6 +32,7 @@ tags: []
 
 栋 - dòng - сч. слово для строений
 
+楼 - lóu - building
 
 刷卡 - shuākǎ - Swipe the card
 
@@ -44,3 +45,10 @@ tags: []
 > 你可以介绍一下你的朋友吗？
 
 然后 - ránhòu - Then / after
+
+> 我们教室在走廊的尽头。
+
+楼梯 - lóutī  - Stairs
+电梯 - diàntī - elevator
+
+
