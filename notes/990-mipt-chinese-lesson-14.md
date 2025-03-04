@@ -32,6 +32,12 @@ tags: []
 
 里 - lǐ - inside
 前 - qián - front
+旁 - páng - beside
+后 - hòu - behind
+
 栋 - dòng - сч. слово для строений
+
+
+刷卡 - shuākǎ - Swipe the card
 
 
