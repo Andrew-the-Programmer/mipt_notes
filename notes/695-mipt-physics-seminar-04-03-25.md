@@ -11,3 +11,6 @@ tags: []
 
 # 6.20
 ![987238947.png](assets/imgs/987238947.png)
+
+# T6
+![T6.png](assets/imgs/T6.png)
