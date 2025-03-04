@@ -51,4 +51,8 @@ tags: []
 楼梯 - lóutī  - Stairs
 电梯 - diàntī - elevator
 
+> 开 / 光 - kāi / guāng - Open / [close / turn off]
+开门 - kāimén - Open the door
+关门 - guānmén - close the door
+
 
