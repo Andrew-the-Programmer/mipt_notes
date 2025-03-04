@@ -1,4 +1,7 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % GENERAL
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 \newcommand\tab[1][1]{\hspace{1cm}}
 \newcommand{\strikeQ}{\mathpalette\superimpose{{\textnormal{---}}{Q}}}
 
@@ -30,8 +33,19 @@
 \newcommand{\LebesgueMeasurableSets}[1][]{\MS[#1]}
 \newcommand{\LMS}[1][]{\LebesgueMeasurableSets[#1]}
 
+
+\DeclareMathOperator{\co}{co}
+\newcommand{\P}{\mathrm{P}}
+\newcommand{\NP}{\mathrm{NP}}
+\newcommand{\Exp}{\mathrm{Exp}}
+\newcommand{\NExp}{\mathrm{NExp}}
+\newcommand{\DTime}{\mathrm{DTime}}
+\newcommand{\NTime}{\mathrm{NTime}}
+\DeclareMathOperator{\Accept}{Accept}
+\DeclareMathOperator{\Halt}{Halt}
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% GENERAL
+% GENERAL MATH
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \newcommand{\mb}[1]{\stackrel{?}{#1}}
@@ -106,6 +120,7 @@
 \renewcommand{\exp}[1]{\mathrm{exp}\left(#1\right)}
 \newcommand{\e}[1]{e^{#1}}
 \newcommand{\avrg}[1]{\left<#1\right>}
+
 \DeclareMathOperator{\ch}{ch}
 \DeclareMathOperator{\sh}{sh}
 \DeclareMathOperator{\th}{th}
@@ -143,13 +158,6 @@
 \newcommand{\then}{\rightarrow}
 \newcommand{\hthen}{\hookrightarrow}
 
-\newcommand{\P}{\mathrm{P}}
-\newcommand{\NP}{\mathrm{NP}}
-\newcommand{\Exp}{\mathrm{Exp}}
-\newcommand{\NExp}{\mathrm{NExp}}
-\newcommand{\DTime}{\mathrm{DTime}}
-\newcommand{\NTime}{\mathrm{NTime}}
-
 \DeclareMathOperator{\Img}{Im} % Image
 \DeclareMathOperator{\Ker}{Ker} % Kernel
 \DeclareMathOperator{\rank}{rank}
@@ -165,12 +173,7 @@
 \DeclareMathOperator{\End}{End} % endomorphism
 \DeclareMathOperator{\rot}{rot} % endomorphism
 \DeclareMathOperator{\divv}{div} % endomorphism
-\DeclareMathOperator{\Accept}{Accept}
-\DeclareMathOperator{\Halt}{Halt}
 
-\DeclareMathOperator{\co}{co}
-\DeclareMathOperator{\tg}{tg}
-\DeclareMathOperator{\ctg}{ctg}
 \DeclareMathOperator{\Re}{Re}
 \DeclareMathOperator{\Im}{Im}
 
