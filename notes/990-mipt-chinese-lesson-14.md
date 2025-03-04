@@ -14,3 +14,10 @@ tags: []
 
 给 / 从 - to / from
 你可以借钱（给/从）我吗？
+
+读 / 看 书 - read [out loud / in mind]
+
+还是 - háishì
+或者 - huòzhě
+
+你爱我还是他？
