@@ -21,7 +21,11 @@ $$
 \AlignLeft{
 f \in C^{(m)}(T) - \textit{к.н.д. на окружности} \\
 f^{(k)}(-\pi) = f^{(k)}(\pi), \quad k \in [1,m-1] \\
-c_n(f^{(m)}) = \left(\frac{i}{n}^m
 }
+$$
+$$
+\Gather{
+c_n(f^{(m)}) = \left(\frac{n}{i}\right)^m \\
+\abs{c_n(f)}} = o\left(\frac{1}{n^m}\right)
 $$
 
