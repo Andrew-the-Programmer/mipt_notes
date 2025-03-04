@@ -26,3 +26,10 @@ tags: []
 
 # 6.59
 ![6.59.png](assets/imgs/6.59.png)
+$$
+\AlignLeft{
+m = \frac{D^2}{4\lambda l} = 25 \\
+E = 2 E_0 \\
+\Delta = \frac{r^2}{2} \left(\frac{1}{f} - \frac{1}{l}\right)
+}
+$$
