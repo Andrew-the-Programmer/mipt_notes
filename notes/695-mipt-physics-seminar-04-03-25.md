@@ -20,6 +20,9 @@ tags: []
 
 # 6.43
 ![6.43.png](assets/imgs/6.43.png)
+## Solution
+![986786.png](assets/imgs/986786.png)
+![786876.png](assets/imgs/786876.png)
 
 # 6.59
 ![6.59.png](assets/imgs/6.59.png)
