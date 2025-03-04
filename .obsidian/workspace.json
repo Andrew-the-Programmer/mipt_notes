@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/MIPT-probability-theory-2025.md",
+                "file": "notes/438-mipt-harmonic-analysis-seminar-04-03-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MIPT-probability-theory-2025"
+              "title": "438-mipt-harmonic-analysis-seminar-04-03-25"
             }
           }
         ],
@@ -242,6 +242,7 @@
   },
   "active": "79365aa3e212140e",
   "lastOpenFiles": [
+    "notes/438-mipt-harmonic-analysis-seminar-04-03-25.md~",
     "notes/123-mipt-probability-theory-lecture-21-02-25.md",
     "notes/123-mipt-probability-theory-lecture-21-02-25.md~",
     "assets/imgs/IMG_20250221_122530-295.png",

@@ -10,6 +10,12 @@ tags: []
 $$
 \Gather{
 (1)\quad \sum{\frac{1}{\ln{n}} \sin{nx}} \\
-(2)\quad \sum{\frac{1}{\ln{n}} \sin{nx}}
+(2)\quad \sum{\frac{1}{\ln{n}} \cos{nx}}
 }
+$$
+(1) ряд является рядом Фурье
+(2) - нет
+
+$$
+
 $$
