@@ -26,7 +26,8 @@ $$
 $$
 \Gather{
 c_n(f^{(m)}) = \left(\frac{n}{i}\right)^m c_n(f) \\
-\abs{c_n(f)} = o\left(\frac{1}{n^m}\right)
+\abs{c_n(f)} = o\left(\frac{1}{n^m}\right) \\
+\sup{\abs{f(x) - S_n(x)}} = o\left(\frac{1}{n^{m - \frac{1}{2}}}\right)
 }
 $$
 
