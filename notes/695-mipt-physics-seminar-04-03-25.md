@@ -30,6 +30,9 @@ $$
 \AlignLeft{
 m = \frac{D^2}{4\lambda l} = 25 \\
 E = 2 E_0 \\
-\Delta = \frac{r^2}{2} \left(\frac{1}{f} - \frac{1}{l}\right)
+\Delta = \frac{r^2}{2} \left(\frac{1}{f} - \frac{1}{l}\right) \\
+m_1 = \frac{\Delta}{\lambda / 2} = 12.5 \\
+m \pi E_0 = m_1 \pi E_1 \\
+E_2 = E_1 \sqrt{2} = 2\sqrt{2} E_0
 }
 $$
