@@ -19,3 +19,7 @@ tags: []
 ![6.64.png](assets/imgs/6.64.png)
 
 # 6.43
+![6.43.png](assets/imgs/6.43.png)
+
+# 6.59
+![6.59.png](assets/imgs/6.59.png)
