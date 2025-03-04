@@ -30,11 +30,6 @@ tags: []
 请你...我一下。
 麻烦你...我...一下。
 
-里 - lǐ - inside
-前 - qián - front
-旁 - páng - beside
-后 - hòu - behind
-
 栋 - dòng - сч. слово для строений
 
 
@@ -48,4 +43,4 @@ tags: []
 介绍 - jièshào - introduce
 > 你可以介绍一下你的朋友吗？
 
-
+然后 - ránhòu - Then / after
