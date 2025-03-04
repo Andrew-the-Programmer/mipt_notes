@@ -65,3 +65,7 @@ tags: []
 说定
 
 # Grammar
+# 过 - guò
+![chigr123.png](assets/imgs/chigr123.png)
+![chigr234.png](assets/imgs/chigr234.png)
+![chigr4667.png](assets/imgs/chigr4667.png)
