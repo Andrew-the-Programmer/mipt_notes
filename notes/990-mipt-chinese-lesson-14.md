@@ -40,4 +40,12 @@ tags: []
 
 刷卡 - shuākǎ - Swipe the card
 
+讲座 - jiǎngzuò - Lecture
+国际 - guójì - international
+学术 - xuéshù - Academic
+会议 - huìyì - Meeting
+
+介绍 - jièshào - introduce
+> 你可以介绍一下你的朋友吗？
+
 
