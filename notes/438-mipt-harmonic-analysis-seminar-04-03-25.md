@@ -25,7 +25,8 @@ f^{(k)}(-\pi) = f^{(k)}(\pi), \quad k \in [1,m-1] \\
 $$
 $$
 \Gather{
-c_n(f^{(m)}) = \left(\frac{n}{i}\right)^m \\
-\abs{c_n(f)}} = o\left(\frac{1}{n^m}\right)
+c_n(f^{(m)}) = \left(\frac{n}{i}\right)^m c_n(f) \\
+\abs{c_n(f)} = o\left(\frac{1}{n^m}\right)
+}
 $$
 
