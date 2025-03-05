@@ -13,7 +13,17 @@ S \defeq c \D \tau \\
 \d S = c \d \tau = c \d t \sqrt{1 - \frac{v^2}{c^2}} \\
 \frac{\d S}{c \d t} = \frac{1}{\gamma(t)} \\
 x^\mu(t) \to x^\mu(S) \\
-u^\mu \defeq \dv{S}{x^\mu} - \textit{4-вектор} \\
-({{u}^{'}})^{\mu} = \Lambda_\nu^\mu u^\nu
+u^\mu \defeq \dv{S}{x^\mu} - \textit{4-скорость} \\
+({{u}^{'}})^{\mu} = \Lambda_\nu^\mu u^\nu \\
+u^\mu = \Pmatrix{
+\gamma(t) \\
+\gamma(t) \frac{\vec{v}(t)}{c}
+} \\
+u_\mu u^\mu = 1 \\
+u_\mu w^\mu = 0 \\
 }
+$$
+Действие
+$$
+S - \textit{функционал от траектории}
 $$
