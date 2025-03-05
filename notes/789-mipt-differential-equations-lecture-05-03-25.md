@@ -64,4 +64,19 @@ W(x) = W(x_0) \exp{\int_{x_0}^{x}{\tr{A}(t) \d t}}
 $$
 
 ## Proof
+$$
+\AlignLeft{
+\dv{x}{W} = \sum_{k=1}^{n}{\det Y^k} \\
+Y = \Pmatrix{
+y_1^1 & \dots & y_1^n \\
+& \ddots & \\
 
+} \\
+Y^k \defeq \Pmatrix{
+Y[1:k-1] \\
+\Dv{x}{y_k^j} \\
+Y[k+1:n] \\
+} \\
+
+}
+$$
