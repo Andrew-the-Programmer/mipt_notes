@@ -83,3 +83,15 @@ Y[k+1:n] \\
 \frac{\d W}{W} = \tr A \d x
 }
 $$
+# Следствие.
+$$
+\AlignLeft{
+A = \Pmatrix{
+& E_n & \\
+-\frac{a_n}{a_0} & \dots & -\frac{a_1}{a_0}
+}
+}
+$$
+$$
+W(x) = W(x_0) \exp{-\int_{x_0}^{x}{\frac{a_1(t)}{a_0(t)} \d t}}
+$$
