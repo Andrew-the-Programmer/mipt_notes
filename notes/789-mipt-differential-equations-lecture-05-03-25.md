@@ -68,15 +68,18 @@ $$
 \AlignLeft{
 \dv{x}{W} = \sum_{k=1}^{n}{\det Y^k} \\
 Y = \Pmatrix{
+\vec{{y}^{1}} & \dots & \vec{{y}^{n}}
+} = \Pmatrix{
 y_1^1 & \dots & y_1^n \\
-& \ddots & \\
-
+& \dots & \\
+y_n^1 & \dots & y_n^n
 } \\
 Y^k \defeq \Pmatrix{
 Y[1:k-1] \\
 \Dv{x}{y_k^j} \\
 Y[k+1:n] \\
 } \\
-
+\det Y^k = a_{kk} \det Y \\
+\frac{\d W}{W} = \tr A \d x
 }
 $$
