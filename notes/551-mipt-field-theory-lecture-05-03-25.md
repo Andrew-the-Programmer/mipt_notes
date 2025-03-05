@@ -73,7 +73,7 @@ e_{ijk} ({r}_{u}^{'})_j ({r}_{u}^{'})_k \d u \d v =
 $$
 
 $$
-\int_{\rot{A} \d S} = 
+\int{\rot{A} \d S} = 
 \frac{1}{2} \int{e_{ilm}\ \partial_l A_m\ e_{ijk}\ \d{S_{jk}}} =
 \frac{1}{2} \int{\left(\partial_j A_k - \partial_k A_j\right) \d S_{jk}}
 $$
@@ -83,3 +83,9 @@ $$
 $$
 \oint{A_\mu \d x^\mu} = \int{\left(\partial_\mu A_\nu - \partial_\nu A_\mu\right) \d S^{\mu\nu}}
 $$
+
+# Движение свободной релятивисткой частицы
+# Мировая линия
+$-$ траектория в пространстве Минковского $x^\mu(t)$.
+
+# Скорость
