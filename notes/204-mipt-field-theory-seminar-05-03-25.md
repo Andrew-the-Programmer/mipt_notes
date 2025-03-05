@@ -36,3 +36,5 @@ $$
 S \stackrel{let}{=} \int{L(q, \dot{q}, t) \d t}
 }
 $$
+
+![805.png](assets/imgs/805.png)
