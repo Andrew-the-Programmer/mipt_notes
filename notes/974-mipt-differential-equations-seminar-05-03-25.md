@@ -52,5 +52,12 @@ $$
 ![558.png](assets/imgs/558.png)
 
 # T5
+![964.png](assets/imgs/964.png)
+![186.png](assets/imgs/186.png)
+![941.png](assets/imgs/941.png)
+
+
+
+
 
 
