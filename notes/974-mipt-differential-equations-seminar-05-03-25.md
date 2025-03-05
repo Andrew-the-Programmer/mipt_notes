@@ -36,4 +36,4 @@ $$
 
 # 10.2
 ![549.png](assets/imgs/549.png)
-
+![781.png](assets/imgs/781.png)
