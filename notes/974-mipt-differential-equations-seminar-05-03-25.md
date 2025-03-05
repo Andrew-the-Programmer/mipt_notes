@@ -36,28 +36,28 @@ $$
 ![725.png](assets/imgs/725.png)
 
 # 10.2
+
 ![549.png](assets/imgs/549.png)
 ![781.png](assets/imgs/781.png)
 
 # 10.3
+
 ![891.png](assets/imgs/891.png)
 ![683.png](assets/imgs/683.png)
 
 # T4
+
 ![205.png](assets/imgs/205.png)
 ![553.png](assets/imgs/553.png)
 
 # T6
+
 ![119.png](assets/imgs/119.png)
 ![558.png](assets/imgs/558.png)
 
 # T5
+
 ![964.png](assets/imgs/964.png)
 ![186.png](assets/imgs/186.png)
 ![941.png](assets/imgs/941.png)
-
-
-
-
-
-
+![720.png](assets/imgs/720.png)
