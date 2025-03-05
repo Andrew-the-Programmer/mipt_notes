@@ -19,6 +19,7 @@ $$
 $$
 
 ![512.png](assets/imgs/512.png)
+![250.png](assets/imgs/250.png)
 
 # Задачки
 
@@ -42,3 +43,5 @@ $$
 ![891.png](assets/imgs/891.png)
 ![683.png](assets/imgs/683.png)
 
+# T4
+![205.png](assets/imgs/205.png)
