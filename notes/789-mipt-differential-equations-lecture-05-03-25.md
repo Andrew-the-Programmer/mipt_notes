@@ -17,6 +17,18 @@ y_1 \\
 \dots \\
 y_n
 } \\
-\dv{x}{\vec{y}} = A \vec{y} + \vec{F}
+\dv{x}{\vec{y}} = A \vec{y} + \vec{F} \\
+A = \Pmatrix{
+& E_n & \\
+-\frac{a_n}{a_0} & \dots & -\frac{a_1}{a_0}
+}, \quad F = \Pmatrix{
+0 \\
+\dots \\
+0 \\
+\frac{f(x)}{a_0(x)}
+}
 }
 $$
+
+
+# Lemma 1.
