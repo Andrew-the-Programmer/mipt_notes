@@ -29,6 +29,12 @@ A = \Pmatrix{
 }
 }
 $$
-
+![98676.png](assets/imgs/98676.png)
 
 # Lemma 1.
+![98976875.png](assets/imgs/98976875.png)
+![9865543.png](assets/imgs/9865543.png)
+
+# Lemma 3. (Правило дифференцирования детерминанта)
+![3457454.png](assets/imgs/3457454.png)
+
