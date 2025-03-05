@@ -6,9 +6,11 @@ tags: []
 ---
 
 # MIPT differential equations lecture 05-03-25
+
 $$
 \sum_{k=0}^{n}{a_k(x) {y}^{(n-k)}(x)} = f(x)
 $$
+
 $$
 \Gather{
 y_{k+1} = {y}^{(k)}, \quad k = 0,\dots,n \\
@@ -29,19 +31,37 @@ A = \Pmatrix{
 }
 }
 $$
+
 ![98676.png](assets/imgs/98676.png)
 
 # Lemma 1.
+
 ![98976875.png](assets/imgs/98976875.png)
 ![9865543.png](assets/imgs/9865543.png)
 
 # Lemma 2.
+
 ![9865543.png](assets/imgs/9865543.png)
 
 # Lemma 3. (Правило дифференцирования детерминанта)
+
 ![3457454.png](assets/imgs/3457454.png)
 
 # Theorem 1. Формула Лиувилля-Остроградского.
+
 $$
-\dv{x}{\vec{y}} = A \vec{y}, \quad A = (a_{ij}(x))
+\AlignLeft{
+\dv{x}{\vec{y}} = A \vec{y}\\
+A = (a_{ij}(x))\\
+a_{ij}(x) \in C \\
+Y - \textit{ФСР} \\
+W \defeq \det Y \\
+}
 $$
+
+$$
+W(x) = W(x_0) \exp{\int_{x_0}^{x}{\tr{A}(t) \d t}}
+$$
+
+## Proof
+
