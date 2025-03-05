@@ -13,3 +13,15 @@ $$
 {z}^{''} + Q(x) z = 0 \\
 }
 $$
+
+# Theory.
+![512.png](assets/imgs/512.png)
+
+# Задачки
+![536.png](assets/imgs/536.png)
+
+# 726
+![264.png](assets/imgs/264.png)
+
+# 723
+
