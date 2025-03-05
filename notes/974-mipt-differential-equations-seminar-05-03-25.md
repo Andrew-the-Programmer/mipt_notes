@@ -40,3 +40,5 @@ $$
 
 # 10.3
 ![891.png](assets/imgs/891.png)
+![683.png](assets/imgs/683.png)
+
