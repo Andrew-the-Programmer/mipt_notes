@@ -53,3 +53,7 @@ $\varphi \to (\psi, m^{H(m)})$
 $\abs{\varphi} = n$
 $m^{H(m)} \le n^j$ 
 $m \le n^{\frac{j}{H(n)}} \le \sqrt{n}$
+\
+$H(m) \to \infty$
+Построим вычислимую за полином $H(m)$:
+Пусть $\set{M_i}$ - полиномиальные ДМТ.
