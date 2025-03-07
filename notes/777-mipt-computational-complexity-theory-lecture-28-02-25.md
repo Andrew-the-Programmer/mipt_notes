@@ -42,11 +42,13 @@ L \in NP \setminus P \\
 L \not\in \text{NP-complete} \\
 }
 $$
+## Proof
 
 $H: \NN \to \NN - \textit{не убывает}$
 $SAT_H = \set{\left(\varphi, (1^n)^{H(n)}\right) \mid n = \abs{\varphi}, \varphi \in SAT}$
 $H \sim const \implies SAT_H \in \text{NP-c}$
 $SAT_H \in \text{NP-c} \implies SAT \le SAT_H$
+\
 $\varphi \to (\psi, m^{H(m)})$
 $\abs{\varphi} = n$
 $m^{H(m)} \le n^j$ 
