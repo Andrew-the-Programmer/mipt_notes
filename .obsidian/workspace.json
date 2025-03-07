@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/256-mipt-anmech-seminar-07-03-25.md",
+                "file": "notes/342-mipt-anmech-seminar-28-02-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "256-mipt-anmech-seminar-07-03-25"
+              "title": "342-mipt-anmech-seminar-28-02-25"
             }
           },
           {
@@ -266,6 +266,8 @@
   },
   "active": "79365aa3e212140e",
   "lastOpenFiles": [
+    "courses/MIPT-anmech-2025.md",
+    "notes/256-mipt-anmech-seminar-07-03-25.md",
     "notes/256-mipt-anmech-seminar-07-03-25.md~",
     "assets/imgs/195.png",
     "assets/imgs/493.png",
@@ -279,7 +281,6 @@
     "assets/imgs/IMG_20250307_172701.jpg",
     "notes/4913",
     "courses/MIPT-anmech-2025.md~",
-    "notes/256-mipt-anmech-seminar-07-03-25.md",
     "notes/133-mipt-computational-complexity-theory-lecture-07-03-25.md~",
     "notes/1733649408-арифметическая-иерархия.md",
     "notes/133-mipt-computational-complexity-theory-lecture-07-03-25.md",
