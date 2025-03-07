@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/133-mipt-computational-complexity-theory-lecture-07-03-25.md",
+                "file": "notes/777-mipt-computational-complexity-theory-lecture-28-02-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "133-mipt-computational-complexity-theory-lecture-07-03-25"
+              "title": "777-mipt-computational-complexity-theory-lecture-28-02-25"
             }
           }
         ],
@@ -242,11 +242,11 @@
   },
   "active": "79365aa3e212140e",
   "lastOpenFiles": [
-    "notes/777-mipt-computational-complexity-theory-lecture-28-02-25.md",
-    "courses/MIPT-computational-complexity-theory-2025.md~",
-    "notes/133-mipt-computational-complexity-theory-lecture-07-03-25.md~",
     "notes/133-mipt-computational-complexity-theory-lecture-07-03-25.md",
     "notes/777-mipt-computational-complexity-theory-lecture-28-02-25.md~",
+    "notes/133-mipt-computational-complexity-theory-lecture-07-03-25.md~",
+    "notes/777-mipt-computational-complexity-theory-lecture-28-02-25.md",
+    "courses/MIPT-computational-complexity-theory-2025.md~",
     "notes/974-mipt-differential-equations-seminar-05-03-25.md",
     "notes/974-mipt-differential-equations-seminar-05-03-25.md~",
     "assets/imgs/720.png",
@@ -286,7 +286,6 @@
     "notes/955-mipt-physics-lecture-22-02-25.md",
     "notes/916-mipt-physics-lecture-01-02-25.md",
     "sources/physics/lectures_2025.md",
-    "courses/MIPT-physics-2025.md",
-    "notes/608-mipt-probability-theory-lecture-14-02-25.md"
+    "courses/MIPT-physics-2025.md"
   ]
 }

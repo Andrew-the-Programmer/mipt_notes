@@ -34,7 +34,7 @@ $\varphi \to (G,k)$
 
 $k = 2m$
 
-# Theorem. Ла
+# Theorem. Ладнера
 
 $$
 P \neq NP \implies \exists L : \Cases{
