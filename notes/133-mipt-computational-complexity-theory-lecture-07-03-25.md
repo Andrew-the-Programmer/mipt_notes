@@ -34,9 +34,9 @@ $$
 
 # Theorem. (типа т. Поста №2)
 $$
-\Sigma_n^P = \set{L \mid (
+\Sigma_n^P = \set{L \mid \group{
 x \in L \same 
 \exists y_1 \forall y_2 \dots \forall\exists y_n : P(x, y_1, \dots, y_n)
-}
+}}
 $$
 $P$ - полиномиальный предикат
