@@ -20,7 +20,8 @@ $$
 \Sigma_{n+1}^p \defeq \set{L \mid \exists\ \text{ПДМТО}\ {N}^{(\cdot)} : 
 \exists B \in \Sigma_{n}^{P} : L = Accept(N^B)
 } \\
-\Pi_n^P \defeq \co \Sigma_n^P
+\Pi_n^P \defeq \co \Sigma_n^P \\
+PH \defeq \bigcup{\Sigma_n^P}
 }
 $$
 
@@ -43,5 +44,15 @@ $$
 $P$ - полиномиальный предикат
 
 # .
+Пусть
 1. $m,n > 0,\quad m \le n$
+2. $\Sigma_m^P = \Pi_n^P$
+Тогда
 $$
+\Sigma_m^P = \Sigma_{m+1}^P
+$$
+
+# Гипотезы.
+1. $P \neq NP$
+2. $NP \neq \co NP$
+3. $NP \neq \co NP$
