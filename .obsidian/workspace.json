@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/133-mipt-computational-complexity-theory-lecture-07-03-25.md",
+                "file": "notes/777-mipt-computational-complexity-theory-lecture-28-02-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -76,19 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "133-mipt-computational-complexity-theory-lecture-07-03-25"
-            }
-          },
-          {
-            "id": "15bcc4bcaecdea4f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.9"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
+              "title": "777-mipt-computational-complexity-theory-lecture-28-02-25"
             }
           }
         ],
@@ -229,8 +217,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -243,18 +231,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "79365aa3e212140e",
   "lastOpenFiles": [
     "notes/133-mipt-computational-complexity-theory-lecture-07-03-25.md~",
+    "preamble.sty~",
     "notes/4913",
     "notes/777-mipt-computational-complexity-theory-lecture-28-02-25.md~",
     "notes/133-mipt-computational-complexity-theory-lecture-07-03-25.md",
@@ -282,7 +271,6 @@
     "notes/789-mipt-differential-equations-lecture-05-03-25.md",
     "courses/MIPT-field-theory-2025.md~",
     "notes/545-mipt-field-theory-seminar-26-02-25.md~",
-    "notes/789-mipt-differential-equations-lecture-05-03-25.md~",
     "notes/551-mipt-field-theory-lecture-05-03-25.md",
     "notes/686-тензор.md",
     "notes/1738738971-пространство-время-Минковского.md",
