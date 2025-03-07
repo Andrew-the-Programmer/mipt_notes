@@ -7,3 +7,6 @@ tags: []
 
 # MIPT computational complexity theory lecture 07-03-25
 
+$$
+P^B
+$$

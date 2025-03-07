@@ -59,6 +59,16 @@ $H(m) \to \infty$
 Пусть $\set{M_i}$ - полиномиальные ДМТ.
 Пусть $s_j : \abs{s} < \log{m}$.
 ```python
+S = [s_j for s_j in (0,1)* if len(s_j) < log(m)]
+
 for i = 1 ;; ++i:
-    for j = 1 ;; ++j:
+    for s_j in S:
+        if not s_j in SAT_H: # o(m)
+            continue
+        res = M(s_j, steps=len(s_j)**log(log(m))
+        if res in (-1, 0):
+            continue
+        # res == 1
+        return i
 ```
+Работает за полином.
