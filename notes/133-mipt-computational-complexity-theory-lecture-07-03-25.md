@@ -32,7 +32,7 @@ $$
 }
 $$
 
-# Theorem. (Поста №2, возможно)
+# Theorem. (типа Поста №2, возможно)
 $$
 \Sigma_n^P = \set{L \mid (
 x \in L \same 
