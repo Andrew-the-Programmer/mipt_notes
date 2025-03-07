@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/133-mipt-computational-complexity-theory-lecture-07-03-25.md",
+                "file": "notes/256-mipt-anmech-seminar-07-03-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,19 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "133-mipt-computational-complexity-theory-lecture-07-03-25"
+              "title": "256-mipt-anmech-seminar-07-03-25"
+            }
+          },
+          {
+            "id": "0c0f20954b9425ed",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
             }
           },
           {
