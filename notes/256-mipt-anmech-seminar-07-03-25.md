@@ -23,11 +23,11 @@ $$
 
 # Необходимое условие.
 
-![IMG_20250307_172058.jpg](assets/imgs/IMG_20250307_172058.jpg)
+$$
+a_i > 0 \quad \forall i
+$$
 
-$$
-a_0 > 0 \implies a_i > 0 \quad \forall i
-$$
+![IMG_20250307_172058.jpg](assets/imgs/IMG_20250307_172058.jpg)
 
 # Критерий Рауса-Гурвица.
 
