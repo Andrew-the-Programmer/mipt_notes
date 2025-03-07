@@ -51,6 +51,9 @@ $$
 ![IMG_20250307_173824.jpg](assets/imgs/IMG_20250307_173824.jpg)
 ![IMG_20250307_174445.jpg](assets/imgs/IMG_20250307_174445.jpg)
 ![IMG_20250307_174458.jpg](assets/imgs/IMG_20250307_174458.jpg)
+![229.png](assets/imgs/229.png)
 
 # 17.12a
 
+![493.png](assets/imgs/493.png)
+![195.png](assets/imgs/195.png)
