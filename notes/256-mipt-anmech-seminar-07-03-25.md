@@ -1,0 +1,10 @@
+---
+id: 256-mipt-anmech-seminar-07-03-25
+aliases:
+  - MIPT anmech seminar 07-03-25
+tags: []
+---
+
+# MIPT anmech seminar 07-03-25
+Ассимптотическая устойчивость диссипативных систем
+
