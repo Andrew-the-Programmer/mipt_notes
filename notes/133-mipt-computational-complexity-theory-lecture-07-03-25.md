@@ -29,6 +29,7 @@ $$
 $$
 \Gather{
 \Sigma_1^P = NP \\
+\Sigma_n^P \cup \Pi_n^P \subseteq \Sigma_{n+1}^P \cap \Pi_{n+1}^P \\
 }
 $$
 
@@ -40,3 +41,6 @@ x \in L \same
 }}
 $$
 $P$ - полиномиальный предикат
+
+# .
+$m,n > 0,\quad m \le n$

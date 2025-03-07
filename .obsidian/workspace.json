@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/1733649408-арифметическая-иерархия.md",
+                "file": "notes/133-mipt-computational-complexity-theory-lecture-07-03-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1733649408-арифметическая-иерархия"
+              "title": "133-mipt-computational-complexity-theory-lecture-07-03-25"
             }
           },
           {
@@ -255,9 +255,10 @@
   "active": "79365aa3e212140e",
   "lastOpenFiles": [
     "notes/133-mipt-computational-complexity-theory-lecture-07-03-25.md~",
+    "notes/1733649408-арифметическая-иерархия.md",
+    "notes/4913",
     "notes/133-mipt-computational-complexity-theory-lecture-07-03-25.md",
     "notes/1733649408-арифметическая-иерархия.md~",
-    "notes/4913",
     "preamble.sty~",
     "notes/777-mipt-computational-complexity-theory-lecture-28-02-25.md~",
     "notes/777-mipt-computational-complexity-theory-lecture-28-02-25.md",
@@ -297,7 +298,6 @@
     "notes/423-видность.md",
     "notes/955-mipt-physics-lecture-22-02-25.md",
     "notes/916-mipt-physics-lecture-01-02-25.md",
-    "sources/physics/lectures_2025.md",
-    "courses/MIPT-physics-2025.md"
+    "sources/physics/lectures_2025.md"
   ]
 }
