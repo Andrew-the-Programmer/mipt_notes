@@ -63,4 +63,11 @@ $$
 
 ![11-03-25_11-40-01_173.png](assets/imgs/11-03-25_11-40-01_173.png)
 
+$$
+\AlignLeft{
+\textit{Диффракционный предел человека:}\quad \frac{\lambda}{d} \approx \frac{1}{6} 10^{-3} \\
+\textit{Угловой размер маяка:}\quad \alpha = \frac{R}{H} \approx \frac{10^{-4}}{4} \\
+E_1 = \frac{J_0 \frac{\pi d^2}{4}}{\group{\frac{\lambda}{d}}^2 b^2}
 
+}
+$$
