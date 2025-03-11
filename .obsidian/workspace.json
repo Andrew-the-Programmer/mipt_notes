@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/342-mipt-anmech-seminar-28-02-25.md",
+                "file": "notes/371-mipt-harmonic-analysis-seminar-11-03-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "342-mipt-anmech-seminar-28-02-25"
+              "title": "371-mipt-harmonic-analysis-seminar-11-03-25"
             }
           },
           {
@@ -266,6 +266,11 @@
   },
   "active": "79365aa3e212140e",
   "lastOpenFiles": [
+    "notes/438-mipt-harmonic-analysis-seminar-04-03-25.md",
+    "notes/371-mipt-harmonic-analysis-seminar-11-03-25.md~",
+    "courses/MIPT-harmonic-analysis-2025.md~",
+    "notes/371-mipt-harmonic-analysis-seminar-11-03-25.md",
+    "notes/438-mipt-harmonic-analysis-seminar-04-03-25.md~",
     "notes/342-mipt-anmech-seminar-28-02-25.md~",
     "assets/imgs/IMG_20250228_181503_edit_225997849918006.jpg",
     "assets/imgs/IMG_20250228_181419_edit_226013945802791.jpg",
@@ -287,11 +292,8 @@
     "notes/1733649408-арифметическая-иерархия.md",
     "notes/133-mipt-computational-complexity-theory-lecture-07-03-25.md",
     "notes/1733649408-арифметическая-иерархия.md~",
-    "preamble.sty~",
     "notes/777-mipt-computational-complexity-theory-lecture-28-02-25.md",
-    "courses/MIPT-computational-complexity-theory-2025.md~",
     "notes/974-mipt-differential-equations-seminar-05-03-25.md",
-    "notes/974-mipt-differential-equations-seminar-05-03-25.md~",
     "notes/775-mipt-differential-equations-seminar-26-02-25.md",
     "courses/MIPT-differential-equations-2025.md",
     "notes/204-mipt-field-theory-seminar-05-03-25.md",
@@ -304,12 +306,10 @@
     "notes/504-chinese-过-guò,guo-present-past-perfect.md",
     "notes/1728386021-chinese-directions.md",
     "notes/695-mipt-physics-seminar-04-03-25.md",
-    "notes/438-mipt-harmonic-analysis-seminar-04-03-25.md",
     "notes/123-mipt-probability-theory-lecture-21-02-25.md",
     "notes/613-вероятностное-пространство.md",
     "notes/723-формула-включений-исключений.md",
     "notes/539-mipt-physics-lecture-01-03-25.md",
-    "notes/423-видность.md",
-    "notes/955-mipt-physics-lecture-22-02-25.md"
+    "notes/423-видность.md"
   ]
 }
