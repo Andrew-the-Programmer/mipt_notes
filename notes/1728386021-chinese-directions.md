@@ -82,3 +82,4 @@ place (direction / location) + 是 + obj.
 主楼东南边是New 楼。
 New 楼东南边是数学楼。
 
+你们柴柴去在
