@@ -38,10 +38,14 @@ Up, down, left, right, front, back, inside, outside (+ edge/face)
 
 旁边,中间,对面,附近,周围
 pángbiān,zhōngjiān,duìmiàn,fùjìn,zhōuwéi
-Next, middle, opposite, nearby, around
+beside, middle, opposite, nearby, around
+
+旁边 - pángbiān - beside
+中间 - zhōngjiān - middle
+对面 - duìmiàn - opposite
+附近 - fùjìn - nearby
+周围 - zhōuwéi - around
 
 东、西、南、北
 dōng、xī、nán、běi
 East, West, South, North
-
-
