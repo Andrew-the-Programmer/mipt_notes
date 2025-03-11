@@ -29,9 +29,12 @@ $$
 
 ![11-03-25_11-09-26_112.png](assets/imgs/11-03-25_11-09-26_112.png)
 
+![[1741680794.svg]]
 $$
 \AlignLeft{
-
+h \approx F \\
+\frac{2}{n l} = \frac{h}{H} \\
+h = \frac{2H}{nl}
 }
 $$
 
