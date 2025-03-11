@@ -55,3 +55,8 @@ $$
 $$
 f(x) = \sum_{p=1}^{\infty} \frac{1}{p^2} \sin{((2^{(p^3)} + 1) \frac{x}{2})}
 $$
+$$
+f \in C,\quad f(0) = 0 \\
+g_a(x) \defeq \sin\group{\frac{2a + 1}{2} x} \\
+a_{n,g} = 
+$$
