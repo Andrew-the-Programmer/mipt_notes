@@ -55,6 +55,7 @@ $$
 $$
 f(x) = \sum_{p=1}^{\infty} \frac{1}{p^2} \sin{((2^{(p^3)} + 1) \frac{x}{2})}
 $$
+
 $$
 \AlignLeft{
 f \in C,\quad f(0) = 0 \\
@@ -69,16 +70,19 @@ S_{k,\nu} \le \frac{1}{2} a_{0,\nu},\quad k > \nu \\
 S_{\nu,\nu} \ge \frac{1}{2} \ln\group{4\nu + 3} \ge \frac{1}{2} \ln\group{\nu} \\
 a_n(f) = \frac{2}{\pi} \sum_{p\in\NN}{\frac{1}{p^2} a_{n,2^{(p^3)}}} \\
 S_k(f) = \frac{2}{\pi} \sum_{p\in\NN}{\frac{1}{p^2} S_{k,2^{(p^3 - 1)}}} \\
-S_{2^{(p^3 - 1)}} \ge C \frac{1}{p^2} S_{2^{(p^3 - 1)},2^{(p^3 - 1)}} \ge 
+S_{2^{(p^3 - 1)}} \ge C \frac{1}{p^2} S_{2^{(p^3 - 1)},2^{(p^3 - 1)}} \ge
 C p \to \infty
 }
 $$
 
 # 5
+
 $$
 f(x) \defeq \sum_{}^{}{\frac{\sin{nx}}{n^2}}
 $$
+
 Исследуем дифф. в 0.
+
 $$
 \AlignLeft{
 f(0) = 0 \\
@@ -89,3 +93,20 @@ S_n(x) \defeq \sum_{k\in\NN}{\sin{kx}} \\
 \frac{f(x)}{x} \to \infty,\quad x \to 0
 }
 $$
+
+# Банахова алгебра
+
+$$
+\Gather{
+\group{V, \norm{\cdot}, \cdot} \\
+\cdot : V \times V \to V \\
+\norm{ab} \le \norm{a} \norm{b}
+}
+$$
+
+# Свертка
+$$
+(f \star g)(x) \defeq \int_{-\infty}^{+\infty}{f(t) g(x - t) \d t}
+$$
+1. Ассоциативна
+2. Коммутативна

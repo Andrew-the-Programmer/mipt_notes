@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/416-банахово-пространство.md",
+                "file": "notes/371-mipt-harmonic-analysis-seminar-11-03-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "416-банахово-пространство"
+              "title": "371-mipt-harmonic-analysis-seminar-11-03-25"
             }
           },
           {
@@ -267,6 +267,7 @@
   "active": "79365aa3e212140e",
   "lastOpenFiles": [
     "notes/371-mipt-harmonic-analysis-seminar-11-03-25.md~",
+    "notes/416-банахово-пространство.md",
     "notes/371-mipt-harmonic-analysis-seminar-11-03-25.md",
     "notes/594-ядро-Дирихле.md",
     "notes/594-ядро-Дирихле.md~",
@@ -309,7 +310,6 @@
     "notes/695-mipt-physics-seminar-04-03-25.md",
     "notes/123-mipt-probability-theory-lecture-21-02-25.md",
     "notes/613-вероятностное-пространство.md",
-    "notes/723-формула-включений-исключений.md",
-    "notes/539-mipt-physics-lecture-01-03-25.md"
+    "notes/723-формула-включений-исключений.md"
   ]
 }
