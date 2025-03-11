@@ -56,7 +56,13 @@ $$
 f(x) = \sum_{p=1}^{\infty} \frac{1}{p^2} \sin{((2^{(p^3)} + 1) \frac{x}{2})}
 $$
 $$
+\AlignLeft{
 f \in C,\quad f(0) = 0 \\
-g_a(x) \defeq \sin\group{\frac{2a + 1}{2} x} \\
-a_{n,g} = 
+g_\nu(x) \defeq \sin\group{\frac{2\nu + 1}{2} x} \\
+a_{n,\nu} \defeq \int_0^\pi{\cos{(nx)} g_\nu(x) \d x} =
+\frac{\nu + \frac{1}{2}}{(\nu + \frac{1}{2})^2 - n^2} \\
+a_{n,\nu} > 0, \quad n \le \nu \\
+a_{n,\nu} < 0, \quad n > \nu \\
+\sum_{n\in\NN}{a_{n,\nu}} = \frac{1}{2} a_{0,\nu}
+}
 $$
