@@ -79,3 +79,6 @@ place (direction / location) + 是 + obj.
 大学中间是主楼。
 主楼北边是。。。楼。
 主楼的北边有Au 楼。
+主楼东南边是New 楼。
+New 楼东南边是数学楼。
+
