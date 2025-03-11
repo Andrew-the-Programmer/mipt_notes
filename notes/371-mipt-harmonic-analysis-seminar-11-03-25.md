@@ -35,12 +35,17 @@ $$
 \exists \alpha \in (0,1) : c_n = o(\frac{1}{n^{1+\alpha}}) \\
 \implies \\
 \textit{f гельдерова} \\
+\\
 \abs{\frac{e^{-inx} - e^{-iny}}{x - y}} \le \min\set{\frac{2}{x-y}, 2n} \\
 \abs{f(x) - f(y)} = \abs{\sum{c_n \group{e^{-inx} - e^{-iny}}}} \le 
 \sum{\abs{c_n} \abs{e^{-inx} - e^{-iny}}} = \\
-= \sum_{n < \frac{1}{\abs{x-y}}}{2n \abs{x-y}} +
+= \sum_{n < \frac{1}{\abs{x-y}}}{2n \abs{c_n} \abs{x-y}} +
 \sum_{n > \frac{1}{\abs{x-y}}}{2 \abs{c_n}} \le \\
-C_1 \sum_{n < \frac{1}{\abs{x-y}}}{2n \abs{x-y}} +
-\sum_{n > \frac{1}{\abs{x-y}}}{2 \abs{c_n}} \le 
+A_1 \sum_{n < \frac{1}{\abs{x-y}}}{\abs{x-y} n^{-\alpha}} +
+A_2 \sum_{n > \frac{1}{\abs{x-y}}}{n^{-(1 + \alpha)}} \le 
+A \abs{x - y}^\alpha
 }
 $$
+
+# 4
+Пример непр. ф-ии, у которой ряд фурье расходится в точке
