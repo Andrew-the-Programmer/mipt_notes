@@ -37,7 +37,10 @@ $$
 \textit{f гельдерова} \\
 \abs{\frac{e^{-inx} - e^{-iny}}{x - y}} \le \min\set{\frac{2}{x-y}, 2n} \\
 \abs{f(x) - f(y)} = \abs{\sum{c_n \group{e^{-inx} - e^{-iny}}}} \le 
-\sum{\abs{c_n} \abs{e^{-inx} - e^{-iny}}} =
-
+\sum{\abs{c_n} \abs{e^{-inx} - e^{-iny}}} = \\
+= \sum_{n < \frac{1}{\abs{x-y}}}{2n \abs{x-y}} +
+\sum_{n > \frac{1}{\abs{x-y}}}{2 \abs{c_n}} \le \\
+C_1 \sum_{n < \frac{1}{\abs{x-y}}}{2n \abs{x-y}} +
+\sum_{n > \frac{1}{\abs{x-y}}}{2 \abs{c_n}} \le 
 }
 $$
