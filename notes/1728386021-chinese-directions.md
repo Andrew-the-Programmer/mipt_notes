@@ -19,14 +19,29 @@ tags: []
 去 - qù - Go from the speaker
 
 来 / 去
-+
-出 / 进
-chū / jìn
-///到
-上 / 下
-shàng / xià
+
+- 出 / 进
+  chū / jìn
+  ///到
+  上 / 下
+  shàng / xià
 
 他飞上去了 - tā fēishàngqù le - He flew up
 
 他拿出来了 - tā ná chūlái le - He took it out
+
+![11-03-25_14-13-23_632.png](assets/imgs/11-03-25_14-13-23_632.png)
+
+上,下,左,右,前,后,里,外(+边/面)
+shàng,xià,zuǒ,yòu,qián,hòu,lǐ,wài(+biān/miàn)
+Up, down, left, right, front, back, inside, outside (+ edge/face)
+
+旁边,中间,对面,附近,周围
+pángbiān,zhōngjiān,duìmiàn,fùjìn,zhōuwéi
+Next, middle, opposite, nearby, around
+
+东、西、南、北
+dōng、xī、nán、běi
+East, West, South, North
+
 
