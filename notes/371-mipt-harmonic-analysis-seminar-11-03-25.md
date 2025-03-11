@@ -25,15 +25,19 @@ $$
 \abs{f(x) - f(y)} \le L \abs{x - y}^\alpha \\
 (\textit{f гельдерова}) \\
 \implies \\
-c_n = O(\frac{1}{n^\alpha})
+c_n = o(\frac{1}{n^\alpha})
 }
 $$
 
 # 3
 $$
 \AlignLeft{
-\exists \alpha \in (0,1) : c_n = O(\frac{1}{n^{1+\alpha}}) \\
+\exists \alpha \in (0,1) : c_n = o(\frac{1}{n^{1+\alpha}}) \\
 \implies \\
 \textit{f гельдерова} \\
+\abs{\frac{e^{-inx} - e^{-iny}}{x - y}} \le \min\set{\frac{2}{x-y}, 2n} \\
+\abs{f(x) - f(y)} = \abs{\sum{c_n \group{e^{-inx} - e^{-iny}}}} \le 
+\sum{\abs{c_n} \abs{e^{-inx} - e^{-iny}}} =
+
 }
 $$
