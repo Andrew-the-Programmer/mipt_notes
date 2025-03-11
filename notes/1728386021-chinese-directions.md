@@ -76,4 +76,6 @@ place (direction / location) + 有 + obj.
 place (direction / location) + 是 + obj.
 > There is only this <obj> (direction / location) place.
 
-
+大学中间是主楼。
+主楼北边是。。。楼。
+主楼的北边有Au 楼。
