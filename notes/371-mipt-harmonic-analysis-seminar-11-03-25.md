@@ -59,10 +59,14 @@ $$
 \AlignLeft{
 f \in C,\quad f(0) = 0 \\
 g_\nu(x) \defeq \sin\group{\frac{2\nu + 1}{2} x} \\
-a_{n,\nu} \defeq \int_0^\pi{\cos{(nx)} g_\nu(x) \d x} =
+a_{n,\nu} \defeq a_n(g_\nu) = \int_0^\pi{\cos{(nx)} g_\nu(x) \d x} =
 \frac{\nu + \frac{1}{2}}{(\nu + \frac{1}{2})^2 - n^2} \\
 a_{n,\nu} > 0, \quad n \le \nu \\
 a_{n,\nu} < 0, \quad n > \nu \\
-\sum_{n\in\NN}{a_{n,\nu}} = \frac{1}{2} a_{0,\nu}
+S_{k,\nu} \defeq \sum_{n=1}^{k}{a_{n,\nu}} \\
+S_{\infty, \nu} = \frac{1}{2} a_{0,\nu} \\
+S_{k,\nu} \le \frac{1}{2} a_{0,\nu},\quad k > \nu \\
+S_{\nu,\nu} \ge \frac{1}{2} \ln\group{4\nu + 3} \ge \frac{1}{2} \ln\group{\nu} \\
+
 }
 $$
