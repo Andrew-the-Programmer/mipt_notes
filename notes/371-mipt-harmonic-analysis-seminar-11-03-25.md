@@ -67,6 +67,9 @@ S_{k,\nu} \defeq \sum_{n=1}^{k}{a_{n,\nu}} \\
 S_{\infty, \nu} = \frac{1}{2} a_{0,\nu} \\
 S_{k,\nu} \le \frac{1}{2} a_{0,\nu},\quad k > \nu \\
 S_{\nu,\nu} \ge \frac{1}{2} \ln\group{4\nu + 3} \ge \frac{1}{2} \ln\group{\nu} \\
-
+a_n(f) = \frac{2}{\pi} \sum_{p\in\NN}{\frac{1}{p^2} a_{n,2^{(p^3)}}} \\
+S_k(f) = \frac{2}{\pi} \sum_{p\in\NN}{\frac{1}{p^2} S_{k,2^{(p^3 - 1)}}} \\
+S_{2^{(p^3 - 1)}} \ge C \frac{1}{p^2} S_{2^{(p^3 - 1)},2^{(p^3 - 1)}} \ge 
+C p \to \infty
 }
 $$
