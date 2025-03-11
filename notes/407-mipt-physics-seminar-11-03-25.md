@@ -17,6 +17,12 @@ $$
 \AlignLeft{
 x - \textit{размер щели}. \\
 \alpha = \frac{\lambda}{x} \\
-D = x + 2 \alpha L
+D = x + 2 \alpha L = x + 2 \lambda L \frac{1}{x} \\
+x_{экст} = \sqrt{2\lambda L} \\
+D_\max = 2 \sqrt{2 \lambda L}
 }
 $$
+
+![11-03-25_11-06-35_640.png](assets/imgs/11-03-25_11-06-35_640.png)
+
+# .
