@@ -84,6 +84,8 @@ $$
 f(0) = 0 \\
 f(x) = \sum_{}^{}{S_n(x) \group{\frac{1}{n^2} - \frac{1}{(n+1)^2}}} \\
 S_n(x) \defeq \sum_{k\in\NN}{\sin{kx}} \\
-\abs{S_n(x)} \le \frac{\pi}{x}
+\abs{S_n(x)} \le \frac{\pi}{x} \\
+\textit{В общем,} \\
+\frac{f(x)}{x} \to \infty,\quad x \to 0
 }
 $$
