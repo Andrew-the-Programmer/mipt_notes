@@ -53,6 +53,8 @@ tags: []
 dōng、xī、nán、běi
 East, West, South, North
 
+\+ 边 - biān
+
 ![11-03-25_14-22-19_133.png](assets/imgs/11-03-25_14-22-19_133.png)
 
 # 1
@@ -73,3 +75,5 @@ place (direction / location) + 有 + obj.
 
 place (direction / location) + 是 + obj.
 > There is only this <obj> (direction / location) place.
+
+
