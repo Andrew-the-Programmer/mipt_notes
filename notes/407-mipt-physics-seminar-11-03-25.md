@@ -65,9 +65,17 @@ $$
 
 $$
 \AlignLeft{
-\textit{Диффракционный предел человека:}\quad \frac{\lambda}{d} \approx \frac{1}{6} 10^{-3} \\
-\textit{Угловой размер маяка:}\quad \alpha = \frac{R}{H} \approx \frac{10^{-4}}{4} \\
-E_1 = \frac{J_0 \frac{\pi d^2}{4}}{\group{\frac{\lambda}{d}}^2 b^2}
-
+\textit{Диффракционный предел человека:}\quad \alpha \defeq \frac{\lambda}{d} \approx \frac{1}{6} 10^{-3} \\
+\textit{Угловой размер маяка:}\quad \varphi = \frac{R}{H} \approx \frac{10^{-4}}{4} \\
+E_1 = \frac{J_0 \frac{\pi d^2}{4}}{\group{\alpha b}^2} \\
+\varphi_1 = \varphi \cdot 12 \\
+\varphi_1 > \alpha \\
+E_2 = E_1 \frac{144}{\group{\varphi_1 / \alpha}^2}
 }
 $$
+
+# 7.83
+
+![11-03-25_11-49-22_023.png](assets/imgs/11-03-25_11-49-22_023.png)
+![11-03-25_11-49-34_038.png](assets/imgs/11-03-25_11-49-34_038.png)
+
