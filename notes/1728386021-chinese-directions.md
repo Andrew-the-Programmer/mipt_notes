@@ -49,3 +49,11 @@ beside, middle, opposite, nearby, around
 东、西、南、北
 dōng、xī、nán、běi
 East, West, South, North
+
+![11-03-25_14-22-19_133.png](assets/imgs/11-03-25_14-22-19_133.png)
+
+A 在B （的）+ direction + noun.
+
+A 在 B 左边。
+
+A 在 B 和/ C （的）中间。
