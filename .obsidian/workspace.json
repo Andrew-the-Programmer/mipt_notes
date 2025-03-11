@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/371-mipt-harmonic-analysis-seminar-11-03-25.md",
+                "file": "notes/407-mipt-physics-seminar-11-03-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "371-mipt-harmonic-analysis-seminar-11-03-25"
+              "title": "407-mipt-physics-seminar-11-03-25"
             }
           },
           {
@@ -266,9 +266,11 @@
   },
   "active": "79365aa3e212140e",
   "lastOpenFiles": [
+    "notes/371-mipt-harmonic-analysis-seminar-11-03-25.md",
+    "courses/MIPT-physics-2025.md~",
+    "notes/407-mipt-physics-seminar-11-03-25.md",
     "notes/371-mipt-harmonic-analysis-seminar-11-03-25.md~",
     "notes/416-банахово-пространство.md",
-    "notes/371-mipt-harmonic-analysis-seminar-11-03-25.md",
     "notes/594-ядро-Дирихле.md",
     "notes/594-ядро-Дирихле.md~",
     "notes/4913",
@@ -291,7 +293,6 @@
     "courses/MIPT-anmech-2025.md",
     "notes/256-mipt-anmech-seminar-07-03-25.md",
     "courses/MIPT-anmech-2025.md~",
-    "notes/133-mipt-computational-complexity-theory-lecture-07-03-25.md~",
     "notes/1733649408-арифметическая-иерархия.md",
     "notes/133-mipt-computational-complexity-theory-lecture-07-03-25.md",
     "notes/777-mipt-computational-complexity-theory-lecture-28-02-25.md",
@@ -309,7 +310,6 @@
     "notes/1728386021-chinese-directions.md",
     "notes/695-mipt-physics-seminar-04-03-25.md",
     "notes/123-mipt-probability-theory-lecture-21-02-25.md",
-    "notes/613-вероятностное-пространство.md",
-    "notes/723-формула-включений-исключений.md"
+    "notes/613-вероятностное-пространство.md"
   ]
 }
