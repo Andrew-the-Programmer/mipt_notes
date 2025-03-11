@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/885-mipt-anmech-seminar-14-02-25.md",
+                "file": "notes/256-mipt-anmech-seminar-07-03-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "885-mipt-anmech-seminar-14-02-25"
+              "title": "256-mipt-anmech-seminar-07-03-25"
             }
           },
           {
@@ -266,6 +266,9 @@
   },
   "active": "79365aa3e212140e",
   "lastOpenFiles": [
+    "notes/342-mipt-anmech-seminar-28-02-25.md",
+    "notes/278-mipt-anmech-seminar-21-02-25.md",
+    "notes/885-mipt-anmech-seminar-14-02-25.md",
     "notes/407-mipt-physics-seminar-11-03-25.md",
     "notes/885-mipt-anmech-seminar-14-02-25.md~",
     "notes/407-mipt-physics-seminar-11-03-25.md~",
@@ -308,8 +311,6 @@
     "notes/990-mipt-chinese-lesson-14.md",
     "notes/504-chinese-过-guò,guo-present-past-perfect.md",
     "notes/1728386021-chinese-directions.md",
-    "notes/695-mipt-physics-seminar-04-03-25.md",
-    "notes/123-mipt-probability-theory-lecture-21-02-25.md",
-    "notes/613-вероятностное-пространство.md"
+    "notes/695-mipt-physics-seminar-04-03-25.md"
   ]
 }
