@@ -32,22 +32,14 @@ tags: []
 
 ![11-03-25_14-13-23_632.png](assets/imgs/11-03-25_14-13-23_632.png)
 
-上,下,左,右,前,后,里,外(+边/面)
-shàng,xià,zuǒ,yòu,qián,hòu,lǐ,wài(+biān/miàn)
-Up, down, left, right, front, back, inside, outside (+ edge/face)
-
-上
-下
-左
-右
-前
-后
-里
-外
-
-旁边,中间,对面,附近,周围
-pángbiān,zhōngjiān,duìmiàn,fùjìn,zhōuwéi
-beside, middle, opposite, nearby, around
+上 - shàng - superior
+下 - xià - Down
+左 - zuǒ - Left
+右 - yòu - right
+前 - qián - forward
+后 - hòu - back
+里 - lǐ - inside
+外 - wài - outside
 
 旁边 - pángbiān - beside
 中间 - zhōngjiān - middle
@@ -61,6 +53,8 @@ East, West, South, North
 
 ![11-03-25_14-22-19_133.png](assets/imgs/11-03-25_14-22-19_133.png)
 
+# 1
+
 A 在B （的）+ direction + noun.
 
 A 在 B 左边。
@@ -68,3 +62,12 @@ A 在 B 左边。
 A 在 B 和/ C （的）中间。
 
 图书光在大学中间。
+
+# 2
+
+place (direction / location) + 有 + obj.
+> There is a obj (direction / location) place.
+> There is a library inside the university.
+
+place (direction / location) + 是 + obj.
+> There is only this <obj> (direction / location) place.
