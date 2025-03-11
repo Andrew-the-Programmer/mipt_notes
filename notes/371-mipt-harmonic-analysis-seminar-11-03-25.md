@@ -73,3 +73,15 @@ S_{2^{(p^3 - 1)}} \ge C \frac{1}{p^2} S_{2^{(p^3 - 1)},2^{(p^3 - 1)}} \ge
 C p \to \infty
 }
 $$
+
+# 5
+$$
+f(x) \defeq \sum_{}^{}{\frac{\sin{nx}}{n^2}}
+$$
+Исследуем дифф. в 0.
+$$
+\AlignLeft{
+f(0) = 0 \\
+f(x) = \sum_{}^{}{S_n(x) \group{\frac{1}{n^2} - \frac{1}{(n+1)^2}}}
+}
+$$
