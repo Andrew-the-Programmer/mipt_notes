@@ -41,6 +41,8 @@ tags: []
 里 - lǐ - inside
 外 - wài - outside
 
+\+ 边/面 - biān/miàn
+
 旁边 - pángbiān - beside
 中间 - zhōngjiān - middle
 对面 - duìmiàn - opposite
