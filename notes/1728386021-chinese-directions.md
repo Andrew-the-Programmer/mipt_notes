@@ -36,6 +36,15 @@ tags: []
 shàng,xià,zuǒ,yòu,qián,hòu,lǐ,wài(+biān/miàn)
 Up, down, left, right, front, back, inside, outside (+ edge/face)
 
+上
+下
+左
+右
+前
+后
+里
+外
+
 旁边,中间,对面,附近,周围
 pángbiān,zhōngjiān,duìmiàn,fùjìn,zhōuwéi
 beside, middle, opposite, nearby, around
@@ -57,3 +66,5 @@ A 在B （的）+ direction + noun.
 A 在 B 左边。
 
 A 在 B 和/ C （的）中间。
+
+图书光在大学中间。
