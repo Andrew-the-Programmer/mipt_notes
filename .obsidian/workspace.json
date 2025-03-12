@@ -266,7 +266,10 @@
   },
   "active": "79365aa3e212140e",
   "lastOpenFiles": [
+    "notes/176-mipt-differential-equations-lecture-12-03-25.md~",
     "notes/896-mipt-field-theory-lecture-12-03-25.md~",
+    "courses/MIPT-differential-equations-2025.md~",
+    "notes/176-mipt-differential-equations-lecture-12-03-25.md",
     "assets/imgs/12-03-25_10-44-29_379_IMG_20250312_104034.jpg",
     "assets/imgs/12-03-25_10-44-29_897_IMG_20250312_102809.jpg",
     "assets/imgs/12-03-25_10-44-29_222_IMG_20250312_102808.jpg",
@@ -294,7 +297,6 @@
     "notes/885-mipt-anmech-seminar-14-02-25.md",
     "notes/407-mipt-physics-seminar-11-03-25.md",
     "notes/885-mipt-anmech-seminar-14-02-25.md~",
-    "notes/407-mipt-physics-seminar-11-03-25.md~",
     "notes/371-mipt-harmonic-analysis-seminar-11-03-25.md",
     "notes/416-банахово-пространство.md",
     "notes/594-ядро-Дирихле.md",
@@ -309,7 +311,6 @@
     "notes/204-mipt-field-theory-seminar-05-03-25.md",
     "notes/737-преобразования-Лорентца.md",
     "notes/789-mipt-differential-equations-lecture-05-03-25.md",
-    "notes/551-mipt-field-theory-lecture-05-03-25.md",
-    "notes/686-тензор.md"
+    "notes/551-mipt-field-theory-lecture-05-03-25.md"
   ]
 }
