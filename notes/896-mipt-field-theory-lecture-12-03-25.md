@@ -145,7 +145,7 @@ $$
 
 # Принцып относительности и действие
 
-# Пример
+# Пример 1
 
 Свободная частица.
 Найдем действие.
@@ -158,6 +158,19 @@ S = \int_{t_1}^{t_2}{L(x,\dot{x},t) \d t}\\
 \implies \\
 L = L(\dot{x}) \\
 L = L(\abs{\dot{x}}) \\
-L = \frac{c}{2} \abs{\dot{x}}^2
+L = \frac{c}{2} \abs{\dot{x}}^2 \\
+\textit{Ур-ия лагранжа} \implies c \ddot{x} = 0 \implies c = m \\
+L - \textit{кинетическая энергия} \\
+}
+$$
+# Пример 2
+Частица в потенциальном поле.
+$$
+\AlignLeft{
+L = \frac{m}{2} {\dot{x}}^{2} - V(x) \\
+m \ddot{x} = F = -\pdv{x}{V} \\
+p = \pdv{\dot{x}}{L} = m \dot{x} \\
+H = p \dot{x} - L = m \dot{x}^2 - m {\dot{x}}^{2} + V(x) = 
+\frac{p^2}{2m} + V(x) \\
 }
 $$
