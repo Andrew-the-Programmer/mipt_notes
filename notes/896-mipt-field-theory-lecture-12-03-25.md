@@ -119,4 +119,12 @@ $$
 # 3 (ЗС момента импульса - ЗСМИ)
 
 # Преобразование Лежандра
-
+$$
+\AlignLeft{
+\d U = T \d S - p \d V = \pdv{S}{U} \d S + \pdv{V}{U} \d V \\
+\implies U(S,V) \\
+F \defeq U - TS - \textit{свободная энергия} \\
+\d F = -S \d T - p \d V \\
+\implies F(T,V) \\
+}
+$$
