@@ -52,4 +52,21 @@ x(t) = x_0(t) + \delta x(t) - \textit{вариация} \\
 \pdv{\dot{x}}{L} \delta x \rvert_{t_1}^{t_2} = 0 \\
 }
 $$
+
 # Преобразование траектории и однородность пространства.
+`Пусть:`
+$$
+\AlignLeft{
+x(t) \to x(t) + \varepsilon \\
+S - inv
+}
+$$
+`Тогда:`
+$$
+\AlignLeft{
+0 = \delta S = 
+\int_{t_1}^{t_2}{\group{\pdv{x}{L} \delta x + \pdv{\dot{x}}{L} \delta \dot{x}} \d t} \\
+\delta x = \varepsilon,\quad \delta \dot{x} = 0 \\
+
+}
+$$
