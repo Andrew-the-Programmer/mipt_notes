@@ -101,17 +101,15 @@ $$
 \int_{t_1}^{t_2}{L(x(t - \varepsilon),\dot{x}(t - \varepsilon),t - \varepsilon)) \d t} - 
 \int_{t_1}^{t_2}{L(x(t), \dot{x}(t), t)) \d t}
 = \\
-\int_{t_1}^{t_2}{-
-\group{\pdv{x}{L} \dot{x}_\varepsilon -
+\int_{t_1}^{t_2}{\group{-
+\pdv{x}{L} \dot{x}_\varepsilon -
 \pdv{\dot{x}}{L} \ddot{x}_\varepsilon -
 \pdv{t}{L} \varepsilon
 } \d t} + 
 \varepsilon L \rvert_{t_1}^{t_2}
 \\
-\int_{t_1}^{t_2}{\group{\pdv{x}{L} \delta x + \pdv{\dot{x}}{L} \delta \dot{x}} \d t} \\
-\delta x = \varepsilon,\quad \delta \dot{x} = 0 \\
-\Dv{t}{\pdv{\dot{x}}{L}} = \pdv{x}{L} = 0 \\
-p \defeq \pdv{\dot{x}}{L} - \textit{канонический импульс} \\
-p = const - \textit{З.С.И.} \\
+H \defeq L - p \dot{x} - \textit{гамильтониан} \\
+H(x, \dot{x}, t) = E - \textit{энергия} \\
+H = const - \textit{З.С.Э.}
 }
 $$
