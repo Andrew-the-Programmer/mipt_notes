@@ -7,10 +7,13 @@ tags: []
 
 # MIPT differential equations seminar 12-03-25
 
+![12-03-25_16-20-55_362_they_cant_contain_the_silly.png](assets/imgs/12-03-25_16-20-55_362_they_cant_contain_the_silly.png)
 # T5
+
 С прошлого семинара ([[974-mipt-differential-equations-seminar-05-03-25|05-03-25]]).
 
 ![964.png](assets/imgs/964.png)
+
 $$
 \AlignLeft{
 y(x) = u(x) z(x) \\
@@ -42,5 +45,3 @@ $$
 # T7
 
 ![12-03-25_16-04-41_535.png](assets/imgs/12-03-25_16-04-41_535.png)
-
-
