@@ -38,3 +38,5 @@ $$
 $$
 \abs{\vec{k}} = \frac{\omega}{c}
 $$
+
+Isolate and Square Method.
