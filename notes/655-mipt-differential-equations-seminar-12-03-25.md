@@ -53,7 +53,14 @@ $$
 $$
 \AlignLeft{
 q(x) = 1 + \frac{\frac{1}{4} - \nu^2}{x^2} \\
-\frac{1}{\sqrt{1 + \frac{\frac{1}{4} - \nu^2}{x^2}}} \le 
+1 - \frac{\abs{\frac{1}{4} - \nu^2}}{x^2} \le 
+q(x) \le 
+1 + \frac{\abs{\frac{1}{4} - \nu^2}}{x^2} \\
+m(x) \le q(x) \le M(x) \\
+\frac{1}{\sqrt{M(x)}} \le 
+\frac{d}{\pi} \le 
+\frac{1}{\sqrt{m(x)}} \\
+m(x), M(x) \to 1, \quad x \to \infty \\
+d \to \pi, \quad x \to \infty
 }
 $$
-Очевидно
