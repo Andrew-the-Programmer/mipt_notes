@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/176-mipt-differential-equations-lecture-12-03-25.md",
+                "file": "notes/896-mipt-field-theory-lecture-12-03-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "176-mipt-differential-equations-lecture-12-03-25"
+              "title": "896-mipt-field-theory-lecture-12-03-25"
             }
           },
           {
@@ -266,7 +266,12 @@
   },
   "active": "79365aa3e212140e",
   "lastOpenFiles": [
+    "notes/176-mipt-differential-equations-lecture-12-03-25.md",
+    "notes/896-mipt-field-theory-lecture-12-03-25.md~",
     "notes/176-mipt-differential-equations-lecture-12-03-25.md~",
+    "assets/imgs/12-03-25_12-13-17_984_IMG_20250312_121251.jpg",
+    "assets/imgs/12-03-25_12-13-17_692_IMG_20250312_121244.jpg",
+    "assets/imgs/12-03-25_12-12-04_956_IMG_20250312_120747.jpg",
     "assets/imgs/12-03-25_12-09-50_301_3.jpg",
     "assets/imgs/12-03-25_12-09-23_190_Adobe Scan Mar 12, 2025_1.jpg",
     "assets/imgs/12-03-25_12-07-11_805_IMG_20250312_120159.jpg",
@@ -274,13 +279,8 @@
     "assets/imgs/12-03-25_12-07-11_523_IMG_20250312_115404.jpg",
     "assets/imgs/12-03-25_12-07-11_727_IMG_20250312_114404.jpg",
     "assets/imgs/12-03-25_12-07-11_484_IMG_20250312_114116.jpg",
-    "assets/imgs/12-03-25_12-07-11_305_IMG_20250312_113519.jpg",
-    "assets/imgs/12-03-25_12-07-11_497_IMG_20250312_112126.jpg",
-    "assets/imgs/12-03-25_11-15-39_629_IMG_20250312_111518.jpg",
     "notes/896-mipt-field-theory-lecture-12-03-25.md",
-    "notes/896-mipt-field-theory-lecture-12-03-25.md~",
     "courses/MIPT-differential-equations-2025.md~",
-    "notes/176-mipt-differential-equations-lecture-12-03-25.md",
     "notes/4913",
     "notes/1738738971-пространство-время-Минковского.md",
     "courses/MIPT-field-theory-2025.md~",
