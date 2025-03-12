@@ -12,5 +12,17 @@ tags: []
 Частица $\same$ плоская волна "вероятности"
 
  $$
-\Psi
+\Psi = A e^{i \omega t - i \vec{k} \vec{x}}
+$$
+$$
+\Gather{
+E = \hbar \omega = h \nu \\
+\vec{p} = \hbar \vec{k}
+}
+$$
+$$
+P^\mu = \Pmatrix{
+\frac{E}{c} \\
+\vec{p}
+}
 $$
