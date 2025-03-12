@@ -7,9 +7,8 @@ tags: []
 
 # MIPT differential equations seminar 12-03-25
 
-
-
 # T5
+С прошлого семинара ([[974-mipt-differential-equations-seminar-05-03-25|05-03-25]]).
 
 ![964.png](assets/imgs/964.png)
 $$
@@ -21,5 +20,8 @@ y(x) = u(x) z(x) \\
 u = C e^{-\frac{x^3}{3}} \\
 C = 1 \\
 q(x) = 1 - x^4 \\
+\textit{На интервале } (-1, 1): 0 \le q(x) \le 1  \\
+m = 0,\ M = 1 \\
+\pi \le d \le \infty \\
 }
 $$
