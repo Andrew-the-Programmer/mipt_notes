@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/896-mipt-field-theory-lecture-12-03-25.md",
+                "file": "notes/176-mipt-differential-equations-lecture-12-03-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "896-mipt-field-theory-lecture-12-03-25"
+              "title": "176-mipt-differential-equations-lecture-12-03-25"
             }
           },
           {
@@ -267,6 +267,12 @@
   "active": "79365aa3e212140e",
   "lastOpenFiles": [
     "notes/176-mipt-differential-equations-lecture-12-03-25.md~",
+    "notes/896-mipt-field-theory-lecture-12-03-25.md",
+    "assets/imgs/12-03-25_11-03-03_021_IMG_20250312_110153.jpg",
+    "assets/imgs/12-03-25_11-01-36_138_IMG_20250312_105623.jpg",
+    "assets/imgs/12-03-25_11-01-36_742_IMG_20250312_105619.jpg",
+    "assets/imgs/12-03-25_11-01-36_295_IMG_20250312_105401.jpg",
+    "assets/imgs/12-03-25_11-01-36_995_IMG_20250312_104034.jpg",
     "notes/896-mipt-field-theory-lecture-12-03-25.md~",
     "courses/MIPT-differential-equations-2025.md~",
     "notes/176-mipt-differential-equations-lecture-12-03-25.md",
@@ -275,15 +281,9 @@
     "assets/imgs/12-03-25_10-44-29_222_IMG_20250312_102808.jpg",
     "assets/imgs/12-03-25_10-44-29_099_IMG_20250312_102804.jpg",
     "assets/imgs/12-03-25_10-44-29_252_IMG_20250312_102452.jpg",
-    "assets/imgs/12-03-25_10-44-29_184_IMG_20250312_102218.jpg",
-    "assets/imgs/12-03-25_10-44-29_923_IMG_20250312_102204.jpg",
-    "assets/imgs/12-03-25_10-44-29_767_IMG_20250312_101806.jpg",
-    "assets/imgs/12-03-25_10-44-29_752_IMG_20250312_101435.jpg",
-    "assets/imgs/12-03-25_10-44-29_121_IMG_20250312_101041.jpg",
     "notes/4913",
     "notes/1738738971-пространство-время-Минковского.md",
     "courses/MIPT-field-theory-2025.md~",
-    "notes/896-mipt-field-theory-lecture-12-03-25.md",
     "notes/1738738971-пространство-время-Минковского.md~",
     "notes/204-mipt-field-theory-seminar-05-03-25.md~",
     "notes/1728386021-chinese-directions.md",
@@ -296,7 +296,6 @@
     "notes/278-mipt-anmech-seminar-21-02-25.md",
     "notes/885-mipt-anmech-seminar-14-02-25.md",
     "notes/407-mipt-physics-seminar-11-03-25.md",
-    "notes/885-mipt-anmech-seminar-14-02-25.md~",
     "notes/371-mipt-harmonic-analysis-seminar-11-03-25.md",
     "notes/416-банахово-пространство.md",
     "notes/594-ядро-Дирихле.md",
