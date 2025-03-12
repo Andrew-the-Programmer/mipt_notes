@@ -24,6 +24,7 @@ S: x(t) \to \RR
 $$
 
 Пусть $\exists L$, такой что:
+
 $$
 S = \int_{t_1}^{t^2}{L(x,\dot{x},t) \d t}
 $$
@@ -56,6 +57,8 @@ $$
 
 # Преобразование траектории и однородность пространства.
 
+## 1
+
 `Пусть:`
 
 $$
@@ -70,6 +73,35 @@ $$
 $$
 \AlignLeft{
 0 = \delta S =
+\int_{t_1}^{t_2}{\group{\pdv{x}{L} \delta x + \pdv{\dot{x}}{L} \delta \dot{x}} \d t} \\
+\delta x = \varepsilon,\quad \delta \dot{x} = 0 \\
+\Dv{t}{\pdv{\dot{x}}{L}} = \pdv{x}{L} = 0 \\
+p \defeq \pdv{\dot{x}}{L} - \textit{канонический импульс} \\
+p = const - \textit{З.С.И.} \\
+}
+$$
+
+## 2
+
+`Пусть:`
+
+$$
+\AlignLeft{
+t \to t + \varepsilon \\
+x(t) \to x(t - \varepsilon) \\
+S - inv
+}
+$$
+
+`Тогда:`
+
+$$
+\AlignLeft{
+0 = \delta S =
+\int_{t_1}^{t_2}{L(x(t - \varepsilon),\dot{x}(t - \varepsilon),t - \varepsilon)) \d t} - 
+\int_{t_1}^{t_2}{L(x(t), \dot{x}(t), t)) \d t}
+= \\
+\int_{t_1}^{t_2}{L(x(t), \dot{x}(t), t)) \d t}
 \int_{t_1}^{t_2}{\group{\pdv{x}{L} \delta x + \pdv{\dot{x}}{L} \delta \dot{x}} \d t} \\
 \delta x = \varepsilon,\quad \delta \dot{x} = 0 \\
 \Dv{t}{\pdv{\dot{x}}{L}} = \pdv{x}{L} = 0 \\
