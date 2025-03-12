@@ -146,13 +146,18 @@ $$
 # Принцып относительности и действие
 
 # Пример
+
 Свободная частица.
+Найдем действие.
+
 $$
 \AlignLeft{
 S = \int_{t_1}^{t_2}{L(x,\dot{x},t) \d t}\\
-\textit{ЗСИ} \implies \pdv{\dot{x}}{L} = 0 \\
+\textit{ЗСИ} \implies \pdv{x}{L} = 0 \\
 \textit{ЗСЭ} \implies \pdv{t}{L} = 0 \\
 \implies \\
-L = L(x) \\
+L = L(\dot{x}) \\
+L = L(\abs{\dot{x}}) \\
+L = \frac{c}{2} \abs{\dot{x}}^2
 }
 $$
