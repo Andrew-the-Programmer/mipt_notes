@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/342-mipt-anmech-seminar-28-02-25.md",
+                "file": "notes/789-mipt-differential-equations-lecture-05-03-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "342-mipt-anmech-seminar-28-02-25"
+              "title": "789-mipt-differential-equations-lecture-05-03-25"
             }
           },
           {
@@ -266,6 +266,9 @@
   },
   "active": "79365aa3e212140e",
   "lastOpenFiles": [
+    "courses/MIPT-differential-equations-2025.md~",
+    "courses/MIPT-differential-equations-2025.md",
+    "notes/342-mipt-anmech-seminar-28-02-25.md",
     "notes/342-mipt-anmech-seminar-28-02-25.md~",
     "assets/imgs/IMG_20250228_181503_edit_225997849918006.jpg",
     "assets/imgs/IMG_20250228_181419_edit_226013945802791.jpg",
@@ -291,9 +294,7 @@
     "notes/777-mipt-computational-complexity-theory-lecture-28-02-25.md",
     "courses/MIPT-computational-complexity-theory-2025.md~",
     "notes/974-mipt-differential-equations-seminar-05-03-25.md",
-    "notes/974-mipt-differential-equations-seminar-05-03-25.md~",
     "notes/775-mipt-differential-equations-seminar-26-02-25.md",
-    "courses/MIPT-differential-equations-2025.md",
     "notes/204-mipt-field-theory-seminar-05-03-25.md",
     "notes/737-преобразования-Лорентца.md",
     "notes/789-mipt-differential-equations-lecture-05-03-25.md",
@@ -309,7 +310,6 @@
     "notes/613-вероятностное-пространство.md",
     "notes/723-формула-включений-исключений.md",
     "notes/539-mipt-physics-lecture-01-03-25.md",
-    "notes/423-видность.md",
-    "notes/955-mipt-physics-lecture-22-02-25.md"
+    "notes/423-видность.md"
   ]
 }
