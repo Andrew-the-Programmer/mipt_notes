@@ -42,18 +42,19 @@ tags: []
 会议 - huìyì - Meeting
 
 介绍 - jièshào - introduce
+
 > 你可以介绍一下你的朋友吗？
 
 然后 - ránhòu - Then / after
 
 > 我们教室在走廊的尽头。
 
-楼梯 - lóutī  - Stairs
+楼梯 - lóutī - Stairs
 电梯 - diàntī - elevator
 
 > 开 / 光 - kāi / guāng - Open / [close / turn off]
-开门 - kāimén - Open the door
-关门 - guānmén - close the door
+> 开门 - kāimén - Open the door
+> 关门 - guānmén - close the door
 
 节日 - jiérì - festival
 假日 - jiǎrì - holiday
@@ -65,10 +66,19 @@ tags: []
 说定
 
 # Grammar
+
 # 过 - guò
+
 ![chigr123.png](assets/imgs/chigr123.png)
 ![chigr234.png](assets/imgs/chigr234.png)
 ![chigr4667.png](assets/imgs/chigr4667.png)
 ![chigr4676.png](assets/imgs/chigr4676.png)
 ![chigr46675.png](assets/imgs/chigr46675.png)
+
+# Exercises
+
+## 1
+
+![11-03-25_14-10-15_536.png](assets/imgs/11-03-25_14-10-15_536.png)
+
 
