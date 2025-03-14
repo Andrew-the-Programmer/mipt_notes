@@ -20,7 +20,11 @@ $$
 $$
 $$
 \AlignCenter{
-\Sigma_n\ \text{SAT} \in \Sigma_n^P\text{-complete} \\
-\Pi_n\ \text{SAT} \in \Pi_n^P\text{-complete}
+\Sigma_n\ \text{SAT} \in \complete{\Sigma_n^P} \\
+\Pi_n\ \text{SAT} \in \complete{\Pi_n^P}
 }
+$$
+
+$$
+L_n \defeq \set{Q_1 y_1 \dots Q_n y_n \varphi(y_1, \dots, )}
 $$
