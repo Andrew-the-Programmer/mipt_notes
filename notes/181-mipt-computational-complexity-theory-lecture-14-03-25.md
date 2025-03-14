@@ -64,6 +64,11 @@ len(D) \defeq \set{1^n \mid \exists x \in \Gamma^n \cap D} \\
 len(D) \in \NP^D \\
 \textit{Show that: } \exists B \in \Gamma^* : 
 len(B) \not\in P^B \\
-💀
+💀\dots \blacksquare \\
 }
 $$
+# Theorem 2
+$$
+P_L(\P^L \neq \NP^L) = 1
+$$
+Вероятность того, что $\P^L = \NP^L$ относительно случайного $L$, равна 0.
