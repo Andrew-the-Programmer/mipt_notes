@@ -72,3 +72,17 @@ $$
 P_L(\P^L \neq \NP^L) = 1
 $$
 Вероятность того, что $\P^L = \NP^L$ относительно случайного $L$, равна 0.
+
+# Пример
+$$
+P_L(A^L \neq B^L) = 1 \centernot\implies A \neq B
+$$
+$$
+PSpace = IP
+$$
+
+# Theorem Mahaney.
+Разреженный язык.
+$$
+A \in \set{0,1}^* : \exists p(n) - \textit{polynomial} : \abs{A \cap \set{0,1}^n} \le p(n)
+$$
