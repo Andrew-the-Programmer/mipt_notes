@@ -53,7 +53,11 @@ $$
 A \defeq \set{\group{M, x, 1^n} \mid M - ДМТ\ расспознает\ x\ за\ 2^n} \\
 A \in EXP \\
 A \in \complete{EXP} \\
-L \in EXP, M\ \textit{принимает}\ L \implies \\
-x \to \group{M, x, 1^}
+L \in EXP, M\ \textit{принимает}\ L\ за\ 2^{p(\abs{x})} \implies \\
+x \to \group{M, x, 1^{p(\abs{x})}} \\
+EXP \subseteq P^A \subseteq NP^A \subseteq EXP^A \subseteq EXP \\
+\implies P^A = NP^A \\
+D \subseteq \set{0,1}^* \\
+len(D) \defeq \set{1^n \mid \exists x \in \set{0,1} D}
 }
 $$
