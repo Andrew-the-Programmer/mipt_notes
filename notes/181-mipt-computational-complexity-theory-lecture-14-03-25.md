@@ -63,6 +63,7 @@ D \subseteq \Gamma^* \\
 len(D) \defeq \set{1^n \mid \exists x \in \Gamma^n \cap D} \\
 len(D) \in \NP^D \\
 \textit{Show that: } \exists B \in \Gamma^* : 
-len(B) \not\in P^B
+len(B) \not\in P^B \\
+💀
 }
 $$
