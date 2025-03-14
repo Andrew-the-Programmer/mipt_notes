@@ -28,7 +28,7 @@ $$
 $$
 
 $$
-TQBF \defeq \set{Q_1 y_1 \dots Q_n y_n\ \varphi(y_1, \dots, y_n) = 1}
+TQBF \defeq \set{Q_1 y_1 \dots Q_n y_n\ \varphi(y_1, \dots, y_n) = 1,\quad n \in \NN}
 $$
 
 $TQBF \in PH \implies PH\ \textit{схлопывается}$
@@ -57,7 +57,11 @@ L \in EXP, M\ \textit{принимает}\ L\ за\ 2^{p(\abs{x})} \implies \\
 x \to \group{M, x, 1^{p(\abs{x})}} \\
 EXP \subseteq P^A \subseteq NP^A \subseteq EXP^A \subseteq EXP \\
 \implies P^A = NP^A \\
-D \subseteq \set{0,1}^* \\
-len(D) \defeq \set{1^n \mid \exists x \in \set{0,1} D}
+\Gamma \defeq \set{0,1}
+D \subseteq \Gamma^* \\
+len(D) \defeq \set{1^n \mid \exists x \in \Gamma^n \cap D} \\
+len(D) \in \NP^D \\
+Show \exists B \in \Gamma^* : 
+len(B) \not\in P^B
 }
 $$
