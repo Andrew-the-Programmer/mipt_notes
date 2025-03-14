@@ -86,3 +86,7 @@ $$
 $$
 A \in \set{0,1}^* : \exists p(n) - \textit{polynomial} : \abs{A \cap \set{0,1}^n} \le p(n)
 $$
+
+$$
+\exists\ \textit{разреженный язык}\ A \in \complete{\NP} \implies \P = \NP
+$$
