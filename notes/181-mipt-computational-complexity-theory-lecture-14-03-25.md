@@ -20,7 +20,7 @@ $$
 $$
 $$
 \AlignCenter{
-\Sigma_n\ \text{SAT} \in \Sigma_n^P-complete \\
-\Pi_n\ \text{SAT} \in \Pi_n^P-complete
+\Sigma_n\ \text{SAT} \in \Sigma_n^P\text{-complete} \\
+\Pi_n\ \text{SAT} \in \Pi_n^P\text{-complete}
 }
 $$
