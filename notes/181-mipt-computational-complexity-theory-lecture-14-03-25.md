@@ -26,5 +26,6 @@ $$
 $$
 
 $$
-L_n \defeq \set{Q_1 y_1 \dots Q_n y_n \varphi(y_1, \dots, )}
+TQBF \defeq \set{Q_1 y_1 \dots Q_n y_n\ \varphi(y_1, \dots, y_n) = 1}
 $$
+$TQBF \in PH \implies PH\ \textit{схлопывается}$
