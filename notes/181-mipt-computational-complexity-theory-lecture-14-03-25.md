@@ -57,11 +57,12 @@ L \in EXP, M\ \textit{принимает}\ L\ за\ 2^{p(\abs{x})} \implies \\
 x \to \group{M, x, 1^{p(\abs{x})}} \\
 EXP \subseteq P^A \subseteq NP^A \subseteq EXP^A \subseteq EXP \\
 \implies P^A = NP^A \\
+\hline
 \Gamma \defeq \set{0,1}
 D \subseteq \Gamma^* \\
 len(D) \defeq \set{1^n \mid \exists x \in \Gamma^n \cap D} \\
 len(D) \in \NP^D \\
-Show \exists B \in \Gamma^* : 
+\textit{Show that: } \exists B \in \Gamma^* : 
 len(B) \not\in P^B
 }
 $$
