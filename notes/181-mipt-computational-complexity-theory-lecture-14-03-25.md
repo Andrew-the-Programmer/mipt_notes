@@ -6,6 +6,7 @@ tags: []
 ---
 
 # MIPT computational complexity theory lecture 14-03-25
+
 $$
 \AlignCenter{
 \Sigma_n\ \text{SAT} \defeq \set{
@@ -18,6 +19,7 @@ $$
 } \\
 }
 $$
+
 $$
 \AlignCenter{
 \Sigma_n\ \text{SAT} \in \complete{\Sigma_n^P} \\
@@ -28,4 +30,18 @@ $$
 $$
 TQBF \defeq \set{Q_1 y_1 \dots Q_n y_n\ \varphi(y_1, \dots, y_n) = 1}
 $$
+
 $TQBF \in PH \implies PH\ \textit{схлопывается}$
+
+# Альтернирующие МТ
+
+Альтернативное определение арифм. иерархии ($\Sigma_n^P$).
+
+# BGS-theorem
+
+$$
+\exists A, \exists B : \Cases{
+\P^A = \NP^A \\
+\P^B \neq \NP^B
+}
+$$
