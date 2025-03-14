@@ -36,6 +36,7 @@ $TQBF \in PH \implies PH\ \textit{схлопывается}$
 # Альтернирующие МТ
 
 Альтернативное определение арифм. иерархии ($\Sigma_n^P$).
+Это не очень нужно в курсе.
 
 # BGS-theorem
 
@@ -43,5 +44,16 @@ $$
 \exists A, \exists B : \Cases{
 \P^A = \NP^A \\
 \P^B \neq \NP^B
+}
+$$
+
+## Proof
+$$
+\AlignLeft{
+A \defeq \set{\group{M, x, 1^n} \mid M - ДМТ\ расспознает\ x\ за\ 2^n} \\
+A \in EXP \\
+A \in \complete{EXP} \\
+L \in EXP, M\ \textit{принимает}\ L \implies \\
+x \to \group{M, x, 1^}
 }
 $$
