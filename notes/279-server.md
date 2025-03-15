@@ -42,8 +42,22 @@ rm <ssh key>.pub
 ```bash
 sudo vim /etc/ssh/sshd_config
 ```
+```bash
 ///
 PermitRootLogin yes
 ->
 PermitRootLogin no
 ///
+
+///
+#PublickeyAuthentication yes
+->
+PublickeyAuthentication yes
+///
+
+///
+#PublickeyAuthentication yes
+->
+PublickeyAuthentication yes
+///
+```
