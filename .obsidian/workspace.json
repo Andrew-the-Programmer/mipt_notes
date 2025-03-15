@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "тензо",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "118388a6ab5b8fbb",
@@ -191,8 +190,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "79365aa3e212140e",
+  "active": "ca43457cb299a78c",
   "lastOpenFiles": [
+    "notes/279-server.md~",
+    "notes/1728763957-ssh.md~",
+    "notes/279-server.md",
+    "Untitled.md",
+    "notes/655-mipt-anmech-seminar-14-03-25.md",
     "notes/655-mipt-anmech-seminar-14-03-25.md~",
     "assets/imgs/14-03-25_18-20-09_597_IMG_20250314_181757.jpg",
     "assets/imgs/14-03-25_18-20-09_469_IMG_20250314_181750.jpg",
@@ -206,7 +210,6 @@
     "assets/imgs/14-03-25_17-55-51_862_IMG_20250314_175331.jpg",
     "notes/789-mipt-differential-equations-lecture-05-03-25.md",
     "courses/MIPT-anmech-2025.md~",
-    "notes/655-mipt-anmech-seminar-14-03-25.md",
     "notes/256-mipt-anmech-seminar-07-03-25.md~",
     "notes/181-mipt-computational-complexity-theory-lecture-14-03-25.md~",
     "notes/4913",
@@ -217,7 +220,6 @@
     "notes/133-mipt-computational-complexity-theory-lecture-07-03-25.md~",
     "conflict-files-obsidian-git.md",
     "courses/MIPT-differential-equations-2025.md~",
-    "notes/176-mipt-differential-equations-lecture-12-03-25.md~",
     "notes/133-mipt-computational-complexity-theory-lecture-07-03-25.md",
     "notes/896-mipt-field-theory-lecture-12-03-25.md",
     "notes/655-mipt-differential-equations-seminar-12-03-25.md",
@@ -235,8 +237,6 @@
     "notes/775-mipt-differential-equations-seminar-26-02-25.md",
     "notes/204-mipt-field-theory-seminar-05-03-25.md",
     "notes/737-преобразования-Лорентца.md",
-    "notes/551-mipt-field-theory-lecture-05-03-25.md",
-    "notes/686-тензор.md",
-    "notes/1738738971-пространство-время-Минковского.md"
+    "notes/551-mipt-field-theory-lecture-05-03-25.md"
   ]
 }
