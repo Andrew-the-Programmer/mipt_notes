@@ -42,6 +42,9 @@ rm <ssh key>.pub
 ```bash
 sudo vim /etc/ssh/sshd_config
 ```
+
+https://www.cyberciti.biz/faq/how-to-disable-ssh-password-login-on-linux/
+
 ```bash
 ///
 PermitRootLogin yes
