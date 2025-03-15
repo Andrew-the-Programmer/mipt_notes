@@ -37,5 +37,13 @@ scp ./<ssh key>.pub [<username>@]<IP>:[dir | ~ if empty]
 mkdir .ssh
 touch .ssh/authorized_keys
 cat <ssh key>.pub >> .ssh/authorized_keys
-rm server1.pub
+rm <ssh key>.pub
 ```
+```bash
+sudo vim /etc/ssh/sshd_config
+```
+///
+PermitRootLogin yes
+->
+PermitRootLogin no
+///
