@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/655-mipt-anmech-seminar-14-03-25.md",
+                "file": "notes/279-server.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "655-mipt-anmech-seminar-14-03-25"
+              "title": "279-server"
             }
           }
         ]
@@ -190,13 +190,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ca43457cb299a78c",
+  "active": "79365aa3e212140e",
   "lastOpenFiles": [
     "notes/279-server.md~",
+    "notes/655-mipt-anmech-seminar-14-03-25.md",
     "notes/1728763957-ssh.md~",
     "notes/279-server.md",
     "Untitled.md",
-    "notes/655-mipt-anmech-seminar-14-03-25.md",
     "notes/655-mipt-anmech-seminar-14-03-25.md~",
     "assets/imgs/14-03-25_18-20-09_597_IMG_20250314_181757.jpg",
     "assets/imgs/14-03-25_18-20-09_469_IMG_20250314_181750.jpg",
@@ -219,7 +219,6 @@
     "courses/MIPT-computational-complexity-theory-2025.md~",
     "notes/133-mipt-computational-complexity-theory-lecture-07-03-25.md~",
     "conflict-files-obsidian-git.md",
-    "courses/MIPT-differential-equations-2025.md~",
     "notes/133-mipt-computational-complexity-theory-lecture-07-03-25.md",
     "notes/896-mipt-field-theory-lecture-12-03-25.md",
     "notes/655-mipt-differential-equations-seminar-12-03-25.md",
