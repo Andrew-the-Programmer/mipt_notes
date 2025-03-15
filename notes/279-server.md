@@ -56,8 +56,20 @@ PublickeyAuthentication yes
 ///
 
 ///
-#PublickeyAuthentication yes
+#PasswordAuthentication yes
 ->
-PublickeyAuthentication yes
+PasswordAuthentication no
 ///
+
+///
+#AuthorizedKeysFile .ssh/authorized_keys
+->
+AuthorizedKeysFile .ssh/authorized_keys
+///
+```
+
+May also change the port.
+
+```bash
+sudo systemctl restart sshd
 ```
