@@ -14,8 +14,11 @@ tags: []
 ## Add user
 
 ```bash
+# Add wheel group
+groupadd wheel
+vim /etc/sudoers
+
 useradd -m <username>
 passwd <username>
-groupadd wheel
 usermod -G wheel <username>
 ```
