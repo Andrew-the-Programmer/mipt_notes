@@ -11,14 +11,21 @@ tags: []
 
 # Linux
 
+## Add wheel group
+
+```bash
+groupadd wheel
+echo "%wheel ALL=(ALL) ALL" >> /etc/sudoers
+```
 ## Add user
 
 ```bash
-# Add wheel group
-groupadd wheel
-vim /etc/sudoers
-
 useradd -m <username>
 passwd <username>
 usermod -G wheel <username>
+```
+
+## Create ssh
+```bash
+ssh-keygen -t rsa -b 4096
 ```
