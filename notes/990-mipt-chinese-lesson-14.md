@@ -84,3 +84,4 @@ tags: []
 
 # .
 一次 - yīcì - once
+一遍 - yībiàn - Once
