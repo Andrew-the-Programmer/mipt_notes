@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/279-server.md",
+                "file": "notes/709-свертка-функций.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "279-server"
+              "title": "709-свертка-функций"
             }
           }
         ]
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "118388a6ab5b8fbb",
@@ -192,6 +193,7 @@
   },
   "active": "79365aa3e212140e",
   "lastOpenFiles": [
+    "notes/709-свертка-функций.md~",
     "notes/279-server.md~",
     "notes/655-mipt-anmech-seminar-14-03-25.md",
     "notes/1728763957-ssh.md~",
