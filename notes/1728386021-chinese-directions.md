@@ -49,7 +49,7 @@ tags: []
 附近 - fùjìn - nearby
 周围 - zhōuwéi - around
 
-东、西、南、北
+、西、南、北
 dōng、xī、nán、běi
 East, West, South, North
 
