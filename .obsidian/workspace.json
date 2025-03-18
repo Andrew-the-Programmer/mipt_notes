@@ -80,6 +80,30 @@
             }
           },
           {
+            "id": "22313cb0e79ce014",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
+          },
+          {
             "id": "0c0f20954b9425ed",
             "type": "leaf",
             "state": {
@@ -104,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -264,22 +288,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "79365aa3e212140e",
+  "active": "22313cb0e79ce014",
   "lastOpenFiles": [
+    "notes/1728386021-chinese-directions.md",
+    "conflict-files-obsidian-git.md",
+    "notes/655-mipt-anmech-seminar-14-03-25.md",
+    "notes/577-mipt-harmonic-analysis-seminar-18-03-25.md",
+    "notes/570-mipt-physics-seminar-18-03-25.md",
+    "notes/279-server.md",
+    "notes/181-mipt-computational-complexity-theory-lecture-14-03-25.md",
+    "assets/imgs/18-03-25_11-34-54_426_Screenshot From 2025-03-14 15-40-53.png",
+    "assets/imgs/14-03-25_18-20-09_941_IMG_20250314_181303.jpg",
+    "assets/imgs/14-03-25_18-20-09_597_IMG_20250314_181757.jpg",
+    "assets/imgs/14-03-25_18-20-09_469_IMG_20250314_181750.jpg",
+    "assets/imgs/14-03-25_18-10-48_646_IMG_20250314_175926.jpg",
+    "assets/imgs/14-03-25_18-10-48_644_IMG_20250314_180953_edit_301578719993237.jpg",
+    "assets/imgs/14-03-25_18-10-48_588_IMG_20250314_180544_edit_301355812408739.jpg",
+    "assets/imgs/14-03-25_18-10-48_546_IMG_20250314_180303.jpg",
+    "assets/imgs/14-03-25_18-10-48_386_IMG_20250314_175922.jpg",
+    "assets/imgs/14-03-25_18-10-48_330_IMG_20250314_180807.jpg",
+    "Untitled.md",
     "notes/1728386021-chinese-directions.md~",
-    "assets/imgs/18-03-25_13-58-41_373_54177e780c4d4d29a50d5a3ae09ec9ba.png",
-    "assets/imgs/18-03-25_13-58-11_022_ea705fadad984c0cbad1a649f135b4a9.png",
     "notes/896-mipt-field-theory-lecture-12-03-25.md~",
     "notes/655-mipt-differential-equations-seminar-12-03-25.md",
-    "assets/imgs/12-03-25_17-05-48_037_GHNx28BbYAAbzt2.png.jpg",
     "notes/655-mipt-differential-equations-seminar-12-03-25.md~",
-    "assets/imgs/12-03-25_16-24-45_242.png",
-    "assets/imgs/12-03-25_16-24-39_832.png",
-    "assets/imgs/12-03-25_16-20-55_362_they_cant_contain_the_silly.png",
-    "assets/imgs/12-03-25_16-10-15_595.png",
-    "assets/imgs/12-03-25_16-10-08_790.png",
-    "assets/imgs/12-03-25_16-09-59_004.png",
-    "assets/imgs/12-03-25_16-04-41_535.png",
     "notes/974-mipt-differential-equations-seminar-05-03-25.md",
     "notes/974-mipt-differential-equations-seminar-05-03-25.md~",
     "courses/MIPT-differential-equations-2025.md",
@@ -293,7 +325,6 @@
     "notes/896-mipt-field-theory-lecture-12-03-25.md",
     "courses/MIPT-field-theory-2025.md~",
     "notes/545-mipt-field-theory-seminar-26-02-25.md~",
-    "notes/1728386021-chinese-directions.md",
     "notes/990-mipt-chinese-lesson-14.md",
     "notes/256-mipt-anmech-seminar-07-03-25.md",
     "notes/342-mipt-anmech-seminar-28-02-25.md",
@@ -304,12 +335,6 @@
     "notes/416-банахово-пространство.md",
     "notes/594-ядро-Дирихле.md",
     "notes/438-mipt-harmonic-analysis-seminar-04-03-25.md",
-    "courses/MIPT-anmech-2025.md",
-    "notes/1733649408-арифметическая-иерархия.md",
-    "notes/133-mipt-computational-complexity-theory-lecture-07-03-25.md",
-    "notes/777-mipt-computational-complexity-theory-lecture-28-02-25.md",
-    "notes/775-mipt-differential-equations-seminar-26-02-25.md",
-    "notes/204-mipt-field-theory-seminar-05-03-25.md",
-    "notes/737-преобразования-Лорентца.md"
+    "courses/MIPT-anmech-2025.md"
   ]
 }
