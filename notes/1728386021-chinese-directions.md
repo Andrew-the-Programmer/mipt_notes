@@ -94,4 +94,10 @@ The way (direction) of doing smth.
 往东开两小_。
 往东南跑500米 - wǎng dōngnán pǎo 500 mǐ - Run 500 meters southeast.
 
-先
+# Order of directions
+
+先 - xiān - First
+再 - zài - Then
+
+我们先下楼，到一层。
+往东走20米左右。
