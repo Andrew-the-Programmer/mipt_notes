@@ -18,9 +18,18 @@ $$
 
 # Полная система
 $X$ - [[416-банахово-пространство|банахово пространство]]
-$\set{e_n} \subsete X$ 
+$\set{e_n} \subseteq X$ 
 
  $$
-\ol{\lin\set{e_n}} = X (замыкание) \\
-\forall x \in X \forall \varepsilon > 0 \exists \set{n_k}_{k=1}^{N}
+\Gather{
+ \ol{\lin\set{e_n}} = X (замыкание) \\
+ \forall x \in X \forall \varepsilon > 0 \hthen
+ \exists \set{n_k}_{k=1}^{N}, \set{\alpha_k}_{k=1}^{N} \in \RR : \\
+\norm{\sum_{k=1}^{N}{\alpha_k e_{n_k}} - x} < \varepsilon \\
+}
+$$
+
+## Пример
+$$
+
 $$
