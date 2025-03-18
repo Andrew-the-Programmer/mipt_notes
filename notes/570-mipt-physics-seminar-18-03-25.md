@@ -13,7 +13,7 @@ $b$ - ширина щели.
 $N$ - кол-во щелей.
 
 $$
-J = E_0^2 \frac{\sin^2{y}}{y^2} \frac{\sin^2\group{\frac{kd \sin\theta}{2} N}}{\sin^2\group{\frac{kd \sin\theta}{2}}}
+J = E_0^2 \frac{\sin^2{y}}{y^2} \frac{\sin^2\group{\frac{d}{b} N y}}{\sin^2\group{\frac{d}{b} y}}
 $$
 
 $$
