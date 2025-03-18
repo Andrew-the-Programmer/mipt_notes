@@ -9,6 +9,7 @@ tags: []
 
 > Сегодня мало кто выжил...
 
+![12-03-25_17-05-48_037_GHNx28BbYAAbzt2.png.jpg](assets/imgs/12-03-25_17-05-48_037_GHNx28BbYAAbzt2.png.jpg)
 # 4-вектор
 
 ![1.jpg](assets/imgs/12-03-25_10-44-29_424_IMG_20250312_090626.jpg)

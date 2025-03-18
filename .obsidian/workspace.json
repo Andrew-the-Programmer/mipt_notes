@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/655-mipt-differential-equations-seminar-12-03-25.md",
+                "file": "notes/896-mipt-field-theory-lecture-12-03-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "655-mipt-differential-equations-seminar-12-03-25"
+              "title": "896-mipt-field-theory-lecture-12-03-25"
             }
           },
           {
@@ -266,6 +266,9 @@
   },
   "active": "79365aa3e212140e",
   "lastOpenFiles": [
+    "notes/896-mipt-field-theory-lecture-12-03-25.md~",
+    "notes/655-mipt-differential-equations-seminar-12-03-25.md",
+    "assets/imgs/12-03-25_17-05-48_037_GHNx28BbYAAbzt2.png.jpg",
     "notes/655-mipt-differential-equations-seminar-12-03-25.md~",
     "assets/imgs/12-03-25_16-24-45_242.png",
     "assets/imgs/12-03-25_16-24-39_832.png",
@@ -276,12 +279,10 @@
     "assets/imgs/12-03-25_16-04-41_535.png",
     "assets/imgs/12-03-25_16-04-05_537.png",
     "assets/imgs/12-03-25_16-03-42_988.png",
-    "assets/imgs/12-03-25_16-03-34_073.png",
     "notes/974-mipt-differential-equations-seminar-05-03-25.md",
     "notes/974-mipt-differential-equations-seminar-05-03-25.md~",
     "courses/MIPT-differential-equations-2025.md",
     "courses/MIPT-differential-equations-2025.md~",
-    "notes/655-mipt-differential-equations-seminar-12-03-25.md",
     "notes/604-mipt-field-theory-seminar-12-03-25.md~",
     "notes/1738738971-пространство-время-Минковского.md",
     "notes/604-mipt-field-theory-seminar-12-03-25.md",
@@ -291,7 +292,6 @@
     "notes/896-mipt-field-theory-lecture-12-03-25.md",
     "courses/MIPT-field-theory-2025.md~",
     "notes/545-mipt-field-theory-seminar-26-02-25.md~",
-    "notes/896-mipt-field-theory-lecture-12-03-25.md~",
     "notes/4913",
     "notes/1728386021-chinese-directions.md",
     "notes/990-mipt-chinese-lesson-14.md",
