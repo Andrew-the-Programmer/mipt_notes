@@ -101,3 +101,4 @@ The way (direction) of doing smth.
 
 我们先下楼，到一层。
 往东走20米左右。
+往左走擦非咖啡馆。
