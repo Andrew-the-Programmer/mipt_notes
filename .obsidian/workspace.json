@@ -80,30 +80,6 @@
             }
           },
           {
-            "id": "22313cb0e79ce014",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
-          },
-          {
             "id": "0c0f20954b9425ed",
             "type": "leaf",
             "state": {
@@ -128,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -288,10 +264,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "22313cb0e79ce014",
+  "active": "79365aa3e212140e",
   "lastOpenFiles": [
-    "notes/1728386021-chinese-directions.md",
     "conflict-files-obsidian-git.md",
+    "notes/1728386021-chinese-directions.md",
     "notes/655-mipt-anmech-seminar-14-03-25.md",
     "notes/577-mipt-harmonic-analysis-seminar-18-03-25.md",
     "notes/570-mipt-physics-seminar-18-03-25.md",
