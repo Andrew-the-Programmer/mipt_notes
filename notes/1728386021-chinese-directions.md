@@ -84,3 +84,13 @@ place (direction / location) + 是 + obj.
 New 楼东南边是数学楼。
 
 你们柴柴去在
+
+# 往 / 向 - ./notes/990-mipt-chinese-lesson-14.md wǎng / xiàng - ./notes/990-mipt-chinese-lesson-14.md Go to /
+往 / 向 + direction + verb + [time / duration]
+
+往前走 - wǎngqiánzǒu - Go forward
+
+往东开两小
+
+往东南跑500米。
+

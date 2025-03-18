@@ -88,3 +88,6 @@ tags: []
 
 # 不是 ... 吗？
 же.
+
+#. 
+往 / 向 + direction + verb
