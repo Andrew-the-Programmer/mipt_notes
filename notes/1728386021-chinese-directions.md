@@ -7,8 +7,9 @@ tags: []
 
 # Chinese directions
 
-![a6918e6ee12ece2a1e7aa5e140643e14.png](file:///home/andrew/.config/joplin-desktop/resources/ea705fadad984c0cbad1a649f135b4a9.png)
-![f1152855abe4bf0ebf2544b296656034.png](file:///home/andrew/.config/joplin-desktop/resources/54177e780c4d4d29a50d5a3ae09ec9ba.png)
+![nsfe](assets/imgs/18-03-25_13-58-11_022_ea705fadad984c0cbad1a649f135b4a9.png)
+![positions](assets/imgs/18-03-25_13-58-41_373_54177e780c4d4d29a50d5a3ae09ec9ba.png)
+
 里 - lǐ - inside
 前 - qián - front
 旁 - páng - beside
@@ -83,3 +84,21 @@ place (direction / location) + 是 + obj.
 New 楼东南边是数学楼。
 
 你们柴柴去在
+
+# 往 / 向 - wǎng / xiàng
+The way (direction) of doing smth.
+
+往 / 向 + direction + verb + [time / duration]
+
+往前走 - wǎngqiánzǒu - Go forward
+往东开两小_。
+往东南跑500米 - wǎng dōngnán pǎo 500 mǐ - Run 500 meters southeast.
+
+# Order of directions
+
+先 - xiān - First
+再 - zài - Then
+
+我们先下楼，到一层。
+往东走20米左右。
+往左走擦非咖啡馆。
