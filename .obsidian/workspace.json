@@ -30,33 +30,8 @@
               "icon": "lucide-file",
               "title": "181-mipt-computational-complexity-theory-lecture-14-03-25"
             }
-          },
-          {
-            "id": "24ab3896e8c7bdbf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -216,10 +191,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "24ab3896e8c7bdbf",
+  "active": "79365aa3e212140e",
   "lastOpenFiles": [
-    "notes/181-mipt-computational-complexity-theory-lecture-14-03-25.md",
     "conflict-files-obsidian-git.md",
+    "notes/181-mipt-computational-complexity-theory-lecture-14-03-25.md",
     "assets/imgs/18-03-25_13-58-41_373_54177e780c4d4d29a50d5a3ae09ec9ba.png",
     "assets/imgs/18-03-25_13-58-11_022_ea705fadad984c0cbad1a649f135b4a9.png",
     "assets/imgs/12-03-25_17-05-48_037_GHNx28BbYAAbzt2.png.jpg",
