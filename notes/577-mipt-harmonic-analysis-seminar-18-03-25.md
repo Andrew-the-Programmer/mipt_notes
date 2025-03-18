@@ -47,3 +47,6 @@ $\set{e_n} \subseteq X$
 $$
 \lin\set{e_n}^\perp = 0
 $$
+
+# Lemma
+Полнота $\implies$ Замкнутость
