@@ -23,9 +23,9 @@ $\set{e_n} \subseteq X$
 
 $$
 \Gather{
-\ol{\lin\set{e_n}} = X (замыкание) \\
+\ol{\lin\set{e_n}} = X \quad (замыкание) \\
 \forall x \in X \forall \varepsilon > 0 \hthen
-\exists \set{n_k}_{k=1}^{N}, \set{\alpha_k}_{k=1}^{N} \in \RR : \\
+\exists \set{n_k}_{k=1}^{N}, \set{\alpha_k}_{k=1}^{N} \subseteq \RR : \\
 \norm{\sum_{k=1}^{N}{\alpha_k e_{n_k}} - x} < \varepsilon \\
 }
 $$
@@ -33,7 +33,17 @@ $$
 ## Пример 1
 
 $\set{x^n}_{n\in\NN} \subseteq L_2[-1,1]$ - базис?
-Да.
+Нет.
+$\set{x^n}$ - полная.
 
 ## Пример 2
+
 $\set{P_n \defeq \dv[n]{x}{} (1+x^2)^n}_{n\in\NN} \subseteq L_2[-1,1]$ - базис?
+Да.
+
+# Замкнутая система.
+$X$ - [[879-евклидово-пространство|евклидово пространство]]
+$\set{e_n} \subseteq X$
+$$
+\lin\set{e_n}^\perp = 0
+$$
