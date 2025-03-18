@@ -7,8 +7,9 @@ tags: []
 
 # Chinese directions
 
-![a6918e6ee12ece2a1e7aa5e140643e14.png](file:///home/andrew/.config/joplin-desktop/resources/ea705fadad984c0cbad1a649f135b4a9.png)
-![f1152855abe4bf0ebf2544b296656034.png](file:///home/andrew/.config/joplin-desktop/resources/54177e780c4d4d29a50d5a3ae09ec9ba.png)
+![nsfe](assets/imgs/18-03-25_13-58-11_022_ea705fadad984c0cbad1a649f135b4a9.png)
+![positions](assets/imgs/18-03-25_13-58-41_373_54177e780c4d4d29a50d5a3ae09ec9ba.png)
+
 里 - lǐ - inside
 前 - qián - front
 旁 - páng - beside
