@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/181-mipt-computational-complexity-theory-lecture-14-03-25.md",
+                "file": "notes/737-преобразования-Лорентца.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "181-mipt-computational-complexity-theory-lecture-14-03-25"
+              "title": "737-преобразования-Лорентца"
             }
           }
         ]
@@ -193,9 +193,9 @@
   },
   "active": "79365aa3e212140e",
   "lastOpenFiles": [
+    "notes/181-mipt-computational-complexity-theory-lecture-14-03-25.md",
     "Untitled.md~",
     "conflict-files-obsidian-git.md",
-    "notes/181-mipt-computational-complexity-theory-lecture-14-03-25.md",
     "assets/imgs/18-03-25_13-58-41_373_54177e780c4d4d29a50d5a3ae09ec9ba.png",
     "assets/imgs/18-03-25_13-58-11_022_ea705fadad984c0cbad1a649f135b4a9.png",
     "assets/imgs/12-03-25_17-05-48_037_GHNx28BbYAAbzt2.png.jpg",
@@ -216,7 +216,6 @@
     "courses/MIPT-physics-2025.md~",
     "notes/577-mipt-harmonic-analysis-seminar-18-03-25.md~",
     "notes/416-банахово-пространство.md~",
-    "notes/458-линейное-нормированное-пространство.md~",
     "notes/709-свертка-функций.md",
     "notes/655-mipt-anmech-seminar-14-03-25.md",
     "notes/279-server.md",
