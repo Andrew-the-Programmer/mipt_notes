@@ -178,18 +178,30 @@ $$
 mc w^\mu - \frac{1}{c} f^\mu = 0
 }
 $$
+.
+$$
+u_\mu \perp f^\mu \\
+$$
 
+В сопутствуюцей СО:
 $$
 \AlignLeft{
-u_\mu \perp f^\mu \\
 {u^{'}}^\mu = \Pmatrix{
 1 \\ \vec{0}
 } \\
 f^0 = 0
 }
 $$
- $$
-f^\mu = \Pmatrix{
+$$
+{f^{'}}^\mu = \Pmatrix{
 0 \\ \vec{F}
+}
+$$
+
+В ЛСО:
+$$
+f^\mu = \Pmatrix{
+\frac{\gamma}{c} \veccross{F}{v} \\
+\vec{F} + (\gamma - 1) \veccross{F}{v} \frac{\vec{v}}{v^2}
 }
 $$
