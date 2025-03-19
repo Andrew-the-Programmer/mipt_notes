@@ -18,7 +18,9 @@ tags: []
    \D \tau = \int_{t_1}^{t_2}{\d t \sqrt{1 - \frac{v^2}{c^2}}}
    $$
 4. S минимально на истинной траектории.
-   $\implies$
+
+ю $\implies$
+
 $$
 \AlignLeft{
 S = -\alpha \int{\d s} = -\alpha c \D \tau \\
@@ -28,6 +30,7 @@ S \approx \int{\group{-\alpha c + \frac{\alpha v^2}{2 c}}\d t} \\
 \alpha = mc \\
 }
 $$
+
 $$
 \Gather{
 S = -m c^2 \int_{t_1}^{t_2}{\d t \sqrt{1 - \frac{v^2}{2}}} \\
@@ -36,6 +39,9 @@ L = -mc^2 \sqrt{1 - \frac{v^2}{c^2}} \\
 $$
 
 # Импульс
+
 $$
-p \defeq \vdv{v}{L} = m v \gamma
+p \defeq \vdv{v}{L} = m \vec{v}(t) \gamma(t)
 $$
+
+# Уравнение движения в ковариантной форме
