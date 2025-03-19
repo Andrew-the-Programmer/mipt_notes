@@ -193,6 +193,8 @@
   },
   "active": "79365aa3e212140e",
   "lastOpenFiles": [
+    "courses/MIPT-field-theory-2025.md~",
+    "notes/737-преобразования-Лорентца.md~",
     "courses/MIPT-field-theory-2025.md",
     "notes/604-mipt-field-theory-seminar-12-03-25.md",
     "notes/204-mipt-field-theory-seminar-05-03-25.md",
@@ -227,7 +229,6 @@
     "notes/577-mipt-harmonic-analysis-seminar-18-03-25.md",
     "courses/MIPT-physics-2025.md~",
     "notes/577-mipt-harmonic-analysis-seminar-18-03-25.md~",
-    "notes/416-банахово-пространство.md~",
     "notes/709-свертка-функций.md",
     "notes/655-mipt-anmech-seminar-14-03-25.md",
     "notes/279-server.md",
@@ -237,7 +238,6 @@
     "assets/imgs/14-03-25_18-20-09_941_IMG_20250314_181303.jpg",
     "assets/imgs/14-03-25_18-10-48_644_IMG_20250314_180953_edit_301578719993237.jpg",
     "assets/imgs/14-03-25_18-10-48_330_IMG_20250314_180807.jpg",
-    "notes/789-mipt-differential-equations-lecture-05-03-25.md",
-    "courses/MIPT-computational-complexity-theory-2025.md"
+    "notes/789-mipt-differential-equations-lecture-05-03-25.md"
   ]
 }
