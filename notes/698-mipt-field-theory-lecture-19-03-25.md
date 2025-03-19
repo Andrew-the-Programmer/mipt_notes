@@ -117,3 +117,16 @@ $$
 
 ## Скорость СЦИ
 $v_c$
+ $$
+\AlignLeft{
+P_\Sigma^\mu = \group{\Lambda\inv(v_c)}_\nu^\mu \group{P_\Sigma^{'}}^\mu =
+\Pmatrix{
+\gamma M_\Sigma c \\
+\gamma M_\Sigma \vec{v_c}
+} \\
+\vec{v_c} = c^2 \frac{\vec{p}_\Sigma}{E_\Sigma}
+}
+$$
+
+# Движение частицы под действием силы
+
