@@ -17,7 +17,7 @@ tags: []
 4. [[725-mipt-field-theory-lecture-26-02-25|26-02-25]]
 5. [[551-mipt-field-theory-lecture-05-03-25|05-03-25]]
 6. [[896-mipt-field-theory-lecture-12-03-25|12-03-25]]
-7. 
+7. [[698-mipt-field-theory-lecture-19-03-25|19-03-25]]
 
 # Seminars
 
