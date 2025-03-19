@@ -153,5 +153,13 @@ $$
 
 # Действие для частицы в силовом поле
 $$
-S = 
+S = \int{\groupr{-mc \sqrt{\dv{s}{x_\mu} \dv{s}{x^\mu}} + \frac{1}{c} f^\mu x_\mu} \d s} \\
+
+$$
+$$
+L_{int} \defeq \frac{1}{c} f^\mu x_\mu \quad (interaction)
+$$
+Ур-ие Эйлера-Лагранжа
+$$
+\Dv{s}{\vdv{u^\mu}{L}} - \vdv{x^\mu}{L} = 0
 $$
