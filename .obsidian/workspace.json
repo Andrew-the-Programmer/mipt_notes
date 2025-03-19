@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/698-mipt-field-theory-lecture-19-03-25.md",
+                "file": "notes/566-mipt-differential-equations-lecture-19-03-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "698-mipt-field-theory-lecture-19-03-25"
+              "title": "566-mipt-differential-equations-lecture-19-03-25"
             }
           }
         ]
@@ -194,6 +194,7 @@
   "active": "79365aa3e212140e",
   "lastOpenFiles": [
     "notes/566-mipt-differential-equations-lecture-19-03-25.md~",
+    "notes/698-mipt-field-theory-lecture-19-03-25.md",
     "courses/MIPT-differential-equations-2025.md~",
     "notes/566-mipt-differential-equations-lecture-19-03-25.md",
     "notes/176-mipt-differential-equations-lecture-12-03-25.md~",
@@ -213,7 +214,6 @@
     "notes/4913",
     "notes/1738749330-mipt-field-theory-seminar-05-02-25.md",
     "courses/MIPT-field-theory-2025.md~",
-    "notes/698-mipt-field-theory-lecture-19-03-25.md",
     "notes/737-преобразования-Лорентца.md~",
     "courses/MIPT-field-theory-2025.md",
     "notes/604-mipt-field-theory-seminar-12-03-25.md",
@@ -229,7 +229,6 @@
     "notes/181-mipt-computational-complexity-theory-lecture-14-03-25.md",
     "Untitled.md~",
     "conflict-files-obsidian-git.md",
-    "notes/1728386021-chinese-directions.md~",
     "notes/123-mipt-probability-theory-lecture-21-02-25.md",
     "notes/570-mipt-physics-seminar-18-03-25.md",
     "notes/680-mipt-differential-equations-seminar-19-02-25.md",
