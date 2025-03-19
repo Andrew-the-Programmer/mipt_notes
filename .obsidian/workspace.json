@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/566-mipt-differential-equations-lecture-19-03-25.md",
+                "file": "notes/680-mipt-differential-equations-seminar-19-02-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "566-mipt-differential-equations-lecture-19-03-25"
+              "title": "680-mipt-differential-equations-seminar-19-02-25"
             }
           }
         ]
@@ -193,6 +193,12 @@
   },
   "active": "79365aa3e212140e",
   "lastOpenFiles": [
+    "notes/566-mipt-differential-equations-lecture-19-03-25.md",
+    "notes/680-mipt-differential-equations-seminar-19-02-25.md~",
+    "notes/714-mipt-field-theory-seminar-19-03-25.md~",
+    "courses/MIPT-field-theory-2025.md~",
+    "notes/714-mipt-field-theory-seminar-19-03-25.md",
+    "notes/604-mipt-field-theory-seminar-12-03-25.md~",
     "notes/566-mipt-differential-equations-lecture-19-03-25.md~",
     "assets/imgs/19-03-25_12-23-18_480_IMG_20250319_121318.jpg",
     "assets/imgs/19-03-25_12-23-18_086_IMG_20250319_121307.jpg",
@@ -207,14 +213,10 @@
     "notes/4913",
     "notes/698-mipt-field-theory-lecture-19-03-25.md",
     "courses/MIPT-differential-equations-2025.md~",
-    "notes/566-mipt-differential-equations-lecture-19-03-25.md",
     "notes/176-mipt-differential-equations-lecture-12-03-25.md~",
     "notes/698-mipt-field-theory-lecture-19-03-25.md~",
     "preamble.sty~",
-    "assets/imgs/19-03-25_10-05-18_655_.outside",
     "notes/1738749330-mipt-field-theory-seminar-05-02-25.md",
-    "courses/MIPT-field-theory-2025.md~",
-    "notes/737-преобразования-Лорентца.md~",
     "courses/MIPT-field-theory-2025.md",
     "notes/604-mipt-field-theory-seminar-12-03-25.md",
     "notes/204-mipt-field-theory-seminar-05-03-25.md",
@@ -227,7 +229,6 @@
     "notes/328-mipt-field-theory-lecture-12-02-25.md",
     "notes/737-преобразования-Лорентца.md",
     "notes/181-mipt-computational-complexity-theory-lecture-14-03-25.md",
-    "Untitled.md~",
     "conflict-files-obsidian-git.md",
     "notes/123-mipt-probability-theory-lecture-21-02-25.md",
     "notes/570-mipt-physics-seminar-18-03-25.md",
@@ -236,7 +237,6 @@
     "notes/1738741597-mipt-differential-equations-lecture-05-02-25.md",
     "notes/577-mipt-harmonic-analysis-seminar-18-03-25.md",
     "notes/709-свертка-функций.md",
-    "notes/655-mipt-anmech-seminar-14-03-25.md",
-    "notes/279-server.md"
+    "notes/655-mipt-anmech-seminar-14-03-25.md"
   ]
 }
