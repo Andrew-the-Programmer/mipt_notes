@@ -95,10 +95,18 @@
 \renewcommand{\d}[1][]{\mathrm{d} #1}
 \renewcommand{\boundary}[1]{\partial #1}
 \renewcommand{\D}[1]{\Delta #1}
-\newcommand{\pdv}[3][]{\frac{\partial^{#1} #3}{{\partial #2}^{#1}}}
+
+\newcommand{\deriv}[4][]{\frac{#4^{#1} #3}{{#4 #2}^{#1}}}
+
+\newcommand{\pdv}[3][]{\deriv[#1]{#2}{#3}{\partial}}
 \newcommand{\pDv}[3][]{\pdv[#1]{#2}{} \left(#3\right)}
-\newcommand{\dv}[3][]{\frac{\d^{#1} #3}{{\d#2}^{#1}}}
+
+\newcommand{\vdv}[3][]{\deriv[#1]{#2}{#3}{\delta}}
+\newcommand{\vDv}[3][]{\vdv[#1]{#2}{} \left(#3\right)}
+
+\newcommand{\dv}[3][]{\deriv[#1]{#2}{#3}{\d}}
 \newcommand{\Dv}[3][]{\dv[#1]{#2}{} \left(#3\right)}
+
 \newcommand{\ddt}[1]{\Dv{t}{#1}}
 
 \newcommand{\vecprod}[2]{\left<#1, #2\right>}

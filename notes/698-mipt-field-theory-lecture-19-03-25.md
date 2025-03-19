@@ -31,9 +31,11 @@ $$
 $$
 \Gather{
 S = -m c^2 \int_{t_1}^{t_2}{\d t \sqrt{1 - \frac{v^2}{2}}} \\
-L = mc^2 \sqrt{1 - \frac{v^2}{c^2}} \\
+L = -mc^2 \sqrt{1 - \frac{v^2}{c^2}} \\
 }
 $$
 
 # Импульс
-
+$$
+p \defeq \vdv{v}{L} = m v \gamma
+$$
