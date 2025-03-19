@@ -157,9 +157,16 @@ S = \int{\groupr{-mc \sqrt{\dv{s}{x_\mu} \dv{s}{x^\mu}} + \frac{1}{c} f^\mu x_\m
 
 $$
 $$
-L_{int} \defeq \frac{1}{c} f^\mu x_\mu \quad (interaction)
+\AlignCenter{
+L_{free} \defeq -mc \sqrt{\dv{s}{x_\mu} \dv{s}{x^\mu}} \\
+L_{int} \defeq \frac{1}{c} f^\mu x_\mu \quad (interaction) \\
+L = L_{free} + L_{int}
+}
 $$
 Ур-ие Эйлера-Лагранжа
 $$
-\Dv{s}{\vdv{u^\mu}{L}} - \vdv{x^\mu}{L} = 0
+\Gather{
+\Dv{s}{\vdv{u^\mu}{L}} - \vdv{x^\mu}{L} = 0 \\
+mc w^\mu - \frac{1}{c} f^\mu = 0
+}
 $$
