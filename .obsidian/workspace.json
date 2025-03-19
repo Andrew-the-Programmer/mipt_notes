@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/1738749330-mipt-field-theory-seminar-05-02-25.md",
+                "file": "notes/698-mipt-field-theory-lecture-19-03-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1738749330-mipt-field-theory-seminar-05-02-25"
+              "title": "698-mipt-field-theory-lecture-19-03-25"
             }
           }
         ]
@@ -194,6 +194,7 @@
   "active": "79365aa3e212140e",
   "lastOpenFiles": [
     "notes/698-mipt-field-theory-lecture-19-03-25.md~",
+    "notes/1738749330-mipt-field-theory-seminar-05-02-25.md",
     "courses/MIPT-field-theory-2025.md~",
     "notes/698-mipt-field-theory-lecture-19-03-25.md",
     "notes/737-преобразования-Лорентца.md~",
@@ -201,7 +202,6 @@
     "notes/604-mipt-field-theory-seminar-12-03-25.md",
     "notes/204-mipt-field-theory-seminar-05-03-25.md",
     "notes/230-mipt-field-theory-seminar-19-02-25.md",
-    "notes/1738749330-mipt-field-theory-seminar-05-02-25.md",
     "notes/896-mipt-field-theory-lecture-12-03-25.md",
     "notes/551-mipt-field-theory-lecture-05-03-25.md",
     "notes/725-mipt-field-theory-lecture-26-02-25.md",
@@ -229,7 +229,6 @@
     "notes/1738741597-mipt-differential-equations-lecture-05-02-25.md",
     "notes/1738759267-mipt-differential-equations-seminar-05-02-25.md~",
     "notes/577-mipt-harmonic-analysis-seminar-18-03-25.md",
-    "courses/MIPT-physics-2025.md~",
     "notes/709-свертка-функций.md",
     "notes/655-mipt-anmech-seminar-14-03-25.md",
     "notes/279-server.md",
