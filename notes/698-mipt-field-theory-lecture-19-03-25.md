@@ -132,8 +132,10 @@ M_\Sigma c \\ \vec{0}
 $$
 
 ## Скорость СЦИ
+
 $v_c$
- $$
+
+$$
 \AlignLeft{
 P_\Sigma^\mu = \group{\Lambda\inv(v_c)}_\nu^\mu \group{P_\Sigma^{'}}^\mu =
 \Pmatrix{
@@ -146,16 +148,20 @@ $$
 
 # Движение частицы под действием силы
 
-***4-сила***:
+**_4-сила_**:
+
 $$
 mc w^\mu = \dv{s}{p^\mu} \defeq \frac{1}{c} f^\mu
 $$
 
 # Действие для частицы в силовом поле
+
 $$
 S = \int{\groupr{-mc \sqrt{\dv{s}{x_\mu} \dv{s}{x^\mu}} + \frac{1}{c} f^\mu x_\mu} \d s} \\
 
+
 $$
+
 $$
 \AlignCenter{
 L_{free} \defeq -mc \sqrt{\dv{s}{x_\mu} \dv{s}{x^\mu}} \\
@@ -163,10 +169,27 @@ L_{int} \defeq \frac{1}{c} f^\mu x_\mu \quad (interaction) \\
 L = L_{free} + L_{int}
 }
 $$
+
 Ур-ие Эйлера-Лагранжа
+
 $$
 \Gather{
 \Dv{s}{\vdv{u^\mu}{L}} - \vdv{x^\mu}{L} = 0 \\
 mc w^\mu - \frac{1}{c} f^\mu = 0
+}
+$$
+
+$$
+\AlignLeft{
+u_\mu \perp f^\mu \\
+{u^{'}}^\mu = \Pmatrix{
+1 \\ \vec{0}
+} \\
+f^0 = 0
+}
+$$
+ $$
+f^\mu = \Pmatrix{
+0 \\ \vec{F}
 }
 $$
