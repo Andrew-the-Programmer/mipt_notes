@@ -14,5 +14,18 @@ p_i \defeq \pdv{\dot{{q}_{i}}}{L}
 $$
 гамильтониан
 $$
-H \defeq \sum\group{p_i \dot{{q}_{i}} - L} \vert|_{\dot{{q}_{i}} = \psi_i(t,q,p)}
+H \defeq \sum\group{p_i \dot{{q}_{i}} - L} \vert_{\dot{{q}_{i}} = \psi_i(t,q,p)}
+$$
+$$
+\Cases{
+\dot{{q}_{i}} = \pdv{p_i}{H} \\
+\dot{{p}_{i}} = -\pdv{q_i}{H}
+}
+$$
+
+# Первый интеграл
+$q(t), p(t)$ - решения уравнений Гамильтона
+Функция $f(q,p,t)$, т.ч.
+$$
+\dv{t}{f(q(t), p(t), t)} = 0
 $$
