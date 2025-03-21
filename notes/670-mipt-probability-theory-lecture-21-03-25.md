@@ -72,8 +72,13 @@ $$
 
 # Условная функция распределения
 $$
-F_{\xi \mid \eta}(x \mid \eta \in \Delta_n \subseteq B) \defeq 
-P(\xi < x \mid \eta \in \Delta_n)
+F_{\xi \mid \eta}(x \mid \eta \in B) \defeq 
+P(\xi < x \mid \eta \in B)
 $$
 
 # Функция плотности случайного вектора
+$$
+F_\xi(\vec{x}) = \int_{-\infty}^{x_1} \dots \int_{-\infty}^{x_n}{
+f(u_1, \dots, u_n) \d u_1 \dots \d u_n
+}
+$$
