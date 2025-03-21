@@ -42,3 +42,10 @@ $\implies p_i = const$
 реономная связь
  
 # 19.24
+
+# Скобки Пуассона
+$$
+(\varphi, \psi) \defeq \sum_{i=1}^{n}\group{\pdv{q_i}{\varphi} \pdv{p_i}{\psi} - \pdv{p_i}{\varphi} \pdv{q_i}{\psi}}
+$$
+## Свойства
+1. Антисимметричность
