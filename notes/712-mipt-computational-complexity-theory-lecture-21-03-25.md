@@ -46,16 +46,60 @@ P(M(x,r) = 0) \ge \frac{2}{3} \\
 }
 $$
 
-# BPP
+# RP
 
 $$
 \Gather{
-L \in BPP \\
+L \in RP \\
 \stackrel{def}{\same} \\
 \exists\ \text{ПВМТ}\ M(x,r) : \\
 \forall x \in L \hthen
-P(M(x,r) = 1) \ge \frac{2}{3} \\
+P(M(x,r) = 1) \ge \frac{1}{2} \\
 \forall x \not\in L \hthen
-P(M(x,r) = 0) \ge \frac{2}{3} \\
+P(M(x,r) = 0) = 1 \\
 }
 $$
+
+# coRP
+
+$$
+\Gather{
+L \in \co{RP} \\
+\stackrel{def}{\same} \\
+\exists\ \text{ПВМТ}\ M(x,r) : \\
+\forall x \in L \hthen
+P(M(x,r) = 1) = 1 \\
+\forall x \not\in L \hthen
+P(M(x,r) = 0) \ge \frac{1}{2} \\
+}
+$$
+
+# NP
+
+$$
+\Gather{
+L \in \NP \\
+\stackrel{def}{\same} \\
+\exists\ \text{ПВМТ}\ M(x,r) : \\
+\forall x \in L \hthen
+P(M(x,r) = 1) > 0 \\
+\forall x \not\in L \hthen
+P(M(x,r) = 0) = 1 \\
+}
+$$
+
+# coNP
+
+$$
+\Gather{
+L \in \co\NP \\
+\stackrel{def}{\same} \\
+\exists\ \text{ПВМТ}\ M(x,r) : \\
+\forall x \in L \hthen
+P(M(x,r) = 1) = 1 \\
+\forall x \not\in L \hthen
+P(M(x,r) = 0) > 0 \\
+}
+$$
+
+
