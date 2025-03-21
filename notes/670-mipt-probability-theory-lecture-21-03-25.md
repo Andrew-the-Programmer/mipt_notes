@@ -15,6 +15,10 @@ $$
 \forall D \in F \hthen \\
 P(B_n D) = 
 \sum_{\set{k_1, \dots, k_n} \in \set{0,1}^n}{
-(-1)^{\sum{k_j}}}
+(-1)^{\sum{k_j}}
+P\group{\bigcap_{j=1}^{n}\set{\omega_i \xi_j(\omega) < x_j^{k_j}} \cap D}
+}
 }
 $$
+$x_j^0 \defeq b_j$
+$x_j^1 \defeq a_j$
