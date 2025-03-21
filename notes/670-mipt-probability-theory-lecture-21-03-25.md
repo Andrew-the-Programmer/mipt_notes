@@ -82,3 +82,11 @@ F_\xi(\vec{x}) = \int_{-\infty}^{x_1} \dots \int_{-\infty}^{x_n}{
 f(u_1, \dots, u_n) \d u_1 \dots \d u_n
 }
 $$
+
+# Нормальный случайный вектор
+отмена...
+
+# Математическое ожидание
+$$
+E \xi \defeq \int_{\Omega}{\xi(\omega) P(\d \omega)}
+$$
