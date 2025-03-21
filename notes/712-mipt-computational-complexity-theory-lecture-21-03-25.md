@@ -130,8 +130,26 @@ $$
 
 $X_1, \dots, X_n$ - независимые бернулевские случайные величины.
 $X = \sum{X_i}$
-$\mu = E(X)$
+$\mu = \bbE(X)$
 $\delta \in (0,1)$
- $$
-P(\abs{X - \mu} \ge \delta \mu) \le 2 e^{-\frac{\delta^2 \mu}{3}}
+
+$$
+\bbP(\abs{X - \mu} \ge \delta \mu) \le 2 e^{-\frac{\delta^2 \mu}{3}}
+$$
+
+# Theorem
+
+$f,g: \NN \to (0,1)$.
+$f,g$ вычислимы.
+
+$$
+\Gather{
+L \in BPP \\
+\stackrel{def}{\same} \\
+\exists\ \text{ПВМТ}\ M(x,r) : \\
+\forall x \in L \hthen
+P(M(x,r) = 1) \ge \frac{2}{3} \\
+\forall x \not\in L \hthen
+P(M(x,r) = 0) \ge \frac{2}{3} \\
+}
 $$
