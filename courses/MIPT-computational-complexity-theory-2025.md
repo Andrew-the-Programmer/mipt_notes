@@ -14,6 +14,7 @@ tags: []
 4. [[777-mipt-computational-complexity-theory-lecture-28-02-25|28-02-25]]
 5. [[133-mipt-computational-complexity-theory-lecture-07-03-25|07-03-25]]
 6. [[181-mipt-computational-complexity-theory-lecture-14-03-25|14-03-25]]
+7. [[712-mipt-computational-complexity-theory-lecture-21-03-25|21-03-25]]
 
 # Seminars
 1. [[1738689676-mipt-computational-complexity-theory-seminar-04-02-25|04-02-25]]
