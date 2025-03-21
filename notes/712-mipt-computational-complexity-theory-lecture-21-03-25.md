@@ -104,8 +104,20 @@ $$
 
 ![cor.png](assets/imgs/21-03-25_11-34-10_931_21-03-25_11-34-10_231.png)
 
-
 # Theorem
+
 $$
 PH \subseteq P^{PP}
 $$
+
+## Proof
+
+hard...
+
+# Theorem
+
+$$
+NP \subseteq PP
+$$
+
+## Proof
