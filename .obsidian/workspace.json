@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/256-mipt-anmech-seminar-07-03-25.md",
+                "file": "notes/712-mipt-computational-complexity-theory-lecture-21-03-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "256-mipt-anmech-seminar-07-03-25"
+              "title": "712-mipt-computational-complexity-theory-lecture-21-03-25"
             }
           }
         ]
@@ -194,6 +194,7 @@
   "active": "79365aa3e212140e",
   "lastOpenFiles": [
     "notes/712-mipt-computational-complexity-theory-lecture-21-03-25.md~",
+    "notes/256-mipt-anmech-seminar-07-03-25.md",
     "courses/MIPT-computational-complexity-theory-2025.md~",
     "notes/712-mipt-computational-complexity-theory-lecture-21-03-25.md",
     "notes/655-mipt-anmech-seminar-14-03-25.md",
@@ -214,7 +215,6 @@
     "notes/775-mipt-differential-equations-seminar-26-02-25.md",
     "notes/775-mipt-differential-equations-seminar-26-02-25.md~",
     "notes/789-mipt-differential-equations-lecture-05-03-25.md",
-    "notes/789-mipt-differential-equations-lecture-05-03-25.md~",
     "courses/MIPT-differential-equations-2025.md",
     "notes/1738759267-mipt-differential-equations-seminar-05-02-25.md",
     "notes/566-mipt-differential-equations-lecture-19-03-25.md",
@@ -237,7 +237,6 @@
     "notes/230-mipt-field-theory-seminar-19-02-25.md",
     "notes/896-mipt-field-theory-lecture-12-03-25.md",
     "notes/551-mipt-field-theory-lecture-05-03-25.md",
-    "notes/725-mipt-field-theory-lecture-26-02-25.md",
-    "notes/258-mipt-field-theory-lecture-19-02-25.md"
+    "notes/725-mipt-field-theory-lecture-26-02-25.md"
   ]
 }
