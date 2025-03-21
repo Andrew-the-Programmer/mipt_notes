@@ -62,3 +62,8 @@ $$
 4. $$
 \pdv{t}{(\varphi, \psi)} = \group{\pdv{t}{\varphi}, \psi} + \group{\varphi, \pdv{t}{\psi}}
 $$ 
+
+# Критерий первого интеграла ур-ий Гамильтона
+$$
+\pdv{t}{f} + (f, H) = 0
+$$
