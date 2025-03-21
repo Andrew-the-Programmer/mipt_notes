@@ -144,12 +144,13 @@ $f,g$ вычислимы.
 
 $$
 \Gather{
-L \in BPP \\
+L \in BPP_w \\
 \stackrel{def}{\same} \\
 \exists\ \text{ПВМТ}\ M(x,r) : \\
 \forall x \in L \hthen
-P(M(x,r) = 1) \ge \frac{2}{3} \\
+P(M(x,r) = 1) \ge f(n) + g(n) \\
 \forall x \not\in L \hthen
-P(M(x,r) = 0) \ge \frac{2}{3} \\
+P(M(x,r) = 0) \le f(n) - g(n) \\
+(n \defeq \abs{x}) \\
 }
 $$
