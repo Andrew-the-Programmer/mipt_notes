@@ -14,7 +14,7 @@ p_i \defeq \pdv{\dot{{q}_{i}}}{L}
 $$
 гамильтониан
 $$
-H \defeq \sum\group{p_i \dot{{q}_{i}} - L} \vert_{\dot{{q}_{i}} = \psi_i(t,q,p)}
+H \defeq \sum\group{p_i \dot{{q}_{i}}} - L \vert_{\dot{{q}_{i}} = \psi_i(t,q,p)}
 $$
 $$
 \Cases{
@@ -37,5 +37,8 @@ $$
 $\implies p_i = const$
 
 # $H = E = T + \Pi$
+натуральная система
+склерономная связь
+реономная связь
  
 # 19.24
