@@ -104,4 +104,8 @@ $$
 
 ![cor.png](assets/imgs/21-03-25_11-34-10_931_21-03-25_11-34-10_231.png)
 
-![hi.svg](1742546188.svg)
+
+# Theorem
+$$
+PH \subseteq P^{PP}
+$$
