@@ -103,3 +103,5 @@ $$
 3. $E(\xi_1 + \xi_2) = E(\xi_1) + E(\xi_2)$
 4. $\xi = \eta\ (\textit{почти наверное - п.н. - P почти всюду})
 \implies E(\xi) = E(\eta)$
+5. $\xi \le \eta\ (п.н.) \implies E(\xi) \le E(\eta)$ 
+6. $\xi \ge 0\ (п.н.),\quad E(\xi) \ge 0 \implies \xi = 0\ (п.н.)$
