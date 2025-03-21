@@ -66,17 +66,20 @@ $$
 # Построение случайной величины по ф-ии распределения
 
 # Claim
+
 $$
 F_\xi(\xi) = U(0,1)
 $$
 
 # Условная функция распределения
+
 $$
-F_{\xi \mid \eta}(x \mid \eta \in B) \defeq 
+F_{\xi \mid \eta}(x \mid \eta \in B) \defeq
 P(\xi < x \mid \eta \in B)
 $$
 
 # Функция плотности случайного вектора
+
 $$
 F_\xi(\vec{x}) = \int_{-\infty}^{x_1} \dots \int_{-\infty}^{x_n}{
 f(u_1, \dots, u_n) \d u_1 \dots \d u_n
@@ -84,9 +87,19 @@ f(u_1, \dots, u_n) \d u_1 \dots \d u_n
 $$
 
 # Нормальный случайный вектор
+
 отмена...
 
 # Математическое ожидание
+
 $$
 E \xi \defeq \int_{\Omega}{\xi(\omega) P(\d \omega)}
 $$
+
+# Свойства математического ожидания
+
+1. $E(\xi \equiv c) = c$
+2. $E(\alpha \xi) = \alpha E(\xi)$ 
+3. $E(\xi_1 + \xi_2) = E(\xi_1) + E(\xi_2)$
+4. $\xi = \eta\ (\textit{почти наверное - п.н. - P почти всюду})
+\implies E(\xi) = E(\eta)$
