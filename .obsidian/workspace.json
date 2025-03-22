@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/144-mipt-anmech-seminar-21-03-25.md",
-                "mode": "preview",
+                "file": "notes/786-mipt-physics-lecture-15-03-25.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "144-mipt-anmech-seminar-21-03-25"
+              "title": "786-mipt-physics-lecture-15-03-25"
             }
           }
         ]
@@ -193,9 +193,16 @@
   },
   "active": "79365aa3e212140e",
   "lastOpenFiles": [
-    "notes/606-mipt-physics-lecture-22-03-25.md~",
-    "courses/MIPT-physics-2025.md~",
+    "notes/786-mipt-physics-lecture-15-03-25.md~",
     "notes/606-mipt-physics-lecture-22-03-25.md",
+    "notes/786-mipt-physics-lecture-15-03-25.md",
+    "notes/606-mipt-physics-lecture-22-03-25.md~",
+    "notes/144-mipt-anmech-seminar-21-03-25.md",
+    "sourses/physics/lectures_2025/Лекция_5.pdf",
+    "sourses/physics/lectures_2025/Лекция_5.pdf.crdownload",
+    "sourses/physics/lectures_2025/Лекция_6.pdf",
+    "sourses/physics/lectures_2025/Лекция_6.pdf.crdownload",
+    "courses/MIPT-physics-2025.md~",
     "notes/539-mipt-physics-lecture-01-03-25.md~",
     "notes/128-mipt-physics-seminar-22-03-25.md",
     "notes/144-mipt-anmech-seminar-21-03-25.md~",
@@ -211,14 +218,8 @@
     "assets/imgs/21-03-25_18-02-23_138_IMG_20250321_175825.jpg",
     "notes/670-mipt-probability-theory-lecture-21-03-25.md",
     "courses/MIPT-anmech-2025.md~",
-    "notes/144-mipt-anmech-seminar-21-03-25.md",
     "notes/655-mipt-anmech-seminar-14-03-25.md~",
-    "notes/670-mipt-probability-theory-lecture-21-03-25.md~",
     "notes/712-mipt-computational-complexity-theory-lecture-21-03-25.md",
-    "courses/MIPT-probability-theory-2025.md~",
-    "notes/712-mipt-computational-complexity-theory-lecture-21-03-25.md~",
-    "notes/173-mipt-probability-theory-lecture-28-02-25.md~",
-    "preamble.sty~",
     "notes/256-mipt-anmech-seminar-07-03-25.md",
     "notes/655-mipt-anmech-seminar-14-03-25.md",
     "notes/797-mipt-differential-equations-seminar-12-02-25.md",
@@ -237,7 +238,6 @@
     "notes/698-mipt-field-theory-lecture-19-03-25.md",
     "notes/1738749330-mipt-field-theory-seminar-05-02-25.md",
     "courses/MIPT-field-theory-2025.md",
-    "notes/604-mipt-field-theory-seminar-12-03-25.md",
-    "notes/204-mipt-field-theory-seminar-05-03-25.md"
+    "notes/604-mipt-field-theory-seminar-12-03-25.md"
   ]
 }
