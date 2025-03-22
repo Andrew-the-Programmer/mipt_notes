@@ -7,5 +7,4 @@ tags: []
 
 # MIPT physics lecture 22-03-25
 
-[[Лекция_6.pdf]]
-
+![[Лекция_6.pdf]]
