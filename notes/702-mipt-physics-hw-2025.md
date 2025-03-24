@@ -34,8 +34,18 @@ K = 0 \\
 $1,2 \implies A = 0$
 $1 \implies r = 0$
 $2 \implies r = 1$
-$3 \implies r = 0, A = 1$
+$3 \implies r = 1, A = 1$
+
+$$
+\AlignLeft{
+P_1 = \frac{E}{c} \frac{дин}{м^2} \\
+P_2 = 2 P_1 \\
+P_3 = 2 P_1 \\
+}
+$$
 
 # 2.45
 
 ![2.45](assets/imgs/24-03-25_20-35-21_139_24-03-25_20-35-21_359.png)
+
+
