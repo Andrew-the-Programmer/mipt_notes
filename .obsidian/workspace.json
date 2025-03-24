@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/606-mipt-physics-lecture-22-03-25.md",
+                "file": "notes/603-mipt-physics-seminar-25-02-25.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "606-mipt-physics-lecture-22-03-25"
+              "title": "603-mipt-physics-seminar-25-02-25"
             }
           }
         ]
@@ -193,6 +193,10 @@
   },
   "active": "79365aa3e212140e",
   "lastOpenFiles": [
+    "notes/702-mipt-physics-hw-2025.md~",
+    "assets/imgs/24-03-25_19-34-50_774_24-03-25_19-34-50_724.png",
+    "courses/MIPT-physics-2025.md~",
+    "notes/702-mipt-physics-hw-2025.md",
     "notes/606-mipt-physics-lecture-22-03-25.md~",
     "notes/786-mipt-physics-lecture-15-03-25.md",
     "notes/786-mipt-physics-lecture-15-03-25.md~",
@@ -202,7 +206,6 @@
     "sourses/physics/lectures_2025/Лекция_5.pdf.crdownload",
     "sourses/physics/lectures_2025/Лекция_6.pdf",
     "sourses/physics/lectures_2025/Лекция_6.pdf.crdownload",
-    "courses/MIPT-physics-2025.md~",
     "notes/539-mipt-physics-lecture-01-03-25.md~",
     "notes/128-mipt-physics-seminar-22-03-25.md",
     "notes/144-mipt-anmech-seminar-21-03-25.md~",
@@ -215,9 +218,7 @@
     "assets/imgs/21-03-25_18-02-23_111_IMG_20250321_180051.jpg",
     "assets/imgs/21-03-25_18-02-23_286_IMG_20250321_180017.jpg",
     "assets/imgs/21-03-25_18-02-23_207_IMG_20250321_175829.jpg",
-    "assets/imgs/21-03-25_18-02-23_138_IMG_20250321_175825.jpg",
     "notes/670-mipt-probability-theory-lecture-21-03-25.md",
-    "courses/MIPT-anmech-2025.md~",
     "notes/712-mipt-computational-complexity-theory-lecture-21-03-25.md",
     "notes/256-mipt-anmech-seminar-07-03-25.md",
     "notes/655-mipt-anmech-seminar-14-03-25.md",
@@ -236,7 +237,6 @@
     "notes/714-mipt-field-theory-seminar-19-03-25.md",
     "notes/698-mipt-field-theory-lecture-19-03-25.md",
     "notes/1738749330-mipt-field-theory-seminar-05-02-25.md",
-    "courses/MIPT-field-theory-2025.md",
-    "notes/604-mipt-field-theory-seminar-12-03-25.md"
+    "courses/MIPT-field-theory-2025.md"
   ]
 }

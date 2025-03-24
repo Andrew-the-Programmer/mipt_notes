@@ -27,3 +27,6 @@ tags: []
 5. [[695-mipt-physics-seminar-04-03-25|04-03-25]]
 6. [[407-mipt-physics-seminar-11-03-25|11-03-25]]
 7. [[570-mipt-physics-seminar-18-03-25|18-03-25]]
+
+# HW
+[[702-mipt-physics-hw-2025|MIPT physics hw 2025]]
