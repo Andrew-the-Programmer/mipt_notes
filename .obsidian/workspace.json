@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/594-ядро-Дирихле.md",
+                "file": "courses/MIPT-physics-2025.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "594-ядро-Дирихле"
+              "title": "MIPT-physics-2025"
             }
           }
         ]
@@ -194,6 +194,10 @@
   "active": "79365aa3e212140e",
   "lastOpenFiles": [
     "courses/MIPT-physics-2025.md~",
+    "assets/imgs/25-03-25_09-22-35_100_25-03-25_09-22-35_601.png",
+    "notes/594-ядро-Дирихле.md",
+    "assets/imgs/25-03-25_09-20-55_405_25-03-25_09-20-55_990.png",
+    "assets/imgs/25-03-25_09-20-28_370_25-03-25_09-20-28_209.png",
     "notes/702-mipt-physics-hw-2025.md",
     "notes/234-mipt-harmonic-analysis-seminar-25-03-25.md~",
     "courses/MIPT-harmonic-analysis-2025.md~",
@@ -221,9 +225,6 @@
     "assets/imgs/21-03-25_18-15-54_691_IMG_20250321_181423.jpg",
     "assets/imgs/21-03-25_18-15-54_487_IMG_20250321_180947.jpg",
     "assets/imgs/21-03-25_18-15-54_924_IMG_20250321_180713.jpg",
-    "assets/imgs/21-03-25_18-15-54_705_IMG_20250321_180704.jpg",
-    "assets/imgs/21-03-25_18-15-54_536_IMG_20250321_180354.jpg",
-    "assets/imgs/21-03-25_18-02-23_111_IMG_20250321_180051.jpg",
     "notes/670-mipt-probability-theory-lecture-21-03-25.md",
     "notes/712-mipt-computational-complexity-theory-lecture-21-03-25.md",
     "notes/256-mipt-anmech-seminar-07-03-25.md",
@@ -236,7 +237,6 @@
     "notes/974-mipt-differential-equations-seminar-05-03-25.md",
     "notes/680-mipt-differential-equations-seminar-19-02-25.md",
     "notes/775-mipt-differential-equations-seminar-26-02-25.md",
-    "notes/789-mipt-differential-equations-lecture-05-03-25.md",
-    "courses/MIPT-differential-equations-2025.md"
+    "notes/789-mipt-differential-equations-lecture-05-03-25.md"
   ]
 }
