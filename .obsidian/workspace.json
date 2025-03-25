@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/MIPT-physics-2025.md",
+                "file": "notes/606-mipt-physics-lecture-22-03-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MIPT-physics-2025"
+              "title": "606-mipt-physics-lecture-22-03-25"
             }
           }
         ]
@@ -193,6 +193,8 @@
   },
   "active": "79365aa3e212140e",
   "lastOpenFiles": [
+    "courses/MIPT-physics-2025.md",
+    "notes/606-mipt-physics-lecture-22-03-25.md~",
     "courses/MIPT-physics-2025.md~",
     "assets/imgs/25-03-25_10-06-32_559_25-03-25_10-06-31_154.png",
     "notes/234-mipt-harmonic-analysis-seminar-25-03-25.md~",
@@ -217,7 +219,6 @@
     "notes/4913",
     "notes/603-mipt-physics-seminar-25-02-25.md",
     "assets/imgs/24-03-25_19-34-50_774_24-03-25_19-34-50_724.png",
-    "notes/606-mipt-physics-lecture-22-03-25.md~",
     "notes/786-mipt-physics-lecture-15-03-25.md",
     "notes/606-mipt-physics-lecture-22-03-25.md",
     "notes/144-mipt-anmech-seminar-21-03-25.md",
