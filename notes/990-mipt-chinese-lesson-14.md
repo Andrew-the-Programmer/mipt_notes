@@ -89,4 +89,23 @@ tags: []
 ![11-03-25_14-10-15_536.png](assets/imgs/11-03-25_14-10-15_536.png)
 
 ## 3
+
+Заполните пропуски словами из списка
 ![25-03-25_13-51-42_838_25-03-25_13-51-42_132.png](assets/imgs/25-03-25_13-51-42_838_25-03-25_13-51-42_132.png)
+旁边 - pángbiān - beside
+见面 - jiànmiàn - Meet
+还是
+借
+刷
+介绍
+有空
+一遍
+上
+带
+里边
+教
+
+1. 在超市付款的时候，你可以付现金也可以 _ 银行卡。
+   付款 - fùkuǎn - Payment
+   zài chāoshì fùkuǎn de shíhòu，nǐ kěyǐ fùxiànjīn yě kěyǐ _ yínxíngkǎ。
+   When you make a payment in the supermarket, you can pay cash or bank card.
