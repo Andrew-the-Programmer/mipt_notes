@@ -1,7 +1,7 @@
 ---
 id: 1728386021-chinese-directions
 aliases:
-  - Chinese directions
+  - chinese directions
 tags: []
 ---
 

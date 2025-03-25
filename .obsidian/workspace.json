@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/990-mipt-chinese-lesson-14.md",
+                "file": "notes/1728386021-chinese-directions.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "990-mipt-chinese-lesson-14"
+              "title": "1728386021-chinese-directions"
             }
           }
         ]
@@ -193,7 +193,11 @@
   },
   "active": "79365aa3e212140e",
   "lastOpenFiles": [
+    "notes/610-chinese-过-guò.md",
+    "notes/1728386021-chinese-directions.md~",
     "notes/990-mipt-chinese-lesson-14.md~",
+    "notes/610-chinese-过-guò.md~",
+    "notes/990-mipt-chinese-lesson-14.md",
     "notes/786-mipt-physics-lecture-15-03-25.md",
     "notes/603-mipt-physics-seminar-25-02-25.md",
     "notes/786-mipt-physics-lecture-15-03-25.md~",
@@ -210,13 +214,11 @@
     "notes/606-mipt-physics-lecture-22-03-25.md",
     "notes/606-mipt-physics-lecture-22-03-25.md~",
     "assets/imgs/25-03-25_10-06-32_559_25-03-25_10-06-31_154.png",
-    "notes/234-mipt-harmonic-analysis-seminar-25-03-25.md~",
     "assets/imgs/25-03-25_09-22-35_100_25-03-25_09-22-35_601.png",
     "notes/594-ядро-Дирихле.md",
     "assets/imgs/25-03-25_09-20-55_405_25-03-25_09-20-55_990.png",
     "assets/imgs/25-03-25_09-20-28_370_25-03-25_09-20-28_209.png",
     "notes/702-mipt-physics-hw-2025.md",
-    "courses/MIPT-harmonic-analysis-2025.md~",
     "notes/234-mipt-harmonic-analysis-seminar-25-03-25.md",
     "notes/873-давление-электромагнитного-излучения.md",
     "assets/imgs/24-03-25_20-35-21_139_24-03-25_20-35-21_359.png",
@@ -235,8 +237,6 @@
     "notes/655-mipt-anmech-seminar-14-03-25.md",
     "notes/797-mipt-differential-equations-seminar-12-02-25.md",
     "notes/759-mipt-differential-equations-lecture-12-02-25.md",
-    "notes/525-mipt-differential-equations-lecture-26-02-25.md",
-    "notes/655-mipt-differential-equations-seminar-12-03-25.md",
-    "notes/176-mipt-differential-equations-lecture-12-03-25.md"
+    "notes/525-mipt-differential-equations-lecture-26-02-25.md"
   ]
 }
