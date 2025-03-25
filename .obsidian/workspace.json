@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/606-mipt-physics-lecture-22-03-25.md",
+                "file": "courses/MIPT-physics-2025.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "606-mipt-physics-lecture-22-03-25"
+              "title": "MIPT-physics-2025"
             }
           }
         ]
@@ -193,6 +193,7 @@
   },
   "active": "79365aa3e212140e",
   "lastOpenFiles": [
+    "notes/606-mipt-physics-lecture-22-03-25.md",
     "courses/MIPT-physics-2025.md",
     "notes/606-mipt-physics-lecture-22-03-25.md~",
     "courses/MIPT-physics-2025.md~",
@@ -220,7 +221,6 @@
     "notes/603-mipt-physics-seminar-25-02-25.md",
     "assets/imgs/24-03-25_19-34-50_774_24-03-25_19-34-50_724.png",
     "notes/786-mipt-physics-lecture-15-03-25.md",
-    "notes/606-mipt-physics-lecture-22-03-25.md",
     "notes/144-mipt-anmech-seminar-21-03-25.md",
     "notes/128-mipt-physics-seminar-22-03-25.md",
     "assets/imgs/21-03-25_18-15-54_432_IMG_20250321_181430.jpg",
