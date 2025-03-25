@@ -134,6 +134,10 @@ tags: []
 
 <!---->
 
+1. 5
+
+<!---->
+
 1. 在超市付款的时候，你可以付现金也可以 _ 银行卡。
    zài chāoshì fùkuǎn de shíhòu，nǐ kěyǐ fùxiànjīn yě kěyǐ _ yínxíngkǎ。
    付款 - fùkuǎn - Payment
