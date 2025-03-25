@@ -91,19 +91,22 @@ tags: []
 ## 3
 
 Заполните пропуски словами из списка
-![25-03-25_13-51-42_838_25-03-25_13-51-42_132.png](assets/imgs/25-03-25_13-51-42_838_25-03-25_13-51-42_132.png)
-旁边 - pángbiān - beside
-见面 - jiànmiàn - Meet
-还是
-借
-刷
-介绍
-有空
-一遍
-上
-带
-里边
-教
+![3](assets/imgs/25-03-25_13-51-42_838_25-03-25_13-51-42_132.png)
+
+1. 旁边 - pángbiān - beside
+2. 见面 - jiànmiàn - Meet
+3. 还是 - háishì - still
+4. 借 - jiè - borrow
+5. 刷 - shuā - brush
+6. 介绍 - jièshào - introduce
+7. 有空 - yǒukōng - available
+8. 一遍 - yībiàn - Once
+9. 上 - shàng - superior
+10. 带 - dài - bring
+11. 里边 - lǐbiān - inside
+12. 教 - jiào - teach
+
+<!---->
 
 1. 在超市付款的时候，你可以付现金也可以 _ 银行卡。
    付款 - fùkuǎn - Payment
