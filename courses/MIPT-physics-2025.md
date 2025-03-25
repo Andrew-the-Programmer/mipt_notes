@@ -29,4 +29,10 @@ tags: []
 7. [[570-mipt-physics-seminar-18-03-25|18-03-25]]
 
 # HW
+
 [[702-mipt-physics-hw-2025|MIPT physics hw 2025]]
+
+# Test 1
+
+# 6.63
+# 7.66
