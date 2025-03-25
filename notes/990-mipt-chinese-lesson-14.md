@@ -7,6 +7,8 @@ tags: []
 
 # MIPT chinese lesson 14
 
+# New words
+
 图书馆 - túshūguǎn - library
 
 馆 - culture / sports / diplomatic events
@@ -64,6 +66,9 @@ tags: []
 带
 
 说定
+
+# .
+
 
 # Grammar
 
