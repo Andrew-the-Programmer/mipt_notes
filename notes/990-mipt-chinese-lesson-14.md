@@ -69,12 +69,18 @@ tags: []
 
 # .
 
-
 # Grammar
 
 # [[610-chinese-过-guò|过-guò]]
 
 # [[1728386021-chinese-directions|directions]]
+
+# [[225-chinese-кратность-действия-次-and-遍|Кратность действия - 次 and 遍]]
+
+一次 - yīcì - once
+一遍 - yībiàn - Once
+
+# [[406-chinese-不是...吗-bushi...ma|不是...吗-bushi...ma]]
 
 # Exercises
 
@@ -82,13 +88,3 @@ tags: []
 
 ![11-03-25_14-10-15_536.png](assets/imgs/11-03-25_14-10-15_536.png)
 
-
-# .
-一次 - yīcì - once
-一遍 - yībiàn - Once
-
-# 不是 ... 吗？
-же.
-
-你明天不是有测试吗？你这么还在玩电脑。
-你不是学习engl?
