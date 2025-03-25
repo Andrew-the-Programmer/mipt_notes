@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/990-mipt-chinese-lesson-14.md",
+                "file": "notes/406-chinese-不是...吗-bushi...md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "990-mipt-chinese-lesson-14"
+              "title": "406-chinese-不是...吗-bushi.."
             }
           }
         ]
@@ -193,11 +193,14 @@
   },
   "active": "79365aa3e212140e",
   "lastOpenFiles": [
+    "notes/990-mipt-chinese-lesson-14.md",
+    "notes/406-chinese-不是...吗-bushi...md~",
+    "assets/imgs/25-03-25_13-18-47_561_25-03-25_13-18-47_856.png",
     "notes/990-mipt-chinese-lesson-14.md~",
+    "notes/406-chinese-不是...吗-bushi...md",
     "notes/1728386021-chinese-directions.md~",
     "notes/610-chinese-过-guò.md",
     "notes/610-chinese-过-guò.md~",
-    "notes/990-mipt-chinese-lesson-14.md",
     "notes/786-mipt-physics-lecture-15-03-25.md",
     "notes/603-mipt-physics-seminar-25-02-25.md",
     "notes/786-mipt-physics-lecture-15-03-25.md~",
@@ -212,7 +215,6 @@
     "assets/imgs/25-03-25_10-22-03_645_25-03-25_10-22-03_704.png",
     "notes/488-t6.md",
     "notes/606-mipt-physics-lecture-22-03-25.md",
-    "notes/606-mipt-physics-lecture-22-03-25.md~",
     "assets/imgs/25-03-25_10-06-32_559_25-03-25_10-06-31_154.png",
     "assets/imgs/25-03-25_09-22-35_100_25-03-25_09-22-35_601.png",
     "notes/594-ядро-Дирихле.md",
@@ -230,13 +232,11 @@
     "notes/144-mipt-anmech-seminar-21-03-25.md",
     "notes/128-mipt-physics-seminar-22-03-25.md",
     "assets/imgs/21-03-25_18-15-54_432_IMG_20250321_181430.jpg",
-    "assets/imgs/21-03-25_18-15-54_691_IMG_20250321_181423.jpg",
     "notes/670-mipt-probability-theory-lecture-21-03-25.md",
     "notes/712-mipt-computational-complexity-theory-lecture-21-03-25.md",
     "notes/256-mipt-anmech-seminar-07-03-25.md",
     "notes/655-mipt-anmech-seminar-14-03-25.md",
     "notes/797-mipt-differential-equations-seminar-12-02-25.md",
-    "notes/759-mipt-differential-equations-lecture-12-02-25.md",
-    "notes/525-mipt-differential-equations-lecture-26-02-25.md"
+    "notes/759-mipt-differential-equations-lecture-12-02-25.md"
   ]
 }
