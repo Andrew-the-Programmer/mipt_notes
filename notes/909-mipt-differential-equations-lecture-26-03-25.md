@@ -66,3 +66,4 @@ $a_{ij} = \pdv{x_j}{f_i}\rvert_{x=x_0}$
 $\set{\lambda_i}_{i=1}^{n}$ - решения
 
 $$x_0 - ПР \same\Re \lambda_i < 0$$
+
