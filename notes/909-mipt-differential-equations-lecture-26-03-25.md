@@ -59,7 +59,7 @@ $$
 $$
 
 $A = (a_{ij})$
-$a_{ij} = \pdv{x_j}{f_i}\rvert_{x=x_0}$
+$a_{ij} = const = \pdv{x_j}{f_i}\rvert_{x=x_0}$
 
 # Th 1
 
