@@ -59,6 +59,10 @@ $$
 $$
 
 $A = (a_{ij})$
-$a_{ij} = \pdv{x_j}{f_i}\rvert_{x=x_0}$ 
+$a_{ij} = \pdv{x_j}{f_i}\rvert_{x=x_0}$
 
 # Th 1
+
+$\set{\lambda_i}_{i=1}^{n}$ - решения
+
+$$x_0 - ПР \same\Re \lambda_i < 0$$
