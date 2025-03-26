@@ -50,4 +50,15 @@ x(t_0) = x^\star
    \abs{\vec{x}(t, x^\star) - \vec{x}(t_0, x_0)} \to 0,\quad t \to \infty
    $$
 
-# Пример
+# Пример Ф.889
+
+# Линейная система
+
+$$
+\dv{t}{z} = A z
+$$
+
+$A = (a_{ij})$
+$a_{ij} = \pdv{x_j}{f_i}\rvert_{x=x_0}$ 
+
+# Th 1
