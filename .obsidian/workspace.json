@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/990-mipt-chinese-lesson-14.md",
+                "file": "notes/604-mipt-field-theory-seminar-12-03-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "990-mipt-chinese-lesson-14"
+              "title": "604-mipt-field-theory-seminar-12-03-25"
             }
           }
         ]
@@ -193,11 +193,14 @@
   },
   "active": "79365aa3e212140e",
   "lastOpenFiles": [
+    "courses/MIPT-field-theory-2025.md",
+    "notes/714-mipt-field-theory-seminar-19-03-25.md",
+    "notes/230-mipt-field-theory-seminar-19-02-25.md",
+    "notes/990-mipt-chinese-lesson-14.md",
     "notes/990-mipt-chinese-lesson-14.md~",
     "assets/imgs/25-03-25_14-24-13_039_25-03-25_14-24-13_655.png",
     "notes/1728386021-chinese-directions.md",
     "assets/imgs/25-03-25_14-23-52_569_25-03-25_14-23-52_563.png",
-    "notes/990-mipt-chinese-lesson-14.md",
     "notes/1728386021-chinese-directions.md~",
     "assets/imgs/25-03-25_14-16-22_430_25-03-25_14-16-22_770.png",
     "assets/imgs/25-03-25_14-12-12_399_25-03-25_14-12-12_901.png",
@@ -235,8 +238,6 @@
     "notes/1731666798-угол-Брюстера.md",
     "notes/144-mipt-anmech-seminar-21-03-25.md",
     "notes/128-mipt-physics-seminar-22-03-25.md",
-    "notes/670-mipt-probability-theory-lecture-21-03-25.md",
-    "notes/712-mipt-computational-complexity-theory-lecture-21-03-25.md",
-    "notes/256-mipt-anmech-seminar-07-03-25.md"
+    "notes/670-mipt-probability-theory-lecture-21-03-25.md"
   ]
 }
