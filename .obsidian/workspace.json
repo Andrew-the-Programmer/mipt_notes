@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/MIPT-differential-equations-2025.md",
+                "file": "notes/566-mipt-differential-equations-lecture-19-03-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MIPT-differential-equations-2025"
+              "title": "566-mipt-differential-equations-lecture-19-03-25"
             }
           }
         ]
@@ -194,9 +194,10 @@
   "active": "79365aa3e212140e",
   "lastOpenFiles": [
     "notes/909-mipt-differential-equations-lecture-26-03-25.md~",
-    "courses/MIPT-differential-equations-2025.md~",
     "notes/909-mipt-differential-equations-lecture-26-03-25.md",
     "notes/566-mipt-differential-equations-lecture-19-03-25.md~",
+    "courses/MIPT-differential-equations-2025.md",
+    "courses/MIPT-differential-equations-2025.md~",
     "notes/604-mipt-field-theory-seminar-12-03-25.md",
     "courses/MIPT-field-theory-2025.md",
     "notes/714-mipt-field-theory-seminar-19-03-25.md",
@@ -226,7 +227,6 @@
     "notes/786-mipt-physics-lecture-15-03-25.md",
     "notes/603-mipt-physics-seminar-25-02-25.md",
     "notes/786-mipt-physics-lecture-15-03-25.md~",
-    "courses/MIPT-physics-2025.md~",
     "notes/695-mipt-physics-seminar-04-03-25.md",
     "notes/407-mipt-physics-seminar-11-03-25.md",
     "courses/MIPT-physics-2025.md",
@@ -237,7 +237,6 @@
     "notes/234-mipt-harmonic-analysis-seminar-25-03-25.md",
     "notes/873-давление-электромагнитного-излучения.md",
     "notes/747-формулы-Френеля.md",
-    "notes/1731663299-преломление-и-отражение-электромагнитных-волн.md",
-    "notes/1731666798-угол-Брюстера.md"
+    "notes/1731663299-преломление-и-отражение-электромагнитных-волн.md"
   ]
 }
