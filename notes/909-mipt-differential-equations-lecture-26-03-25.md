@@ -33,10 +33,15 @@ x(t_0) = x^\star
 }$ существует $\forall t > t_0$
 
 2. $$
-   \forall \varepsilon > 0 \exists \delta > 0 :
-   \abs{x^* - x^0} < \delta \implies \abs{\vec{x}(t, x^\star) - \vec{x}(t_0, x_0)} < \varepsilon
+   \forall \varepsilon > 0 \exists \delta_\varepsilon > 0 :
+   \abs{x^* - x_0} < \delta_\varepsilon \implies
+   \abs{\vec{x}(t, x^\star) - \vec{x}(t_0, x_0)} < \varepsilon
    $$
 
 # Ассимптотическая устойчивость
 
 1. Устойчивость по Ляпунову
+2. $$
+   \forall \varepsilon \exists \delta^\star \le \delta_\varepsilon :
+   \forall 
+   $$
