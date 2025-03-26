@@ -65,5 +65,9 @@ $a_{ij} = \pdv{x_j}{f_i}\rvert_{x=x_0}$
 
 $\set{\lambda_i}_{i=1}^{n}$ - решения
 
-$$x_0 - ПР \same\Re \lambda_i < 0$$
-
+$$
+\AlignCenter{
+\forall i \Re \lambda_i < 0 \implies x_0 - пр \\
+\exists i \Re \lambda_i > 0 \implies x_0 - не\ пр
+}
+$$
