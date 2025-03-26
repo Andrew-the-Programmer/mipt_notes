@@ -27,3 +27,4 @@ tags: []
 5. [[974-mipt-differential-equations-seminar-05-03-25|05-03-25]]
 6. [[655-mipt-differential-equations-seminar-12-03-25|12-03-25]]
 7. test + hw 1
+8. 
