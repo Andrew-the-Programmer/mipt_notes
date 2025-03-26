@@ -23,7 +23,7 @@ A = \Pmatrix{
 2 & 1
 } \\
 \lambda_{1,2} = 1,3 \\
-\Re \lambda_{1,2} > 0 \implies \textit{не пр} \\
+\Re \lambda_{1,2} > 0 \implies \textit{не устойчивое пр} \\
 \textit{неустойчивый узел} \\
 \Pmatrix{
 x \\ y
@@ -48,7 +48,7 @@ A = \Pmatrix{
 1 & 0
 } \\
 \lambda_{1,2} = 1 \\
-\Re \lambda_{1,2} > 0 \implies \textit{не пр} \\
+\Re \lambda_{1,2} > 0 \implies \textit{не устойчивое пр} \\
 \textit{Неустойчивый вырожденный узел} \\
 \textit{Собственный вектор} \\
 h_1 = \Pmatrix{
@@ -77,5 +77,44 @@ x \\ y
 }
 $$
 
-
 # Ф.973
+
+![26-03-25_16-04-38_596_26-03-25_16-04-38_840.png](assets/imgs/26-03-25_16-04-38_596_26-03-25_16-04-38_840.png)
+
+$$
+\AlignLeft{
+a = (x,y) = (0,0) \\
+A = \Pmatrix{
+1 & 3 \\
+-6 & -5
+} \\
+\lambda_{1,2} = -2 \pm 3i \\
+\Re \lambda_{1,2} < 0 \implies \textit{устойчивое пр} \\
+
+\textit{Неустойчивый вырожденный узел} \\
+\textit{Собственный вектор} \\
+h_1 = \Pmatrix{
+1 \\ 1
+} \\
+\textit{Присоединенный вектор} \\
+(A - \lambda E) h_2 = h_1 \\
+h_2 = \Pmatrix{
+1 \\ 0
+} \\
+(x,y) = h_1 C_1 e^{t} + (h_1 t + h_2) C_2 e^{t} \\
+\Pmatrix{
+x \\ y
+} = \Pmatrix{
+1 \\ 1
+} C_1 e^{t} +
+\group{
+\Pmatrix{
+1 \\ 1
+}t +
+\Pmatrix{
+1 \\ 0
+}
+} C_2 e^{t} \\
+\textit{фазовый портрет}
+}
+$$
