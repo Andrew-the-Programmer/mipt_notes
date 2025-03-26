@@ -33,15 +33,19 @@ x(t_0) = x^\star
 }$ существует $\forall t > t_0$
 
 2. $$
-   \forall \varepsilon > 0 \exists \delta_\varepsilon > 0 :
-   \abs{x^* - x_0} < \delta_\varepsilon \implies
+   \forall \varepsilon > 0 \ \exists \delta_\varepsilon > 0 :
+   \forall x^\star \in U_{\delta_\varepsilon}(x_0) \hthen
    \abs{\vec{x}(t, x^\star) - \vec{x}(t_0, x_0)} < \varepsilon
+   \quad
+   \forall t > t_0
    $$
 
 # Ассимптотическая устойчивость
 
 1. Устойчивость по Ляпунову
-2. $$
+2. $x_0$ - положение равновесия
+3. $$
    \forall \varepsilon \exists \delta^\star \le \delta_\varepsilon :
-   \forall 
+   \forall x^\star \in U_{\delta^\star}(x_0) \hthen
+   \lim_{t \to \infty} \abs{\vec{x}(t, x^\star) - \vec{x}(t_0, x_0)} \to 0
    $$
