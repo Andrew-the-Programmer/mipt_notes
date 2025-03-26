@@ -47,5 +47,7 @@ x(t_0) = x^\star
 3. $$
    \forall \varepsilon \exists \delta^\star \le \delta_\varepsilon :
    \forall x^\star \in U_{\delta^\star}(x_0) \hthen
-   \lim_{t \to \infty} \abs{\vec{x}(t, x^\star) - \vec{x}(t_0, x_0)} \to 0
+   \abs{\vec{x}(t, x^\star) - \vec{x}(t_0, x_0)} \to 0,\quad t \to \infty
    $$
+
+# Пример
