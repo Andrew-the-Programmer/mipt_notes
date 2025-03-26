@@ -49,16 +49,17 @@ A = \Pmatrix{
 } \\
 \lambda_{1,2} = 1 \\
 \Re \lambda_{1,2} > 0 \implies \textit{не пр} \\
+\textit{Неустойчивый вырожденный узел} \\
 \textit{Собственный вектор} \\
 h_1 = \Pmatrix{
 1 \\ 1
 } \\
-\textit{присоединенный вектор} \\
+\textit{Присоединенный вектор} \\
 (A - \lambda E) h_2 = h_1 \\
 h_2 = \Pmatrix{
 1 \\ 0
 } \\
-\textit{неустойчивый узел} \\
+(x,y) = h_1 C_1 e^{t} + (h_1 t + h_2) C_2 e^{t} \\
 \Pmatrix{
 x \\ y
 } = \Pmatrix{
@@ -66,12 +67,15 @@ x \\ y
 } C_1 e^{t} +
 \group{
 \Pmatrix{
-0 \\ 1
+1 \\ 1
 }t +
 \Pmatrix{
-0 \\ 1
+1 \\ 0
 }
-} C_2 e^{t}
+} C_2 e^{t} \\
 \textit{фазовый портрет}
 }
 $$
+
+
+# Ф.973
