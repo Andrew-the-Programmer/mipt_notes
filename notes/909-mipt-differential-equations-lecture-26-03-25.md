@@ -63,11 +63,19 @@ $a_{ij} = const = \pdv{x_j}{f_i}\rvert_{x=x_0}$
 
 # Th 1
 
-$\set{\lambda_i}_{i=1}^{n}$ - решения
+$\set{\lambda_i}_{i=1}^{n}$ - собственные значения A
 
 $$
 \AlignCenter{
 \forall i \Re \lambda_i < 0 \implies x_0 - пр \\
 \exists i \Re \lambda_i > 0 \implies x_0 - не\ пр
 }
+$$
+
+# Th 2
+$\dv{t}{x} = f(x) = f(x_0) + A (x - x_0) + o(x - x_0)$
+$\set{\lambda_i}_{i=1}^{n}$ - собственные значения A
+
+$$
+\forall i \Re \lambda_i < 0 \implies x_0 - \textit{ассимптотически устойчивое пр}\\
 $$
