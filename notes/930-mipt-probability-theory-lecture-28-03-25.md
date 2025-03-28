@@ -83,3 +83,16 @@ cov(\xi, \eta) \defeq E_{\mathring{\xi}\mathring{\eta}}
 $$
 
 ## Свойства
+
+1. $cov(\xi, \eta) = E_{\xi\eta} - E_\xi E_\eta$
+2. $cov(\xi, \xi) = D_\xi$
+3. $\eta = a\xi + b \implies cov(\xi,\eta) = a D_\xi$
+
+# Независимость
+
+$\set{\xi_j}$ - независимые случайные величины, если
+$\set{B_j} \subseteq \mcB$
+
+$$
+P\group{ \bigcup_{j=1}^{n}\set{\xi_j \in B_j}} = \prod_{j=1}^{n}{P\group{\xi_j \in B_j}}
+$$
