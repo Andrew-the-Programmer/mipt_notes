@@ -63,5 +63,6 @@ $$
 Поставим кождой вершине число - доля принимающих веток в поддереве.
 
 ## Пример
-$Max-CNF-Sat \defeq \set{\group{\varphi, t} \mid \exists x : в\ \varphi(x)\ \textit{истины t дизъюнктов}}$
-$Max-CNF-Sat \in \co\NP$
+$\text{Max-CNF-Sat} \defeq \set{\group{\varphi, t} \mid \exists x : в\ \varphi(x)\ \textit{истины t дизъюнктов}}$
+$\text{Max-CNF-Sat} \in \co\NP$ 
+$\varepsilon$-приближенный алгоритм.
