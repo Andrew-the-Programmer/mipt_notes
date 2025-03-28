@@ -28,7 +28,7 @@ $p(n) = o(\frac{1}{n}) \implies P(T_n = 0) \to 1,\quad n \to \infty$
 $p(n) = \Omega(\frac{1}{n}) \implies P(T_n = 0) \to 0,\quad n \to \infty$ 
 $p(n) = O(\frac{1}{n}) \implies T_n \sim Poiss\group{\frac{c^3}{3!}}$ 
 
-# Неравенство
+# Неравенство 2
 $$
 \forall \varepsilon > 0 \hthen
 P\set{\abs{\xi - E\xi} \ge \varepsilon} \le \frac{D_\xi}{\varepsilon^2}
@@ -72,5 +72,5 @@ P\set{\xi \ge \varepsilon} \le \exp{-\max\group{\varepsilon t - \ln E e^{t\xi}}}
 $$
 Двойственная функция
 $$
-\psi^*(\varepsilon) \defeq \max_t\group{}
+\psi^*(\varepsilon) \defeq \max_t\group{t \varepsilon - \psi(t)}
 $$
