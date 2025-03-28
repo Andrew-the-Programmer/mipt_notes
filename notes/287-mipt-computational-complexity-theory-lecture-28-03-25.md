@@ -22,6 +22,12 @@ $$
 $$
 \AlignLeft{
 L \in BPP \\
-x \in L \lor x \not\in L \\
+M(x,r) \textit{ работает за } q(\abs{x}) - полином \\
+S_x \defeq \set{r \mid M(x,r) = 1} \\
+m \defeq q(\abs{x}) \\
+x \in L \implies \abs{S_x} - big,\quad
+\abs{S_x} > \group{1 - \frac{1}{m}} 2^m \\
+x \not\in L \implies \abs{S_x} - small,\quad 
+\abs{S_x} < \frac{1}{m} 2^m \\
 }
 $$
