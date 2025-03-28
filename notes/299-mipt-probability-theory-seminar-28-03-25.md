@@ -55,13 +55,22 @@ $$
 \Gather{
 E_{\ol{X}} = E_{X_1} \\
 D_{\ol{X}} = \frac{ D_{X_1} }{n} \\
-\ol{X} \approx E X_1 \\
 }
 $$
 $$
 \Gather{
-
+\ol{X} \approx E X_1 \\
+P\set{\abs{\ol{X} - E X_1} \ge \varepsilon} \to 0,\quad n \to \infty
 }
 $$
 
 # 72
+
+# Неравенство 3
+$$
+P\set{\xi \ge \varepsilon} \le \exp{-\max\group{\varepsilon t - \ln E e^{t\xi}}}
+$$
+Двойственная функция
+$$
+\psi^*(\varepsilon) \defeq \max_t\group{}
+$$
