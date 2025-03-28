@@ -48,7 +48,23 @@ p > q > 0
 $$
 
 Йенсена
+
 $$
 $$
 
 # Норма
+
+$$
+\norm{\xi} \defeq \sqrt{\vecprod{\xi}{\xi}}
+$$
+
+$$
+\norm{\xi - a}^2 = E(\xi - a)^2 = E_{\xi^2} + a^2 - 2a E_\xi
+$$
+
+# Дисперсия
+
+$D_\xi = \sigma^2 \defeq \norm{\xi - E\xi}$
+
+## Свойства
+
