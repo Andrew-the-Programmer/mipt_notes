@@ -91,8 +91,19 @@ $$
 # Независимость
 
 $\set{\xi_j}$ - независимые случайные величины, если
-$\set{B_j} \subseteq \mcB$
+$\bbB$ - алгебра
+$\set{B_j} \subseteq \bbB$
 
 $$
 P\group{ \bigcup_{j=1}^{n}\set{\xi_j \in B_j}} = \prod_{j=1}^{n}{P\group{\xi_j \in B_j}}
+$$
+
+# Эквивалентные определения
+1. $B_j \in \bbB$ - алгебра
+2. $B_j \in \mcB$ - Борелевская сигма-алгебра
+3. $B_j \in (-\infty, b_j)$
+4. $B_j \in [a_j, b_j)$
+
+ $$
+F_{\xi_1, \dots, \xi_n}
 $$
