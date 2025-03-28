@@ -67,7 +67,19 @@ $$
 $D_\xi = \sigma^2 \defeq \norm{\xi - E\xi}$
 
 ## Свойства
+
 1. $D_\xi = E_{\xi^2} - (E_\xi)^2$
-2. $D_{a\xi + b} = a^2 E\group{\group{\stackrel{\circ}{\xi}}^2}$
+2. $D_{a\xi + b} = a^2 E\group{\group{\mathring{\xi}}^2}$
 3. $D_\xi = 0 \same \xi \equiv const$
-4. $D_{\xi + \eta} = E\group{\circ{\xi}}$
+4. $D_{\xi + \eta} = 
+E\group{\mathring{\xi} + \mathring{\eta}}^2 = 
+D_\xi + D_\eta + 2 E_{\mathring{\xi}\mathring{\eta}} = 
+D_\xi + D_\eta + cov\group{\xi, \eta}$
+
+# Ковариация
+
+$$
+cov(\xi, \eta) \defeq E_{\mathring{\xi}\mathring{\eta}}
+$$
+
+## Свойства
