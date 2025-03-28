@@ -74,3 +74,5 @@ $$
 $$
 \psi^*(\varepsilon) \defeq \max_t\group{t \varepsilon - \psi(t)}
 $$
+
+# Нормальное распределение
