@@ -36,4 +36,15 @@ $$
 
 # Пример
 $X_1, \dots, X_n$ - НОРСВ
+$\xi \defeq \ol{X} = \frac{1}{n} \sum{X_i}$ - среднее значение
+$E_{X_i} = m,\quad D_{X_i} = \sigma^2$
 
+$$
+D\group{\sum{X_i}} = \sum{D_{X_i}} - 2 \sum_{i\neq j}{cov(X_i, X_j)}
+$$ 
+$$
+E_{\xi} = m
+$$
+$$
+D_\xi = \frac{\sigma^2}{n}
+$$
