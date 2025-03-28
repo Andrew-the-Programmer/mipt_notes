@@ -114,3 +114,14 @@ $$
 $$
 F_{\xi_1, \dots, \xi_n} \group{x_1, \dots, x_n} = \prod_{j=1}^{n}{F_{\xi_j}(x_j)}
 $$
+
+$$
+\AlignLeft{
+2 \implies 1 \\
+1 \implies 4 \\
+2 \implies 3 \\
+1 \implies 2 \\
+3 \implies 4 \\
+4 \implies 1 \\
+}
+$$
