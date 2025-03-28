@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/930-mipt-probability-theory-lecture-28-03-25.md",
+                "file": "notes/299-mipt-probability-theory-seminar-28-03-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "930-mipt-probability-theory-lecture-28-03-25"
+              "title": "299-mipt-probability-theory-seminar-28-03-25"
             }
           }
         ]
@@ -193,6 +193,12 @@
   },
   "active": "79365aa3e212140e",
   "lastOpenFiles": [
+    "notes/299-mipt-probability-theory-seminar-28-03-25.md~",
+    "notes/589-неравенство-Маркова-Чебышева.md",
+    "courses/MIPT-probability-theory-2025.md~",
+    "notes/299-mipt-probability-theory-seminar-28-03-25.md",
+    "notes/364-mipt-probability-theory-seminar-14-02-25.md~",
+    "notes/589-неравенство-Маркова-Чебышева.md~",
     "notes/930-mipt-probability-theory-lecture-28-03-25.md~",
     "assets/imgs/28-03-25_13-42-07_514_IMG_20250328_133938.jpg",
     "assets/imgs/28-03-25_13-42-07_658_IMG_20250328_133931.jpg",
@@ -208,7 +214,6 @@
     "notes/670-mipt-probability-theory-lecture-21-03-25.md",
     "notes/287-mipt-computational-complexity-theory-lecture-28-03-25.md",
     "notes/670-mipt-probability-theory-lecture-21-03-25.md~",
-    "courses/MIPT-probability-theory-2025.md~",
     "notes/930-mipt-probability-theory-lecture-28-03-25.md",
     "notes/287-mipt-computational-complexity-theory-lecture-28-03-25.md~",
     "notes/712-mipt-computational-complexity-theory-lecture-21-03-25.md",
@@ -216,9 +221,6 @@
     "notes/453-mipt-differential-equations-seminar-26-03-25.md~",
     "notes/909-mipt-differential-equations-lecture-26-03-25.md",
     "notes/453-mipt-differential-equations-seminar-26-03-25.md",
-    "notes/655-mipt-differential-equations-seminar-12-03-25.md~",
-    "courses/MIPT-differential-equations-2025.md~",
-    "notes/909-mipt-differential-equations-lecture-26-03-25.md~",
     "notes/406-chinese-不是...吗-bushi...md",
     "notes/566-mipt-differential-equations-lecture-19-03-25.md",
     "courses/MIPT-differential-equations-2025.md",
@@ -235,8 +237,6 @@
     "notes/603-mipt-physics-seminar-25-02-25.md",
     "notes/695-mipt-physics-seminar-04-03-25.md",
     "notes/407-mipt-physics-seminar-11-03-25.md",
-    "courses/MIPT-physics-2025.md",
-    "notes/488-t6.md",
-    "notes/606-mipt-physics-lecture-22-03-25.md"
+    "courses/MIPT-physics-2025.md"
   ]
 }

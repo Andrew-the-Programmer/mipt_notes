@@ -22,4 +22,11 @@ tags: []
 
 # Seminars
 
+1. 
 2. [[364-mipt-probability-theory-seminar-14-02-25|14-02-25]]
+3.
+4.
+5.
+6.
+7.
+8. [[299-mipt-probability-theory-seminar-28-03-25|28-03-25]]
