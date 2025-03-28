@@ -62,6 +62,12 @@ $$
 \norm{\xi - a}^2 = E(\xi - a)^2 = E_{\xi^2} + a^2 - 2a E_\xi
 $$
 
+# Замыкание
+
+$$
+\mathring{\xi} \defeq \xi - E_\xi
+$$
+
 # Дисперсия
 
 $D_\xi = \sigma^2 \defeq \norm{\xi - E\xi}$
@@ -99,11 +105,12 @@ P\group{ \bigcup_{j=1}^{n}\set{\xi_j \in B_j}} = \prod_{j=1}^{n}{P\group{\xi_j \
 $$
 
 # Эквивалентные определения
+
 1. $B_j \in \bbB$ - алгебра
 2. $B_j \in \mcB$ - Борелевская сигма-алгебра
 3. $B_j \in (-\infty, b_j)$
 4. $B_j \in [a_j, b_j)$
 
- $$
-F_{\xi_1, \dots, \xi_n}
+$$
+F_{\xi_1, \dots, \xi_n} \group{x_1, \dots, x_n} = \prod_{j=1}^{n}{F_{\xi_j}(x_j)}
 $$
