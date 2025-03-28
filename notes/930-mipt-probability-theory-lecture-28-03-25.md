@@ -147,6 +147,7 @@ $$
 ![28-03-25_13-24-33_875_IMG_20250328_132410.jpg](assets/imgs/28-03-25_13-24-33_875_IMG_20250328_132410.jpg)
 
 # Claim
+
 $$
 \xi, \eta - НСВ \implies \Cases{
 E_{\xi\eta} = E_\xi E_\eta \\
@@ -157,18 +158,31 @@ D_{\xi\eta} = D_\xi + D_\eta \\
 $$
 
 # Коэффицент кореляции
+
 $$
 \rho\group{\xi, \eta} \defeq \frac{cov(\xi, \eta)}{\sqrt{D_\xi D_\eta}}
 $$
 
 ## Свойства
+
 1. $\rho \le 1$
 2. $\eta = a \xi + b \implies \rho = sign(a)$
 3. $\xi,\eta - НСВ \implies \rho = 0$
 
 # Нормальный случайный вектор
+
 $$
 N(\vec{m}, R)
 $$
+
 $\vec{m} = E{\vec{\xi}}$
 $R_{ij} = \set{cov(\xi_i, \xi_j)}$
+
+$$
+f_{N}(x_1, \dots, x_n) \defeq \frac{1}{\sqrt{2\pi \det R}} \exp{-\frac{1}{2}\group{( x - m )^T R\inv (x-m)}}
+$$
+
+# Theorem. Некорелируемость $\implies$ независимость.
+ $$
+
+$$
