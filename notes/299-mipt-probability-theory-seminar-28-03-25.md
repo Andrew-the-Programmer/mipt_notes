@@ -27,3 +27,8 @@ $T_n$ - кол-во треугольников в $G_n$.
 $p(n) = o(\frac{1}{n}) \implies P(T_n = 0) \to 1,\quad n \to \infty$ 
 $p(n) = \Omega(\frac{1}{n}) \implies P(T_n = 0) \to 0,\quad n \to \infty$ 
 $p(n) = O(\frac{1}{n}) \implies T_n \sim Poiss\group{\frac{c^3}{3!}}$ 
+
+# Неравенство
+$$
+\forall \varepsilon > 0 \hthen P\set{\abs{\mathring{\xi}}}
+$$
