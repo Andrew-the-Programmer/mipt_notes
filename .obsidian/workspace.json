@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/712-mipt-computational-complexity-theory-lecture-21-03-25.md",
+                "file": "notes/287-mipt-computational-complexity-theory-lecture-28-03-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "712-mipt-computational-complexity-theory-lecture-21-03-25"
+              "title": "287-mipt-computational-complexity-theory-lecture-28-03-25"
             }
           }
         ]
@@ -194,6 +194,7 @@
   "active": "79365aa3e212140e",
   "lastOpenFiles": [
     "notes/287-mipt-computational-complexity-theory-lecture-28-03-25.md~",
+    "notes/712-mipt-computational-complexity-theory-lecture-21-03-25.md",
     "notes/287-mipt-computational-complexity-theory-lecture-28-03-25.md",
     "notes/712-mipt-computational-complexity-theory-lecture-21-03-25.md~",
     "notes/453-mipt-differential-equations-seminar-26-03-25.md~",
@@ -226,7 +227,6 @@
     "notes/1728386021-chinese-directions.md",
     "notes/1728386021-chinese-directions.md~",
     "notes/406-chinese-不是...吗-bushi...ma.md",
-    "notes/406-chinese-不是...吗-bushi...ma.md~",
     "notes/225-chinese-кратность-действия-次-and-遍.md",
     "notes/610-chinese-过-guò.md",
     "notes/786-mipt-physics-lecture-15-03-25.md",
@@ -237,7 +237,6 @@
     "notes/488-t6.md",
     "notes/606-mipt-physics-lecture-22-03-25.md",
     "notes/594-ядро-Дирихле.md",
-    "notes/702-mipt-physics-hw-2025.md",
-    "notes/234-mipt-harmonic-analysis-seminar-25-03-25.md"
+    "notes/702-mipt-physics-hw-2025.md"
   ]
 }
