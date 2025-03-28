@@ -30,5 +30,10 @@ $p(n) = O(\frac{1}{n}) \implies T_n \sim Poiss\group{\frac{c^3}{3!}}$
 
 # Неравенство
 $$
-\forall \varepsilon > 0 \hthen P\set{\abs{\mathring{\xi}}}
+\forall \varepsilon > 0 \hthen
+P\set{\abs{\xi - E\xi} \ge \varepsilon} \le \frac{D_\xi}{\varepsilon^2}
 $$
+
+# Пример
+$X_1, \dots, X_n$ - НОРСВ
+
