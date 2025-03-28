@@ -151,11 +151,24 @@ $$
 \xi, \eta - НСВ \implies \Cases{
 E_{\xi\eta} = E_\xi E_\eta \\
 cov(\xi, \eta) = 0 \\
-D_{\xi\eta} = D_\xi + D_\eta
+D_{\xi\eta} = D_\xi + D_\eta \\
+\rho(\xi, \eta) = 0
 }
 $$
 
 # Коэффицент кореляции
 $$
-\rho\group{}
+\rho\group{\xi, \eta} \defeq \frac{cov(\xi, \eta)}{\sqrt{D_\xi D_\eta}}
 $$
+
+## Свойства
+1. $\rho \le 1$
+2. $\eta = a \xi + b \implies \rho = sign(a)$
+3. $\xi,\eta - НСВ \implies \rho = 0$
+
+# Нормальный случайный вектор
+$$
+N(\vec{m}, R)
+$$
+$\vec{m} = E{\vec{\xi}}$
+$R_{ij} = \set{cov(\xi_i, \xi_j)}$
