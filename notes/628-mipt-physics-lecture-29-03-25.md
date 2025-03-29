@@ -7,3 +7,5 @@ tags: []
 
 # MIPT physics lecture 29-03-25
 
+![[Лекция_7.pdf]]
+
