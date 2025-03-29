@@ -59,9 +59,9 @@ I(\theta) = I_0 \frac{\sin^2(Nud / 2)}{\sin^2(ud / 2)}
 \frac{\sin^2(ub / 2)}{(ub / 2)^2}
 $$
 
-Ширина глобального максимума:
+Ширина нулевого глобального максимума:
 
 $$
-\D \theta_m = \frac{\lambda}{d}
+\D \theta_m = \frac{\lambda}{b}
 $$
 
