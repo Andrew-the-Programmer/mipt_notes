@@ -65,3 +65,4 @@ $$
 \D \theta_m = \frac{\lambda}{b}
 $$
 
+$b = \frac{d}{n} \implies$ видно $(2n - 1)$ локальных максимумов.
