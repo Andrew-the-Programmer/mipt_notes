@@ -22,6 +22,7 @@ d \sin\theta_m = m \lambda, \quad m \in \NN
 $$
 
 Расстояние между локальными максимумами:
+
 $$
 \D \theta_m = \frac{\lambda}{d}
 $$
@@ -46,10 +47,10 @@ L = N d - \textit{длина решетки}
 $$
 
 Разрешающая способность:
+
 $$
 R \defeq \frac{\lambda}{\delta \lambda} = m N
 $$
 
 Глобальные максимумы:
-
 
