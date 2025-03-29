@@ -17,6 +17,7 @@ tags: []
 4. [[539-mipt-physics-lecture-01-03-25|01-03-25]]
 5. [[786-mipt-physics-lecture-15-03-25|15-03-25]]
 6. [[606-mipt-physics-lecture-22-03-25|22-03-25]]
+7. 
 
 # Seminars
 
