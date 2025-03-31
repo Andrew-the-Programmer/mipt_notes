@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/628-mipt-physics-lecture-29-03-25.md",
+                "file": "notes/1731663299-преломление-и-отражение-электромагнитных-волн.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "628-mipt-physics-lecture-29-03-25"
+              "title": "1731663299-преломление-и-отражение-электромагнитных-волн"
             }
           }
         ]
@@ -193,6 +193,8 @@
   },
   "active": "79365aa3e212140e",
   "lastOpenFiles": [
+    "notes/747-формулы-Френеля.md~",
+    "notes/747-формулы-Френеля.md",
     "notes/628-mipt-physics-lecture-29-03-25.md~",
     "notes/818-mipt-anmech-seminar-28-03-25.md",
     "sourses/physics/lectures_2025/Лекция_7.pdf",
@@ -236,7 +238,6 @@
     "notes/225-chinese-кратность-действия-次-and-遍.md",
     "notes/610-chinese-过-guò.md",
     "notes/786-mipt-physics-lecture-15-03-25.md",
-    "notes/603-mipt-physics-seminar-25-02-25.md",
-    "notes/695-mipt-physics-seminar-04-03-25.md"
+    "notes/603-mipt-physics-seminar-25-02-25.md"
   ]
 }
