@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/1738649083-функция-ограниченной-вариации.md",
+                "file": "notes/925-mipt-harmonic-analysis-seminar-25-02-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1738649083-функция-ограниченной-вариации"
+              "title": "925-mipt-harmonic-analysis-seminar-25-02-25"
             }
           }
         ]
@@ -193,6 +193,8 @@
   },
   "active": "79365aa3e212140e",
   "lastOpenFiles": [
+    "notes/803-Гильбертово-пространство-hilbert-space.md",
+    "notes/1738649083-функция-ограниченной-вариации.md",
     "notes/1738649083-функция-ограниченной-вариации.md~",
     "notes/1738651715-абсолютно-непрерывная-функция.md",
     "notes/747-формулы-Френеля.md",
@@ -219,7 +221,6 @@
     "assets/imgs/28-03-25_17-38-07_853_IMG_20250328_171924.jpg",
     "assets/imgs/28-03-25_17-38-07_955_IMG_20250328_171734.jpg",
     "notes/299-mipt-probability-theory-seminar-28-03-25.md",
-    "courses/MIPT-anmech-2025.md~",
     "notes/589-неравенство-Маркова-Чебышева.md",
     "notes/670-mipt-probability-theory-lecture-21-03-25.md",
     "notes/287-mipt-computational-complexity-theory-lecture-28-03-25.md",
@@ -237,7 +238,6 @@
     "notes/990-mipt-chinese-lesson-14.md",
     "notes/1728386021-chinese-directions.md",
     "notes/406-chinese-不是...吗-bushi...ma.md",
-    "notes/225-chinese-кратность-действия-次-and-遍.md",
-    "notes/610-chinese-过-guò.md"
+    "notes/225-chinese-кратность-действия-次-and-遍.md"
   ]
 }
