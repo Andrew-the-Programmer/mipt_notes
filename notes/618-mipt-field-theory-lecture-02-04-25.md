@@ -15,8 +15,16 @@ tags: []
 
 $$
 f^\mu \defeq \dv{s}{P^\mu} = \Pmatrix{
-\frac{\gamma(t)}{c} \veccrossv{F}{v} \\
-\vec{F} + (\gamma(t) - 1) \veccrossv{F}{v} \frac{v}{v^2}
+\frac{\gamma}{c} \veccrossv{F}{v} \\
+\vec{F} + (\gamma - 1) \veccrossv{F}{v} \frac{\vec{v}}{v^2}
 }
 $$
 
+# Закон изменения энергии
+$$
+\Dv{t}{\gamma mc^2} = F v
+$$
+# Закон изменения импульса
+$$
+\Dv{t}{\gamma m \vec{v}} = \vec{F}
+$$

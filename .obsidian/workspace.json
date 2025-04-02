@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/698-mipt-field-theory-lecture-19-03-25.md",
+                "file": "notes/618-mipt-field-theory-lecture-02-04-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "698-mipt-field-theory-lecture-19-03-25"
+              "title": "618-mipt-field-theory-lecture-02-04-25"
             }
           }
         ]
@@ -194,6 +194,8 @@
   "active": "79365aa3e212140e",
   "lastOpenFiles": [
     "notes/618-mipt-field-theory-lecture-02-04-25.md~",
+    "notes/698-mipt-field-theory-lecture-19-03-25.md",
+    "preamble.sty~",
     "courses/MIPT-field-theory-2025.md",
     "notes/618-mipt-field-theory-lecture-02-04-25.md",
     "courses/MIPT-harmonic-analysis-2025.md",
@@ -215,7 +217,6 @@
     "notes/747-формулы-Френеля.md~",
     "notes/1731663299-преломление-и-отражение-электромагнитных-волн.md~",
     "notes/1731663299-преломление-и-отражение-электромагнитных-волн.md",
-    "preamble.sty~",
     "notes/818-mipt-anmech-seminar-28-03-25.md",
     "notes/628-mipt-physics-lecture-29-03-25.md",
     "assets/imgs/28-03-25_17-38-08_985_IMG_20250328_173604.jpg",
@@ -236,7 +237,6 @@
     "notes/712-mipt-computational-complexity-theory-lecture-21-03-25.md",
     "notes/909-mipt-differential-equations-lecture-26-03-25.md",
     "notes/453-mipt-differential-equations-seminar-26-03-25.md",
-    "notes/406-chinese-不是...吗-bushi...md",
-    "notes/566-mipt-differential-equations-lecture-19-03-25.md"
+    "notes/406-chinese-不是...吗-bushi...md"
   ]
 }
