@@ -15,6 +15,7 @@ tags: []
 # Простейшие случаи
 
 # 1.
+
 $$
 \Gather{
 \det A \neq 0 \\
@@ -22,7 +23,6 @@ $$
 \lambda_1 \neq \lambda_2
 }
 $$
-
 
 ![2.jpg](assets/imgs/02-04-25_11-37-41_303_IMG_20250402_105932.jpg)
 
@@ -89,3 +89,16 @@ $
 Вырожденный узел
 
 # 3. $\det A = 0$
+
+$$\lambda_1 = 0, \lambda_2 \in \RR$$
+
+## 3.1. $\lambda_2 \neq 0$
+
+$$
+\Gather{
+\lambda_1 = 0 \\
+\lambda_2 \in \RR
+}
+$$
+
+# 3.2.
