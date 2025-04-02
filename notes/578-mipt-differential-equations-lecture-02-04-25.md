@@ -8,3 +8,8 @@ tags: []
 # MIPT differential equations lecture 02-04-25
 
 Классификация ПР для ЛАСОДУ.
+
+# 1. $\lambda_i \in \RR$
+
+## 1.1. $\lambda_1 \cdot \lambda_2 > 0$
+## 1.2. $\lambda_1 \cdot \lambda_2 < 0$
