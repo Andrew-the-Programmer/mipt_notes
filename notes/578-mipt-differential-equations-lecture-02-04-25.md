@@ -20,7 +20,12 @@ tags: []
 Седло
 
 # 2. $\lambda_i \in \CC$
-$\AlignCenter{
+
+$\lambda_{1,2} = \alpha \pm i \beta$
+
+# 2.1. $\alpha \neq 0$
+$
+\AlignCenter{
 \Cases{
 \vec{{h}_{1}} = \vec{u} + i \vec{v}\\
 \vec{{h}_{2}} = \vec{u} - i \vec{v}\\
@@ -29,3 +34,4 @@ $\AlignCenter{
 \vec{v} \sin\group{\gamma - \beta t}} \\
 }
 $
+# 2.2. $\alpha = 0$
