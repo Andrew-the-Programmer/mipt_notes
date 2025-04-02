@@ -38,11 +38,13 @@ J = \Pmatrix{
 (3x + y^2)^{-\frac{1}{2}} \frac{3}{2} & (3x + y^2)^{-\frac{1}{2}} y
 } \\
 J\rvert_{x_0,y_0} = ? \\
-J\rvert_{1,1} = \Pmatrix{
+A = J\rvert_{1,1} = \Pmatrix{
 -e & e \\
 \frac{3}{4} & \frac{1}{2}
 } \\
-J\rvert_{-4,-4} = \Pmatrix{
+\lambda^2 + \lambda (e - \frac{1}{2}) - \frac{5}{4} = 0 \\
+\textit{Неустойчивое седло.}\\
+J_2 = J\rvert_{-4,-4} = \Pmatrix{
 -e^{-4} & e^{-4} \\
 \frac{3}{4} & -2
 } \\
