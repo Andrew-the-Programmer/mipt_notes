@@ -179,7 +179,9 @@ A = \Pmatrix{
 \textit{to be continued...}
 }
 $
+
 02-04-25
+
 $
 \AlignCenter{
 (x_0, y_0) = (-2, -1) \\
@@ -190,5 +192,19 @@ A = \Pmatrix{
 \lambda_{1,2} = 5 \pm i \sqrt{23} \\
 \textit{Тип: Неустойчивый фокус} \\
 \textit{Направление: по часовой} \\
+(x_0, y_0) = (4, 2) \\
+\Cases{
+x = u + 4 \\
+y = v + 2
+}\\
+\Cases{
+\dot{u} = -4u - 4v \\
+\dot{v} = 8u - 16v \\
+}\\
+A = \Pmatrix{
+-4 & -4 \\
+8 & -16
+} \\
+\lambda_{1,2} = -12, -8
 }
 $
