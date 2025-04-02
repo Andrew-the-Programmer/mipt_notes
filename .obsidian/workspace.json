@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/578-mipt-differential-equations-lecture-02-04-25.md",
+                "file": "notes/453-mipt-differential-equations-seminar-26-03-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "578-mipt-differential-equations-lecture-02-04-25"
+              "title": "453-mipt-differential-equations-seminar-26-03-25"
             }
           }
         ]
@@ -193,6 +193,9 @@
   },
   "active": "79365aa3e212140e",
   "lastOpenFiles": [
+    "notes/578-mipt-differential-equations-lecture-02-04-25.md",
+    "sourses/diff_eq/Filippov-AF-Sbornik-zadach-po-differentsialnym-uravneniyam.pdf",
+    "sourses/diff_eq/Filippov-AF-Sbornik-zadach-po-differentsialnym-uravneniyam.pdf.crdownload",
     "notes/471-mipt-differential-equations-seminar-02-04-25.md~",
     "courses/MIPT-differential-equations-2025.md~",
     "notes/471-mipt-differential-equations-seminar-02-04-25.md",
@@ -205,13 +208,9 @@
     "preamble.sty~",
     "notes/868-оператор-Д'Аламбера.md",
     "notes/868-оператор-Д'Аламбера.md~",
-    "notes/1729937333-задача-двух-тел.md~",
     "notes/1735228160-оператор-Лапласа.md",
-    "notes/1735228160-оператор-Лапласа.md~",
-    "notes/698-mipt-field-theory-lecture-19-03-25.md~",
     "notes/698-mipt-field-theory-lecture-19-03-25.md",
     "notes/618-mipt-field-theory-lecture-02-04-25.md",
-    "notes/578-mipt-differential-equations-lecture-02-04-25.md",
     "assets/imgs/02-04-25_12-20-18_884_IMG_20250402_120908.jpg",
     "assets/imgs/02-04-25_12-20-17_538_IMG_20250402_120900.jpg",
     "assets/imgs/02-04-25_12-20-17_904_IMG_20250402_120414.jpg",
