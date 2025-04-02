@@ -20,3 +20,9 @@ tags: []
 Седло
 
 # 2. $\lambda_i \in \CC$
+$\AlignCenter{
+(x,y) = 
+\\
+y
+}
+$
