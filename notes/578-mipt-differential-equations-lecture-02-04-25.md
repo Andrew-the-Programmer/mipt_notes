@@ -21,8 +21,11 @@ tags: []
 
 # 2. $\lambda_i \in \CC$
 $\AlignCenter{
-(x,y) = 
-\\
-y
+\Cases{
+\vec{{h}_{1}} = \vec{u} + i \vec{v}\\
+\vec{{h}_{2}} = \vec{u} - i \vec{v}\\
+}\\
+(x,y) = e^{\alpha t} A \group{\vec{u} \cos\group{\gamma - \beta t} +
+\vec{v} \sin\group{\gamma - \beta t}} \\
 }
 $
