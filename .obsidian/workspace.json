@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/759-mipt-differential-equations-lecture-12-02-25.md",
+                "file": "notes/698-mipt-field-theory-lecture-19-03-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "759-mipt-differential-equations-lecture-12-02-25"
+              "title": "698-mipt-field-theory-lecture-19-03-25"
             }
           }
         ]
@@ -193,6 +193,9 @@
   },
   "active": "79365aa3e212140e",
   "lastOpenFiles": [
+    "notes/618-mipt-field-theory-lecture-02-04-25.md",
+    "notes/759-mipt-differential-equations-lecture-12-02-25.md",
+    "notes/618-mipt-field-theory-lecture-02-04-25.md~",
     "notes/868-оператор-Д'Аламбера.md",
     "notes/759-mipt-differential-equations-lecture-12-02-25.md~",
     "preamble.sty~",
@@ -217,8 +220,6 @@
     "notes/453-mipt-differential-equations-seminar-26-03-25.md",
     "notes/909-mipt-differential-equations-lecture-26-03-25.md",
     "notes/909-mipt-differential-equations-lecture-26-03-25.md~",
-    "courses/MIPT-differential-equations-2025.md~",
-    "notes/618-mipt-field-theory-lecture-02-04-25.md",
     "notes/698-mipt-field-theory-lecture-19-03-25.md",
     "courses/MIPT-field-theory-2025.md",
     "courses/MIPT-harmonic-analysis-2025.md",
