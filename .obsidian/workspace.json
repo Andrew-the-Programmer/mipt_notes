@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/578-mipt-differential-equations-lecture-02-04-25.md",
+                "file": "notes/868-оператор-Д'Аламбера.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "578-mipt-differential-equations-lecture-02-04-25"
+              "title": "868-оператор-Д'Аламбера"
             }
           }
         ]
@@ -193,6 +193,9 @@
   },
   "active": "79365aa3e212140e",
   "lastOpenFiles": [
+    "notes/868-оператор-Д'Аламбера.md~",
+    "notes/578-mipt-differential-equations-lecture-02-04-25.md",
+    "notes/868-оператор-Д'Аламбера.md",
     "notes/186-mipt-field-theory-seminar-02-04-25.md~",
     "courses/MIPT-field-theory-2025.md~",
     "notes/186-mipt-field-theory-seminar-02-04-25.md",
@@ -210,7 +213,6 @@
     "assets/imgs/02-04-25_11-37-41_841_IMG_20250402_112758.jpg",
     "notes/453-mipt-differential-equations-seminar-26-03-25.md~",
     "notes/453-mipt-differential-equations-seminar-26-03-25.md",
-    "notes/578-mipt-differential-equations-lecture-02-04-25.md",
     "notes/909-mipt-differential-equations-lecture-26-03-25.md",
     "notes/909-mipt-differential-equations-lecture-26-03-25.md~",
     "courses/MIPT-differential-equations-2025.md~",
@@ -220,8 +222,6 @@
     "preamble.sty~",
     "courses/MIPT-field-theory-2025.md",
     "courses/MIPT-harmonic-analysis-2025.md",
-    "notes/698-mipt-field-theory-lecture-19-03-25.md~",
-    "notes/993-mipt-physics-seminar-01-04-25.md~",
     "notes/993-mipt-physics-seminar-01-04-25.md",
     "notes/234-mipt-harmonic-analysis-seminar-25-03-25.md",
     "notes/371-mipt-harmonic-analysis-seminar-11-03-25.md",
@@ -237,7 +237,6 @@
     "notes/299-mipt-probability-theory-seminar-28-03-25.md",
     "notes/589-неравенство-Маркова-Чебышева.md",
     "notes/670-mipt-probability-theory-lecture-21-03-25.md",
-    "notes/287-mipt-computational-complexity-theory-lecture-28-03-25.md",
-    "notes/930-mipt-probability-theory-lecture-28-03-25.md"
+    "notes/287-mipt-computational-complexity-theory-lecture-28-03-25.md"
   ]
 }
