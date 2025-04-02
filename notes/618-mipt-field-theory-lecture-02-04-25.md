@@ -65,3 +65,21 @@ $$
 $\rho_1 = \frac{q}{a^3},\quad \rho = \gamma \frac{q}{a^3} = \gamma \rho_1$
 Плотность токо:
 $j_1 = 0,\quad j = \rho v$
+
+4-вектор тока:
+$$
+j^\mu = \Pmatrix{
+\rho c \\
+\vec{j}
+}
+$$
+$j_1^\mu = \Lambda_x(v) j^\mu$
+
+$$
+\pdv{t}{\rho} + \divv \vec{j} = 0
+$$
+$$
+\partial_\mu j^\mu = 0
+$$
+
+# Скалярный векторный потенциал э-м поля
