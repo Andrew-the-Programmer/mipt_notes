@@ -56,7 +56,31 @@ $
 \AlignCenter{
 \Cases{
 y \defeq \dot{x} \\
-\dot{y} = \ddot{x} = -2 \dot{x} - x -2x^2 + 1
-}
+\dot{y} = \ddot{x} = -2 \dot{x} - x + 2x^2 - 1
+} \\
+\Cases{
+\dot{x} = y \\
+\dot{y} = -2 y - x + 2x^2 - 1
+} \\
+(x_0, y_0) = (1, 0) \\
+\textit{Матрица Якоби:}\\
+J(x,y) = \Pmatrix{
+\pdv{x}{f} & \pdv{y}{f} \\
+\pdv{x}{g} & \pdv{y}{g}
+} = \Pmatrix{
+0 & 1 \\
+4x - 1 & -2
+} \\
+A = J(x_0, y_0) = \Pmatrix{
+0 & 1 \\
+3 & -2
+}\\
+\lambda_{1,2} = -3,1 \\
+h_1 = \Pmatrix{
+1 \\ 1
+},\quad
+h_2 = \Pmatrix{
+-1 \\ 3
+} \\
 }
 $
