@@ -12,4 +12,11 @@ tags: []
 # 1. $\lambda_i \in \RR$
 
 ## 1.1. $\lambda_1 \cdot \lambda_2 > 0$
+
+Узел
+
 ## 1.2. $\lambda_1 \cdot \lambda_2 < 0$
+
+Седло
+
+# 2. $\lambda_i \in \CC$
