@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/453-mipt-differential-equations-seminar-26-03-25.md",
+                "file": "notes/471-mipt-differential-equations-seminar-02-04-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "453-mipt-differential-equations-seminar-26-03-25"
+              "title": "471-mipt-differential-equations-seminar-02-04-25"
             }
           }
         ]
@@ -193,11 +193,13 @@
   },
   "active": "79365aa3e212140e",
   "lastOpenFiles": [
+    "notes/471-mipt-differential-equations-seminar-02-04-25.md~",
+    "assets/imgs/02-04-25_16-00-01_138_02-04-25_16-00-01_194.png",
+    "notes/453-mipt-differential-equations-seminar-26-03-25.md",
     "notes/453-mipt-differential-equations-seminar-26-03-25.md~",
     "notes/578-mipt-differential-equations-lecture-02-04-25.md",
     "sourses/diff_eq/Filippov-AF-Sbornik-zadach-po-differentsialnym-uravneniyam.pdf",
     "sourses/diff_eq/Filippov-AF-Sbornik-zadach-po-differentsialnym-uravneniyam.pdf.crdownload",
-    "notes/471-mipt-differential-equations-seminar-02-04-25.md~",
     "courses/MIPT-differential-equations-2025.md~",
     "notes/471-mipt-differential-equations-seminar-02-04-25.md",
     "notes/578-mipt-differential-equations-lecture-02-04-25.md~",
@@ -220,8 +222,6 @@
     "assets/imgs/02-04-25_12-20-15_801_IMG_20250402_114256.jpg",
     "assets/imgs/02-04-25_11-54-43_486_IMG_20250402_110619.jpg",
     "assets/imgs/02-04-25_11-37-41_075_IMG_20250402_113553.jpg",
-    "assets/imgs/02-04-25_11-37-41_841_IMG_20250402_112758.jpg",
-    "notes/453-mipt-differential-equations-seminar-26-03-25.md",
     "notes/909-mipt-differential-equations-lecture-26-03-25.md",
     "courses/MIPT-field-theory-2025.md",
     "courses/MIPT-harmonic-analysis-2025.md",
