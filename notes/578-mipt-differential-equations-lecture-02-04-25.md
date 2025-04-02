@@ -18,32 +18,33 @@ $$
 \Gather{
 \det A \neq 0 \\
 \lambda_1 \cdot \lambda_2 \neq 0 \\
-\lambda_1 \neq \lambda_2
 }
 $$
 
+# 1. $\lambda_1 \neq \lambda_2$
+
 ![2.jpg](assets/imgs/02-04-25_11-37-41_303_IMG_20250402_105932.jpg)
 
-# 1. $\lambda_i \in \RR$
+# 1.1. $\lambda_i \in \RR$
 
-## 1.1. $\lambda_1 \cdot \lambda_2 > 0$
+## 1.1.1. $\lambda_1 \cdot \lambda_2 > 0$
 
 Узел
 
 ![3.jpg](assets/imgs/02-04-25_11-37-41_139_IMG_20250402_105938.jpg)
 
-## 1.2. $\lambda_1 \cdot \lambda_2 < 0$
+## 1.1.2. $\lambda_1 \cdot \lambda_2 < 0$
 
 Седло
 
 ![4.jpg](assets/imgs/02-04-25_11-37-41_870_IMG_20250402_110619.jpg)
 ![5.jpg](assets/imgs/02-04-25_11-37-41_981_IMG_20250402_110851.jpg)
 
-# 2. $\lambda_i \in \CC$
+# 1.2. $\lambda_i \in \CC$
 
 $\lambda_{1,2} = \alpha \pm i \beta$
 
-# 2.1. $\alpha \neq 0$
+# 1.2.1. $\alpha \neq 0$
 
 Фокус
 $
@@ -62,7 +63,7 @@ $
 ![8.jpg](assets/imgs/02-04-25_11-37-41_459_IMG_20250402_112756.jpg)
 ![9.jpg](assets/imgs/02-04-25_11-37-41_841_IMG_20250402_112758.jpg)
 
-# 2.2. $\alpha = 0$
+# 1.2.2. $\alpha = 0$
 
 Центр
 
@@ -70,4 +71,7 @@ $
 
 # Пример
 
-# 3. $\lambda_1 = \lambda_2$
+# 2. $\lambda_1 = \lambda_2$
+
+# 2.1. Существует базис из собств. векторов
+# 2.2. Не существует базис из собств. векторов
