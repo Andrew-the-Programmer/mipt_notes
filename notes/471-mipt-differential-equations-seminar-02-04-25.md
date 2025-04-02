@@ -44,9 +44,19 @@ A = J\rvert_{1,1} = \Pmatrix{
 } \\
 \lambda^2 + \lambda (e - \frac{1}{2}) - \frac{5}{4} = 0 \\
 \textit{Неустойчивое седло.}\\
-J_2 = J\rvert_{-4,-4} = \Pmatrix{
--e^{-4} & e^{-4} \\
-\frac{3}{4} & -2
-} \\
+J_2 = J\rvert_{-4,-4} \\
+}
+$
+# Р13.57
+
+![1357.png](assets/imgs/02-04-25_16-27-54_774_02-04-25_16-27-54_147.png)
+![13572.png](assets/imgs/02-04-25_16-28-39_614_02-04-25_16-28-39_925.png)
+
+$
+\AlignCenter{
+\Cases{
+y \defeq \dot{x} \\
+\dot{y} = \ddot{x} = -2 \dot{x} - x -2x^2 + 1
+}
 }
 $
