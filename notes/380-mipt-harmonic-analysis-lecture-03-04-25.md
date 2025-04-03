@@ -54,6 +54,17 @@ $$
 
 # Theorem 2. Дифф. по параметру
 
+## Let:
+
+1. $Y = \lceil c,d \rfloor$
+2. $X_0 \subset X$ :
+3. $\mu(X \setminus X_0) = 0$
+4. $\forall x \in X_0, \forall y \in Y \hthen \exists \pdv{y}{f}$
+6. $
+\exists g \in L_1(X) : \forall \delta > 0 \hthen \abs{f_y(x,y)} \le g(x)\quad
+\forall x \in X_0 \forall y \in B_\delta(y_0)
+$
+
 $$
 \exists \dv{y}{J}(y_0) = \int_X{f_y^{'}(x,y) \d \mu(x)}
 $$
