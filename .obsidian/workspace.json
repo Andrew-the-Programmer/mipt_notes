@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/471-mipt-differential-equations-seminar-02-04-25.md",
+                "file": "notes/380-mipt-harmonic-analysis-lecture-03-04-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "471-mipt-differential-equations-seminar-02-04-25"
+              "title": "380-mipt-harmonic-analysis-lecture-03-04-25"
             }
           }
         ]
@@ -193,6 +193,8 @@
   },
   "active": "79365aa3e212140e",
   "lastOpenFiles": [
+    "notes/380-mipt-harmonic-analysis-lecture-03-04-25.md~",
+    "notes/4913",
     "notes/471-mipt-differential-equations-seminar-02-04-25.md~",
     "notes/453-mipt-differential-equations-seminar-26-03-25.md~",
     "assets/imgs/02-04-25_17-24-32_321_02-04-25_17-24-32_501.png",
@@ -203,7 +205,6 @@
     "notes/578-mipt-differential-equations-lecture-02-04-25.md~",
     "notes/578-mipt-differential-equations-lecture-02-04-25.md",
     "notes/471-mipt-differential-equations-seminar-02-04-25.md",
-    "notes/4913",
     "notes/909-mipt-differential-equations-lecture-26-03-25.md",
     "notes/909-mipt-differential-equations-lecture-26-03-25.md~",
     "courses/MIPT-differential-equations-2025.md~",
