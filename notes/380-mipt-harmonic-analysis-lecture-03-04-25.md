@@ -128,18 +128,23 @@ $$
 # Def. Несобственный интеграл Лебега от параметра.
 
 ## Let:
+
 1. $f : [a,b) \times Y \to \ol{\RR}$
 2. $\forall y \hthen \exists \int_a^{\to b}{f(t,y)\d t}$
 
 ## Then:
- $$
+
+$$
 J(y) \defeq \int_a^{\to b}{f(t,y)\d t}
 $$
+
 называется несобственным интегралом Лебега от параметра.
 
 # Def.
+
 Будем говорить, что $\int_a^{\to b}{f(t,y)\d t}$ сходится равномерно\
 по $y \in Y$, если
+
 $$
 \sup_{y\in Y}{\int_{b_1}^{\to b}{f(t,y) \d t}} \to 0,\quad b_1 \to b-0
 $$
@@ -147,16 +152,20 @@ $$
 # Theorem 3.
 
 ## Let:
+
 1. $Y$ - [[1728837879-метрическое-пространство|метрическое пространство]]
 2. $y_0$ - предельная т. в Y
 3. $f: [a,b) \times Y \to \ol{\RR}$
 4. $\forall t \in [a,b) \setminus 0 \hthen
 \exists \lim_{y \to y_0}{f(t,y)} \rdefeq f_0(t)
-$ 
+$
+$$
 5. $\forall b_1 \in (a,b) \hthen f_0 \in L_1[a,b_1]$
-6.  $\exists \lim_{y \to y_0}{\int_a^{b_1}{f(t,y)\d t}$
+6. $\exists \lim_{y \to y_0}{\int_a^{b_1}{f(t,y)\d t}} = \int_a^{b_1}{f_0(t) \d t}$
+7. $\int_a^{\to b}{f(t,y)\d t}$ сходится равномерно по $y$
 
 ## Then:
- $$
-J(y) \defeq \int_a^{\to b}{f(y,t)\d t}
+
+$$
+\exists \lim_{y \to y_0}{\int_a^{\to b}{f(t,y)\d t}} = \int_a^{\to b}{f_0(t)\d t}
 $$
