@@ -8,9 +8,6 @@ tags: []
 # MIPT harmonic analysis lecture 03-04-25
 
 ![1.jpg](assets/imgs/03-04-25_14-39-12_590_IMG_20250403_140357.jpg)
-![11.jpg](assets/imgs/03-04-25_14-39-12_499_IMG_20250403_142613.jpg)
-![12.jpg](assets/imgs/03-04-25_14-39-12_381_IMG_20250403_143140.jpg)
-![13.jpg](assets/imgs/03-04-25_14-39-12_731_IMG_20250403_143223.jpg)
 
 # Интеграл зависимый от параметра
 
@@ -63,6 +60,8 @@ $$
    \exists \lim_{y\to y_0}{\int_X{f(x,y) \d \mu(x)}} = \int_X{\lim_{y\to y_0} f(x,y) \d \mu(x)}
 $$
 
+## Photos:
+
 ![5.jpg](assets/imgs/03-04-25_14-39-12_574_IMG_20250403_141352.jpg)
 ![6.jpg](assets/imgs/03-04-25_14-39-12_329_IMG_20250403_141355.jpg)
 
@@ -90,12 +89,17 @@ $$
 \exists \dv{y}{J}(y_0) = \int_X{f_y^{'}(x,y) \d \mu(x)}
 $$
 
+## Photos:
+
 ![9.jpg](assets/imgs/03-04-25_14-39-12_146_IMG_20250403_142411.jpg)
 ![10.jpg](assets/imgs/03-04-25_14-39-12_550_IMG_20250403_142608.jpg)
 
 ## Proof:
 
 ![10.jpg](assets/imgs/03-04-25_14-39-12_550_IMG_20250403_142608.jpg)
+![11.jpg](assets/imgs/03-04-25_14-39-12_499_IMG_20250403_142613.jpg)
+![12.jpg](assets/imgs/03-04-25_14-39-12_381_IMG_20250403_143140.jpg)
+![13.jpg](assets/imgs/03-04-25_14-39-12_731_IMG_20250403_143223.jpg)
 
 # Несобственные интегралы с параметром
 
@@ -112,5 +116,17 @@ $$
 Говорят, что несобственный интеграл лебега от $f$ по $[a,b)$ сходится
 
 $$
-\int_a^{\to b}{f(x) \d x}
+\int_a^{\to b}{f(x) \d x} \defeq \lim_{b_1 \to b+0}{\int_a^{b_1}{f(x) \d x}}
 $$
+
+# Example
+
+$$
+\int_0^{+\infty}{\frac{\sin x}{x} \d x}
+$$
+
+# Theorem 3.
+
+## Let:
+1. $f : Y \times [a,b) \to \ol{\RR}$
+2. $\forall y \hthen \exists \int_a^{\to b}{f(y,t)\d t}$
