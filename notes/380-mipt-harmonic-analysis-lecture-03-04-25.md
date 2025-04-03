@@ -125,8 +125,29 @@ $$
 \int_0^{+\infty}{\frac{\sin x}{x} \d x}
 $$
 
+# Def. Несобственный интеграл Лебега от параметра.
+
+## Let:
+1. $f : [a,b) \times Y \to \ol{\RR}$
+2. $\forall y \hthen \exists \int_a^{\to b}{f(t,y)\d t}$
+
+## Then:
+ $$
+J(y) \defeq \int_a^{\to b}{f(t,y)\d t}
+$$
+называется несобственным интегралом Лебега от параметра.
+
+# Def.
+Будем говорить, что $\int_a^{\to b}{f(t,y)\d t}$ сходится равномерно по $y \in Y$
+
 # Theorem 3.
 
 ## Let:
-1. $f : Y \times [a,b) \to \ol{\RR}$
-2. $\forall y \hthen \exists \int_a^{\to b}{f(y,t)\d t}$
+1. $Y$ - [[1728837879-метрическое-пространство|метрическое пространство]]
+2. $y_0$ - предельная т. в Y
+3. 
+
+## Then:
+ $$
+J(y) \defeq \int_a^{\to b}{f(y,t)\d t}
+$$
