@@ -7,6 +7,11 @@ tags: []
 
 # MIPT harmonic analysis lecture 03-04-25
 
+![1.jpg](assets/imgs/03-04-25_14-39-12_590_IMG_20250403_140357.jpg)
+![11.jpg](assets/imgs/03-04-25_14-39-12_499_IMG_20250403_142613.jpg)
+![12.jpg](assets/imgs/03-04-25_14-39-12_381_IMG_20250403_143140.jpg)
+![13.jpg](assets/imgs/03-04-25_14-39-12_731_IMG_20250403_143223.jpg)
+
 # Интеграл зависимый от параметра
 
 Бывают собственные и несобственные.
@@ -20,15 +25,21 @@ $$
 J(y) \defeq \int_X{f(x,y) \d \mu(x)}
 $$
 
+![2.jpg](assets/imgs/03-04-25_14-39-12_782_IMG_20250403_140402.jpg)
+
 # Вопросы?
 
 1. Когда можно интегрировать по параметру?
 2. Дифференцировать?
 3. Переходить к пределу?
 
+![3.jpg](assets/imgs/03-04-25_14-39-12_411_IMG_20250403_140405.jpg)
+
 # Ответы!
 
 1. Практически т. Фубини
+
+![4.jpg](assets/imgs/03-04-25_14-39-12_532_IMG_20250403_140637.jpg)
 
 # Theorem 1.
 
@@ -52,7 +63,13 @@ $$
    \exists \lim_{y\to y_0}{\int_X{f(x,y) \d \mu(x)}} = \int_X{\lim_{y\to y_0} f(x,y) \d \mu(x)}
 $$
 
+![5.jpg](assets/imgs/03-04-25_14-39-12_574_IMG_20250403_141352.jpg)
+![6.jpg](assets/imgs/03-04-25_14-39-12_329_IMG_20250403_141355.jpg)
+
 ## Proof:
+
+![7.jpg](assets/imgs/03-04-25_14-39-12_208_IMG_20250403_141653.jpg)
+![8.jpg](assets/imgs/03-04-25_14-39-12_466_IMG_20250403_141714.jpg)
 
 # Theorem 2. Дифф. по параметру
 
@@ -62,7 +79,7 @@ $$
 2. $X_0 \subset X$ :
 3. $\mu(X \setminus X_0) = 0$
 4. $\forall x \in X_0, \forall y \in Y \hthen \exists \pdv{y}{f}$
-6. $
+5. $
 \exists g \in L_1(X) : \forall \delta > 0 \hthen \abs{f_y(x,y)} \le g(x)\quad
 \forall x \in X_0 \forall y \in B_\delta(y_0)
 $
@@ -73,12 +90,27 @@ $$
 \exists \dv{y}{J}(y_0) = \int_X{f_y^{'}(x,y) \d \mu(x)}
 $$
 
+![9.jpg](assets/imgs/03-04-25_14-39-12_146_IMG_20250403_142411.jpg)
+![10.jpg](assets/imgs/03-04-25_14-39-12_550_IMG_20250403_142608.jpg)
+
 ## Proof:
+
+![10.jpg](assets/imgs/03-04-25_14-39-12_550_IMG_20250403_142608.jpg)
 
 # Несобственные интегралы с параметром
 
 # Несобственный интеграл лебега
+
 ## Let:
+
 1. $-\infty < a < b \le +\infty$
 2. $f \in L_1([a,b_1])\quad \forall b_1 < b$
-3.  $\exists \lim_{b_1 \to b}{\int_a^{b_1}{f(x) \d x}} \in \RR$
+3. $\exists \lim_{b_1 \to b+0}{\int_a^{b_1}{f(x) \d x}} \in \RR$
+
+## Then:
+
+Говорят, что несобственный интеграл лебега от $f$ по $[a,b)$ сходится
+
+$$
+\int_a^{\to b}{f(x) \d x}
+$$
