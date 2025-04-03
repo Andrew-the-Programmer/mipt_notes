@@ -28,9 +28,20 @@ $$
 
 1. Практически т. Фубини
 2. Пусть $Y \defeq (Y, d)$ - [[1728837879-метрическое-пространство|метрическое пространство]]
-   $y_0$ - предельная точка в Y (сущ. посл-ть к y)
+
+
+$y_0$ - предельная точка в Y (сущ. посл-ть к y)
 
 $X_0 \subset X$ :
 
 1. $\mu(X \setminus X_0) = 0$
-2.
+2. $\forall x \in X_0 \hthen \exists \lim_{y\to y_0}{f(x,y)} \defeq f_0(x)$
+3. $
+\exists g \in L_1(X) : \forall \delta > 0 \hthen \abs{f(x,y)} \le g(x)\quad
+\forall x \in X_0 \forall y \in B_\delta(y_0)
+$
+   Тогда:
+   $f_0 \in L_1(X)$
+   $$
+   \exists \lim_{y\to y_0}{\int_X{f(x,y) \d \mu(x)}} = \int_X{\lim_{y\to y_0} f(x,y) \d \mu(x)}
+   $$
