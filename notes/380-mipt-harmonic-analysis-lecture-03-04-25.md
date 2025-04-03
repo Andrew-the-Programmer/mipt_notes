@@ -11,6 +11,8 @@ tags: []
 
 Бывают собственные и несобственные.
 
+# Собственные
+
 $f : X \times Y \to \ol{\RR}$
 $\forall y \hthen f \in L_1(X)$
 
@@ -54,7 +56,7 @@ $$
 
 # Theorem 2. Дифф. по параметру
 
-## Let:
+## If:
 
 1. $Y = \lceil c,d \rfloor$
 2. $X_0 \subset X$ :
@@ -65,6 +67,18 @@ $$
 \forall x \in X_0 \forall y \in B_\delta(y_0)
 $
 
+## Then:
+
 $$
 \exists \dv{y}{J}(y_0) = \int_X{f_y^{'}(x,y) \d \mu(x)}
 $$
+
+## Proof:
+
+# Несобственные интегралы с параметром
+
+# Несобственный интеграл лебега
+## Let:
+1. $-\infty < a < b \le +\infty$
+2. $f \in L_1([a,b_1])\quad \forall b_1 < b$
+3.  $\exists \lim_{b_1 \to b}{\int_a^{b_1}{f(x) \d x}} \in \RR$
