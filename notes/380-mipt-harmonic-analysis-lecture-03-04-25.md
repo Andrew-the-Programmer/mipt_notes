@@ -178,12 +178,12 @@ $$
 2. $\nu(Y) < +\infty$
 3. $f: \left[a,b\right) \times Y \to \ol{\RR}$
 4. $\int_a^{\to b}{f(t,y)\d t}$ сходится равномерно по $y$
-5. $\forall b_1 \in (a,b) \hthen f \in L_1(\mcL^1 \otimes \nu)$
+5. $\forall b_1 \in (a,b) \hthen f \in L_1([a,b_1] \times Y)\ по\ (\mcL^1 \otimes \nu)$
 
 ## Then:
 $$
 J \in L_1(Y)
 $$
 $$
-\int_Y\int_a^{\to b}{f(t,y) \d t \d \nu(y)} = 
+\int_Y\int_a^{\to b}{f(t,y) \d t \d \nu(y)} = \int_a^{\to b}{\groupr{\int_Y{f(t,y) \d \nu(y)}} \d t}
 $$
