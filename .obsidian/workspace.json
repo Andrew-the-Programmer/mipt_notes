@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/287-mipt-computational-complexity-theory-lecture-28-03-25.md",
+                "file": "notes/146-mipt-computational-complexity-theory-lecture-04-04-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "287-mipt-computational-complexity-theory-lecture-28-03-25"
+              "title": "146-mipt-computational-complexity-theory-lecture-04-04-25"
             }
           }
         ]
@@ -193,12 +193,12 @@
   },
   "active": "79365aa3e212140e",
   "lastOpenFiles": [
-    "notes/146-mipt-computational-complexity-theory-lecture-04-04-25.md",
-    "notes/287-mipt-computational-complexity-theory-lecture-28-03-25.md~",
     "notes/146-mipt-computational-complexity-theory-lecture-04-04-25.md~",
     "notes/287-mipt-computational-complexity-theory-lecture-28-03-25.md",
-    "notes/380-mipt-harmonic-analysis-lecture-03-04-25.md~",
     "notes/4913",
+    "notes/146-mipt-computational-complexity-theory-lecture-04-04-25.md",
+    "notes/287-mipt-computational-complexity-theory-lecture-28-03-25.md~",
+    "notes/380-mipt-harmonic-analysis-lecture-03-04-25.md~",
     "assets/imgs/03-04-25_15-26-02_989_IMG_20250403_152047.jpg",
     "assets/imgs/03-04-25_15-26-02_288_IMG_20250403_151908.jpg",
     "assets/imgs/03-04-25_15-26-02_662_IMG_20250403_151730.jpg",
@@ -237,7 +237,6 @@
     "notes/1738651715-абсолютно-непрерывная-функция.md",
     "notes/747-формулы-Френеля.md",
     "notes/1731663299-преломление-и-отражение-электромагнитных-волн.md",
-    "notes/818-mipt-anmech-seminar-28-03-25.md",
-    "notes/628-mipt-physics-lecture-29-03-25.md"
+    "notes/818-mipt-anmech-seminar-28-03-25.md"
   ]
 }
