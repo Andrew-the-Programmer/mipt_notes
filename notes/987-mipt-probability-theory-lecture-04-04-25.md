@@ -112,3 +112,11 @@ $0 \le \xi_n \uparrow \xi,\quad E\xi < \infty \implies$
 $$
 E(\xi_n \mid F_0) \uparrow E(\xi \mid F_0)
 $$
+# Lemma. Свойство 11.
+
+$\xi - F_0-\textit{измеримо}$
+$E\abs{\eta} < \infty$
+$E\abs{\xi\eta} < \infty$
+$$
+E(\xi\eta \mid F_0) = \xi E(\eta \mid F_0)
+$$
