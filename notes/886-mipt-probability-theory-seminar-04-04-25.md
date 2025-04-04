@@ -35,5 +35,11 @@ $$
 \Phi_x(z) = \sum_{n=0}^{\infty}{\frac{\bbE x^{[n]}}{n!} (z-1)^n}
 $$
 $$
-P(x=k)
+P(x=k) = \frac{1}{2\pi i} \oint{\frac{\Phi(z)}{z^{k+1}}\d z}
+$$
+
+# $NBinom(r,p)$
+
+$$
+
 $$
