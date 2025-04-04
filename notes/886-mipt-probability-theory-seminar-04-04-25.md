@@ -38,6 +38,10 @@ $$
 $$
 P(x=k) = \frac{1}{2\pi i} \oint{\frac{\Phi(z)}{z^{k+1}}\d z}
 $$
+$\set{x_i}$ - НСВ
+ $$
+\Phi_{\sum{x_i}}(z) = \prod{\Phi_{x_i}(z)}
+$$
 
 # $NBinom(r,p)$
 
@@ -64,4 +68,7 @@ $$
 \Phi_x(z) = e^{\lambda(z-1)} \\
 \bbE x^{[n]} = \lambda^n
 }
+$$
+$$
+X_i \sim Poiss(\lambda_i) \implies \sum{X_i} \sim Poiss(\sum{\lambda_i})
 $$
