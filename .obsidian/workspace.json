@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/291-mipt-anmech-seminar-04-04-25.md",
+                "file": "notes/369-mipt-harmonic-analysis-lecture-13-02-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "291-mipt-anmech-seminar-04-04-25"
+              "title": "369-mipt-harmonic-analysis-lecture-13-02-25"
             }
           }
         ]
@@ -193,6 +193,12 @@
   },
   "active": "79365aa3e212140e",
   "lastOpenFiles": [
+    "courses/MIPT-harmonic-analysis-2025.md~",
+    "notes/676-mipt-harmonic-analysis-lecture-06-02-25.md",
+    "notes/369-mipt-harmonic-analysis-lecture-13-02-25.md~",
+    "notes/291-mipt-anmech-seminar-04-04-25.md",
+    "notes/676-mipt-harmonic-analysis-lecture-06-02-25.md~",
+    "notes/886-mipt-probability-theory-seminar-04-04-25.md~",
     "notes/291-mipt-anmech-seminar-04-04-25.md~",
     "assets/imgs/04-04-25_18-02-23_597_watermeloncat.jpg",
     "notes/4913",
@@ -209,14 +215,9 @@
     "notes/818-mipt-anmech-seminar-28-03-25.md~",
     "notes/886-mipt-probability-theory-seminar-04-04-25.md",
     "courses/MIPT-anmech-2025.md~",
-    "notes/291-mipt-anmech-seminar-04-04-25.md",
     "notes/1738689676-mipt-computational-complexity-theory-seminar-04-02-25.md~",
-    "notes/886-mipt-probability-theory-seminar-04-04-25.md~",
     "notes/987-mipt-probability-theory-lecture-04-04-25.md",
     "courses/MIPT-probability-theory-2025.md~",
-    "notes/299-mipt-probability-theory-seminar-28-03-25.md~",
-    "notes/987-mipt-probability-theory-lecture-04-04-25.md~",
-    "preamble.sty~",
     "notes/930-mipt-probability-theory-lecture-28-03-25.md",
     "notes/146-mipt-computational-complexity-theory-lecture-04-04-25.md",
     "notes/287-mipt-computational-complexity-theory-lecture-28-03-25.md",
@@ -236,7 +237,6 @@
     "notes/234-mipt-harmonic-analysis-seminar-25-03-25.md",
     "notes/371-mipt-harmonic-analysis-seminar-11-03-25.md",
     "notes/438-mipt-harmonic-analysis-seminar-04-03-25.md",
-    "notes/925-mipt-harmonic-analysis-seminar-25-02-25.md",
-    "notes/803-Гильбертово-пространство-hilbert-space.md"
+    "notes/925-mipt-harmonic-analysis-seminar-25-02-25.md"
   ]
 }
