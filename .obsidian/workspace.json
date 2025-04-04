@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/818-mipt-anmech-seminar-28-03-25.md",
+                "file": "notes/291-mipt-anmech-seminar-04-04-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "818-mipt-anmech-seminar-28-03-25"
+              "title": "291-mipt-anmech-seminar-04-04-25"
             }
           }
         ]
@@ -194,6 +194,7 @@
   "active": "79365aa3e212140e",
   "lastOpenFiles": [
     "notes/291-mipt-anmech-seminar-04-04-25.md~",
+    "notes/818-mipt-anmech-seminar-28-03-25.md",
     "notes/818-mipt-anmech-seminar-28-03-25.md~",
     "notes/886-mipt-probability-theory-seminar-04-04-25.md",
     "courses/MIPT-anmech-2025.md~",
@@ -236,7 +237,6 @@
     "notes/371-mipt-harmonic-analysis-seminar-11-03-25.md",
     "notes/438-mipt-harmonic-analysis-seminar-04-03-25.md",
     "notes/925-mipt-harmonic-analysis-seminar-25-02-25.md",
-    "notes/803-Гильбертово-пространство-hilbert-space.md",
-    "notes/1738649083-функция-ограниченной-вариации.md"
+    "notes/803-Гильбертово-пространство-hilbert-space.md"
   ]
 }
