@@ -16,7 +16,7 @@ $\set{\Omega, F_0, P}$
 $$
 \eta \defeq E(\xi \mid F_0)
 $$
-
+(Интегральное Свойство)
 $$
 \forall A \in F_0 \hthen E(\xi I_A) = E(\eta I_A)
 $$
@@ -27,6 +27,7 @@ $$
 2. $E(const \mid F_0) = const$
 3. $E(\xi \mid \set{\emptyset, \Omega}) = E\xi$
 4. $E\xi = E(E(\xi \mid F_0))$
+5. $E(\alpha \xi + \beta \eta \mid F_0) = \alpha E(\xi \mid F_0) + \beta E(\eta \mid F_0)$
 
 # Theorem
 
@@ -42,3 +43,6 @@ E(\xi \mid F_0) = \sum_{n \in \NN, P(D_n) \neq 0}{\frac{E(\xi I_{D_n})}{P(D_n)} 
 $$
 
 # Теорема Радона-Никодима
+
+$\set{\Omega, F, P}$ - [[613-вероятностное-пространство|вероятностное пространство]]
+$P$ - $\sigma$-конечная мера
