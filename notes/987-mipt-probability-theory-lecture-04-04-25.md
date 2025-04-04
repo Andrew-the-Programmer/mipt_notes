@@ -70,7 +70,28 @@ E(\xi \mid F_0) \stackrel{п.н.}{\ge} E(\eta \mid F_0)
 $$
 
 # Lemma. Свойство 6-2.
+
 $$
 a \le \xi \le b,\quad a,b - F_0-\textit{измеримые} \implies
 (п.н.)\ a \le E(\xi \mid F_0) \le b
+$$
+
+# ?
+
+$$
+\Gather{
+E(\xi - E(\xi \mid F_0) \mid F_0) = 0 \\
+E(\xi - E(\xi \mid F_0)) = 0 \\
+}
+$$
+
+# Lemma. Свойство 7.
+
+$$
+\abs{E(\xi \mid F_0)} \le E(\abs{\xi} \mid F_0)
+$$
+
+# Lemma. Свойство 8.
+$$
+\sigma(\xi) \perp F_0 \implies E(\xi \mid F_0) \stackrel{п.н.}{=} E\xi
 $$
