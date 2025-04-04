@@ -16,7 +16,9 @@ $\set{\Omega, F_0, P}$
 $$
 \eta \defeq E(\xi \mid F_0)
 $$
+
 (Интегральное Свойство - ИС)
+
 $$
 \forall A \in F_0 \hthen E(\xi I_A) = E(\eta I_A)
 $$
@@ -48,12 +50,27 @@ $\set{\Omega, F, P}$ - [[613-вероятностное-пространство
 $P$ - $\sigma$-конечная мера
 
 # Свойство линейности.
+
 $$
 E(\alpha \xi + \beta \eta \mid F_0) = \alpha E(\xi \mid F_0) + \beta E(\eta \mid F_0)
 $$
 
-# Lemma.
+# Lemma. Свойство 6.
+
 $$
-\xi \stackrel{п.н.}{\ge} 0 \implies 
+\xi \stackrel{п.н.}{\ge} 0 \implies
 E(\xi \mid F_0) \stackrel{п.н.}{\ge} 0
+$$
+
+# Lemma. Свойство 6-1.
+
+$$
+\xi \stackrel{п.н.}{\ge} \eta \implies
+E(\xi \mid F_0) \stackrel{п.н.}{\ge} E(\eta \mid F_0)
+$$
+
+# Lemma. Свойство 6-2.
+$$
+a \le \xi \le b,\quad a,b - F_0-\textit{измеримые} \implies
+(п.н.)\ a \le E(\xi \mid F_0) \le b
 $$
