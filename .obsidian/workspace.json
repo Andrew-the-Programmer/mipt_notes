@@ -193,6 +193,10 @@
   },
   "active": "79365aa3e212140e",
   "lastOpenFiles": [
+    "notes/146-mipt-computational-complexity-theory-lecture-04-04-25.md",
+    "notes/287-mipt-computational-complexity-theory-lecture-28-03-25.md~",
+    "notes/146-mipt-computational-complexity-theory-lecture-04-04-25.md~",
+    "notes/287-mipt-computational-complexity-theory-lecture-28-03-25.md",
     "notes/380-mipt-harmonic-analysis-lecture-03-04-25.md~",
     "notes/4913",
     "assets/imgs/03-04-25_15-26-02_989_IMG_20250403_152047.jpg",
@@ -215,8 +219,6 @@
     "notes/909-mipt-differential-equations-lecture-26-03-25.md~",
     "courses/MIPT-differential-equations-2025.md~",
     "notes/453-mipt-differential-equations-seminar-26-03-25.md",
-    "sourses/diff_eq/Filippov-AF-Sbornik-zadach-po-differentsialnym-uravneniyam.pdf",
-    "sourses/diff_eq/Filippov-AF-Sbornik-zadach-po-differentsialnym-uravneniyam.pdf.crdownload",
     "notes/759-mipt-differential-equations-lecture-12-02-25.md",
     "notes/186-mipt-field-theory-seminar-02-04-25.md",
     "notes/868-оператор-Д'Аламбера.md",
@@ -236,7 +238,6 @@
     "notes/747-формулы-Френеля.md",
     "notes/1731663299-преломление-и-отражение-электромагнитных-волн.md",
     "notes/818-mipt-anmech-seminar-28-03-25.md",
-    "notes/628-mipt-physics-lecture-29-03-25.md",
-    "notes/299-mipt-probability-theory-seminar-28-03-25.md"
+    "notes/628-mipt-physics-lecture-29-03-25.md"
   ]
 }
