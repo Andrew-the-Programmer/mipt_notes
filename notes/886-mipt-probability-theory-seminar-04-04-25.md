@@ -42,12 +42,26 @@ $$
 # $NBinom(r,p)$
 
 $$
+\bbP\set{y=k} = C_{k+r}^{k} q^k p^r
+$$
+$$
 NBinom(r,p) \sim \sum_{k=1}^{r}{Geom(p)}
 $$
 $$
 \Gather{
-\bbE Y = r \frac{q}{p} \\
-D Y = r \frac{q}{p^2} \\
+\bbE y = r \frac{q}{p} \\
+D y = r \frac{q}{p^2} \\
+\Phi_y(z) = \group{\frac{p}{1 - zr}}^r
+}
+$$
 
+# $Poiss(\lambda)$
+$$
+\bbP(x=k) = e^{-\lambda}\frac{\lambda^k}{k!}
+$$
+$$
+\Gather{
+\Phi_x(z) = e^{\lambda(z-1)} \\
+\bbE x^{[n]} = \lambda^n
 }
 $$
