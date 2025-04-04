@@ -20,7 +20,8 @@ $$
 \Gather{
 \bbE X = \frac{q}{p}\\
 D X = \frac{q}{p^2}\\
-\bbE x^{[n]} = n! \group{\frac{q}{p}}^n
+\bbE x^{[n]} = n! \group{\frac{q}{p}}^n \\
+\Phi_x(z) = \frac{p}{1 - zq}
 }
 $$
 
@@ -41,5 +42,12 @@ $$
 # $NBinom(r,p)$
 
 $$
+NBinom(r,p) \sim \sum_{k=1}^{r}{Geom(p)}
+$$
+$$
+\Gather{
+\bbE Y = r \frac{q}{p} \\
+D Y = r \frac{q}{p^2} \\
 
+}
 $$
