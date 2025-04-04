@@ -13,11 +13,12 @@ tags: []
 
 $
 \AlignCenter{
-\vec{C} \in Q^n \\
-A \in Q^{m \times n} \\
-\vec{b} \in \\Q^m \\
+\vec{C} \in \QQ^n \\
+A \in \QQ^{m \times n} \\
+\vec{b} \in \QQ^m \\
 }
 $
+$\TT^n$
 Задача: найти
 $$
 \max\group{C^T \cdot x}
