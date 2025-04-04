@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/930-mipt-probability-theory-lecture-28-03-25.md",
+                "file": "notes/987-mipt-probability-theory-lecture-04-04-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "930-mipt-probability-theory-lecture-28-03-25"
+              "title": "987-mipt-probability-theory-lecture-04-04-25"
             }
           }
         ]
@@ -194,6 +194,7 @@
   "active": "79365aa3e212140e",
   "lastOpenFiles": [
     "notes/987-mipt-probability-theory-lecture-04-04-25.md~",
+    "notes/930-mipt-probability-theory-lecture-28-03-25.md",
     "notes/146-mipt-computational-complexity-theory-lecture-04-04-25.md",
     "notes/930-mipt-probability-theory-lecture-28-03-25.md~",
     "courses/MIPT-probability-theory-2025.md~",
@@ -236,7 +237,6 @@
     "notes/803-Гильбертово-пространство-hilbert-space.md",
     "notes/1738649083-функция-ограниченной-вариации.md",
     "notes/1738651715-абсолютно-непрерывная-функция.md",
-    "notes/747-формулы-Френеля.md",
-    "notes/1731663299-преломление-и-отражение-электромагнитных-волн.md"
+    "notes/747-формулы-Френеля.md"
   ]
 }
