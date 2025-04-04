@@ -30,9 +30,13 @@ $$
 
 # Theorem
 
-1. $F_0 = \sigma_\min\group{\set{D_n}_{n \in \NN}}
-\bigcup{D_n} = \Omega
-$$
+## If:
+
+1. $F_0 = \sigma_\min\group{\set{D_n}_{n \in \NN}}$
+2. $\bigcup{D_n} = \Omega$
+
+## Then:
+
 $$
 E(\xi \mid F_0) = \sum_{n \in \NN, P(D_n) \neq 0}{\frac{E(\xi I_{D_n})}{P(D_n)} I_{D_n}}
 $$
