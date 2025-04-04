@@ -12,13 +12,19 @@ $$
 E x^{[n]} \defeq E \group{\prod_{i=0}^{n-1}{x - i}}
 $$
 
-# Geom
+# Geom(p)
 $$
 \bbP\set{X = k} = q^k p, \quad p+q=1
 $$
 $$
 \Gather{
 \bbE X = \frac{q}{p}\\
-D X = \frac{q}{p^2}
+D X = \frac{q}{p^2}\\
+\bbE x^{[n]} = n! \group{\frac{q}{p}}^n
 }
+$$
+
+# Производящая функция
+$$
+\Phi_X(z) \defeq \bbE(z^x)
 $$
