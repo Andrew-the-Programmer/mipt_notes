@@ -76,6 +76,7 @@ $
 \AlignCenter{
 \Phi_{\sum{x_i}}(z) = \prod{\Phi_{x_i}(z)} = \prod{e^{-\lambda_i(z-1)}} = 
 e^{-\sum{\lambda_i(z-1)}} \sim Poiss(\sum{\lambda_i}) \\
-\bbP\set{x+y=k} = \sum_{l=0}^{\infty}{\bbP\set{x+y = k \mid y = l}}
+\bbP\set{x+y=k} = \sum_{l=0}^{\infty}{\bbP\set{x+y = k \mid y = l}} =
+\sum_{l=0}^{k}{\bbP\set{x = k - l} \bbP\set{y=l}}
 }
 $
