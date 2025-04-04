@@ -92,13 +92,15 @@ $$
 
 $$
 \Array{l}{
-J_{2n} \defeq \int & \dots_{V(t)} \int{\delta q_1 \delta p_1 \dots \delta q_n \delta p_n}
+J_{2n} \defeq \int & \dots & \int{\delta q_1 \delta p_1 \dots \delta q_n \delta p_n} \\
+& V(t) &
 }
-$$
-$$
-J_{2n} \defeq \int \dots_{V(t)} \int{\delta q_1 \delta p_1 \dots \delta q_n \delta p_n}
 $$
 
 ![14.jpg](assets/imgs/04-04-25_17-47-17_073_IMG_20250404_174506.jpg)
 
 # Theorem. Лиувилля
+
+# Theorem
+
+# 22.22
