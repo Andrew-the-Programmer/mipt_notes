@@ -77,6 +77,15 @@ $
 \Phi_{\sum{x_i}}(z) = \prod{\Phi_{x_i}(z)} = \prod{e^{-\lambda_i(z-1)}} = 
 e^{-\sum{\lambda_i(z-1)}} \sim Poiss(\sum{\lambda_i}) \\
 \bbP\set{x+y=k} = \sum_{l=0}^{\infty}{\bbP\set{x+y = k \mid y = l}} =
-\sum_{l=0}^{k}{\bbP\set{x = k - l} \bbP\set{y=l}}
+\sum_{l=0}^{k}{\bbP\set{x = k - l} \bbP\set{y=l}} = \dots
+}
+$ 
+
+# Задача
+$
+\AlignCenter{
+Y_N = \sum_{i=0}^{N-1}{x_i} \\
+x_i \sim 1 + Geom(1 - \frac{i}{N}) \\
+\bbE Y_N
 }
 $
