@@ -72,3 +72,8 @@ $$
 $$
 X_i \sim Poiss(\lambda_i) \implies \sum{X_i} \sim Poiss(\sum{\lambda_i})
 $$
+$
+\AlignCenter{
+\Phi_{\sum{x_i}}(z) = \prod{\Phi_{x_i}(z)} = \prod{e^{-\lambda_i(z-1)}} = e^{-\sum{\lambda_i(z-1)}}
+}
+$
