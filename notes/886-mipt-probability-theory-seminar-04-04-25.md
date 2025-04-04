@@ -117,6 +117,9 @@ D Y_N \to N^2 \frac{\pi^2}{6}
 $$
 
 # Преобразование
+
+$Y = g(X)$
+
 $$
 f_Y(x) = f_X(g\inv(x)) \abs{\dv{x}{} g\inv(x)}
 $$
