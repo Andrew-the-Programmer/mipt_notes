@@ -29,6 +29,10 @@ $$
 4. $E\xi = E(E(\xi \mid F_0))$
 
 # Theorem
- $$
-F_0 = \sigma {D_k}_{k \in \NN}
+
+1. $F_0 = \sigma_\min\group{\set{D_n}_{n \in \NN}}
+\bigcup{D_n} = \Omega
+$$
+$$
+E(\xi \mid F_0) = \sum_{n \in \NN, P(D_n) \neq 0}{\frac{E(\xi I_{D_n})}{P(D_n)} I_{D_n}}
 $$
