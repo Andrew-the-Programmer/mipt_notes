@@ -111,7 +111,12 @@ $
 
 $$
 \Gather{
-Y_N = \sum_{i=0}^{N-1}{x_i} \\
+\bbE Y_N \to N \ln{N} \\
 D Y_N \to N^2 \frac{\pi^2}{6}
 }
+$$
+
+# Преобразование
+$$
+f_Y(x) = f_X(g\inv(x)) \abs{\dv{x}{} g\inv(x)}
 $$
