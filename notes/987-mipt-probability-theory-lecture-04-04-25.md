@@ -92,6 +92,13 @@ $$
 $$
 
 # Lemma. Свойство 8.
+
 $$
 \sigma(\xi) \perp F_0 \implies E(\xi \mid F_0) \stackrel{п.н.}{=} E\xi
+$$
+
+# Lemma. Свойство 9. Телескопическое свойство.
+$F_0 \subseteq F_1 \subseteq F \implies$
+$$
+E(E(\xi \mid F_0) \mid F_1) = E(E(\xi \mid F_1) \mid F_0) = E(\xi \mid F_0)
 $$
