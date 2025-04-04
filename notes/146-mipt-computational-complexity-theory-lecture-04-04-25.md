@@ -18,13 +18,16 @@ A \in \QQ^{m \times n} \\
 \vec{b} \in \QQ^m \\
 }
 $
-$\TT^n$
 Задача: найти
+
 $$
 \max\group{C^T \cdot x}
 $$
+
 если:
+
 1. $A x \le b$
 2. $x \ge 0$
 3. $x \in \ZZ[n]$
 
+# PCP theorem ()
