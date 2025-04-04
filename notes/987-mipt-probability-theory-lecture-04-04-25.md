@@ -29,7 +29,6 @@ $$
 2. $E(const \mid F_0) = const$
 3. $E(\xi \mid \set{\emptyset, \Omega}) = E\xi$
 4. $E\xi = E(E(\xi \mid F_0))$
-5. $E(\alpha \xi + \beta \eta \mid F_0) = \alpha E(\xi \mid F_0) + \beta E(\eta \mid F_0)$
 
 # Theorem
 
