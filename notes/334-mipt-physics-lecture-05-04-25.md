@@ -19,6 +19,7 @@ tags: []
 $$
 E(x)\rvert_{z = 0} = \sum_{n\in\ZZ}{C_n e^{i u_n x}}
 $$
+
 $u_n = n u_0,\quad u_0 = \frac{2\pi}{d}$
  
 Пространственная частота:

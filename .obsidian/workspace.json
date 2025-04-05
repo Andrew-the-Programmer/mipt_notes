@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/628-mipt-physics-lecture-29-03-25.md",
+                "file": "notes/334-mipt-physics-lecture-05-04-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "628-mipt-physics-lecture-29-03-25"
+              "title": "334-mipt-physics-lecture-05-04-25"
             }
           }
         ]
@@ -193,16 +193,17 @@
   },
   "active": "79365aa3e212140e",
   "lastOpenFiles": [
+    "notes/334-mipt-physics-lecture-05-04-25.md~",
+    "notes/628-mipt-physics-lecture-29-03-25.md",
+    "courses/MIPT-physics-2025.md~",
     "notes/606-mipt-physics-lecture-22-03-25.md",
     "notes/334-mipt-physics-lecture-05-04-25.md",
     "notes/606-mipt-physics-lecture-22-03-25.md~",
-    "notes/334-mipt-physics-lecture-05-04-25.md~",
     "notes/4913",
     "sourses/physics/lectures_2025/Лекция_8.pdf",
     "sourses/physics/lectures_2025/Лекция_8.pdf.crdownload",
     "notes/369-mipt-harmonic-analysis-lecture-13-02-25.md",
     "notes/628-mipt-physics-lecture-29-03-25.md~",
-    "courses/MIPT-physics-2025.md~",
     "courses/MIPT-harmonic-analysis-2025.md~",
     "notes/676-mipt-harmonic-analysis-lecture-06-02-25.md",
     "notes/369-mipt-harmonic-analysis-lecture-13-02-25.md~",
@@ -236,8 +237,6 @@
     "notes/618-mipt-field-theory-lecture-02-04-25.md",
     "courses/MIPT-field-theory-2025.md",
     "courses/MIPT-harmonic-analysis-2025.md",
-    "notes/993-mipt-physics-seminar-01-04-25.md",
-    "notes/234-mipt-harmonic-analysis-seminar-25-03-25.md",
-    "notes/371-mipt-harmonic-analysis-seminar-11-03-25.md"
+    "notes/993-mipt-physics-seminar-01-04-25.md"
   ]
 }
