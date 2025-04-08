@@ -30,6 +30,8 @@ $
 
 $
 \Align{
+\Phi \in \tilde{C} \\
+\same \\
 \forall \varepsilon > 0 \exists b_0 \in [a,b) :
 \forall y \in [c,d) \forall b_1,b_2 \in [b_0,b) \hthen
 \abs{\int_{b_1}^{b_2}{f(x,y) \d x}} < \varepsilon
@@ -40,6 +42,24 @@ $
 $
 \Align{
 f(x,y) \in C \\
+\Cases{
+\Phi[c,d) \in \RR \\
+\Phi(d) \not\in \RR \\
+} \implies
+?
+}
+$
 
+# $\Phi \in C$
+
+$
+\Align{
+\Cases{
+
+}
+f(x,y) \in C,
+\Phi \in \tilde{C} \\
+\implies 
+\Phi(y) \in C
 }
 $
