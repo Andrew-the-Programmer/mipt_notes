@@ -91,7 +91,7 @@ f(x,y)\ инт.\ на\ [a,b_1] \times [c,d_1],\quad b_1 \in [a,b), d_1 \in [c,d)
 }
 $
 
-# Claim
+# Признак Вейерштрасса
 
 $
 \Align{
