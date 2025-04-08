@@ -6,6 +6,7 @@ tags: []
 ---
 
 # MIPT harmonic analysis seminar 08-04-25
+
 9104306649
 $
 \Align{
@@ -16,9 +17,29 @@ f: [a,b) \times [c,d) \to \RR \\
 $
 
 # Равномерная сходимость
+
 $
 \Align{
 \forall \varepsilon > 0 \exists b_1 \in [a,b) : 
-\froall y \in [c,d)
+\forall y \in [c,d) \forall b_2 > b_1 \hthen 
+\abs{\int_{b_2}^{b}{f(x,y) \d x}} < \varepsilon
+}
+$
+
+# Критерий Коши
+
+$
+\Align{
+\forall \varepsilon > 0 \exists b_0 \in [a,b) :
+\forall y \in [c,d) \forall b_1,b_2 \in [b_0,b) \hthen
+\abs{\int_{b_1}^{b_2}{f(x,y) \d x}} < \varepsilon
+}
+$
+
+# Следствие
+$
+\Align{
+f(x,y) \in C \\
+
 }
 $
