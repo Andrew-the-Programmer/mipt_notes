@@ -39,6 +39,7 @@ $
 $
 
 # Следствие
+
 $
 \Align{
 f(x,y) \in C \\
@@ -87,5 +88,35 @@ f(x,y)\ инт.\ на\ [a,b_1] \times [c,d_1],\quad b_1 \in [a,b), d_1 \in [c,d)
 }
 \implies \\
 \int_c^d{\d y \int_a^b{f(x,y) \d x}} = \int_a^b{\d x \int_c^d{f(x,y) \d y}}
+}
+$
+
+# Claim
+
+$
+\Align{
+0 \le \abs{f(x,y)} < g(x) \\
+\int_a^b{g(x)} \in \RR \\
+\implies \\
+\Phi(y)\ \textit{сх-ся абсолютно и равномерно}
+}
+$
+
+# Дирихле и Абель
+
+$\int_a^b{f(x,y) \d x}$
+
+Дирихле:
+$
+\Cases{
+f \rightrightarrows 0,\quad x \to b \\
+\int_a^b{g(x,y) \d x}\ \textit{равн. огр.}
+}
+$
+Абель:
+$
+\Cases{
+f \rightrightarrows 0,\quad x \to b \\
+\int_a^b{g(x,y) \d x}\ \textit{равн. огр.}
 }
 $
