@@ -107,29 +107,42 @@ $
 $\int_a^b{f(x,y) \d x}$
 
 # Дирихле:
+
 $
 \Cases{
+f\ \textit{монотонно убывает по}\ x \\
 f \rightrightarrows 0,\quad x \to b \\
 \int_a^b{g(x,y) \d x}\ \textit{равн. огр.}
 }
 $
+
 # Абель:
+
 $
 \Cases{
-f \rightrightarrows 0,\quad x \to b \\
+f\ \textit{монотонна по}\ x\ и\ \textit{равн. огр.} \\
 \int_a^b{g(x,y) \d x}\ \textit{сх-ся равн.}
 }
 $
 
 # Примеры
+
+Показать равномерную сходимость.
+
 $$
 \Gather{
 \Phi(x) \defeq \int_0^{+\infty}{x^\alpha y^{\alpha + \beta + 1} e^{-(1+x)y}\d y} \\
 F(y) \defeq \int_0^{+\infty}{x^\alpha y^{\alpha + \beta + 1} e^{-(1+x)y}\d x} \\
 }
 $$
+
+$\alpha,\beta > 0$
+
 $
 \Align{
-
+\Phi(x) \le C(y) \int_0^{+\infty}{y^{\beta + 1} e^{-y} \d y} \\
+\dots \\
+F(y) \le y^\beta e^{-y} \int_{by}^{+\infty}{t^\alpha e^{-t}\d t} \\
+\dots \\
 }
 $
