@@ -159,5 +159,9 @@ I_\alpha = \int_0^{\infty}{e^{-\beta x} \cos{\alpha x} \d x} =
 \frac{\beta}{\alpha^2 + \beta^2} \\
 I(\alpha, \beta) - I(0,\beta) = 
 \int_0^\alpha{\frac{\beta}{t^2 + \beta^2} \d t} =
-\arctan{\frac{\alpha}{\beta}}
+\arctan{\frac{\alpha}{\beta}} \\
+I(\alpha, \beta) \to sign(\alpha) \frac{\pi}{2},\quad
+\beta \to +0 \\
+I(\alpha,\beta) \in C_\beta \\
+I(\alpha, 0) = I(\alpha) =  
 }$
