@@ -10,5 +10,7 @@ tags: []
 [[334-mipt-physics-lecture-05-04-25|MIPT physics lecture 05-04-25]]
 
 # 9.35
+
 # 9.46
+
 # 9.52
