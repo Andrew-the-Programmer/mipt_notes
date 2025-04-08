@@ -117,6 +117,6 @@ $
 $
 \Cases{
 f \rightrightarrows 0,\quad x \to b \\
-\int_a^b{g(x,y) \d x}\ \textit{равн. огр.}
+\int_a^b{g(x,y) \d x}\ \textit{сх-ся равн.}
 }
 $
