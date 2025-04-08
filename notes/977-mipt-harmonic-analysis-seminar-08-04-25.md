@@ -148,12 +148,14 @@ F(y) \le y^\beta e^{-y} \int_{by}^{+\infty}{t^\alpha e^{-t}\d t} \\
 $
 
 # Интеграл Дирихле
+
 $$
-\int_0^{+\infty}{\frac{\sin{\alpha x}}{x} \d x}
+I(\alpha) \defeq \int_0^{+\infty}{\frac{\sin{\alpha x}}{x} \d x}
 $$
+
 $\Align{
 I(\alpha, \beta) \defeq \int_0^{\infty}{e^{-\beta x} \frac{\sin{\alpha x}}{x} \d x} \\
-I(\alpha, 0) = I \\
+I(\alpha, 0) = I(\alpha) \\
 I(0,\beta) = 0 \\
 I_\alpha = \int_0^{\infty}{e^{-\beta x} \cos{\alpha x} \d x} = 
 \frac{\beta}{\alpha^2 + \beta^2} \\
@@ -163,5 +165,21 @@ I(\alpha, \beta) - I(0,\beta) =
 I(\alpha, \beta) \to sign(\alpha) \frac{\pi}{2},\quad
 \beta \to +0 \\
 I(\alpha,\beta) \in C_\beta \\
-I(\alpha, 0) = I(\alpha) =  
+I(\alpha, 0) = I(\alpha) = \lim_{\beta \to +0}{I(\alpha, \beta)} 
+}$
+
+$$
+I(\alpha) = sign(\alpha) \frac{\pi}{2}
+$$
+
+# Пример 2. Интеграл Пуассона
+
+$$
+I \defeq \int_0^{+\infty}{e^{-x^2} \d x}
+$$
+
+$\Align{
+x = y t \\
+I(t) = \int_0^{+\infty}{e^{-y^2 t^2} t \d y} \\
+I(t) e^{-t^2} = \int_0^{+\infty}{e^{-(y^2 + 1) t^2} t \d y} \\
 }$
