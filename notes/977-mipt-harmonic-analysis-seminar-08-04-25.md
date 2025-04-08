@@ -152,5 +152,12 @@ $$
 \int_0^{+\infty}{\frac{\sin{\alpha x}}{x} \d x}
 $$
 $\Align{
-I(\alpha, \beta) = \int_0^{\infty}{e^{-\beta x}}
+I(\alpha, \beta) \defeq \int_0^{\infty}{e^{-\beta x} \frac{\sin{\alpha x}}{x} \d x} \\
+I(\alpha, 0) = I \\
+I(0,\beta) = 0 \\
+I_\alpha = \int_0^{\infty}{e^{-\beta x} \cos{\alpha x} \d x} = 
+\frac{\beta}{\alpha^2 + \beta^2} \\
+I(\alpha, \beta) - I(0,\beta) = 
+\int_0^\alpha{\frac{\beta}{t^2 + \beta^2} \d t} =
+\arctan{\frac{\alpha}{\beta}}
 }$
