@@ -180,6 +180,9 @@ $$
 
 $\Align{
 x = y t \\
-I(t) = \int_0^{+\infty}{e^{-y^2 t^2} t \d y} \\
-I(t) e^{-t^2} = \int_0^{+\infty}{e^{-(y^2 + 1) t^2} t \d y} \\
+I = \int_0^{+\infty}{e^{-y^2 t^2} t \d y} \\
+I e^{-t^2} = \int_0^{+\infty}{e^{-(y^2 + 1) t^2} t \d y} \\
+I \int_0^{\infty}{e^{-t^2} \d t} = 
+\int_0^{\infty}{\d t \int_0^{\infty}{e^{-(y^2 + 1) t^2} t \d y}} = \\
+\int_0^{\infty}{\d t \int_0^{\infty}{e^{-(y^2 + 1) t^2} t \d y}} =
 }$
