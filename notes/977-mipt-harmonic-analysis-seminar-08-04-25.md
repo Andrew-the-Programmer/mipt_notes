@@ -146,3 +146,11 @@ F(y) \le y^\beta e^{-y} \int_{by}^{+\infty}{t^\alpha e^{-t}\d t} \\
 \dots \\
 }
 $
+
+# Интеграл Дирихле
+$$
+\int_0^{+\infty}{\frac{\sin{\alpha x}}{x} \d x}
+$$
+$\Align{
+I(\alpha, \beta) = \int_0^{\infty}{e^{-\beta x}}
+}$
