@@ -55,11 +55,37 @@ $
 $
 \Align{
 \Cases{
-
-}
-f(x,y) \in C,
+f(x,y) \in C \\
 \Phi \in \tilde{C} \\
+}
 \implies 
 \Phi(y) \in C
+}
+$
+
+# $\Phi \in D_y$
+
+$
+\Align{
+\Cases{
+f(x,y) \in D_y \\
+\int_a^b{f_y(x,y) \d x} \in \tilde{C}
+}
+\implies 
+\Phi(y) \in D_y, \\
+\Phi_y = \int_a^b{f_y \d x} \\
+}
+$
+
+# $\Phi \in R$
+
+$
+\Align{
+\Cases{
+f(x,y)\ инт.\ на\ [a,b_1] \times [c,d_1],\quad b_1 \in [a,b), d_1 \in [c,d) \\
+\int_a^b{f(x,y) \d x} \in \tilde{C}
+}
+\implies \\
+\int_c^d{\d y \int_a^b{f(x,y) \d x}} = \int_a^b{\d x \int_c^d{f(x,y) \d y}}
 }
 $
