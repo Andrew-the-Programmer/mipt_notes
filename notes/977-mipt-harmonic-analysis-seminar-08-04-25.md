@@ -10,6 +10,15 @@ tags: []
 $
 \Align{
 \Phi(y) = \int_a^b{f(x,y) \d x} \\
-f: [a,b) \times [c,d) \to \RR
+f: [a,b) \times [c,d) \to \RR \\
+\forall b_1 < b,\forall y \in [c,d) \hthen \int_a^{b_1}{f(x,y) \d x} \in \RR \\
+}
+$
+
+# Равномерная сходимость
+$
+\Align{
+\forall \varepsilon > 0 \exists b_1 \in [a,b) : 
+\froall y \in [c,d)
 }
 $
