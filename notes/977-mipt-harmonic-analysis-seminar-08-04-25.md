@@ -106,17 +106,30 @@ $
 
 $\int_a^b{f(x,y) \d x}$
 
-Дирихле:
+# Дирихле:
 $
 \Cases{
 f \rightrightarrows 0,\quad x \to b \\
 \int_a^b{g(x,y) \d x}\ \textit{равн. огр.}
 }
 $
-Абель:
+# Абель:
 $
 \Cases{
 f \rightrightarrows 0,\quad x \to b \\
 \int_a^b{g(x,y) \d x}\ \textit{сх-ся равн.}
+}
+$
+
+# Примеры
+$$
+\Gather{
+\Phi(x) \defeq \int_0^{+\infty}{x^\alpha y^{\alpha + \beta + 1} e^{-(1+x)y}\d y} \\
+F(y) \defeq \int_0^{+\infty}{x^\alpha y^{\alpha + \beta + 1} e^{-(1+x)y}\d x} \\
+}
+$$
+$
+\Align{
+
 }
 $
