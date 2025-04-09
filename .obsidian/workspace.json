@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/334-mipt-physics-lecture-05-04-25.md",
+                "file": "notes/962-mipt-field-theory-lecture-09-04-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "334-mipt-physics-lecture-05-04-25"
+              "title": "962-mipt-field-theory-lecture-09-04-25"
             }
           }
         ]
@@ -193,6 +193,8 @@
   },
   "active": "79365aa3e212140e",
   "lastOpenFiles": [
+    "notes/962-mipt-field-theory-lecture-09-04-25.md~",
+    "notes/4913",
     "sourses/chinese/lesson_15.pdf",
     "sourses/chinese/专用汉语_2_15.pdf",
     "notes/316-mipt-physics-seminar-08-04-25.md~",
@@ -202,13 +204,11 @@
     "notes/993-mipt-physics-seminar-01-04-25.md~",
     "notes/977-mipt-harmonic-analysis-seminar-08-04-25.md",
     "notes/977-mipt-harmonic-analysis-seminar-08-04-25.md~",
-    "notes/4913",
     "notes/380-mipt-harmonic-analysis-lecture-03-04-25.md",
     "courses/MIPT-harmonic-analysis-2025.md",
     "preamble.sty~",
     "notes/334-mipt-physics-lecture-05-04-25.md",
     "courses/MIPT-harmonic-analysis-2025.md~",
-    "notes/234-mipt-harmonic-analysis-seminar-25-03-25.md~",
     "notes/628-mipt-physics-lecture-29-03-25.md",
     "notes/606-mipt-physics-lecture-22-03-25.md",
     "notes/369-mipt-harmonic-analysis-lecture-13-02-25.md",
