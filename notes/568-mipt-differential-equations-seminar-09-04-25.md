@@ -28,7 +28,7 @@ $\Align{
 \dot{x} = y \\
 \dot{y} = -x
 } \\
-(x_0, y_0) = (0,0) \\
+(x_0, y_0) = (0,0) - ПР \\
 \lambda_{1,2} = \pm i \\
 \textit{Центр, по часовой.} \\
 \frac{\d x}{y} = - \frac{\d y}{x} \\
@@ -40,4 +40,8 @@ u = x^2 + y^2 - ПИ \\
 x = \rho \cos\varphi \\
 y = \rho\sin\varphi
 } \\
+\Cases{
+\dot{\rho} = a \rho (\rho^2 - 2) \\
+\dot{\varphi} = -1
+}
 }$
