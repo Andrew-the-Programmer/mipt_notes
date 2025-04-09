@@ -96,7 +96,17 @@ $\Align{
 u - \textit{ПИ} \same \veccross{\grad u}{f} = 0 \\
 y = g(x) \\
 G_{ij} \defeq \group{\pdv{x_j}{g_i}} \\
-\dot{y} = G f \\
+\dot{y} = G f = F \\
 \grad_x u(x) = G^T \grad_y u(y) \\
-0 = \dot{u} = \veccross{\grad_x u}{f}
+0 = \dot{u} = \veccross{\grad_x u}{f} = \veccross{G^T \grad_y u}{G\inv F} =
+\veccross{\grad_y u}{F} \\
+\blacksquare
 }$
+
+# Claim.
+
+Градиенты функционально зависимых ф-ий линейно зависимы во всех точках.
+
+$$
+\sum{\alpha_k(x) \grad u_k(x)} = 0
+$$
