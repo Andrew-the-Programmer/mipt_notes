@@ -41,7 +41,10 @@ i & 0
 
 Движение в электрическом поле.
 $$
-u = \Pmatrix{
+\Pmatrix{
+u^0 \\
+u^1
+} = \Pmatrix{
 \sqrt{1 + (\alpha c t)^2} \\
 \alpha c t
 },\quad \alpha = \frac{eE}{mc^2}
