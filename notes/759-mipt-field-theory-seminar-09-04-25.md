@@ -30,5 +30,11 @@ u(s) = e^{As} u(0) \\
 \dot{u} = \groupr{\cos\group{\frac{eB}{mc^2}s} + \Pmatrix{
 0 & -i \\
 i & 0
-} i \sin\group{\frac{eB}{mc^2}s}} u
+} i \sin\group{\frac{eB}{mc^2}s}} u \\
+\dot{u} = \Pmatrix{
+\cos\group{\alpha t} & \sin\group{\alpha t} \\
+-\sin\group{\alpha t} & \cos\group{\alpha t}
+}
 }$
+
+Ларноровская частота: $\frac{eB}{mc}$
