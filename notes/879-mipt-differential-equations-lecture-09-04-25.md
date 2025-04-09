@@ -110,3 +110,14 @@ G_{ij} \defeq \group{\pdv{x_j}{g_i}} \\
 $$
 \sum{\alpha_k(x) \grad u_k(x)} = 0
 $$
+
+## Proof
+$\Align{
+u_j = W(u_1, \dots, u_{j-1}, u_{j+1}, \dots, u_m) \\
+(\grad u_j)_i = \sum_{k\neq j}{\pdv{u_k}{W} \pdv{x_i}{u_k}} \\
+\grad u_j = \sum_{k \neq j}{\pdv{u_k}{W} \grad u_k}
+}$
+
+# Claim 2.
+
+# Пример 2
