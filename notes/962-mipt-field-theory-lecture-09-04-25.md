@@ -186,5 +186,15 @@ $$
 
 # Преобразования Лоренца для ЭМ полей
 $\Align{
-({F}^{'})^{\mu\nu}
-}$
+({F}^{'})^{\mu\nu} = \Lambda_\rho^\mu \Lambda_\sigma^\nu F^{\rho\sigma} \\
+\textit{Муторные вычисления, которых на лекции не было}\dots \\
+\implies
+}$ 
+$$
+\Align{
+E^{'}_{\parallel} = E_{\parallel} \\
+E^{'}_{\perp} = \gamma \group{E_{\perp} + \frac{1}{c} \vecprod{v}{B}} \\
+B^{'}_{\parallel} = B_{\parallel} \\
+B^{'}_{\perp} = \gamma \group{B_{\perp} - \frac{1}{c} \vecprod{v}{B}} \\
+}
+$$
