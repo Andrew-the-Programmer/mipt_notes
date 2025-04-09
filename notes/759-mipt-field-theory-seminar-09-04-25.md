@@ -26,5 +26,9 @@ u_1 \\
 u_2
 } \\
 \dv{s}{u} = A u \\
-u(s) = e^{As} u(0)
+u(s) = e^{As} u(0) \\
+\dot{u} = \groupr{\cos\group{\frac{eB}{mc^2}s} + \Pmatrix{
+0 & -i \\
+i & 0
+} i \sin\group{\frac{eB}{mc^2}s}} u
 }$
