@@ -93,5 +93,10 @@ $\Align{
 
 ## Proof
 $\Align{
-U - \textit{ПИ} \same \veccross{\grad U}{f} = 0 
+u - \textit{ПИ} \same \veccross{\grad u}{f} = 0 \\
+y = g(x) \\
+G_{ij} \defeq \group{\pdv{x_j}{g_i}} \\
+\dot{y} = G f \\
+\grad_x u(x) = G^T \grad_y u(y) \\
+0 = \dot{u} = \veccross{\grad_x u}{f}
 }$
