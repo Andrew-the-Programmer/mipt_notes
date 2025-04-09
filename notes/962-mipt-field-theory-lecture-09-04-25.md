@@ -65,11 +65,11 @@ $
 \grad \group{\frac{1}{c} \pdv{t}{\varphi} + \divv A} = 
 \frac{4\pi}{c} j \\
 \Cases{
-\frac{1}{c^2} \pdv[2]{t}{\varphi} - \Laplace \varphi -\frac{1}{c} 
-\pdv{t}{} & \group{\frac{1}{c} \pdv{t}{\varphi} + \divv A} = 
+\frac{1}{c^2} \pdv[2]{t}{\varphi} - \Laplace \varphi - &
+\frac{1}{c} \pdv{t}{} &\group{\frac{1}{c} \pdv{t}{\varphi} + \divv A} = 
 4\pi (\rho c) \\
-\frac{1}{c^2} \pdv[2]{t}{A} - \Laplace A - 
-\ \grad &\group{\frac{1}{c} \pdv{t}{\varphi} + \divv A} = 
+\frac{1}{c^2} \pdv[2]{t}{A} - \Laplace A - &
+\grad &\group{\frac{1}{c} \pdv{t}{\varphi} + \divv A} = 
 \frac{4\pi}{c} j \\
 } \\
 }
@@ -86,3 +86,18 @@ pc \\
 \DAlambert = \frac{1}{c^2} \pdv[2]{t}{} - \Laplace
 }
 $
+
+# 4-потенциал.
+$$
+A^\mu \defeq \Pmatrix{
+\varphi \\
+\vec{A}
+}
+$$
+$\partial_\mu A^\mu = \frac{1}{c} \pdv{t}{\varphi} + \divv A$
+
+# Ур-ия Максвелла для 4-потенциала.
+(ковариантная форма)
+$$
+
+$$
