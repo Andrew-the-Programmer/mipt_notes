@@ -147,3 +147,29 @@ $$
 $$
 ({A}^{'})^{\mu} = A^\mu + \partial^\mu f
 $$
+
+# 1-ая пара ур-ий Максвелла в ковариантной форме и дуальный тензор.
+$
+\Align{
+\Cases{
+\divv E = 4\pi \rho \\
+\rot B = \frac{4\pi}{c} j + \frac{1}{c} \pdv{t}{E} \\
+} \to 
+\left\{
+\Array{l}{
+\rho = j = 0 \\
+E = B \\
+B = -E
+}
+\right\} \to \\
+\Cases{
+\divv B = 0 \\
+\rot E = -\frac{1}{c} \pdv{t}{B}
+}
+}
+$ 
+
+# Дуальный тензор $F^{\mu\nu}$
+ $$
+\tilde{F}_{\mu\nu} = \frac{1}{2!} e_{\mu\nu\rho\sigma} F^{\rho\sigma}
+$$
