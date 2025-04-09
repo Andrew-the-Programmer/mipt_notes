@@ -74,5 +74,6 @@ $\Align{
 \dot{y} = -\sin x
 } \\
 (x_0, y_0) = (\pi k,0) - ПР \\
-\frac{\d x}{y} = -\frac{\d y}{\sin x}
+\frac{\d x}{y} = -\frac{\d y}{\sin x} \\
+u = 2 \cos x - y^2 = C - ПИ \\
 }$
