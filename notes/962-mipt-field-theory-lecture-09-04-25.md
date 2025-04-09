@@ -59,18 +59,30 @@ $
 -\Laplace \varphi - \frac{1}{c} \pdv{t}{} \divv A = 4\pi\rho \implies \\
 \frac{1}{c^2} \pdv[2]{t}{\varphi} - \Laplace \varphi -\frac{1}{c} 
 \pdv{t}{} \group{\frac{1}{c} \pdv{t}{\varphi} + \divv A} = 
-4\pi\rho c \implies \\
+4\pi\rho c \\
 \rot B = \frac{4\pi}{c} j + \frac{1}{c} \pdv{t}{E} \implies \\
 \frac{1}{c^2} \pdv[2]{t}{A} - \Laplace A - \frac{1}{c} 
 \grad \group{\frac{1}{c} \pdv{t}{\varphi} + \divv A} = 
 \frac{4\pi}{c} j \\
 \Cases{
 \frac{1}{c^2} \pdv[2]{t}{\varphi} - \Laplace \varphi -\frac{1}{c} 
-\pdv{t}{} \group{\frac{1}{c} \pdv{t}{\varphi} + \divv A} = 
-4\pi (\rho c) \implies \\
-\frac{1}{c^2} \pdv[2]{t}{A} - \Laplace A - \frac{1}{c} 
-\grad \group{\frac{1}{c} \pdv{t}{\varphi} + \divv A} = 
+\pdv{t}{} & \group{\frac{1}{c} \pdv{t}{\varphi} + \divv A} = 
+4\pi (\rho c) \\
+\frac{1}{c^2} \pdv[2]{t}{A} - \Laplace A - 
+\ \grad &\group{\frac{1}{c} \pdv{t}{\varphi} + \divv A} = 
 \frac{4\pi}{c} j \\
+} \\
 }
+$
+
+[[868-оператор-Д'Аламбера|оператор Д'Аламбера]]
+
+$
+\Align{
+j^\mu = \Pmatrix{
+pc \\
+\vec{j}
+} \\
+\DAlambert = \frac{1}{c^2} \pdv[2]{t}{} - \Laplace
 }
 $
