@@ -175,6 +175,7 @@ $
 $$
 \tilde{F}_{\mu\nu} = \frac{1}{2!} e_{\mu\nu\rho\sigma} F^{\rho\sigma}
 $$
+
 $$
 \tilde{F}^{\mu\nu} = \eta^{\mu\rho} \eta^{\nu\sigma} \tilde{F}_{\rho\sigma} = \Pmatrix{
 0 & -B_1 & -B_2 & -B_3 \\
@@ -185,11 +186,13 @@ B_3 & E_2 & -E_1 & 0
 $$
 
 # Преобразования Лоренца для ЭМ полей
+
 $\Align{
 ({F}^{'})^{\mu\nu} = \Lambda_\rho^\mu \Lambda_\sigma^\nu F^{\rho\sigma} \\
 \textit{Муторные вычисления, которых на лекции не было}\dots \\
 \implies
-}$ 
+}$
+
 $$
 \Align{
 E^{'}_{\parallel} = E_{\parallel} \\
@@ -198,3 +201,22 @@ B^{'}_{\parallel} = B_{\parallel} \\
 B^{'}_{\perp} = \gamma \group{B_{\perp} - \frac{1}{c} \vecprod{v}{B}} \\
 }
 $$
+
+# Инварианты ЭМ поля
+
+Линейная комбинация инвариантов: $F^{\mu\nu}, A^\mu, \tilde{F}^{\mu\nu}$.
+
+1. $$
+   F^{\mu\nu} F_{\mu\nu} = 2 (B^2 - E^2)
+   $$
+2. $$
+   \tilde{F}^{\mu\nu} F_{\mu\nu} = 4 \veccross{E}{B}
+   $$
+
+3. $$
+   A_\mu A^\mu = \varphi^2 - A^2
+   $$
+
+Обычно, когда говорят об инвариантах эм поля, имеют в виду (1) и (2), которые также являются инвариантами отн. калибровки.
+
+# Пример 1
