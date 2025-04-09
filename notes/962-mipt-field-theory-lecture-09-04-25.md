@@ -233,4 +233,9 @@ B = B_\perp + B_\parallel =
 {B}^{'} = 0 \\
 E = {{E}^{'}}_{\parallel} + \gamma {{E}^{'}}_{\perp} \\
 B = \frac{\gamma}{c} \vecprod{v}{{E}^{'}} = \frac{1}{c} \vecprod{v}{E} \\
+E = \frac{e \gamma}{(\gamma^2(x - vt)^2 + y^2 + z^2)^{3 / 2}} \Pmatrix{
+x - v t \\
+y \\
+z
+} = e \frac{\vec{x}}{\abs{x}^3} \frac{1}{\gamma^2 \group{1 - \frac{v^2}{c^2} \sin^2{\theta}}}
 }$
