@@ -144,11 +144,12 @@ E_3 & -B_2 & B_1 & 0
 $$
 
 4. Калибровачная инвариантность.
-$$
-({A}^{'})^{\mu} = A^\mu + \partial^\mu f
-$$
+   $$
+   ({A}^{'})^{\mu} = A^\mu + \partial^\mu f
+   $$
 
 # 1-ая пара ур-ий Максвелла в ковариантной форме и дуальный тензор.
+
 $
 \Align{
 \Cases{
@@ -161,15 +162,29 @@ $
 E = B \\
 B = -E
 }
-\right\} \to \\
+\right\} \to 
 \Cases{
 \divv B = 0 \\
 \rot E = -\frac{1}{c} \pdv{t}{B}
 }
 }
-$ 
+$
 
 # Дуальный тензор $F^{\mu\nu}$
- $$
+
+$$
 \tilde{F}_{\mu\nu} = \frac{1}{2!} e_{\mu\nu\rho\sigma} F^{\rho\sigma}
 $$
+$$
+\tilde{F}^{\mu\nu} = \eta^{\mu\rho} \eta^{\nu\sigma} \tilde{F}_{\rho\sigma} = \Pmatrix{
+0 & -B_1 & -B_2 & -B_3 \\
+B_1 & 0 & E_3 & -E_2 \\
+B_2 & -E_3 & 0 & E_1 \\
+B_3 & E_2 & -E_1 & 0
+}
+$$
+
+# Преобразования Лоренца для ЭМ полей
+$\Align{
+({F}^{'})^{\mu\nu}
+}$
