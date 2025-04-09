@@ -199,7 +199,7 @@ $$
 E^{'}_{\parallel} = E_{\parallel} \\
 E^{'}_{\perp} = \gamma \group{E_{\perp} + \frac{1}{c} \vecprod{v}{B}} \\
 B^{'}_{\parallel} = B_{\parallel} \\
-B^{'}_{\perp} = \gamma \group{B_{\perp} - \frac{1}{c} \vecprod{v}{B}} \\
+B^{'}_{\perp} = \gamma \group{B_{\perp} - \frac{1}{c} \vecprod{v}{E}} \\
 }
 $$
 
@@ -226,5 +226,11 @@ $\Align{
 {K}^{'}: \\
 {E}^{'} = e \frac{\vec{{x}^{'}}}{\abs{{x}^{'}}^3} \\
 K:
-E = E_\perp + E_\parallel = {{E}^{'}}_{\parallel} + \gamma \group{}
+E = E_\perp + E_\parallel = 
+{{E}^{'}}_{\parallel} + \gamma \group{{{E}^{'}}_{\perp} - \frac{1}{c} \vecprod{v}{{B}^{'}}} \\
+B = B_\perp + B_\parallel =
+{{B}^{'}}_{\parallel} + \gamma \group{{{B}^{'}}_{\perp} + \frac{1}{c} \vecprod{v}{{E}^{'}}} \\
+{B}^{'} = 0 \\
+E = {{E}^{'}}_{\parallel} + \gamma {{E}^{'}}_{\perp} \\
+B = \frac{\gamma}{c} \vecprod{v}{{E}^{'}} = \frac{1}{c} \vecprod{v}{E} \\
 }$
