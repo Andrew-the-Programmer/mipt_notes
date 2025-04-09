@@ -10,6 +10,7 @@ tags: []
 $$
 mc \dv{s}{u^\mu} = \frac{e}{c} F^{\mu\nu} u_\nu
 $$
+
 Движение в магнитном поле
 
 $\Align{
@@ -40,6 +41,7 @@ i & 0
 Ларноровская частота: $\frac{eB}{mc}$
 
 Движение в электрическом поле.
+
 $$
 \Pmatrix{
 u^0 \\
@@ -49,6 +51,7 @@ u^1
 \alpha c t
 },\quad \alpha = \frac{eE}{mc^2}
 $$
+
 $$
 x^1(t) = \frac{1}{\alpha} \group{\sqrt{1 + (\alpha c t)^2} - 1} \\
 $$
