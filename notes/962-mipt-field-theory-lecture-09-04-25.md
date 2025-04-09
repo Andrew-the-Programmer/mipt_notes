@@ -65,10 +65,10 @@ $
 \grad \group{\frac{1}{c} \pdv{t}{\varphi} + \divv A} = 
 \frac{4\pi}{c} j \\
 \Cases{
-\frac{1}{c^2} \pdv[2]{t}{\varphi} - \Laplace \varphi - &
+\frac{1}{c^2} \pdv[2]{t}{\varphi} - \Laplace \varphi -
 \frac{1}{c} \pdv{t}{} &\group{\frac{1}{c} \pdv{t}{\varphi} + \divv A} = 
 4\pi (\rho c) \\
-\frac{1}{c^2} \pdv[2]{t}{A} - \Laplace A - &
+\frac{1}{c^2} \pdv[2]{t}{A} - \Laplace A +
 \grad &\group{\frac{1}{c} \pdv{t}{\varphi} + \divv A} = 
 \frac{4\pi}{c} j \\
 } \\
@@ -99,5 +99,18 @@ $\partial_\mu A^\mu = \frac{1}{c} \pdv{t}{\varphi} + \divv A$
 # Ур-ия Максвелла для 4-потенциала.
 (ковариантная форма)
 $$
-
+\DAlambert A^\nu - \partial^\nu (\partial_\mu A^\mu) = \frac{4\pi}{c} j^\nu
 $$
+$$
+\partial_\mu \group{\partial^\mu A^\nu - \partial^\nu A^\mu} =\frac{4\pi}{c} j^\nu
+$$
+
+# Тензор электромагнитного поля.
+$$
+F^{\mu\nu} \defeq \partial^\mu A^\nu - \partial^\nu A^\mu
+$$
+$$
+\partial_\mu F^{\mu\nu} = \frac{4\pi}{c} j^\nu
+$$
+
+# Свойства
