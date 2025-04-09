@@ -11,24 +11,12 @@
             "id": "79365aa3e212140e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "notes/568-mipt-differential-equations-seminar-09-04-25.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "sourses/physics/lectures_2025/Лекция_4a.pdf"
               },
-              "icon": "lucide-file",
-              "title": "568-mipt-differential-equations-seminar-09-04-25"
+              "icon": "lucide-file-text",
+              "title": "Лекция_4a"
             }
           }
         ]
@@ -193,6 +181,9 @@
   },
   "active": "79365aa3e212140e",
   "lastOpenFiles": [
+    "notes/539-mipt-physics-lecture-01-03-25.md",
+    "courses/MIPT-physics-2025.md",
+    "notes/334-mipt-physics-lecture-05-04-25.md",
     "notes/568-mipt-differential-equations-seminar-09-04-25.md~",
     "assets/imgs/09-04-25_23-30-24_338.png",
     "assets/imgs/09-04-25_16-52-23_529_09-04-25_16-52-23_916.png",
@@ -225,7 +216,6 @@
     "notes/977-mipt-harmonic-analysis-seminar-08-04-25.md",
     "notes/380-mipt-harmonic-analysis-lecture-03-04-25.md",
     "courses/MIPT-harmonic-analysis-2025.md",
-    "notes/334-mipt-physics-lecture-05-04-25.md",
     "notes/628-mipt-physics-lecture-29-03-25.md",
     "notes/606-mipt-physics-lecture-22-03-25.md",
     "notes/369-mipt-harmonic-analysis-lecture-13-02-25.md",
@@ -236,7 +226,6 @@
     "notes/987-mipt-probability-theory-lecture-04-04-25.md",
     "notes/930-mipt-probability-theory-lecture-28-03-25.md",
     "notes/146-mipt-computational-complexity-theory-lecture-04-04-25.md",
-    "notes/287-mipt-computational-complexity-theory-lecture-28-03-25.md",
-    "notes/578-mipt-differential-equations-lecture-02-04-25.md"
+    "notes/287-mipt-computational-complexity-theory-lecture-28-03-25.md"
   ]
 }
