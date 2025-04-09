@@ -53,6 +53,7 @@ $$
 $$
 
 # Ур-ия Максвелла для потенциалов.
+
 $
 \Align{
 \divv E = 4\pi \rho \implies \\
@@ -88,29 +89,58 @@ pc \\
 $
 
 # 4-потенциал.
+
 $$
 A^\mu \defeq \Pmatrix{
 \varphi \\
 \vec{A}
 }
 $$
+
 $\partial_\mu A^\mu = \frac{1}{c} \pdv{t}{\varphi} + \divv A$
 
 # Ур-ия Максвелла для 4-потенциала.
+
 (ковариантная форма)
+
 $$
 \DAlambert A^\nu - \partial^\nu (\partial_\mu A^\mu) = \frac{4\pi}{c} j^\nu
 $$
+
 $$
 \partial_\mu \group{\partial^\mu A^\nu - \partial^\nu A^\mu} =\frac{4\pi}{c} j^\nu
 $$
 
 # Тензор электромагнитного поля.
+
 $$
 F^{\mu\nu} \defeq \partial^\mu A^\nu - \partial^\nu A^\mu
 $$
+
 $$
 \partial_\mu F^{\mu\nu} = \frac{4\pi}{c} j^\nu
 $$
 
-# Свойства
+# Свойства $F^{\mu\nu}$
+
+1.  $$
+    F^{\mu\nu} = -F^{\nu\mu}
+    $$
+2.  6 независимых компонент.
+3.  $$
+    \Gather{
+    F^{0i} = -E_i \\
+    F^{ij} = - e^{ijk} B^k
+    }
+    $$
+
+$$
+F^{\mu\nu} = \Pmatrix{
+0 & -E_1 & -E_2 & -E_3 \\
+E_1 & 0 & -B_3 & B_2 \\
+E_2 & B_3 & 0 & -B_1 \\
+E_3 & -B_2 & B_1 & 0
+}
+$$
+
+4. Калибровачная инвариантность
