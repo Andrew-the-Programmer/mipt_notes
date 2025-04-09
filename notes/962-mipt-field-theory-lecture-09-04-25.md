@@ -7,6 +7,8 @@ tags: []
 
 # MIPT field theory lecture 09-04-25
 
+Конспект получился хороший, поэтому фотографии в одном месте.
+
 # Электромагнитное поле как механическая система со связями.
 
 $$
@@ -225,7 +227,7 @@ $$
 $\Align{
 {K}^{'}: \\
 {E}^{'} = e \frac{\vec{{x}^{'}}}{\abs{{x}^{'}}^3} \\
-K:
+K: \\
 E = E_\perp + E_\parallel = 
 {{E}^{'}}_{\parallel} + \gamma \group{{{E}^{'}}_{\perp} - \frac{1}{c} \vecprod{v}{{B}^{'}}} \\
 B = B_\perp + B_\parallel =
@@ -237,5 +239,8 @@ E = \frac{e \gamma}{(\gamma^2(x - vt)^2 + y^2 + z^2)^{3 / 2}} \Pmatrix{
 x - v t \\
 y \\
 z
-} = e \frac{\vec{x}}{\abs{x}^3} \frac{1}{\gamma^2 \group{1 - \frac{v^2}{c^2} \sin^2{\theta}}}
+} = 
+\frac{\vec{x}}{\abs{x}^3} \frac{e}{\gamma^2 \group{1 - \frac{v^2}{c^2} \sin^2{\theta}}^{3 / 2}}
 }$
+
+Силовые линиии как-бы сгущаются.
