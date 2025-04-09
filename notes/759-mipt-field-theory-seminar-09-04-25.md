@@ -15,4 +15,16 @@ $$
 $\Align{
 B = (0 0 B) \\
 E = const \\
+\dv{s}{}\Pmatrix{
+u_1 \\
+u_2
+} = \frac{eB}{mc^2} \Pmatrix{
+0 & -1 \\
+1 & 0
+} \Pmatrix{
+u_1 \\
+u_2
+} \\
+\dv{s}{u} = A u \\
+u(s) = e^{As} u(0)
 }$
