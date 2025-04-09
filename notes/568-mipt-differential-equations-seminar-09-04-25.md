@@ -55,5 +55,13 @@ y = \rho\sin\varphi
 $\Align{
 \grad u_1 = \frac{1}{(z+x)^2} \Pmatrix{
 z-y \\
-}
+z + x \\
+-x - y
+} \\
+\grad u_2 = \frac{1}{(x+y)^2} \Pmatrix{
+-z+y \\
+-x-z \\
+x+y
+} \\
+\textit{В каждой точке линейно зависимы.} \\
 }$
