@@ -65,3 +65,14 @@ x+y
 } \\
 \textit{В каждой точке линейно зависимы.} \\
 }$
+
+# T2.a
+
+$\Align{
+\Cases{
+\dot{x} = y \\
+\dot{y} = -\sin x
+} \\
+(x_0, y_0) = (\pi k,0) - ПР \\
+\frac{\d x}{y} = -\frac{\d y}{\sin x}
+}$
