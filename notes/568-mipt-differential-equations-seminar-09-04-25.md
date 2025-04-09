@@ -42,6 +42,9 @@ y = \rho\sin\varphi
 } \\
 \Cases{
 \dot{\rho} = a \rho (\rho^2 - 2) \\
-\dot{\varphi} = -1
+\dot{\varphi} = -1 \\
 }
+\textit{Фокусы.}
 }$
+![09-04-25_16-18-59_715_IMG_20250409_161835.jpg](assets/imgs/09-04-25_16-18-59_715_IMG_20250409_161835.jpg)
+
