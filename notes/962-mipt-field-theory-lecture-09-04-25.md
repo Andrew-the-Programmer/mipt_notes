@@ -55,7 +55,22 @@ $$
 # Ур-ия Максвелла для потенциалов.
 $
 \Align{
-\divv E = 4\pi \rho \implies 
--\DAlamber
+\divv E = 4\pi \rho \implies \\
+-\Laplace \varphi - \frac{1}{c} \pdv{t}{} \divv A = 4\pi\rho \implies \\
+\frac{1}{c^2} \pdv[2]{t}{\varphi} - \Laplace \varphi -\frac{1}{c} 
+\pdv{t}{} \group{\frac{1}{c} \pdv{t}{\varphi} + \divv A} = 
+4\pi\rho c \implies \\
+\rot B = \frac{4\pi}{c} j + \frac{1}{c} \pdv{t}{E} \implies \\
+\frac{1}{c^2} \pdv[2]{t}{A} - \Laplace A - \frac{1}{c} 
+\grad \group{\frac{1}{c} \pdv{t}{\varphi} + \divv A} = 
+\frac{4\pi}{c} j \\
+\Cases{
+\frac{1}{c^2} \pdv[2]{t}{\varphi} - \Laplace \varphi -\frac{1}{c} 
+\pdv{t}{} \group{\frac{1}{c} \pdv{t}{\varphi} + \divv A} = 
+4\pi (\rho c) \implies \\
+\frac{1}{c^2} \pdv[2]{t}{A} - \Laplace A - \frac{1}{c} 
+\grad \group{\frac{1}{c} \pdv{t}{\varphi} + \divv A} = 
+\frac{4\pi}{c} j \\
+}
 }
 $
