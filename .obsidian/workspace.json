@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/380-mipt-harmonic-analysis-lecture-03-04-25.md",
+                "file": "notes/583-mipt-harmonic-analysis-lecture-10-04-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "380-mipt-harmonic-analysis-lecture-03-04-25"
+              "title": "583-mipt-harmonic-analysis-lecture-10-04-25"
             }
           }
         ]
@@ -193,11 +193,14 @@
   },
   "active": "79365aa3e212140e",
   "lastOpenFiles": [
+    "notes/583-mipt-harmonic-analysis-lecture-10-04-25.md~",
+    "assets/imgs/10-04-25_19-30-25_683.png",
+    "assets/imgs/10-04-25_19-30-19_522.png",
+    "notes/4913",
+    "notes/380-mipt-harmonic-analysis-lecture-03-04-25.md",
     "courses/MIPT-harmonic-analysis-2025.md",
     "notes/583-mipt-harmonic-analysis-lecture-10-04-25.md",
-    "notes/583-mipt-harmonic-analysis-lecture-10-04-25.md~",
     "assets/imgs/10-04-25_19-19-47_342.png",
-    "notes/380-mipt-harmonic-analysis-lecture-03-04-25.md",
     "courses/MIPT-harmonic-analysis-2025.md~",
     "notes/380-mipt-harmonic-analysis-lecture-03-04-25.md~",
     "notes/871-mipt-chinese-lesson-15.md",
@@ -216,13 +219,10 @@
     "assets/imgs/09-04-25_16-52-05_320_09-04-25_16-52-05_639.png",
     "notes/1729012183-ду-Бернулли.md",
     "notes/568-mipt-differential-equations-seminar-09-04-25.md",
-    "notes/1729012183-ду-Бернулли.md~",
     "assets/imgs/09-04-25_16-40-35_455_09-04-25_16-40-35_584.png",
     "assets/imgs/09-04-25_16-40-06_831_09-04-25_16-40-06_548.png",
     "assets/imgs/09-04-25_16-21-30_449_09-04-25_16-21-30_649.png",
     "assets/imgs/09-04-25_16-18-59_715_IMG_20250409_161835.jpg",
-    "assets/imgs/09-04-25_16-07-02_355_IMG_20250409_160504.jpg",
-    "assets/imgs/09-04-25_15-59-19_990_09-04-25_15-59-19_141.png",
     "notes/759-mipt-field-theory-seminar-09-04-25.md",
     "notes/186-mipt-field-theory-seminar-02-04-25.md",
     "notes/879-mipt-differential-equations-lecture-09-04-25.md",
