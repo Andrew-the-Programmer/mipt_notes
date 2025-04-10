@@ -43,7 +43,11 @@ $\set{\omega_t}$
 \int_{\RR^n \setminus B_\delta(0)}{\omega_t \d x} \to 0,\quad t \to 0
 $ 
 
-# Corollary.
+# Corollary 1.
 $$
 f \in L_1^{loc} \implies f \star \omega_t \in C_0^{\infty}
+$$
+# Corollary 2.
+$$
+C_0^{\infty} \textit
 $$
