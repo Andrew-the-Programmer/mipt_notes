@@ -29,3 +29,4 @@ tags: []
 7.
 8.
 9. [[380-mipt-harmonic-analysis-lecture-03-04-25|03-04-25]]
+10. [[583-mipt-harmonic-analysis-lecture-10-04-25|10-04-25]]
