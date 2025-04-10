@@ -41,4 +41,9 @@ $\set{\omega_t}$
 2.  $\int{\omega_t \d x} = 1$
 3.  $\forall \delta > 0
 \int_{\RR^n \setminus B_\delta(0)}{\omega_t \d x} \to 0,\quad t \to 0
-$
+$ 
+
+# Corollary.
+$$
+f \in L_1^{loc} \implies f \star \omega_t \in C_0^{\infty}
+$$
