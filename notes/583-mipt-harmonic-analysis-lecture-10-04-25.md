@@ -41,13 +41,23 @@ $\set{\omega_t}$
 2.  $\int{\omega_t \d x} = 1$
 3.  $\forall \delta > 0
 \int_{\RR^n \setminus B_\delta(0)}{\omega_t \d x} \to 0,\quad t \to 0
-$ 
+$
 
 # Corollary 1.
+
 $$
 f \in L_1^{loc} \implies f \star \omega_t \in C_0^{\infty}
 $$
+
+![10-04-25_19-47-07_659.png](assets/imgs/10-04-25_19-47-07_659.png)
+![10-04-25_19-47-27_754.png](assets/imgs/10-04-25_19-47-27_754.png)
+
 # Corollary 2.
+
 $$
-C_0^{\infty} \textit
+C_0^{\infty}\ \textit{полно в}\ L_p^{loc}
 $$
+
+![10-04-25_19-47-48_796.png](assets/imgs/10-04-25_19-47-48_796.png)
+
+# Theorem. Признак Дирихле
