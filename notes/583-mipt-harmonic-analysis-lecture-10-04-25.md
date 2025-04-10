@@ -22,6 +22,7 @@ tags: []
 5. $\int_a^{\to b}{f(x,y) \d x}$ сх-ся для всех $y \in [c,d]$
 
 ## Then:
+
 $$
 \pdv{y}{}\groupr{\int_a^{\to b}{f(x,y) \d x}} = \int_a^{\to b}{\pdv{y}{f}(x,y) \d x}
 $$
@@ -29,4 +30,15 @@ $$
 ![10-04-25_19-19-47_342.png](assets/imgs/10-04-25_19-19-47_342.png)
 
 # Напоминание
+
 ![10-04-25_19-30-19_522.png](assets/imgs/10-04-25_19-30-19_522.png)
+
+# Апроксимационная единица
+
+$\set{\omega_t}$
+
+1.  $\omega_t \in C_0^{\infty}$
+2.  $\int{\omega_t \d x} = 1$
+3.  $\forall \delta > 0
+\int_{\RR^n \setminus B_\delta(0)}{\omega_t \d x} \to 0,\quad t \to 0
+$
