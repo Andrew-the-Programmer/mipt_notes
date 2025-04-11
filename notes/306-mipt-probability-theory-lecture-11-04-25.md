@@ -162,11 +162,12 @@ x_1 = x,\quad x_2 = x + y \\
 F_\eta(u) = \int_{-\infty}^{u}{\d
 x_2}{\int_{-\infty}^{+\infty}{f_{\xi_1\xi_2}(x_1, x_2 - x_1) \d x_1}} \\
 f_\eta(u) = \int_{-\infty}^{+\infty}{f_{\xi_1\xi_2}(x, u-x) \d x}
-}$ 
+}$
 
 # .
 
 Если $\xi_1,\xi_2$ - НСВ:
+
 $$
 f_{\xi_1 + \xi_2} = f_{\xi_1} \star f_{\xi_2}
 $$
@@ -176,16 +177,30 @@ f_{\xi + U(0,1)}(u) = F_\xi(u) - F_\xi(u - 1)
 $$
 
 # Характеристическая функция
+
 $$
 \varphi_\xi(t) \defeq E e^{i t \xi}
 $$
 
 # Свойства
+
 1. $$
-\abs{\varphi_\xi(t)} \le 1,\quad \varphi_\xi(0) = 1
-$$
+   \abs{\varphi_\xi(t)} \le 1,\quad \varphi_\xi(0) = 1
+   $$
 2. $$
-\varphi_\xi \in C_{+}
+   \forall t
+   \forall \varepsilon > 0 \exists h :
+   \abs{\varphi_\xi(t) - \varphi_\xi(t + h)} \le \varepsilon
+   $$
+
+3. $$
+\varphi_{a\xi + b}(t) = e^{i t b} \varphi_\xi(a t)
 $$
 
-3. 
+4. $$
+\varphi_\xi^{(k)}(0) = i^k E \xi^k
+$$
+
+5. $$
+\varphi_{\xi + \eta} = \varphi_\xi \varphi_\eta
+$$
