@@ -181,3 +181,11 @@ $$
 $$
 
 # Свойства
+1. $$
+\abs{\varphi_\xi(t)} \le 1,\quad \varphi_\xi(0) = 1
+$$
+2. $$
+\varphi_\xi \in C_{+}
+$$
+
+3. 
