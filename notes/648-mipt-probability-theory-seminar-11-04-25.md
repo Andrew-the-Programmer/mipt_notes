@@ -85,3 +85,14 @@ $U(a,b) = (b-a) U(0,1) + a$
 $$
 \varphi_{U(a,b)}(t) = \frac{e^{itb} - e^{ita}}{it(b-a)}
 $$
+$$
+\varphi_{U(-1,1)}(t) = \frac{\sin t}{t}
+$$
+
+$\Align{
+\xi_1,\dots,\xi_n - \textit{норсв}\ U(-1,1) \\
+\eta_n \defeq \frac{1}{\sqrt{n}} \sum{\xi_i} \\
+\varphi_{\eta_n} = \cos^n(t) \\
+\varphi_{\eta_n}(t) \to e^{-\frac{t^2}{2}},\quad n \to \infty \\
+\eta_n \to \mcN(0,1),\quad n \to \infty
+}$
