@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/648-mipt-probability-theory-seminar-11-04-25.md",
+                "file": "notes/316-mipt-anmech-seminar-11-04-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "648-mipt-probability-theory-seminar-11-04-25"
+              "title": "316-mipt-anmech-seminar-11-04-25"
             }
           }
         ]
@@ -193,6 +193,7 @@
   },
   "active": "79365aa3e212140e",
   "lastOpenFiles": [
+    "notes/648-mipt-probability-theory-seminar-11-04-25.md",
     "notes/316-mipt-anmech-seminar-11-04-25.md~",
     "notes/316-mipt-anmech-seminar-11-04-25.md",
     "notes/291-mipt-anmech-seminar-04-04-25.md~",
@@ -203,7 +204,6 @@
     "courses/MIPT-probability-theory-2025.md",
     "notes/306-mipt-probability-theory-lecture-11-04-25.md",
     "courses/MIPT-probability-theory-2025.md~",
-    "notes/648-mipt-probability-theory-seminar-11-04-25.md",
     "notes/886-mipt-probability-theory-seminar-04-04-25.md~",
     "notes/306-mipt-probability-theory-lecture-11-04-25.md~",
     "notes/589-неравенство-Маркова-Чебышева.md",
@@ -211,7 +211,6 @@
     "notes/987-mipt-probability-theory-lecture-04-04-25.md",
     "notes/987-mipt-probability-theory-lecture-04-04-25.md~",
     "notes/601-mipt-computational-complexity-theory-lecture-11-04-25.md",
-    "notes/601-mipt-computational-complexity-theory-lecture-11-04-25.md~",
     "notes/583-mipt-harmonic-analysis-lecture-10-04-25.md",
     "notes/276-фундаментальная-последовательность.md",
     "notes/1728837879-метрическое-пространство.md",
