@@ -102,4 +102,7 @@ $\Align{
 $\Align{
 \xi_1,\dots,\xi_n - \textit{норсв}\ Be(\frac{1}{2}) \\
 \eta_n \defeq \sum_{k=1}^{n}{2^{-k} \xi_k} \\
+\varphi_{\eta_n} = \prod_{k=1}^{n}{\frac{1}{2} (e^{it 2^{-k}} + 1)} 
+\stackrel{б.д.}{\to} \frac{e^{it} - 1}{it} \\
+\eta_n \to \mcU(0,1),\quad n \to \infty
 }$
