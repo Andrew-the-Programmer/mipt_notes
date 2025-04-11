@@ -36,3 +36,21 @@ $E \xi^2 < \infty$
 $$
 \argmin_{\eta \in F_0\text{-измеримо}}{E(\xi - \eta)^2} = E(\xi \mid F_0)
 $$
+
+# Условное мат. ожидание отн. СВ
+$$
+E(\xi\mid\eta) \defeq E(\xi \mid \sigma(\eta))
+$$
+
+# .
+$$
+f_{\xi \mid \eta}(x \mid y) = \frac{f_{\xi\eta}(x,y)}{f_\eta(y)}
+$$
+$$
+\Align{
+E(\xi \mid \eta=y) = 
+\int_{-\infty}^{\infty}{x f_{\xi \mid \eta}(x \mid y) \d x} = g(y) \\
+
+
+}
+$$
