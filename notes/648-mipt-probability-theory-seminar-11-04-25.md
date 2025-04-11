@@ -76,7 +76,7 @@ P(\xi = 1) = P(\xi = -1) = \frac{1}{2} \\
 \eta_n \to \mcN(0,1),\quad n \to \infty
 }$
 
-# 7 
+# 7. Равномерные
 
 $$
 \varphi_{U(0,1)}(t) = \frac{e^{it} - 1}{it}
@@ -92,7 +92,14 @@ $$
 $\Align{
 \xi_1,\dots,\xi_n - \textit{норсв}\ U(-1,1) \\
 \eta_n \defeq \frac{1}{\sqrt{n}} \sum{\xi_i} \\
-\varphi_{\eta_n} = \cos^n(t) \\
-\varphi_{\eta_n}(t) \to e^{-\frac{t^2}{2}},\quad n \to \infty \\
-\eta_n \to \mcN(0,1),\quad n \to \infty
+\varphi_{\eta_n} = \group{\frac{\sin \frac{t}{\sqrt{n}}}{\frac{t}{\sqrt{n}}}}^n \\
+\varphi_{\eta_n}(t) \to e^{-\frac{t^2}{6}},\quad n \to \infty \\
+\eta_n \to \mcN(0,3),\quad n \to \infty
+}$
+
+# 8.
+
+$\Align{
+\xi_1,\dots,\xi_n - \textit{норсв}\ Be(\frac{1}{2}) \\
+\eta_n \defeq \sum_{k=1}^{n}{2^{-k} \xi_k} \\
 }$
