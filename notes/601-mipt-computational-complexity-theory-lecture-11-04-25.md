@@ -7,6 +7,8 @@ tags: []
 
 # MIPT computational complexity theory lecture 11-04-25
 
+Опоздал опять...
+
 # Сложность по памяти
 
 $f: \Gamma^* \to \set{0,1}$
@@ -16,3 +18,5 @@ DSpace(f) \\
 NSpace(f)
 }
 $$
+
+> Я бы написал определения, но они интуитивно понятны.
