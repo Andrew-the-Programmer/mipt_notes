@@ -51,7 +51,7 @@ $$
 \sum{\tilde{p}_i \delta \tilde{q}_i - c \sum{p_i \delta q_i}} = - \delta F
 $$
 
-# Пример
+# 23.7
 
 ![4.jpg](assets/imgs/11-04-25_18-05-28_238_IMG_20250411_172529.jpg)
 ![5.jpg](assets/imgs/11-04-25_18-05-28_119_IMG_20250411_172854.jpg)
@@ -106,6 +106,7 @@ $$
 \pdv{\tilde{p}_i}{F} = -\tilde{q}_i(t,q,\tilde{p}) \\
 }
 $$
+
 $$
 c\ \pDv{\tilde{p}_i}{p_i(t,q,\tilde{p})} = \pDv{q_i}{\tilde{q}_i(t,q,\tilde{q})}
 $$
@@ -115,3 +116,8 @@ $$
 ![13.jpg](assets/imgs/11-04-25_18-05-28_932_IMG_20250411_175907.jpg)
 
 # 23.98
+
+![14.jpg](assets/imgs/11-04-25_18-16-59_725_IMG_20250411_180746.jpg)
+![15.jpg](assets/imgs/11-04-25_18-16-59_402_IMG_20250411_180855.jpg)
+![16.jpg](assets/imgs/11-04-25_18-16-59_666_IMG_20250411_180900.jpg)
+![17.jpg](assets/imgs/11-04-25_18-16-59_584_IMG_20250411_181350.jpg)
