@@ -36,10 +36,13 @@ $\exists c \neq 0$ - "валентность"
 $\exists F$ - функционал - "производящая ф-ия"
 
 $t \neq const$
+
 $$
 \sum{\tilde{p}_i \d \tilde{q}_i - \tilde{H} \d t - c \group{\sum{p_i \d q_i - H \d t}}} = - \d F
 $$
+
 $t \eq const$
+
 $$
 \sum{\tilde{p}_i \delta \tilde{q}_i - c \sum{p_i \delta q_i}} = - \delta F
 $$
@@ -54,7 +57,18 @@ $c \neq 0, F$
 $\tilde{c} = \frac{1}{c}, \tilde{F} = -\frac{F}{c}$
 
 # Свободные канонические преобразования
+
 $$
-q,p \to q, \tilde{q}
+\Gather{
+q,p \to q, \tilde{q}\\
+\det \Pmatrix{\pdv{p_k}{\tilde{q}_i}} \neq 0
+}
 $$
-# ПолуСвободные канонические преобразования
+
+# Критерий каноничности
+
+$$
+\pDv{\tilde{q}_i}{c p_i(t,q,\tilde{q})} = \pDv{q_i}{-\tilde{p}_i(t,q,\tilde{q})}
+$$
+
+# Полусвободные канонические преобразования
