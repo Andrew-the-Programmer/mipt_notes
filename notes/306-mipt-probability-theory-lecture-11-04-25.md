@@ -152,8 +152,6 @@ $$
 f_{\xi_1 + \xi_2}(u) = \int_{-\infty}^{+\infty}{f_{\xi_1\xi_2}(x, u-x) \d x}
 $$
 
-Если $\xi_1,\xi_2$
-
 ## Proof:
 
 $\Align{
@@ -164,4 +162,22 @@ x_1 = x,\quad x_2 = x + y \\
 F_\eta(u) = \int_{-\infty}^{u}{\d
 x_2}{\int_{-\infty}^{+\infty}{f_{\xi_1\xi_2}(x_1, x_2 - x_1) \d x_1}} \\
 f_\eta(u) = \int_{-\infty}^{+\infty}{f_{\xi_1\xi_2}(x, u-x) \d x}
-}$
+}$ 
+
+# .
+
+Если $\xi_1,\xi_2$ - НСВ:
+$$
+f_{\xi_1 + \xi_2} = f_{\xi_1} \star f_{\xi_2}
+$$
+
+$$
+f_{\xi + U(0,1)}(u) = F_\xi(u) - F_\xi(u - 1)
+$$
+
+# Характеристическая функция
+$$
+\varphi_\xi(t) \defeq E e^{i t \xi}
+$$
+
+# Свойства
