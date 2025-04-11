@@ -10,3 +10,22 @@ tags: []
 # Характеристическая функция
 
 # Примеры
+
+1. $\xi \equiv const$
+   $$
+   \varphi_{c}(t) = e^{itc}
+   $$
+2. $\xi = 0$
+
+$$
+\varphi_0 = 1
+$$
+
+3. $\xi \sim \mcN(0,1)$
+
+$\Align{
+f_\xi(x) = \frac{1}{\sqrt{2\pi}} e^{-\frac{x^2}{2}} \\
+\varphi_\xi(t) = \frac{1}{\sqrt{2\pi}} \int_{-\infty}^{+\infty}{e^{itx} e^{-\frac{x^2}{2}} \d x} = \\
+\frac{1}{\sqrt{2\pi}} \int_{-\infty}^{+\infty}{\cos(tx) e^{-\frac{x^2}{2}} \d x} \\
+\sqrt{2\pi} \pdv{t}{} \varphi_\xi(t) = \int_{-\infty}^{+\infty}{\sin(tx) (-x) e^{-\frac{x^2}{2}} \d x} = \\
+}$
