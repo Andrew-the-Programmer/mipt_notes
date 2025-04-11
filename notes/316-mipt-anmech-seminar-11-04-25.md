@@ -32,8 +32,8 @@ M = \Pmatrix{
 # Theorem. Критерий каноничности.
 
 Неособенное пр-ие является каноническим, если
-$\exists c \neq 0$ - валентность
-$\exists F$ - функционал - производящая ф-ия
+$\exists c \neq 0$ - "валентность"
+$\exists F$ - функционал - "производящая ф-ия"
 
 $t \neq const$
 $$
@@ -41,7 +41,13 @@ $$
 $$
 $t \eq const$
 $$
-\sum{\tilde{p}_i \d \tilde{q}_i - c \sum{p_i \d q_i}} = - \d F
+\sum{\tilde{p}_i \delta \tilde{q}_i - c \sum{p_i \delta q_i}} = - \delta F
 $$
 
 # Пример
+
+# Следствие из критерия.
+
+$\exists c \neq 0, F$
+
+# Свободные канонические преобразования
