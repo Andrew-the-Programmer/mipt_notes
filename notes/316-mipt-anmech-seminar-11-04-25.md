@@ -92,12 +92,6 @@ $$
 # Полусвободные канонические преобразования
 
 $$
-\Cases{
-\pdv{q_i}{F} = c p_i(t,q,\tilde{p}) \\
-\pdv{\tilde{p}_i}{F} = -\tilde{q}_i(t,q,\tilde{p}) \\
-}
-$$
-$$
 \Gather{
 q,p \to q, \tilde{p}\\
 \det \Pmatrix{\pdv{p_k}{\tilde{p}_i}} \neq 0
@@ -106,6 +100,12 @@ $$
 
 ## Критерий каноничности
 
+$$
+\Cases{
+\pdv{q_i}{F} = c p_i(t,q,\tilde{p}) \\
+\pdv{\tilde{p}_i}{F} = -\tilde{q}_i(t,q,\tilde{p}) \\
+}
+$$
 $$
 c\ \pDv{\tilde{p}_i}{p_i(t,q,\tilde{p})} = \pDv{q_i}{\tilde{q}_i(t,q,\tilde{q})}
 $$
