@@ -28,18 +28,40 @@ $$
 
 ## Let:
 
-$M \in DSpace(s)$
+МТ $M$ работает за $s$ по памяти.
 $s$ [[496-конструируемая-по-времени-сложность|конструируемая по времени]]
 
 ## Then:
 
-$\exists N \in DSpace(s)$
+$\exists N \sim M,\quad N \in DSpace(s)$
 
 # Claim
 $$
 [D|N]Time(f) \subseteq [D|N]Space(f)
 $$
-$f = \Omega(\log n)$
+$f = \Omega(\log n)$ и [[496-конструируемая-по-времени-сложность|конструируемая по времени]]
 $$
 [D|N]Space(f) \subseteq [D|N]Time(2^{O(f)})
+$$
+
+# PSpace
+$$
+\Gather{
+PSpace \defeq \bigcup_{k\in\NN}{DSpace(n^k)} \\
+NPSpace
+}
+$$
+
+# Claim
+$$
+P \subseteq PSpace \subseteq Exp
+$$
+
+# Theorem. Сэвича (Savitch)
+
+$s$ конструируемая по памяти.
+$s = \Omega(\log n)$
+
+ $$
+NSpace(s) \subseteq DSpace(s^2)
 $$
