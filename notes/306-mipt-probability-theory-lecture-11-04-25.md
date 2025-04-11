@@ -129,3 +129,13 @@ $F_n \in F$
 $$
 x_n \defeq E(z \mid F_n)
 $$
+
+## Proof:
+
+1. $\Align{
+E\abs{x_n} = \abs{E(E(z \mid F_n))} \le 
+E\abs{E(z \mid F_n)} \le
+E(E\abs{z} \mid F_n) < \infty
+}$
+
+3. 

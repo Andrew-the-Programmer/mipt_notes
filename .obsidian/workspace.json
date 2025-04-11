@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/306-mipt-probability-theory-lecture-11-04-25.md",
+                "file": "notes/589-неравенство-Маркова-Чебышева.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "306-mipt-probability-theory-lecture-11-04-25"
+              "title": "589-неравенство-Маркова-Чебышева"
             }
           }
         ]
@@ -193,11 +193,12 @@
   },
   "active": "79365aa3e212140e",
   "lastOpenFiles": [
+    "notes/589-неравенство-Маркова-Чебышева.md~",
+    "notes/306-mipt-probability-theory-lecture-11-04-25.md",
     "notes/306-mipt-probability-theory-lecture-11-04-25.md~",
     "notes/4913",
     "notes/987-mipt-probability-theory-lecture-04-04-25.md",
     "courses/MIPT-probability-theory-2025.md~",
-    "notes/306-mipt-probability-theory-lecture-11-04-25.md",
     "notes/987-mipt-probability-theory-lecture-04-04-25.md~",
     "notes/601-mipt-computational-complexity-theory-lecture-11-04-25.md",
     "notes/601-mipt-computational-complexity-theory-lecture-11-04-25.md~",
@@ -217,7 +218,6 @@
     "assets/imgs/10-04-25_19-30-19_522.png",
     "notes/380-mipt-harmonic-analysis-lecture-03-04-25.md",
     "assets/imgs/10-04-25_19-19-47_342.png",
-    "courses/MIPT-harmonic-analysis-2025.md~",
     "notes/871-mipt-chinese-lesson-15.md",
     "notes/990-mipt-chinese-lesson-14.md",
     "notes/539-mipt-physics-lecture-01-03-25.md",
