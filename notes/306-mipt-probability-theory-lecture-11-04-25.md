@@ -67,7 +67,7 @@ $$
 # Мартингал или хз
 
 $\set{x_n}_{n \in \NN}$
-$\set{F_n}_{n \in \NN}$ - ***фильтрация***
+$\set{F_n}_{n \in \NN}$ - **_фильтрация_**
 $F_1 \subseteq F_2 \subseteq \dots$
 
 1. $x_n \in F_n\text{-измеримо}$
@@ -86,8 +86,46 @@ E(x_{m-1} \mid F_n) \stackrel{п.н.}{=} \dots \stackrel{п.н.}{=} x_n
 }$
 
 # Claim
- $$
+
+$$
 E(x_m - x_n \mid F_n) = 0
 $$
 
 # Естественная фильтрация
+
+$$
+F_n = \sigma(x_1, \dots, x_n) \defeq \sigma(\sigma(x_1) \cup \dots \cup \sigma(x_n))
+$$
+
+# Пример мартингала
+
+$$
+\Gather{
+x_n = \sum_{j=1}^{n}{\xi_j} \\
+E \xi_j = 0 \\
+\set{F_n} - \textit{естественная фильтрация}
+}
+$$
+
+# Суб-мартингал
+
+$$
+E(x_{n+1} \mid F_n) \stackrel{п.н.}{\ge} x_n
+$$
+
+# Супер-мартингал
+
+$$
+E(x_{n+1} \mid F_n) \stackrel{п.н.}{\le} x_n
+$$
+
+# Мартингал Дуба
+
+$\groupt{\Omega, F, P}$
+$z$
+$E \abs{z} < \infty$
+$F_n \in F$
+
+$$
+x_n \defeq E(z \mid F_n)
+$$
