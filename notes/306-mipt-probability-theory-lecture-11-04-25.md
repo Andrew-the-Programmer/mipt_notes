@@ -46,11 +46,19 @@ $$
 $$
 f_{\xi \mid \eta}(x \mid y) = \frac{f_{\xi\eta}(x,y)}{f_\eta(y)}
 $$
+
+# Theorem. Выполняется ИС
 $$
 \Align{
 E(\xi \mid \eta=y) = 
 \int_{-\infty}^{\infty}{x f_{\xi \mid \eta}(x \mid y) \d x} = g(y) \\
-
-
+E(E(\xi \mid \eta) I(\eta \in B)) = \\
+\int\int{g(y) f_\eta(y) I_B(y) \d y} = \\
+\int{\groupr{\int{x \frac{f_{\xi\eta}(x,y)}{f_\xi(y)} \d x}} I_B(y) f_\eta(y) \d y} =  \\
+\int{\groupr{\int{x f_{\xi\eta}(x,y) \d x}} I_B(y) \d y} = \\
+\int\int{x I_B(y) f_{\xi\eta}(x,y) \d x \d y} = \\
+E(\xi I(\eta \in B))
 }
 $$
+
+# .
