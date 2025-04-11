@@ -64,4 +64,14 @@ $$
 \varphi_{Binom(n,p)} = \group{p e^{it} + q}^n
 $$
 
+6. idk
 
+$\Align{
+P(\xi = 1) = P(\xi = -1) = \frac{1}{2} \\
+\varphi\_\xi(t) = \frac{1}{2} e^{it} + \frac{1}{2} e^{-it} = \cos(t)\\
+\xi_1,\dots,\xi_n \\
+\eta_n \defeq \frac{1}{\sqrt{n}} \sum{\xi_i} \\
+\varphi_{\eta_n} = \cos^n(t) \\
+\varphi_{\eta_n}(t) \to e^{-\frac{t^2}{2}},\quad n \to \infty \\
+\eta_n \to \mcN(0,1),\quad n \to \infty
+}$
