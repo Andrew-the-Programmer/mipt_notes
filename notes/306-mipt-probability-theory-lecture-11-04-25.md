@@ -138,4 +138,10 @@ E\abs{E(z \mid F_n)} \le
 E(E\abs{z} \mid F_n) < \infty
 }$
 
-3. 
+3. $\Align{
+E(x_{n+1} \mid F_n) = E(E(z \mid F_{n+1}) \mid F_n) = E(z \mid F_n) = x_n
+}$
+
+
+# [[589-неравенство-Маркова-Чебышева|неравенство Маркова-Чебышева]]
+
