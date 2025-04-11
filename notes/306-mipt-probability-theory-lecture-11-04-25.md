@@ -12,7 +12,7 @@ tags: []
 $g$ выпукла вниз
 
 $$
-E(g(\xi) \mid F_0) \ge g(E(\xi \mid F_0))
+E(g(\xi) \mid F_0) \stackrel{п.н.}{\ge} g(E(\xi \mid F_0))
 $$
 
 ## Proof:
@@ -30,5 +30,9 @@ E(g(\xi) \mid F_0) \ge g(E(\xi \mid F_0)) \\
 }$
 
 # Theorem. О наилучшем квадратичном прогнозе (приближении)
-$\E \xi^2 < \infty$
-$\eta \in F_0\text{-измеримо}$
+
+$E \xi^2 < \infty$
+
+$$
+\argmin_{\eta \in F_0\text{-измеримо}}{E(\xi - \eta)^2} = E(\xi \mid F_0)
+$$
