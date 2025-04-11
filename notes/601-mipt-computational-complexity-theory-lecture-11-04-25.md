@@ -68,12 +68,13 @@ $$
 
 ## Proof:
 $\Align{
-Path_G(a,b,k) \same \textit{в G есть путь из a в b длины} \le 2^k \\
+Path_G(a,b,k) \stackrel{def}{\same} \textit{в G есть путь из a в b длины} \le 2^k \\
 Path_G(a,b,k) \same \exists u : Path_G(a,u,k-1) \land Path_G(u,b,k-1) \\
 L \in NSpace(s),\quad L \sim N \\
 x \in L \same Path_{G_N}(start,finish,\log K) \\
 n \defeq \abs{x} \\
-K \defeq \abs{Q} \cdot O(n) \cdot \abs{\Gamma}^{s(n)} \cdot s(n)
+K \defeq \abs{Q} \cdot O(n) \cdot \abs{\Gamma}^{s(n)} \cdot s(n) - \textit{кол-во всевозможных конфигураций} \\
+\log(K) = O(s(n)) + O(\abs{N}) + O(\log n) = O(s(n)) + O(\abs{N})
 }$
 
 # Claim
