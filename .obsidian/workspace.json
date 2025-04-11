@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/583-mipt-harmonic-analysis-lecture-10-04-25.md",
+                "file": "notes/601-mipt-computational-complexity-theory-lecture-11-04-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "583-mipt-harmonic-analysis-lecture-10-04-25"
+              "title": "601-mipt-computational-complexity-theory-lecture-11-04-25"
             }
           }
         ]
@@ -193,12 +193,16 @@
   },
   "active": "79365aa3e212140e",
   "lastOpenFiles": [
+    "notes/583-mipt-harmonic-analysis-lecture-10-04-25.md",
+    "notes/601-mipt-computational-complexity-theory-lecture-11-04-25.md~",
+    "courses/MIPT-computational-complexity-theory-2025.md~",
+    "notes/601-mipt-computational-complexity-theory-lecture-11-04-25.md",
+    "notes/146-mipt-computational-complexity-theory-lecture-04-04-25.md~",
     "notes/583-mipt-harmonic-analysis-lecture-10-04-25.md~",
     "notes/276-фундаментальная-последовательность.md",
     "notes/1728837879-метрическое-пространство.md",
     "notes/676-mipt-harmonic-analysis-lecture-06-02-25.md",
     "courses/MIPT-harmonic-analysis-2025.md",
-    "notes/583-mipt-harmonic-analysis-lecture-10-04-25.md",
     "assets/imgs/10-04-25_19-47-48_796.png",
     "assets/imgs/10-04-25_19-47-27_754.png",
     "assets/imgs/10-04-25_19-47-07_659.png",
@@ -214,12 +218,9 @@
     "sourses/chinese/lesson_15.pdf.part",
     "notes/990-mipt-chinese-lesson-14.md",
     "sourses/physics/lectures_2025/Лекция_4a.pdf",
-    "notes/334-mipt-physics-lecture-05-04-25.md~",
-    "courses/MIPT-physics-2025.md~",
     "notes/539-mipt-physics-lecture-01-03-25.md",
     "courses/MIPT-physics-2025.md",
     "notes/334-mipt-physics-lecture-05-04-25.md",
-    "notes/568-mipt-differential-equations-seminar-09-04-25.md~",
     "assets/imgs/09-04-25_23-30-24_338.png",
     "assets/imgs/09-04-25_16-52-23_529_09-04-25_16-52-23_916.png",
     "assets/imgs/09-04-25_16-52-05_320_09-04-25_16-52-05_639.png",
@@ -236,7 +237,6 @@
     "notes/977-mipt-harmonic-analysis-seminar-08-04-25.md",
     "notes/628-mipt-physics-lecture-29-03-25.md",
     "notes/606-mipt-physics-lecture-22-03-25.md",
-    "notes/369-mipt-harmonic-analysis-lecture-13-02-25.md",
-    "notes/291-mipt-anmech-seminar-04-04-25.md"
+    "notes/369-mipt-harmonic-analysis-lecture-13-02-25.md"
   ]
 }
