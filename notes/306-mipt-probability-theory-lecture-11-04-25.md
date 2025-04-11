@@ -37,6 +37,8 @@ $$
 \argmin_{\eta \in F_0\text{-измеримо}}{E(\xi - \eta)^2} = E(\xi \mid F_0)
 $$
 
+Не понял вообще эту часть...
+
 # Условное мат. ожидание отн. СВ
 
 $$
@@ -194,13 +196,13 @@ $$
    $$
 
 3. $$
-\varphi_{a\xi + b}(t) = e^{i t b} \varphi_\xi(a t)
-$$
+   \varphi_{a\xi + b}(t) = e^{i t b} \varphi_\xi(a t)
+   $$
 
 4. $$
-\varphi_\xi^{(k)}(0) = i^k E \xi^k
-$$
+   \varphi_\xi^{(k)}(0) = i^k E \xi^k
+   $$
 
 5. $$
-\varphi_{\xi + \eta} = \varphi_\xi \varphi_\eta
-$$
+   \varphi_{\xi + \eta} = \varphi_\xi \varphi_\eta
+   $$
