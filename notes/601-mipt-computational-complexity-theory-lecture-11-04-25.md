@@ -11,7 +11,7 @@ tags: []
 
 # Сложность по памяти
 
-$s: \Gamma^* \to \NN$
+$s: \NN \to \NN$
 
 $$
 \Gather{
@@ -34,3 +34,12 @@ $s$ [[496-конструируемая-по-времени-сложность|к
 ## Then:
 
 $\exists N \in DSpace(s)$
+
+# Claim
+$$
+[D|N]Time(f) \subseteq [D|N]Space(f)
+$$
+$f = \Omega(\log n)$
+$$
+[D|N]Space(f) \subseteq [D|N]Time(2^{O(f)})
+$$
