@@ -39,7 +39,7 @@ $$
 \sum{\tilde{p}_i \d \tilde{q}_i - \tilde{H} \d t - c \group{\sum{p_i \d q_i - H \d t}}} = - \d F
 $$
 
-$t \eq const$
+$t = const$
 
 $$
 \sum{\tilde{p}_i \delta \tilde{q}_i - c \sum{p_i \delta q_i}} = - \delta F
@@ -81,5 +81,7 @@ $$
 ## Критерий каноничности
 
 $$
-\pDv{\tilde{q}_i}{c p_i(t,q,\tilde{q})} = \pDv{q_i}{-\tilde{p}_i(t,q,\tilde{q})}
+c\ \pDv{\tilde{p}_i}{p_i(t,q,\tilde{p})} = \pDv{q_i}{\tilde{q}_i(t,q,\tilde{q})}
 $$
+
+# 23.98
