@@ -92,27 +92,32 @@ PSpace = NPSpace
 $$
 
 # .
+
 $$
 L_{Space} \defeq \set{\group{M, x, 1^n} \mid M\ \textit{принимает}\ x\ \textit{за память}\ n}
 $$
+
 # Claim
+
 $$
 L_{Space} \in PSpace
 $$
 
 # Claim
+
 $$
 L_{Space} \in \complete{PSpace}
 $$
 
 # TQBF
+
 $$
-TQBF \defeq \set{\psi \mid 
+TQBF \defeq \set{\psi \mid
 \psi = Q_1 x_1 \dots Q_n x_n \varphi(x_1,\dots,x_n) = \top}
 $$
 
-# Claim
+# Claim. Анонс.
 
 $$
-
+TQBF \in \complete{PSpace}
 $$
