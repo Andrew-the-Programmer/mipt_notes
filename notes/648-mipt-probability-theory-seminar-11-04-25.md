@@ -81,10 +81,13 @@ P(\xi = 1) = P(\xi = -1) = \frac{1}{2} \\
 $$
 \varphi_{U(0,1)}(t) = \frac{e^{it} - 1}{it}
 $$
+
 $U(a,b) = (b-a) U(0,1) + a$
+
 $$
 \varphi_{U(a,b)}(t) = \frac{e^{itb} - e^{ita}}{it(b-a)}
 $$
+
 $$
 \varphi_{U(-1,1)}(t) = \frac{\sin t}{t}
 $$
