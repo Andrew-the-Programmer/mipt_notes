@@ -64,13 +64,13 @@ E(\xi I(\eta \in B))
 }
 $$
 
-# .
+# Мартингал или хз
 
 $\set{x_n}_{n \in \NN}$
-$\set{F_n}_{n \in \NN}$
-$F_1 \subseteq F_2 \subseteq \dots$ 
+$\set{F_n}_{n \in \NN}$ - ***фильтрация***
+$F_1 \subseteq F_2 \subseteq \dots$
 
-1. $x_n \in F_n\text{-измеримо}$ 
+1. $x_n \in F_n\text{-измеримо}$
 2. $E\abs{x_n} < \infty$
 3. $E(x_{n+1} \mid F_n) \stackrel{п.н.}{=} x_n$
 
@@ -79,6 +79,15 @@ $F_1 \subseteq F_2 \subseteq \dots$
 $(3) \same E(x_m \mid F_n) \stackrel{п.н.}{=} x_n,\quad \forall m > n$
 
 ## Proof:
+
 $\Align{
-E(x_m \mid F_n) = E(E(x_m \mid F_{m-1}))
+E(x_m \mid F_n) = E(E(x_m \mid F_{m-1}) \mid F_n) \stackrel{п.н.}{=} 
+E(x_{m-1} \mid F_n) \stackrel{п.н.}{=} \dots \stackrel{п.н.}{=} x_n
 }$
+
+# Claim
+ $$
+E(x_m - x_n \mid F_n) = 0
+$$
+
+# Естественная фильтрация
