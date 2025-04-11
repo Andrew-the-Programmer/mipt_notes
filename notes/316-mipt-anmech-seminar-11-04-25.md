@@ -27,4 +27,8 @@ M = \Pmatrix{
 
 # Theorem. Критерий каноничности.
 Неособенное пр-ие является каноническим, если
-$\exists c \neq 0 $
+$\exists c \neq 0$ - валентность
+$\exists F$ - функционал - производящая ф-ия
+ $$
+\sum{\tilde{p}_i \d \tilde{q}_i - \tilde{H} \d t - c \group{\sum{p_i \d q_i - H \d t}}} = - \d F
+$$
