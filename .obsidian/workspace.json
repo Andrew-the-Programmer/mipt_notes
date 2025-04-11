@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/1728819570-xdg.md",
+                "file": "notes/886-mipt-probability-theory-seminar-04-04-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1728819570-xdg"
+              "title": "886-mipt-probability-theory-seminar-04-04-25"
             }
           }
         ]
@@ -193,22 +193,24 @@
   },
   "active": "79365aa3e212140e",
   "lastOpenFiles": [
+    "courses/MIPT-probability-theory-2025.md",
+    "notes/306-mipt-probability-theory-lecture-11-04-25.md",
+    "notes/648-mipt-probability-theory-seminar-11-04-25.md~",
+    "courses/MIPT-probability-theory-2025.md~",
+    "notes/648-mipt-probability-theory-seminar-11-04-25.md",
+    "notes/886-mipt-probability-theory-seminar-04-04-25.md~",
     "notes/306-mipt-probability-theory-lecture-11-04-25.md~",
     "notes/4913",
     "notes/886-mipt-probability-theory-seminar-04-04-25.md",
-    "notes/886-mipt-probability-theory-seminar-04-04-25.md~",
-    "notes/306-mipt-probability-theory-lecture-11-04-25.md",
     "notes/589-неравенство-Маркова-Чебышева.md",
     "notes/589-неравенство-Маркова-Чебышева.md~",
     "notes/987-mipt-probability-theory-lecture-04-04-25.md",
-    "courses/MIPT-probability-theory-2025.md~",
     "notes/987-mipt-probability-theory-lecture-04-04-25.md~",
     "notes/601-mipt-computational-complexity-theory-lecture-11-04-25.md",
     "notes/601-mipt-computational-complexity-theory-lecture-11-04-25.md~",
     "notes/496-конструируемая-по-времени-сложность.md~",
     "notes/583-mipt-harmonic-analysis-lecture-10-04-25.md",
     "courses/MIPT-computational-complexity-theory-2025.md~",
-    "notes/146-mipt-computational-complexity-theory-lecture-04-04-25.md~",
     "notes/276-фундаментальная-последовательность.md",
     "notes/1728837879-метрическое-пространство.md",
     "notes/676-mipt-harmonic-analysis-lecture-06-02-25.md",
@@ -236,7 +238,6 @@
     "notes/879-mipt-differential-equations-lecture-09-04-25.md",
     "notes/962-mipt-field-theory-lecture-09-04-25.md",
     "notes/471-mipt-differential-equations-seminar-02-04-25.md",
-    "notes/230-mipt-field-theory-seminar-19-02-25.md",
-    "notes/316-mipt-physics-seminar-08-04-25.md"
+    "notes/230-mipt-field-theory-seminar-19-02-25.md"
   ]
 }
