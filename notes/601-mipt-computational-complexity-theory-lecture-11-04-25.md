@@ -91,4 +91,11 @@ $$
 PSpace = NPSpace
 $$
 
+# .
+$$
+L_{Space} \defeq \set{\group{M, x, 1^n} \mid M\ \textit{принимает}\ x\ \textit{за память}\ n}
+$$
+$$
+L_{Space} \in PSpace
+$$
 
