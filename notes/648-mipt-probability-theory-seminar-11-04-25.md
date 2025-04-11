@@ -27,5 +27,14 @@ $\Align{
 f_\xi(x) = \frac{1}{\sqrt{2\pi}} e^{-\frac{x^2}{2}} \\
 \varphi_\xi(t) = \frac{1}{\sqrt{2\pi}} \int_{-\infty}^{+\infty}{e^{itx} e^{-\frac{x^2}{2}} \d x} = \\
 \frac{1}{\sqrt{2\pi}} \int_{-\infty}^{+\infty}{\cos(tx) e^{-\frac{x^2}{2}} \d x} \\
-\sqrt{2\pi} \pdv{t}{} \varphi_\xi(t) = \int_{-\infty}^{+\infty}{\sin(tx) (-x) e^{-\frac{x^2}{2}} \d x} = \\
-}$
+\sqrt{2\pi} \pdv{t}{} \varphi_\xi(t) = 
+\int_{-\infty}^{+\infty}{\sin(tx) (-x) e^{-\frac{x^2}{2}} \d x} = \\
+\int_{-\infty}^{+\infty}{\sin(tx) \d\group{e^{-\frac{x^2}{2}}}} = \\
+-t \int_{-\infty}^{+\infty}{\cos(tx) e^{-\frac{x^2}{2}} \d x}\\
+\pdv{t}{} \varphi_\xi(t) = -t \varphi_\xi(t) \\
+\varphi_\xi(t) = e^{-\frac{t^2}{2}}
+}$ 
+
+$$
+\varphi_\xi(t) = e^{-\frac{t^2}{2}}
+$$
