@@ -23,7 +23,7 @@ $$
 \varphi_0 = 1
 $$
 
-3. $\xi \sim \mcN(0,1)$
+# 3. $\xi \sim \mcN(0,1)$
 
 $\Align{
 f_\xi(x) = \frac{1}{\sqrt{2\pi}} e^{-\frac{x^2}{2}} \\
@@ -48,13 +48,13 @@ $$
 \varphi_{\mcN(m,\sigma^2)}(t) = e^{itm - \frac{(\sigma t)^2}{2}}
 $$
 
-4. $\xi \sim Be(p)$
+# 4. $\xi \sim Be(p)$
 
 $$
 \varphi_{Be(m,\sigma^2)}(t) = p e^{it} + q
 $$
 
-5. $\xi \sim Binom(n,p)$
+# 5. $\xi \sim Binom(n,p)$
 
 $\Align{
 Binom(n,p) \sim \sum_{i=1}^{n}{Be(p)}
@@ -64,7 +64,7 @@ $$
 \varphi_{Binom(n,p)} = \group{p e^{it} + q}^n
 $$
 
-6. idk
+# 6. Стремление к нормальному.
 
 $\Align{
 P(\xi = 1) = P(\xi = -1) = \frac{1}{2} \\
@@ -75,3 +75,5 @@ P(\xi = 1) = P(\xi = -1) = \frac{1}{2} \\
 \varphi_{\eta_n}(t) \to e^{-\frac{t^2}{2}},\quad n \to \infty \\
 \eta_n \to \mcN(0,1),\quad n \to \infty
 }$
+
+# 7 
