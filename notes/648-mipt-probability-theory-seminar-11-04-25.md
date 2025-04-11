@@ -63,3 +63,5 @@ Binom(n,p) \sim \sum_{i=1}^{n}{Be(p)}
 $$
 \varphi_{Binom(n,p)} = \group{p e^{it} + q}^n
 $$
+
+
