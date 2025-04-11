@@ -138,23 +138,30 @@ E\abs{E(z \mid F_n)} \le
 E(E\abs{z} \mid F_n) < \infty
 }$
 
-3. $\Align{
+2. $\Align{
 E(x_{n+1} \mid F_n) = E(E(z \mid F_{n+1}) \mid F_n) = E(z \mid F_n) = x_n
 }$
-
 
 # [[589-неравенство-Маркова-Чебышева|неравенство Маркова-Чебышева]]
 
 # Формула свертки
-$\xi_1,\xi_2$
- $\eta = \xi_1 + \xi_2$
 
- $$
+$\xi_1,\xi_2$
 
 $$
+f_{\xi_1 + \xi_2}(u) = \int_{-\infty}^{+\infty}{f_{\xi_1\xi_2}(x, u-x) \d x}
+$$
+
+Если $\xi_1,\xi_2$
 
 ## Proof:
+
 $\Align{
+\eta = \xi_1 + \xi_2 \\
 F_\eta(u) = P(\xi_1 + \xi_2 < u) = P(\xi_1 + \xi_2 < u) =
-\int\int_{x+y < u}{f_{\xi_1\xi_2}(x,y) \d x \d y}
+\int\int_{x+y < u}{f_{\xi_1\xi_2}(x,y) \d x \d y} \\
+x_1 = x,\quad x_2 = x + y \\
+F_\eta(u) = \int_{-\infty}^{u}{\d
+x_2}{\int_{-\infty}^{+\infty}{f_{\xi_1\xi_2}(x_1, x_2 - x_1) \d x_1}} \\
+f_\eta(u) = \int_{-\infty}^{+\infty}{f_{\xi_1\xi_2}(x, u-x) \d x}
 }$
