@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/871-mipt-chinese-lesson-15.md",
+                "file": "notes/334-mipt-physics-lecture-05-04-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "871-mipt-chinese-lesson-15"
+              "title": "334-mipt-physics-lecture-05-04-25"
             }
           }
         ]
@@ -193,6 +193,8 @@
   },
   "active": "79365aa3e212140e",
   "lastOpenFiles": [
+    "notes/871-mipt-chinese-lesson-15.md",
+    "notes/334-mipt-physics-lecture-05-04-25.md~",
     "notes/648-mipt-probability-theory-seminar-11-04-25.md~",
     "notes/871-mipt-chinese-lesson-15.md~",
     "notes/316-mipt-anmech-seminar-11-04-25.md~",
@@ -218,9 +220,7 @@
     "notes/886-mipt-probability-theory-seminar-04-04-25.md~",
     "notes/306-mipt-probability-theory-lecture-11-04-25.md~",
     "notes/589-неравенство-Маркова-Чебышева.md",
-    "notes/589-неравенство-Маркова-Чебышева.md~",
     "notes/987-mipt-probability-theory-lecture-04-04-25.md",
-    "notes/987-mipt-probability-theory-lecture-04-04-25.md~",
     "notes/601-mipt-computational-complexity-theory-lecture-11-04-25.md",
     "notes/583-mipt-harmonic-analysis-lecture-10-04-25.md",
     "notes/276-фундаментальная-последовательность.md",
@@ -228,7 +228,6 @@
     "notes/676-mipt-harmonic-analysis-lecture-06-02-25.md",
     "courses/MIPT-harmonic-analysis-2025.md",
     "notes/380-mipt-harmonic-analysis-lecture-03-04-25.md",
-    "notes/871-mipt-chinese-lesson-15.md",
     "notes/990-mipt-chinese-lesson-14.md",
     "notes/539-mipt-physics-lecture-01-03-25.md",
     "courses/MIPT-physics-2025.md",
