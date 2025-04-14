@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/777-mipt-computational-complexity-theory-lecture-28-02-25.md",
+                "file": "notes/712-mipt-computational-complexity-theory-lecture-21-03-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "777-mipt-computational-complexity-theory-lecture-28-02-25"
+              "title": "712-mipt-computational-complexity-theory-lecture-21-03-25"
             }
           }
         ]
@@ -194,12 +194,13 @@
   "active": "79365aa3e212140e",
   "lastOpenFiles": [
     "courses/MIPT-computational-complexity-theory-2025.md",
+    "notes/181-mipt-computational-complexity-theory-lecture-14-03-25.md",
+    "notes/133-mipt-computational-complexity-theory-lecture-07-03-25.md",
+    "notes/777-mipt-computational-complexity-theory-lecture-28-02-25.md",
     "notes/835-mipt-computational-complexity-theory-lecture-21-02-25.md",
     "notes/932-mipt-computational-complexity-theory-lecture-14-02-25.md",
     "notes/373-p-np.md",
     "notes/864-время-работы-машины-НМТ.md",
-    "notes/133-mipt-computational-complexity-theory-lecture-07-03-25.md",
-    "notes/181-mipt-computational-complexity-theory-lecture-14-03-25.md",
     "notes/712-mipt-computational-complexity-theory-lecture-21-03-25.md",
     "notes/287-mipt-computational-complexity-theory-lecture-28-03-25.md",
     "notes/334-mipt-physics-lecture-05-04-25.md",
@@ -237,7 +238,6 @@
     "notes/276-фундаментальная-последовательность.md",
     "notes/1728837879-метрическое-пространство.md",
     "notes/676-mipt-harmonic-analysis-lecture-06-02-25.md",
-    "courses/MIPT-harmonic-analysis-2025.md",
-    "notes/380-mipt-harmonic-analysis-lecture-03-04-25.md"
+    "courses/MIPT-harmonic-analysis-2025.md"
   ]
 }
