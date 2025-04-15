@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/539-mipt-physics-lecture-01-03-25.md",
+                "file": "notes/620-mipt-physics-seminar-15-04-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "539-mipt-physics-lecture-01-03-25"
+              "title": "620-mipt-physics-seminar-15-04-25"
             }
           }
         ]
@@ -193,13 +193,14 @@
   },
   "active": "79365aa3e212140e",
   "lastOpenFiles": [
-    "sourses/physics/lectures_2025/Лекция_4.pdf",
+    "notes/620-mipt-physics-seminar-15-04-25.md~",
     "notes/539-mipt-physics-lecture-01-03-25.md",
+    "assets/imgs/15-04-25_10-56-10_527.png",
+    "sourses/physics/lectures_2025/Лекция_4.pdf",
     "courses/MIPT-physics-2025.md",
     "notes/786-mipt-physics-lecture-15-03-25.md",
     "notes/620-mipt-physics-seminar-15-04-25.md",
     "notes/438-mipt-harmonic-analysis-seminar-04-03-25.md",
-    "notes/620-mipt-physics-seminar-15-04-25.md~",
     "courses/MIPT-harmonic-analysis-2025.md~",
     "courses/MIPT-physics-2025.md~",
     "notes/437-mipt-harmonic-analysis-seminar-15-04-25.md",
@@ -222,7 +223,6 @@
     "notes/412-mipt-physics-lecture-12-04-25.md~",
     "notes/412-mipt-physics-lecture-12-04-25.md",
     "notes/334-mipt-physics-lecture-05-04-25.md~",
-    "sourses/physics/lectures_2025/Лекция_9.pdf",
     "notes/871-mipt-chinese-lesson-15.md",
     "assets/imgs/11-04-25_18-16-59_584_IMG_20250411_181350.jpg",
     "assets/imgs/11-04-25_18-16-59_666_IMG_20250411_180900.jpg",
@@ -233,7 +233,6 @@
     "assets/imgs/11-04-25_18-05-28_847_IMG_20250411_175318.jpg",
     "assets/imgs/11-04-25_18-05-28_661_IMG_20250411_174348.jpg",
     "assets/imgs/11-04-25_18-05-28_367_IMG_20250411_174217.jpg",
-    "assets/imgs/11-04-25_18-05-28_067_IMG_20250411_174032.jpg",
     "notes/648-mipt-probability-theory-seminar-11-04-25.md",
     "notes/316-mipt-anmech-seminar-11-04-25.md",
     "notes/886-mipt-probability-theory-seminar-04-04-25.md",
