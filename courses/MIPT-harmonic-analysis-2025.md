@@ -17,8 +17,9 @@ tags: []
 6. [[371-mipt-harmonic-analysis-seminar-11-03-25|11-03-25]]
 7. test
 8. [[234-mipt-harmonic-analysis-seminar-25-03-25|25-03-25]]
-9. [[977-mipt-harmonic-analysis-seminar-08-04-25|08-04-25]]
-10. [[437-mipt-harmonic-analysis-seminar-15-04-25|15-04-25]]
+9. no notes
+10. [[977-mipt-harmonic-analysis-seminar-08-04-25|08-04-25]]
+11. [[437-mipt-harmonic-analysis-seminar-15-04-25|15-04-25]]
 
 # Лекции Тюленева
 
