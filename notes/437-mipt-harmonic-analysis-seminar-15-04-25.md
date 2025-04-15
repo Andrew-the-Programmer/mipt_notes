@@ -24,6 +24,20 @@ I^1(\alpha) = \textit{по частям} =
 I = c e^{-\alpha^2} \\
 I(0) = \frac{\sqrt{\pi}}{2} \\
 }$
+
 $$
-I(\alpha) = \frac{\sqrt{\pi}}{2} \\
+I(\alpha) = \frac{\sqrt{\pi}}{2} e^{-\alpha^2} \\
 $$
+
+# Интеграл Френеля
+
+$$
+I = \int_0^{+\infty}{\sin x^2 \d x}
+$$
+
+$\Align{
+t = x^2 \\
+I = \frac{1}{2} \int_0^{+\infty}{\frac{\sin t}{\sqrt{t}} \d t} \\
+\textit{Заметим:} \\
+\frac{1}{\sqrt t} = \frac{2}{\sqrt{t}} \int_0^{+\infty}{e^{-t x^2}} \\
+}$
