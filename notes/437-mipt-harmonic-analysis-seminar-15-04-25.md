@@ -143,22 +143,37 @@ Null
 
 # Преобразование Фурье
 
+# Итнеграл Фурье
+
 # .
 
 $f \in L_1[-R, R]$
+
 $$
 c_k = \frac{1}{2R} \int_{-R}^{R}{f(x) e^{ik \frac{\pi}{R} x} \d x}
-$$ 
+$$
+
 $$
 f(x) \sim \sum_{k\in\ZZ}{c_k e^{ikx}}
 $$
 
 # $R \to \infty$
+
 $f$ - "хорошая"
- $$
-\Align{
+
+$\Align{
 f(x) = \sum_{k\in\ZZ}{c_k e^{ikx}} = \\
 \frac{\pi}{R} \sum_{k\in\ZZ}{\group{c_k \frac{R}{\pi}} e^{ikx}} \\
-c_k \frac{R}{\pi} = \frac{1}{2\pi} \int_{-R}^{R}{f(x) e^{-ik \frac{\pi}{R} x} \d x}
-}
+c_k \frac{R}{\pi} = \frac{1}{2\pi} \int_{-R}^{R}{f(x) e^{-ik \frac{\pi}{R} x} \d x} \\
+y_k \defeq k \frac{\pi}{R} \\
+c(y_k) \defeq c_k \frac{R}{\pi} \\
+f(x) = \frac{\pi}{R} \sum_{k\in\ZZ}{c(y_k) e^{i y_k x}} \\
+f(x) \xrightarrow{R \to \infty} \int_{-\infty}^{+\infty}{c(y) e^{iyx} \d x} \\
+}$
+
+$$
+
+$$
+$$
+c(y) = \frac{1}{2\pi} \int_{-\infty}^{+\infty}{f(x) e^{-iyx} \d x}
 $$
