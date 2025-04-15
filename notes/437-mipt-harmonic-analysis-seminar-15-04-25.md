@@ -145,7 +145,7 @@ Null
 
 # Итнеграл Фурье
 
-# .
+# Напоминание
 
 $f \in L_1[-R, R]$
 
@@ -172,8 +172,13 @@ f(x) \xrightarrow{R \to \infty} \int_{-\infty}^{+\infty}{c(y) e^{iyx} \d x} \\
 }$
 
 $$
-
+f(x) \sim \int_{-\infty}^{+\infty}{c(y) e^{iyx} \d x} \\
 $$
 $$
 c(y) = \frac{1}{2\pi} \int_{-\infty}^{+\infty}{f(x) e^{-iyx} \d x}
+$$
+
+# Преобразование Фурье
+$$
+F[f](y) = \frac{1}{2\pi} \int_{-\infty}^{+\infty}{f(x) e^{-iyx} \d x}
 $$
