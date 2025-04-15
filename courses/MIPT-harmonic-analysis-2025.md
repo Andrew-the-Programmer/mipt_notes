@@ -10,14 +10,15 @@ tags: []
 # Семинары Монченко
 
 1. [[1738753790-mipt-harmonic-analysis-seminar-04-02-25|04-02-25]]
-2. [[853-mipt-harmonic-analysis-seminar-18-02-25|18-02-25]]
-3. [[925-mipt-harmonic-analysis-seminar-25-02-25|25-02-25]]
-4. [[438-mipt-harmonic-analysis-seminar-04-03-25|04-03-25]]
-5. [[371-mipt-harmonic-analysis-seminar-11-03-25|11-03-25]]
-6. test
-7. [[234-mipt-harmonic-analysis-seminar-25-03-25|25-03-25]]
-8. [[977-mipt-harmonic-analysis-seminar-08-04-25|08-04-25]]
-9. [[437-mipt-harmonic-analysis-seminar-15-04-25|15-04-25]]
+2. no notes
+3. [[853-mipt-harmonic-analysis-seminar-18-02-25|18-02-25]]
+4. [[925-mipt-harmonic-analysis-seminar-25-02-25|25-02-25]]
+5. [[438-mipt-harmonic-analysis-seminar-04-03-25|04-03-25]]
+6. [[371-mipt-harmonic-analysis-seminar-11-03-25|11-03-25]]
+7. test
+8. [[234-mipt-harmonic-analysis-seminar-25-03-25|25-03-25]]
+9. [[977-mipt-harmonic-analysis-seminar-08-04-25|08-04-25]]
+10. [[437-mipt-harmonic-analysis-seminar-15-04-25|15-04-25]]
 
 # Лекции Тюленева
 

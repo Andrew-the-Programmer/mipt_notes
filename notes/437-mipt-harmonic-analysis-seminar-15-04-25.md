@@ -220,6 +220,11 @@ $\Align{
 = \int_{-\infty}^{+\infty}{\d t f(t)} \cdot \int_{-\infty}^{+\infty}{\d x g(x - t) e^{-iyx}} = \\
 = \int_{-\infty}^{+\infty}{\d t f(t) e^{-iyt}} \cdot \int_{-\infty}^{+\infty}{\d x g(x - t) e^{-it (x - t)}} = \\
 = 2\pi J[f] \cdot 2\pi J[g] \\
-}$ 
+}$
 
-# Пример. $f \in L_1, F[f] \not\in L_1$
+# Пример. $f \in L_1: F[f] \not\in L_1$
+
+$\Align{
+f = \chi_{[-1,1]} \\
+F[f](y) = \frac{\sin y}{\pi y} 
+}$
