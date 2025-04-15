@@ -84,8 +84,12 @@ $\forall \alpha,\beta > 0$
 ## Proof:
 
 $\Align{
-I = \lim_{A \to 0}{\int_A^{+\infty}{\frac{f(\alpha x)}{x} \d x} - 
+I = \lim_{A \to 0}\group{\int_A^{+\infty}{\frac{f(\alpha x)}{x} \d x} - 
 \int_A^{+\infty}{\frac{f(\beta x)}{x} \d x}} = \\
-\lim_{A \to 0}{\int_{\alpha A}^{+\infty}{\frac{f(t)}{t} \d x} - 
-\int_{\alpha A}^{+\infty}{\frac{f(t)}{t} \d x}} = \\
+\lim_{A \to 0}\group{\int_{\alpha A}^{+\infty}{\frac{f(t)}{t} \d x} - 
+\int_{\alpha A}^{+\infty}{\frac{f(t)}{t} \d t}} = \\
+\lim_{A \to 0}\group{\int_{\alpha A}^{\beta A}{\frac{f(t)}{t} \d t}} = \\
+\lim_{A \to 0}\group{f(\xi) \int_{\alpha A}^{\beta A}{\frac{\d t}{t}}} = \\
+\xi \in [\alpha A, \beta A] \\
+
 }$
