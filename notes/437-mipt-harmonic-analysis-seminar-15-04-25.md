@@ -61,10 +61,31 @@ H \defeq \int_0^{\infty}{\frac{x^2}{1 + x^4} \d x} =
 \frac{\pi}{\sqrt{2}} \\
 G = \frac{\pi}{2\sqrt{2}} \\
 }$
+
 $$
 I = \frac{\sqrt\pi}{2\sqrt{2}}
 $$
 
 # Формулы Фруллани
+
+## Let:
+
 1. $f \in C[0,+\infty]$
-2. $\int_A^{\infty}{\frac{f(x)}{x} \d x}$
+2. $\int_A^{\infty}{\frac{f(x)}{x} \d x}$ сх-ся $\forall A > 0$
+
+## Then:
+
+$$
+\int_0^{+\infty}{\frac{f(\alpha x) - f(\beta x)}{x} \d x} = f(0) \ln \frac{\beta}{\alpha}
+$$
+
+$\forall \alpha,\beta > 0$
+
+## Proof:
+
+$\Align{
+I = \lim_{A \to 0}{\int_A^{+\infty}{\frac{f(\alpha x)}{x} \d x} - 
+\int_A^{+\infty}{\frac{f(\beta x)}{x} \d x}} = \\
+\lim_{A \to 0}{\int_{\alpha A}^{+\infty}{\frac{f(t)}{t} \d x} - 
+\int_{\alpha A}^{+\infty}{\frac{f(t)}{t} \d x}} = \\
+}$
