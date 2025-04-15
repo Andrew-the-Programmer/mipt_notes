@@ -50,6 +50,13 @@ J \defeq \int_0^{\infty}{e^{-t x^2} \sin t \d t} = \textit{по частям} = 
 J = 1 + x^4 J \\
 J = \frac{1}{1 + x^4} \\
 I = \frac{1}{\sqrt\pi} \int_0^{\infty}{\d x \frac{1}{1 + x^4}}\\
-\int_0^{\infty}{\frac{x^2}{1 + x^4} \d x} = 
--\int_{\infty}^{0}{\frac{\d \group{\frac{1}{x}}}{1 + \group{}\frac{1}{x}}}
+G \defeq \int_0^{\infty}{\frac{\d x}{1 + x^4}}
+H \defeq \int_0^{\infty}{\frac{x^2}{1 + x^4} \d x} = 
+-\int_{\infty}^{0}{\frac{\d \group{\frac{1}{x}}}{1 + \group{\frac{1}{x}}^4}} =
+\int_0^{\infty}{\frac{\d u}{1 + u^4}} \\
+2 G = G + H = \int_0^{\infty}{\frac{1 + x^2}{1 + x^4} \d x} =
+\int_0^{\infty}{\frac{x^{-2} + 1}{x^{-2} + x^2} \d x} = \\
+\int_{-\infty}^{+\infty}{\frac{\d \group{x - \frac{1}{x}}}{x^{-2} + x^2} \d x} = \\
+\int_{-\infty}^{+\infty}{\frac{\d u}{2 + u^2}} =\\
+
 }$
