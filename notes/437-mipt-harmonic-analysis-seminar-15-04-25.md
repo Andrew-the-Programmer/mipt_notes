@@ -106,7 +106,7 @@ I = \lim_{A \to 0}\group{\int_A^{+\infty}{\frac{f(\alpha x)}{x} \d x} -
 ## Then:
 
 $$
-\int_0^{+\infty}{\frac{f(\alpha x) - f(\beta x)}{x} \d x} = 
+\int_0^{+\infty}{\frac{f(\alpha x) - f(\beta x)}{x} \d x} =
 (f(0) - f(\infty)) \ln \frac{\beta}{\alpha}
 $$
 
@@ -129,7 +129,7 @@ Null
 ## Then:
 
 $$
-\int_0^{+\infty}{\frac{f(\alpha x) - f(\beta x)}{x} \d x} = 
+\int_0^{+\infty}{\frac{f(\alpha x) - f(\beta x)}{x} \d x} =
 f(\infty) \ln \frac{\beta}{\alpha}
 $$
 
@@ -142,4 +142,23 @@ Null
 }$
 
 # Преобразование Фурье
-$f \in L_1[-\pi, \pi]$
+
+# .
+
+$f \in L_1[-R, R]$
+$$
+c_k = \frac{1}{2R} \int_{-R}^{R}{f(x) e^{ik \frac{\pi}{R} x} \d x}
+$$ 
+$$
+f(x) \sim \sum_{k\in\ZZ}{c_k e^{ikx}}
+$$
+
+# $R \to \infty$
+$f$ - "хорошая"
+ $$
+\Align{
+f(x) = \sum_{k\in\ZZ}{c_k e^{ikx}} = \\
+\frac{\pi}{R} \sum_{k\in\ZZ}{\group{c_k \frac{R}{\pi}} e^{ikx}} \\
+c_k \frac{R}{\pi} = \frac{1}{2\pi} \int_{-R}^{R}{f(x) e^{-ik \frac{\pi}{R} x} \d x}
+}
+$$
