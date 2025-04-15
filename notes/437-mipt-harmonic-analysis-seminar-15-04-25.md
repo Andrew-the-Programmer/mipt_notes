@@ -58,5 +58,13 @@ H \defeq \int_0^{\infty}{\frac{x^2}{1 + x^4} \d x} =
 \int_0^{\infty}{\frac{x^{-2} + 1}{x^{-2} + x^2} \d x} = \\
 \int_{-\infty}^{+\infty}{\frac{\d \group{x - \frac{1}{x}}}{x^{-2} + x^2} \d x} = \\
 \int_{-\infty}^{+\infty}{\frac{\d u}{2 + u^2}} =\\
-
+\frac{\pi}{\sqrt{2}} \\
+G = \frac{\pi}{2\sqrt{2}} \\
 }$
+$$
+I = \frac{\sqrt\pi}{2\sqrt{2}}
+$$
+
+# Формулы Фруллани
+1. $f \in C[0,+\infty]$
+2. $\int_A^{\infty}{\frac{f(x)}{x} \d x}$
