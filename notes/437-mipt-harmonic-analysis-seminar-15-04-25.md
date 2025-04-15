@@ -39,5 +39,8 @@ $\Align{
 t = x^2 \\
 I = \frac{1}{2} \int_0^{+\infty}{\frac{\sin t}{\sqrt{t}} \d t} \\
 \textit{Заметим:} \\
-\frac{1}{\sqrt t} = \frac{2}{\sqrt{t}} \int_0^{+\infty}{e^{-t x^2}} \\
+\frac{1}{\sqrt t} = \frac{2}{\sqrt{t}} \int_0^{+\infty}{e^{-t x^2} \d x} \\
+I = \frac{1}{\sqrt\pi} \int_0^{\infty}{\d t \sin t \int_0^{\infty}{e^{-t x^2} \d x}} \\
+\textit{Можно ли переставить интегралы? Ответ: } \\
+I = \frac{1}{\sqrt\pi} \int_0^{\infty}{\d x \int_0^{\infty}{\d t e^{-t x^2} \sin t}}
 }$
