@@ -199,10 +199,11 @@ $$
 F[f]\ \textit{инъективно, но не сюрьективно}
 $$
 
-# .
+# Замечания
 
 $C_0(\RR)$ - банахова алгебра
 (поточечное перемножение)
+($\norm{g} \defeq \sup\abs{g}$)
 $L_1(\RR)$ - тоже банахова алгебра
 ($f \cdot g \defeq f \star g$) - [[709-свертка-функций|свертка функций]]
 
@@ -212,10 +213,13 @@ $2\pi F$ - гомоморфизм алгебр
 
 $\Align{
 \textit{Хотим показать:}\\
-F[f \star g] = F[f] \cdot F[g] \\
+2\pi F[f \star g] = 2\pi F[f] \cdot 2\pi F[g] \\
 \int_{-\infty}^{+\infty}{(f \star g)(x) e^{-iyx} \d x} = \\
 \int_{-\infty}^{+\infty}{\d x \int_{-\infty}^{+\infty}{\d t f(t) g(x - t) e^{-iyx}}} = \\
 \textit{т. Фуббини} \\
 = \int_{-\infty}^{+\infty}{\d t f(t)} \cdot \int_{-\infty}^{+\infty}{\d x g(x - t) e^{-iyx}} = \\
-= \int_{-\infty}^{+\infty}{\d t f(t) e^{-iyt}} \cdot \int_{-\infty}^{+\infty}{\d x g(x - t) e^{-iy (x - t)}} = \\
-}$
+= \int_{-\infty}^{+\infty}{\d t f(t) e^{-iyt}} \cdot \int_{-\infty}^{+\infty}{\d x g(x - t) e^{-it (x - t)}} = \\
+= 2\pi J[f] \cdot 2\pi J[g] \\
+}$ 
+
+# Пример. $f \in L_1, F[f] \not\in L_1$
