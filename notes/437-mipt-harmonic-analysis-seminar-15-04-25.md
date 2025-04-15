@@ -182,3 +182,14 @@ $$
 $$
 F[f](y) = \frac{1}{2\pi} \int_{-\infty}^{+\infty}{f(x) e^{-iyx} \d x}
 $$
+$$
+F: L_1(\RR) \to C_0(\RR)
+$$
+$C_0(\RR) \defeq \set{y \in C(\RR) \mid y(+\infty) = 0}$
+
+# Свойства
+
+# Claim
+ $$
+F[f]\ \textit{инъективно, но не сюрьективно}
+$$
