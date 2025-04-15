@@ -41,11 +41,15 @@ I = \frac{1}{2} \int_0^{+\infty}{\frac{\sin t}{\sqrt{t}} \d t} \\
 \textit{Заметим:} \\
 \frac{1}{\sqrt t} = \frac{2}{\sqrt{t}} \int_0^{+\infty}{e^{-t x^2} \d x} \\
 I = \frac{1}{\sqrt\pi} \int_0^{\infty}{\d t \sin t \int_0^{\infty}{e^{-t x^2} \d x}} \\
-\textit{Можно ли переставить интегралы? Ответ: почему бы и нет} \\
+\textit{Можно ли переставить интегралы?}\\
+\textit{Ответ: почему бы и нет. (я не понял почему...) По теореме.} \\
 I = \frac{1}{\sqrt\pi} \int_0^{\infty}{\d x \int_0^{\infty}{\d t e^{-t x^2} \sin t}} \\
 J \defeq \int_0^{\infty}{e^{-t x^2} \sin t \d t} = \textit{по частям} = \\
 = -\int_0^{\infty}{x^2 e^{-t x^2} \cos t \d t} = \textit{по частям} = \\
 = 1 + \int_0^{\infty}{x^4 e^{-t x^2} \sin t \d t} \\
-J = 1 - x^4 J \\
-J = \frac{1}{1 + x^4}
+J = 1 + x^4 J \\
+J = \frac{1}{1 + x^4} \\
+I = \frac{1}{\sqrt\pi} \int_0^{\infty}{\d x \frac{1}{1 + x^4}}\\
+\int_0^{\infty}{\frac{x^2}{1 + x^4} \d x} = 
+-\int_{\infty}^{0}{\frac{\d \group{\frac{1}{x}}}{1 + \group{}\frac{1}{x}}}
 }$
