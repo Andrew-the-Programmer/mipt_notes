@@ -68,6 +68,8 @@ $$
 
 # Формулы Фруллани
 
+# 1.
+
 ## Let:
 
 1. $f \in C[0,+\infty]$
@@ -91,5 +93,53 @@ I = \lim_{A \to 0}\group{\int_A^{+\infty}{\frac{f(\alpha x)}{x} \d x} -
 \lim_{A \to 0}\group{\int_{\alpha A}^{\beta A}{\frac{f(t)}{t} \d t}} = \\
 \lim_{A \to 0}\group{f(\xi) \int_{\alpha A}^{\beta A}{\frac{\d t}{t}}} = \\
 \xi \in [\alpha A, \beta A] \\
-
+= f(0) \ln \frac{\beta}{\alpha} \\
 }$
+
+# 2.
+
+## Let:
+
+1. $f \in C[0,+\infty]$
+2. $\exists f(+\infty)$
+
+## Then:
+
+$$
+\int_0^{+\infty}{\frac{f(\alpha x) - f(\beta x)}{x} \d x} = 
+(f(0) - f(\infty)) \ln \frac{\beta}{\alpha}
+$$
+
+$\forall \alpha,\beta > 0$
+
+## Proof:
+
+$\Align{
+Null
+}$
+
+# 3.
+
+## Let:
+
+1. $f \in C[0,+\infty]$
+2. $\exists f(+\infty)$
+3. $\int_0^{A}{\frac{f(x)}{x} \d x}$ сх-ся $\forall A > 0$
+
+## Then:
+
+$$
+\int_0^{+\infty}{\frac{f(\alpha x) - f(\beta x)}{x} \d x} = 
+f(\infty) \ln \frac{\beta}{\alpha}
+$$
+
+$\forall \alpha,\beta > 0$
+
+## Proof:
+
+$\Align{
+Null
+}$
+
+# Преобразование Фурье
+$f \in L_1[-\pi, \pi]$
