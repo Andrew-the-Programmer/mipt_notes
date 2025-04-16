@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/871-mipt-chinese-lesson-15.md",
+                "file": "notes/339-mipt-differential-equations-lecture-16-04-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "871-mipt-chinese-lesson-15"
+              "title": "339-mipt-differential-equations-lecture-16-04-25"
             }
           }
         ]
@@ -193,6 +193,7 @@
   },
   "active": "79365aa3e212140e",
   "lastOpenFiles": [
+    "notes/339-mipt-differential-equations-lecture-16-04-25.md~",
     "sourses/chinese/lesson_15.pdf.part",
     "notes/620-mipt-physics-seminar-15-04-25.md~",
     "assets/imgs/15-04-25_11-57-55_021.png",
@@ -230,7 +231,6 @@
     "notes/864-время-работы-машины-НМТ.md",
     "notes/287-mipt-computational-complexity-theory-lecture-28-03-25.md",
     "notes/334-mipt-physics-lecture-05-04-25.md",
-    "notes/412-mipt-physics-lecture-12-04-25.md~",
     "notes/412-mipt-physics-lecture-12-04-25.md",
     "notes/871-mipt-chinese-lesson-15.md",
     "assets/imgs/11-04-25_18-16-59_584_IMG_20250411_181350.jpg",
