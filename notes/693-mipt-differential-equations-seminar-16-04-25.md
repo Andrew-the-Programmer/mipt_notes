@@ -51,5 +51,10 @@ $\Align{
 } \\
 u = 3x - 2y \\
 \textit{Общее решение:}\quad f(3x - 2y) \in C^1 \\
-a)\\
+a)\quad u = \alpha (3x - 2y) - (\alpha - 2) 5 \\
+б)\quad \textit{Нет решений} \\
+в)\quad u = \sin\group{y - \frac{3}{2} x}
 }$
+
+# T5
+
