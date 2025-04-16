@@ -104,3 +104,9 @@ $\Align{
 C_1 = \frac{x}{z + x^3} - ПИ \\
 }$
 Второй ПИ не нашли...
+
+Семинар [[693-mipt-differential-equations-seminar-16-04-25|16-04-25]].
+
+$\Align{
+
+}$
