@@ -19,5 +19,10 @@ $\Align{
 \dot{x} = x^2 + z^2 \\
 \dot{y} = 2(xy - xz^3) \\
 \dot{z} = 2xz
-}
+} \\
+(1)\ и\ (2) \\
+\frac{\d x}{x^2 + z^2} = \frac{\d y}{2(xy - xz^3)} = \frac{\d z}{2xz} \\
+\frac{\d (x+z)}{(x+z)^2} = \frac{\d (x-z)}{(x-z)^2} \\
+\frac{1}{x + z} = \frac{1}{x - z} + C \\
+u_1 = \frac{z}{x^2 + z^2}
 }$
