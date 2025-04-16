@@ -101,12 +101,14 @@ y = C_1 - \frac{1}{C_2 e^{(C_1 - 1) t} + \frac{1}{C_1 - 1}}
 $\Align{
 \frac{\d x}{x^2} = \frac{\d y}{2x^3-xy-z} = \frac{\d z}{xz-2x^4} \\
 \frac{\d x}{x} = \frac{\d(z + x^3)}{z + x^3} \\
-C_1 = \frac{x}{z + x^3} - ПИ \\
+r_1 = \frac{x}{z + x^3} - ПИ \\
 }$
 Второй ПИ не нашли...
 
 Семинар [[693-mipt-differential-equations-seminar-16-04-25|16-04-25]].
 
 $\Align{
-
+\frac{\d x}{x^2} = \frac{\d y}{2 x^3 - xy - z} = \frac{\d z}{xz - 2x^4} \\
+\d (xy) = \d z \\
+u_2
 }$
