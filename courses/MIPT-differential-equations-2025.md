@@ -19,6 +19,7 @@ tags: []
 8. [[909-mipt-differential-equations-lecture-26-03-25|26-03-25]]
 9. [[578-mipt-differential-equations-lecture-02-04-25|02-04-25]]
 10. [[879-mipt-differential-equations-lecture-09-04-25|09-04-25]]
+11. [[339-mipt-differential-equations-lecture-16-04-25|16-04-25]]
 
 # Seminars
 
