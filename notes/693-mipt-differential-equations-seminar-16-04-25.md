@@ -26,5 +26,15 @@ $\Align{
 \frac{1}{x + z} = \frac{1}{x - z} + C \\
 u_1 = \frac{z}{x^2 + z^2} \\
 (2)\ и\ (3) \\
-\frac{\d y}{y - z^3} = \frac{\d z}{z} = \frac{\d (z^3)}{3 z^3}
+\frac{\d y}{y - z^3} = \frac{\d z}{z} = \frac{\d (z^3)}{3 z^3} \\
+u_2 = \frac{z}{2y + z^3} \\
+\textit{Общее решение:} \\
+U = F(u_1, u_2) - ПИ \\
+F \in C^1 \\
+\textit{Решение ЗК:} \\
+\Cases{
+u_1 = \frac{z}{x^2 + z^2} \\
+u_2 = \frac{z}{2y + z^3} \\
+x^2 - z^2 = 2
+}
 }$
