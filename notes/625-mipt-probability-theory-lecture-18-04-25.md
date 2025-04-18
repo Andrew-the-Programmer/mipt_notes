@@ -84,7 +84,7 @@ F_{\mu_n} \to \Cases{
 \textit{Но можно поменять в точке разрыва (в 0) так, чтобы она стала ф-ией распределения } \mu.
 }$
 
-# Def. Монетная функция? (не уверен как пишется)
+# Def. Моментная функция.
 
 $$
 M_\xi(t) \defeq E e^{t\xi}
@@ -123,11 +123,14 @@ $$
 
 # $\chi^2$
 
-$$
-\chi^2(n) \defeq Gamma(\frac{n}{2}, \frac{1}{2})
-$$
+$\chi^2(n) \sim Gamma(\frac{n}{2}, \frac{1}{2})$
 
 $$
-
-
+\Gather{
+\varphi\groupr{\chi^2(n)}(t) = \group{\frac{\frac{1}{2}}{\frac{1}{2} - it}}^{\frac{n}{2}} \\
+\chi^2(n) \sim \sum_{j=1}^{n}{\chi^2_j(1)}
+}
 $$
+
+$\chi^2(1) \sim N^2(0,1)$
+$N^2(0,1) + N^2(0,1) \sim Exp(\frac{1}{2})$
