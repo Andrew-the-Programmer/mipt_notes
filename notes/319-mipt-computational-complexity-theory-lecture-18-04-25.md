@@ -31,7 +31,6 @@ L \in PSpace(s),\quad L \sim M_L \\
 x \in L \same Path_{G_M}(start,finish,\log K) \\
 \hline
 Идея:\\
-\hline
 Path_G(a,b,k)\\
 \same\\
 \exists u \forall x,y \group{
@@ -40,3 +39,6 @@ Path_G(x,y,k-1)
 }\\
 \hline
 }$
+
+# Схема
+
