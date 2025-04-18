@@ -12,3 +12,9 @@ tags: []
 $$
 TQBF \in \complete{PSpace}
 $$
+
+$\Align{
+G_M - \textit{конфигурационный граф} \\
+K = 2^{O(s(n))} - \textit{кол-во состояний} \\
+Path_G(a)
+}$

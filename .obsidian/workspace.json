@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/319-mipt-computational-complexity-theory-lecture-18-04-25.md",
+                "file": "notes/601-mipt-computational-complexity-theory-lecture-11-04-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "319-mipt-computational-complexity-theory-lecture-18-04-25"
+              "title": "601-mipt-computational-complexity-theory-lecture-11-04-25"
             }
           }
         ]
@@ -193,10 +193,11 @@
   },
   "active": "79365aa3e212140e",
   "lastOpenFiles": [
-    "notes/319-mipt-computational-complexity-theory-lecture-18-04-25.md~",
-    "notes/601-mipt-computational-complexity-theory-lecture-11-04-25.md",
-    "notes/319-mipt-computational-complexity-theory-lecture-18-04-25.md",
     "notes/601-mipt-computational-complexity-theory-lecture-11-04-25.md~",
+    "notes/319-mipt-computational-complexity-theory-lecture-18-04-25.md~",
+    "notes/4913",
+    "notes/319-mipt-computational-complexity-theory-lecture-18-04-25.md",
+    "notes/601-mipt-computational-complexity-theory-lecture-11-04-25.md",
     "courses/MIPT-computational-complexity-theory-2025.md~",
     "notes/471-mipt-differential-equations-seminar-02-04-25.md",
     "notes/648-mipt-probability-theory-seminar-11-04-25.md~",
@@ -208,7 +209,6 @@
     "assets/imgs/16-04-25_16-47-54_629.png",
     "assets/imgs/16-04-25_16-34-34_238.png",
     "assets/imgs/16-04-25_16-25-32_714.png",
-    "notes/4913",
     "assets/imgs/16-04-25_15-51-13_894.png",
     "assets/imgs/16-04-25_15-51-00_229.png",
     "assets/imgs/16-04-25_15-49-51_672.png",
