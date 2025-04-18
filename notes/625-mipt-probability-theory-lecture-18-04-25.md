@@ -53,6 +53,18 @@ $$
 $\Align{
 E \mu_n = np, \quad D \mu_n = npq \\
 \eta_n = \frac{\mu_n - np}{\sqrt{npq}}\\
-\varphi_{\eta_n}(t) = \textit{арифметика} = \group{1 - \frac{t^2}{2n} + o(\frac{1}{n})}^n 
+\varphi_{\eta_n}(t) = \textit{арифметика} = \\
+= \group{1 - \frac{t^2}{2n} + o(\frac{1}{n})}^n 
 \xrightarrow{n \to \infty} e^{-\frac{t^2}{2}}
+}$
+
+# .
+
+$$
+\varphi\groupr{U(-a,a)} = \frac{\sin{at}}{at}
+$$
+
+$\Align{
+\mu_n \sim U(-n,n) \\
+\mu_n \to \mu
 }$
