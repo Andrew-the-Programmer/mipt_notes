@@ -43,3 +43,25 @@ Path_G(x,y,k-1)
 # Схема
 
 ![18-04-25_11-37-59_701_IMG_20250418_113718.jpg](assets/imgs/18-04-25_11-37-59_701_IMG_20250418_113718.jpg)
+
+# Def. $\mcL$
+
+$$
+\Gather{
+\mcL \defeq DSpace(O(\log)) \\
+N\mcL \defeq NSpace(O(\log)) \\
+}
+$$
+
+# Theorem. Об иерархии по памяти.
+
+## If:
+
+$f,g \ge \log$
+$f = o(g)$
+
+## Then:
+
+$$
+DSpace(f) \subsetneq DSpace(g)
+$$
