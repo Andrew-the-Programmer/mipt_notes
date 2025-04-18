@@ -27,6 +27,10 @@ $$
 \sum N(m_i,\sigma_i^2) = N(\sum m_i, \sum \sigma_i^2)
 $$
 
+$$
+\varphi\groupr{U(-a,a)} = \frac{\sin{at}}{at}
+$$
+
 # Theorem.
 
 $$
@@ -58,11 +62,7 @@ E \mu_n = np, \quad D \mu_n = npq \\
 \xrightarrow{n \to \infty} e^{-\frac{t^2}{2}}
 }$
 
-# .
-
-$$
-\varphi\groupr{U(-a,a)} = \frac{\sin{at}}{at}
-$$
+# Замечание
 
 $\Align{
 \mu_n \sim U(-n,n) \\
@@ -71,4 +71,14 @@ $\Align{
 0, & t \neq 0\\
 1, & t = 0
 } - \textit{разрывна} \\
+F_{\mu_n} \to \frac{1}{2} - \textit{не ф-ия распределения} \\
+\hline
+\mu_n \sim U(-\frac{1}{n},\frac{1}{n}) \\
+\mu_n \to \mu \equiv 0 \\
+\varphi_{\mu_n} \to 1 \\
+F_{\mu_n} \to \Cases{
+0, & t < 0\\
+\frac{1}{2}, & t = 0 \\
+1, & t \ge 0
+} - \textit{не ф-ия распределения} \\
 }$
