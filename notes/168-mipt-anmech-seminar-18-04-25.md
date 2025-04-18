@@ -35,11 +35,15 @@ $\Align{
 \tilde{q_i} = \alpha_i = const \\
 \tilde{p_i} = \beta_i = const
 } \\
+}$
+
+Уравнения движения
+$$
 \Cases{
 \pdv{q_i}{S} = p_i \\
 \pdv{\alpha_i}{S} = -\beta_i
-} \\
-}$
+}
+$$
 
 # Полный интеграл
 
