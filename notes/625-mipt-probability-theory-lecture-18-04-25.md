@@ -22,3 +22,9 @@ $$
 $$
 \varphi\groupr{N(m,\sigma^2)}(t) = e^{itm - \frac{t^2}{2} \sigma^2}
 $$
+
+$$
+\sum N(m_i,\sigma_i^2) = N(\sum m_i, \sum \sigma_i^2)
+$$
+
+# Theorem.
