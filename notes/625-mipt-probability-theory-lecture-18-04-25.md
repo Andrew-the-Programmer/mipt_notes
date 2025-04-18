@@ -134,3 +134,16 @@ $$
 
 $\chi^2(1) \sim N^2(0,1)$
 $N^2(0,1) + N^2(0,1) \sim Exp(\frac{1}{2})$
+
+# Распределение Коши - $K$
+
+$$
+K(0,1) \sim f(x) = \frac{1}{\pi (1 + x^2)}
+$$
+
+$\Align{
+\varphi_K(t) = e^{-\abs{t}}
+}$ 
+$$
+\varphi\groupr{K(a,\sigma)}
+$$
