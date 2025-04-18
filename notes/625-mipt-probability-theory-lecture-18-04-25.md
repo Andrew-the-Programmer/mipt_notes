@@ -81,4 +81,19 @@ F_{\mu_n} \to \Cases{
 \frac{1}{2}, & t = 0 \\
 1, & t \ge 0
 } - \textit{не ф-ия распределения} \\
+\textit{Но можно поменять в точке разрыва (в 0) так, чтобы она стала ф-ией распределения } \mu.
 }$
+
+# Gamma
+
+$\Align{
+\alpha,\lambda > 0 \\
+Gamma(\alpha, \lambda) \sim
+f(x) = \frac{\lambda^\alpha}{\Gamma(\alpha)} x^{\alpha - 1} e^{-\lambda x}
+}$
+
+# Def. Монетная функция
+
+$$
+M_\xi(t) \defeq E e^{t\xi}
+$$
