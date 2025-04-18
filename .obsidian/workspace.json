@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "32feb7673a27f3ab",
+        "id": "4cb2967f517b32e4",
         "type": "tabs",
         "children": [
           {
-            "id": "79365aa3e212140e",
+            "id": "fce4178ff020f302",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/670-mipt-probability-theory-lecture-21-03-25.md",
+                "file": "notes/886-mipt-probability-theory-seminar-04-04-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "670-mipt-probability-theory-lecture-21-03-25"
+              "title": "886-mipt-probability-theory-seminar-04-04-25"
             }
           }
         ]
@@ -191,9 +191,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "79365aa3e212140e",
+  "active": "fce4178ff020f302",
   "lastOpenFiles": [
     "courses/MIPT-probability-theory-2025.md",
+    "notes/625-mipt-probability-theory-lecture-18-04-25.md",
+    "notes/886-mipt-probability-theory-seminar-04-04-25.md",
+    "notes/886-mipt-probability-theory-seminar-04-04-25.md~",
+    "notes/406-chinese-不是...吗-bushi...ma.md",
+    "notes/670-mipt-probability-theory-lecture-21-03-25.md",
     "notes/299-mipt-probability-theory-seminar-28-03-25.md",
     "notes/930-mipt-probability-theory-lecture-28-03-25.md",
     "notes/930-mipt-probability-theory-lecture-28-03-25.md~",
@@ -202,7 +207,6 @@
     "notes/648-mipt-probability-theory-seminar-11-04-25.md",
     "notes/306-mipt-probability-theory-lecture-11-04-25.md",
     "notes/306-mipt-probability-theory-lecture-11-04-25.md~",
-    "notes/625-mipt-probability-theory-lecture-18-04-25.md",
     "notes/648-mipt-probability-theory-seminar-11-04-25.md~",
     "notes/625-mipt-probability-theory-lecture-18-04-25.md~",
     "notes/4913",
@@ -211,7 +215,6 @@
     "assets/imgs/18-04-25_11-37-59_701_IMG_20250418_113718.jpg",
     "notes/601-mipt-computational-complexity-theory-lecture-11-04-25.md~",
     "notes/601-mipt-computational-complexity-theory-lecture-11-04-25.md",
-    "courses/MIPT-computational-complexity-theory-2025.md~",
     "notes/471-mipt-differential-equations-seminar-02-04-25.md",
     "notes/568-mipt-differential-equations-seminar-09-04-25.md",
     "notes/453-mipt-differential-equations-seminar-26-03-25.md",
@@ -235,9 +238,6 @@
     "notes/437-mipt-harmonic-analysis-seminar-15-04-25.md",
     "notes/204-формулы-Фруллани.md",
     "courses/MIPT-computational-complexity-theory-2025.md",
-    "notes/777-mipt-computational-complexity-theory-lecture-28-02-25.md",
-    "notes/712-mipt-computational-complexity-theory-lecture-21-03-25.md",
-    "notes/181-mipt-computational-complexity-theory-lecture-14-03-25.md",
-    "notes/133-mipt-computational-complexity-theory-lecture-07-03-25.md"
+    "notes/777-mipt-computational-complexity-theory-lecture-28-02-25.md"
   ]
 }
