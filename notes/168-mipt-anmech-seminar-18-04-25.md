@@ -26,6 +26,19 @@ $$
 \pdv{t}{S} + H(t,q,\pdv{q}{S}) = 0
 $$
 
+$\Align{
+\Cases{
+\dot{\tilde{q_i}} = \pdv{\tilde{p_i}}{\tilde{H}} = 0 \\
+\dot{\tilde{p_i}} = \pdv{\tilde{q_i}}{\tilde{H}} = 0
+} \\
+\Cases{
+\tilde{q_i} = \alpha_i = const \\
+\tilde{p_i} = \beta_i = const
+} \\
+\Cases{
+} \\
+}$
+
 # Полный интеграл
 
 это решение ур-ия Гамильтона-Якоби $S(t,q_i,\alpha_i)$:
