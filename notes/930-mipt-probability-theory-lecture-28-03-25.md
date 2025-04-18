@@ -75,7 +75,7 @@ $D_\xi = \sigma^2 \defeq \norm{\xi - E\xi}$
 ## Свойства
 
 1. $D_\xi = E_{\xi^2} - (E_\xi)^2$
-2. $D_{a\xi + b} = a^2 E\group{\group{\mathring{\xi}}^2}$
+2. $D_{a\xi + b} = a^2 D_\xi$
 3. $D_\xi = 0 \same \xi \equiv const$
 4. $D_{\xi + \eta} = 
 E\group{\mathring{\xi} + \mathring{\eta}}^2 = 
