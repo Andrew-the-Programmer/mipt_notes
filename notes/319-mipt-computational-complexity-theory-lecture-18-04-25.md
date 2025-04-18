@@ -78,7 +78,7 @@ Claim:\ L \not\in DSpace(f) \\
 # .
 
 $$
-N\mcL \subsetneq P
+N\mcL \subseteq P
 $$
 
 # Def. Логарифмическая сводимость: $\le_{\log}^m$
@@ -86,6 +86,13 @@ $$
 $$
 L_1 \le_{\log}^m L_2 \implies L_1 \le_p^m L_2
 $$
+
 $$
 L_1 \le_{\log}^m L_2 \implies \group{L_2 \in [N]\mcL \implies L_1 \in [N]\mcL}
+$$
+
+Транзитивность:
+
+$$
+L_1 \le_{\log}^m L_2 \land L_2 \le_{\log}^m L_3 \implies L_1 \le_{\log}^m L_3
 $$
