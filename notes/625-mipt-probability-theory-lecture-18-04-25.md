@@ -156,3 +156,7 @@ N(m_\xi, R_\xi) \sim
 f(x) = \frac{1}{(2\pi)^{n/2} \sqrt{\det R_\xi}}
 \exp{-\frac{1}{2}\groupr{(x - m_\xi)^T R_\xi\inv (x - m_\xi)}}
 $$
+# Def. Хар. ф-ия случайного вектора
+$$
+\varphi_{\vec{\xi}}(\vec{t}) = E e^{i t^T \xi}
+$$
