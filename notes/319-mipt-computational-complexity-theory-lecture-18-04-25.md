@@ -72,4 +72,13 @@ $\Align{
 L \defeq \set{\group{M, x} \mid 
 \textit{M принимает x за} \le O(g(n))\ \textit{памяти и} \le 2^{O(g(n))}\ шагов} \\
 Claim:\ L \in DSpace(g) \\
+Claim:\ L \not\in DSpace(f) \\
 }$
+
+# .
+
+$$
+N\mcL \subsetneq P
+$$
+
+# Def. Логарифмическая сводимость $\le_{\log}^m$
