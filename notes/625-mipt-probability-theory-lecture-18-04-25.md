@@ -138,12 +138,21 @@ $N^2(0,1) + N^2(0,1) \sim Exp(\frac{1}{2})$
 # Распределение Коши - $K$
 
 $$
-K(0,1) \sim f(x) = \frac{1}{\pi (1 + x^2)}
+K(a,\sigma) \sim f(x) = \frac{1}{\pi \sigma (1 + \group{\frac{x-a}{\sigma}}^2)}
 $$
 
 $\Align{
-\varphi_K(t) = e^{-\abs{t}}
-}$ 
+\varphi_{K(0,1)}(t) = e^{-\abs{t}}
+}$
+
 $$
-\varphi\groupr{K(a,\sigma)}
+\varphi\groupr{K(a,\sigma)} = e^{ita - \sigma \abs{t}}
+$$
+
+# Обобщенное нормальное распределение
+
+$$
+N(m_\xi, R_\xi) \sim
+f(x) = \frac{1}{(2\pi)^{n/2} \sqrt{\det R_\xi}}
+\exp{-\frac{1}{2}\groupr{(x - m_\xi)^T R_\xi\inv (x - m_\xi)}}
 $$
