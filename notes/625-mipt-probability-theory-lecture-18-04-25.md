@@ -66,5 +66,9 @@ $$
 
 $\Align{
 \mu_n \sim U(-n,n) \\
-\mu_n \to \mu
+\mu_n \to \mu - \textit{не случайная величина} \\
+\varphi_{\mu_n} \to \Cases{
+0, & t \neq 0\\
+1, & t = 0
+} - \textit{разрывна} \\
 }$
