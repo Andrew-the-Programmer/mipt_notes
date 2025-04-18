@@ -84,16 +84,32 @@ F_{\mu_n} \to \Cases{
 \textit{Но можно поменять в точке разрыва (в 0) так, чтобы она стала ф-ией распределения } \mu.
 }$
 
+# Def. Монетная функция? (не уверен как пишется)
+
+$$
+M_\xi(t) \defeq E e^{t\xi}
+$$
+
+$$
+M_\xi(it) = \varphi_\xi(t)
+$$
+
 # Gamma
 
 $\Align{
 \alpha,\lambda > 0 \\
-Gamma(\alpha, \lambda) \sim
-f(x) = \frac{\lambda^\alpha}{\Gamma(\alpha)} x^{\alpha - 1} e^{-\lambda x}
+\xi \sim Gamma(\alpha, \lambda) \sim
+f(x) = \frac{\lambda^\alpha}{\Gamma(\alpha)} x^{\alpha - 1} e^{-\lambda x} \\
+M_\xi(t) = \group{\frac{\lambda}{\lambda - t}}^{\alpha} \\
 }$
 
-# Def. Монетная функция
+$$
+\varphi\groupr{Gamma(\alpha, \lambda)}(t) = \group{\frac{\lambda}{\lambda - it}}^{\alpha}
+$$
+$$
+Exp(\lambda) \sim Gamma(1,\lambda)
+$$
 
 $$
-M_\xi(t) \defeq E e^{t\xi}
+\varphi\groupr{Exp(\lambda)}(t) = \frac{\lambda}{\lambda - it}
 $$
