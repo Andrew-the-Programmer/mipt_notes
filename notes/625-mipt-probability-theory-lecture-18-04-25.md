@@ -156,7 +156,20 @@ N(m_\xi, R_\xi) \sim
 f(x) = \frac{1}{(2\pi)^{n/2} \sqrt{\det R_\xi}}
 \exp{-\frac{1}{2}\groupr{(x - m_\xi)^T R_\xi\inv (x - m_\xi)}}
 $$
+
 # Def. Хар. ф-ия случайного вектора
+
 $$
 \varphi_{\vec{\xi}}(\vec{t}) = E e^{i t^T \xi}
+$$
+
+$\eta = B \xi$
+$B$ - невырожденное лин. преобразование
+
+$$
+\Gather{
+m_\eta = B m_\xi \\
+R_\eta = B R_\xi B^T \\
+\xi \sim N(m_\xi, R_\xi) \implies \eta \sim N(m_\eta, R_\eta)
+}
 $$
