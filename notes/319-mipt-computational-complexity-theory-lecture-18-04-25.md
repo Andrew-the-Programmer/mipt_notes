@@ -69,5 +69,7 @@ $$
 ## Proof:
 
 $\Align{
-L \defeq \set{\group{M, x} \mid M\ \textit{принимает x за память}\ n} \\ 
+L \defeq \set{\group{M, x} \mid 
+\textit{M принимает x за} \le O(g(n))\ \textit{памяти и} \le 2^{O(g(n))}\ шагов} \\
+Claim:\ L \in DSpace(g) \\
 }$
