@@ -8,5 +8,17 @@ tags: []
 # MIPT probability theory lecture 18-04-25
 
 $$
-\xi \sim Be(p) \implies \varphi_\xi(t) = q + p e^{it}
+\varphi\groupr{Be(p)}(t) = q + p e^{it}
+$$
+
+$$
+\varphi\groupr{Binom(n,p)}(t) = (q + p e^{it})^n
+$$
+
+$$
+\varphi\groupr{N(0,1)}(t) = e^{-\frac{t^2}{2}}
+$$
+
+$$
+\varphi\groupr{N(m,\sigma^2)}(t) = e^{itm - \frac{t^2}{2} \sigma^2}
 $$
