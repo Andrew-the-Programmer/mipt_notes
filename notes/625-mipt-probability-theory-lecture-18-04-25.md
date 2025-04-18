@@ -104,12 +104,30 @@ M_\xi(t) = \group{\frac{\lambda}{\lambda - t}}^{\alpha} \\
 }$
 
 $$
-\varphi\groupr{Gamma(\alpha, \lambda)}(t) = \group{\frac{\lambda}{\lambda - it}}^{\alpha}
+\Gather{
+\varphi\groupr{Gamma(\alpha, \lambda)}(t) = \group{\frac{\lambda}{\lambda - it}}^{\alpha} \\
+\sum Gamma(n_i,\lambda) = Gamma(\sum n_i,\lambda)
+}
 $$
+
+# Exp
+
+$Exp(\lambda) \sim Gamma(1,\lambda)$
+
 $$
-Exp(\lambda) \sim Gamma(1,\lambda)
+\Gather{
+\varphi\groupr{Exp(\lambda)}(t) = \frac{\lambda}{\lambda - it} \\
+Gamma(n,\lambda) = \sum_{i=1}^{n}{Exp_i(\lambda)}
+}
+$$
+
+# $\chi^2$
+
+$$
+\chi^2(n) \defeq Gamma(\frac{n}{2}, \frac{1}{2})
 $$
 
 $$
-\varphi\groupr{Exp(\lambda)}(t) = \frac{\lambda}{\lambda - it}
+
+
 $$
