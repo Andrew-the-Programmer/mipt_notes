@@ -189,10 +189,13 @@ $$
 1. $$
    \abs{\varphi_\xi(t)} \le 1,\quad \varphi_\xi(0) = 1
    $$
-2. $$
+
+2. Равномерная непрерывность $$
    \forall t
    \forall \varepsilon > 0 \exists h :
-   \abs{\varphi_\xi(t) - \varphi_\xi(t + h)} \le \varepsilon
+   \abs{\varphi*\xi(t) - \varphi*\xi(t + h)} \le \varepsilon
+
+   $$
    $$
 
 3. $$
