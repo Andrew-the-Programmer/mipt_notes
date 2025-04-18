@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "poiss",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,12 +84,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "118388a6ab5b8fbb",
@@ -193,13 +193,13 @@
   },
   "active": "fce4178ff020f302",
   "lastOpenFiles": [
+    "notes/299-mipt-probability-theory-seminar-28-03-25.md",
+    "notes/886-mipt-probability-theory-seminar-04-04-25.md",
     "courses/MIPT-probability-theory-2025.md",
     "notes/625-mipt-probability-theory-lecture-18-04-25.md",
-    "notes/886-mipt-probability-theory-seminar-04-04-25.md",
     "notes/886-mipt-probability-theory-seminar-04-04-25.md~",
     "notes/406-chinese-不是...吗-bushi...ma.md",
     "notes/670-mipt-probability-theory-lecture-21-03-25.md",
-    "notes/299-mipt-probability-theory-seminar-28-03-25.md",
     "notes/930-mipt-probability-theory-lecture-28-03-25.md",
     "notes/930-mipt-probability-theory-lecture-28-03-25.md~",
     "notes/670-mipt-probability-theory-lecture-21-03-25.md~",
