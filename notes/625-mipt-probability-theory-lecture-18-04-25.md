@@ -49,8 +49,10 @@ F_{\eta_n}(x) \rightrightarrows F_{N(0,1)}(x),\quad n\to\infty
 $$
 
 ## Proof:
+
 $\Align{
 E \mu_n = np, \quad D \mu_n = npq \\
 \eta_n = \frac{\mu_n - np}{\sqrt{npq}}\\
-\varphi_{\eta_n}(t) = 
+\varphi_{\eta_n}(t) = \textit{арифметика} = \group{1 - \frac{t^2}{2n} + o(\frac{1}{n})}^n 
+\xrightarrow{n \to \infty} e^{-\frac{t^2}{2}}
 }$
