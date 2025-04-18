@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/709-свертка-функций.md",
+                "file": "notes/299-mipt-probability-theory-seminar-28-03-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "709-свертка-функций"
+              "title": "299-mipt-probability-theory-seminar-28-03-25"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "свер",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "118388a6ab5b8fbb",
@@ -193,6 +194,7 @@
   },
   "active": "fce4178ff020f302",
   "lastOpenFiles": [
+    "notes/709-свертка-функций.md",
     "notes/369-mipt-harmonic-analysis-lecture-13-02-25.md",
     "notes/306-mipt-probability-theory-lecture-11-04-25.md",
     "notes/886-mipt-probability-theory-seminar-04-04-25.md",
@@ -237,7 +239,6 @@
     "notes/786-mipt-physics-lecture-15-03-25.md",
     "notes/438-mipt-harmonic-analysis-seminar-04-03-25.md",
     "notes/437-mipt-harmonic-analysis-seminar-15-04-25.md",
-    "notes/204-формулы-Фруллани.md",
-    "courses/MIPT-computational-complexity-theory-2025.md"
+    "notes/204-формулы-Фруллани.md"
   ]
 }
