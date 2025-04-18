@@ -36,6 +36,21 @@ F_{\xi_n} \xrightarrow[n \to \infty]{d} F_\xi
 $$
 
 # Theorem. Муавра-Лапласа.
+
 ## If:
 
 $\mu_n \sim Binom(n,p)$
+$\eta_n \defeq \frac{\mu_n - E_{\mu_n}}{\sqrt{D_{\mu_n}}}$
+
+## Then:
+
+$$
+F_{\eta_n}(x) \rightrightarrows F_{N(0,1)}(x),\quad n\to\infty
+$$
+
+## Proof:
+$\Align{
+E \mu_n = np, \quad D \mu_n = npq \\
+\eta_n = \frac{\mu_n - np}{\sqrt{npq}}\\
+\varphi_{\eta_n}(t) = 
+}$
