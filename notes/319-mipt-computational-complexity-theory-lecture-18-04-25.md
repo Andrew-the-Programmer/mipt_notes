@@ -81,4 +81,11 @@ $$
 N\mcL \subsetneq P
 $$
 
-# Def. Логарифмическая сводимость $\le_{\log}^m$
+# Def. Логарифмическая сводимость: $\le_{\log}^m$
+
+$$
+L_1 \le_{\log}^m L_2 \implies L_1 \le_p^m L_2
+$$
+$$
+L_1 \le_{\log}^m L_2 \implies \group{L_2 \in [N]\mcL \implies L_1 \in [N]\mcL}
+$$
