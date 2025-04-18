@@ -40,7 +40,7 @@ Path_G(x,y,k-1)
 \hline
 }$
 
-# Схема
+# Обновленная картина мира.
 
 ![18-04-25_11-37-59_701_IMG_20250418_113718.jpg](assets/imgs/18-04-25_11-37-59_701_IMG_20250418_113718.jpg)
 
@@ -65,3 +65,9 @@ $f = o(g)$
 $$
 DSpace(f) \subsetneq DSpace(g)
 $$
+
+## Proof:
+
+$\Align{
+L \defeq \set{\group{M, x} \mid M\ \textit{принимает x за память}\ n} \\ 
+}$
