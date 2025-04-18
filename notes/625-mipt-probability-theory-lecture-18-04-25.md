@@ -28,3 +28,14 @@ $$
 $$
 
 # Theorem.
+
+$$
+\forall t\quad \varphi_{\xi_n} \xrightarrow[n \to \infty]{} \varphi_\xi
+\implies
+F_{\xi_n} \xrightarrow[n \to \infty]{d} F_\xi
+$$
+
+# Theorem. Муавра-Лапласа.
+## If:
+
+$\mu_n \sim Binom(n,p)$
