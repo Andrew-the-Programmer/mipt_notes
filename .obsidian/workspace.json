@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/299-mipt-probability-theory-seminar-28-03-25.md",
+                "file": "notes/613-вероятностное-пространство.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "299-mipt-probability-theory-seminar-28-03-25"
+              "title": "613-вероятностное-пространство"
             }
           }
         ]
@@ -194,11 +194,11 @@
   },
   "active": "fce4178ff020f302",
   "lastOpenFiles": [
+    "notes/299-mipt-probability-theory-seminar-28-03-25.md",
     "notes/709-свертка-функций.md",
     "notes/369-mipt-harmonic-analysis-lecture-13-02-25.md",
     "notes/306-mipt-probability-theory-lecture-11-04-25.md",
     "notes/886-mipt-probability-theory-seminar-04-04-25.md",
-    "notes/299-mipt-probability-theory-seminar-28-03-25.md",
     "courses/MIPT-probability-theory-2025.md",
     "notes/625-mipt-probability-theory-lecture-18-04-25.md",
     "notes/886-mipt-probability-theory-seminar-04-04-25.md~",
