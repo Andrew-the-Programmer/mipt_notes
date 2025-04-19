@@ -76,8 +76,10 @@ u = c n, \quad n = \sqrt{1 - \frac{\omega_p^2}{\omega^2}}
 $$
 
 # Закон Бугера
+
 $\omega < \omega_p \implies$
 Полное отражение.
+
 $$
-E = E_0 e^{-\alpha x},\quad \alpha = \frac{n \omega}{c i}
+E = E_0 e^{-\alpha x},\quad \alpha = \frac{n}{i} \frac{\omega}{c i}
 $$
