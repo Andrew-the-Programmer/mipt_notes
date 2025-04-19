@@ -64,5 +64,5 @@ t = \frac{\lambda_0}{\D \lambda^2} \group{\dv[2]{\lambda}{v}}\inv
 $$
 
 $$
-E(x,t) = A(x - ut) e^{}
+E(x,t) = A(x - ut) e^{i k_0 (x - vt)}
 $$
