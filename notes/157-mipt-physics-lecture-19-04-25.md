@@ -83,3 +83,7 @@ $\omega < \omega_p \implies$
 $$
 E = E_0 e^{-\alpha x},\quad \alpha = \frac{n}{i} \frac{\omega}{c i}
 $$
+
+# Фокусировка ренгеновских волн. Линза Снигирева
+
+![19-04-25_12-13-20_313.png](assets/imgs/19-04-25_12-13-20_313.png)
