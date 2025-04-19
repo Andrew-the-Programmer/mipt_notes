@@ -54,5 +54,15 @@ $$
 ![19-04-25_11-20-50_491.png](assets/imgs/19-04-25_11-20-50_491.png)
 
 $$
+u = v(\lambda_0) - \lambda_0 \dv{\lambda}{v}
+$$
+
+Время расплывания:
+
+$$
+t = \frac{\lambda_0}{\D \lambda^2} \group{\dv[2]{\lambda}{v}}\inv
+$$
+
+$$
 E(x,t) = A(x - ut) e^{}
 $$
