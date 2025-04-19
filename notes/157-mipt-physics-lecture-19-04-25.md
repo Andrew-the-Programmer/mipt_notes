@@ -25,4 +25,12 @@ $$
 u \defeq \dv{k}{\omega} = v \group{1 - \frac{\lambda}{n} \dv{\lambda}{n}}
 $$
 
-Законы дисперсии
+# Законы дисперсии
+
+# Линейная дисперсия
+
+$$
+v = a + b \lambda
+$$
+
+За время $\tau = \frac{1}{b}$
