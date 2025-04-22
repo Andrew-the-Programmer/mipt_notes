@@ -95,3 +95,13 @@ F^2[f(x)] = f(-x)
 $$
 
 # .
+
+$$
+\Gather{
+\abs{f(x)} < e^{-\delta x}\quad (\delta > 0) \\
+\implies\\
+F\groupr{f}(y : \Im y < \delta) - \textit{аналитична}
+}
+$$
+
+# .
