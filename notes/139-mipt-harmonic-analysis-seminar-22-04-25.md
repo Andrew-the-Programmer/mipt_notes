@@ -8,6 +8,7 @@ tags: []
 # MIPT harmonic analysis seminar 22-04-25
 
 # Интеграл Фурье интеграла Пуассона
+
 $$
-F[f](y) = 
+F\groupr{}(y) = \frac{1}{\sqrt{2\pi}} e^{-\frac{y^2}{2}}
 $$
