@@ -100,13 +100,29 @@ $$
 \Gather{
 \abs{f(x)} < e^{-\delta x}\quad (\delta > 0) \\
 \implies\\
-F\groupr{f}(y : \Im y < \delta) - \textit{аналитична}
+F\groupr{f}(y : \Im y < \delta) - \textit{аналитична (сходится к своему ряду Тейлора)}
 }
 $$
 
 # .
 
-$f$ - с компактным носителем ($supp(f) \defeq \sigma\set{x : f(x) = 0}$ - компакт) 
+$f$ - с компактным носителем ($supp(f) \defeq \sigma\set{x : f(x) = 0}$ - компакт)
 $\implies$
+$F\groupr{f}$ - аналитична в $\CC$
 
-интеграл в смысле главного значения
+# .
+
+# Преобразование Фурье в $L_2(\RR)$
+
+$F: L_2(\RR) \to L_2(\RR)$
+
+$$
+F\groupr{f}(y) \stackrel{v.p.}{=}
+\frac{1}{\sqrt{2\pi}} \int_{-\infty}^{+\infty}{f(x) e^{-iyx} dx}
+$$
+
+Интеграл в смысле главного значения
+
+$$
+v.p. \int_{-\infty}^{+\infty}{f(x) dx} = \lim_{R\to\infty}
+$$
