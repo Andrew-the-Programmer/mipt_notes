@@ -20,3 +20,8 @@ tags: []
 # 11.54
 
 ![22-04-25_11-30-48_012.png](assets/imgs/22-04-25_11-30-48_012.png)
+
+$\Align{
+\delta \varphi = \alpha (n_e - n_o) - \textit{угол расхождения} \\
+\Lambda = \frac{\lambda}{\delta \varphi} - \textit{период}\\
+}$
