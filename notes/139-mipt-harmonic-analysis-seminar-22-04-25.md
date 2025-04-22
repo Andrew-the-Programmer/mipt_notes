@@ -127,7 +127,7 @@ $$
 v.p. \int_{-\infty}^{+\infty}{f(x) dx} \defeq \lim_{R\to\infty} \int_{-R}^{+R}{f(x) \d x}
 $$
 
-# Theorem.
+# Theorem. Планшереля.
 
 ## If:
 
@@ -137,3 +137,4 @@ $f \in L_2(\RR)$
 
 1. $F\groupr{f}$ всегда суцествует
 2. $f \in L_1(\RR) \cap L_2(\RR) \implies F_{L_1}\groupr{f} = F_{L_2}\groupr{f}$
+3. $\veccross{f}{g} = \veccross{F\groupr{f}}{F\groupr{g}}$
