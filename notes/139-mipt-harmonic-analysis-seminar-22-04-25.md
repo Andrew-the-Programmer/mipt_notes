@@ -60,3 +60,24 @@ $$
 # 4
 
 $f, {f}^{'}, \dots, {f}^{(k)} \in L_1(\RR)$
+
+$$
+F\groupr{{f}^{'}} = i y F[f]
+$$
+
+$\dv{x}{} \to i y$
+
+# Claim
+
+$$
+f \in C^\infty(\RR) \implies \forall k \hthen y^k f(y) \to 0,\quad y \to \infty
+$$
+
+$$
+x^k f \in L_1(\RR) \froall k \implies f \in C^\infty(\RR)
+$$
+
+# Пространство Шварца - 
+$$
+S
+$$
