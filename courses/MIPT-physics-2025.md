@@ -35,6 +35,7 @@ tags: []
 9. [[993-mipt-physics-seminar-01-04-25|01-04-25]]
 10. [[316-mipt-physics-seminar-08-04-25|08-04-25]]
 11. [[620-mipt-physics-seminar-15-04-25|15-04-25]]
+12. [[791-mipt-physics-seminar-22-04-25|22-04-25]]
 
 # HW
 
