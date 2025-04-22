@@ -10,5 +10,22 @@ tags: []
 # Интеграл Фурье интеграла Пуассона
 
 $$
-F\groupr{}(y) = \frac{1}{\sqrt{2\pi}} e^{-\frac{y^2}{2}}
+F\groupr{e^{-\frac{x^2}{2}}}(y) = \frac{1}{\sqrt{2\pi}} e^{-\frac{y^2}{2}}
+$$
+
+# Пример 2
+
+$$
+f(x) = \Cases{
+e^{-ax},& x\ge0\\
+0,& x<0\\
+}
+$$
+
+$$
+F\groupr{f}(y) = \frac{1}{2\pi} \frac{1}{i y + a}
+$$
+$$
+F\groupr{e^{-a \abs{x}}} = F\groupr{f(x) + f(-x)} = 
+\frac{1}{2\pi} \group{}
 $$
