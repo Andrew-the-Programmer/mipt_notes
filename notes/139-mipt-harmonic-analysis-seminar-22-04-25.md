@@ -25,7 +25,16 @@ $$
 $$
 F\groupr{f}(y) = \frac{1}{2\pi} \frac{1}{i y + a}
 $$
+
 $$
-F\groupr{e^{-a \abs{x}}} = F\groupr{f(x) + f(-x)} = 
-\frac{1}{2\pi} \group{}
+F\groupr{e^{-a \abs{x}}} = F\groupr{f(x) + f(-x)} =
+\frac{1}{\pi} \frac{a}{a^2 + y^2}
 $$
+
+# 3
+
+$f, xf, \dots, x^k f \in L_1(\RR)$
+
+$\Align{
+F[xf] = 
+}$
