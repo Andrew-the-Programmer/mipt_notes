@@ -77,7 +77,15 @@ $$
 x^k f \in L_1(\RR) \froall k \implies f \in C^\infty(\RR)
 $$
 
-# Пространство Шварца - 
+# Пространство Шварца
+
 $$
-S
+S \defeq \set{f \in C^\infty(\RR) \mid
+\forall m,p \in \NN \hthen x^m {f}^{(p)}(x) \to 0,\ x \to \pm\infty}
+$$
+
+# Claim
+
+$$
+F: S \to S - \textit{изоморфизм}
 $$
