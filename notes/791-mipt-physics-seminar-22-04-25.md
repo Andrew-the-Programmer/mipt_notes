@@ -25,3 +25,5 @@ $\Align{
 \delta \varphi = \alpha (n_e - n_o) - \textit{угол расхождения} \\
 \Lambda = \frac{\lambda}{\delta \varphi} - \textit{период}\\
 }$
+
+# 11.128
