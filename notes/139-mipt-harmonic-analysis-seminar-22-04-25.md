@@ -36,5 +36,11 @@ $$
 $f, xf, \dots, x^k f \in L_1(\RR)$
 
 $\Align{
-F[xf] = 
+F[xf] = i {F}^{'}[f]
 }$
+
+$$
+F[x^k F] = i^k {F}^{(k)}[f]
+$$
+
+$x \to i \dv{x}{}$
