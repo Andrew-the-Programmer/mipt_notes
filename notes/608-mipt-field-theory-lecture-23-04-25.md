@@ -48,7 +48,7 @@ $const \cdot T_\nu^\mu + \partial_\rho B_\nu^{\rho\mu}$ - тоже тензор 
 Симметричность
 
 $$
-T^{\mu\nu} = -\frac{1}{4\pi} F^{\mu\lambda} F_{\lambda}^{\nu}
+T^{\mu\lambda} = -\frac{1}{4\pi} F^{\mu\nu} F_{\nu}^{\lambda} + \frac{1}{16\pi} \eta^{\mu\lambda} F^{\rho\sigma} F_{\rho\sigma}
 $$
 
 # Физический смысл компонент тензора энергии-импульса ЭМ поля
@@ -59,4 +59,16 @@ $$
 \varepsilon \defeq T^{00} = \frac{E^2 + B^2}{8\pi}
 $$
 
-$T$
+$T^{\mu 0}$ соответствует сдвигу по временной оси.
+$T^{\mu i}$ соответствует сдвигу по пространственным компонентам.
+
+$S = \frac{c}{4\pi} \vecprod{E}{B}$
+
+$$
+\gradv_i{T^{i0}} = \divv \frac{S}{c}
+$$
+
+$\Align{
+\partial_\mu T^{\mu 0} = 0 \implies \\
+\pdv{t}{T^{00}} + \gradv_i{T^{i0}}
+}$
