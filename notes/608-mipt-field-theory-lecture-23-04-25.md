@@ -39,10 +39,12 @@ T_\nu^\mu \defeq -\frac{1}{4\pi} F^{\mu\lambda} (\partial_\nu A_\nu) +
 }
 $$
 
-$T_\lambda^\mu$ задан неоднозначно
+$T_\lambda^\mu$ задан неоднозначно:
 
 $B_\nu^{\rho\mu} = B_\nu^{\mu\rho}$
-${{T}^{'}}_\nu^\mu = const \cdot T_\nu^\mu + \partial_\rho B_\nu^{\rho\mu}$ - тоже тензор энергии-импульса.
+$const \cdot T_\nu^\mu + \partial_\rho B_\nu^{\rho\mu}$ - тоже тензор энергии-импульса.
 
 Калибровочная инвариантность
 Симметричность
+
+# Физический смысл компонент тензора энергии-импульса ЭМ поля
