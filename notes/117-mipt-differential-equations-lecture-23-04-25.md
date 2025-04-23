@@ -7,17 +7,17 @@ tags: []
 
 # MIPT differential equations lecture 23-04-25
 
+$$e=mc^2 \tag{1}\label{name}$$
+$$\eqref{name}$$
+
 # ЛДУ в ЧП 1 порядка
 
 (линейные дифференциальные уравнения в частных производных 1-ого порядка)
 
 $$
 \sum_{k=0}^{n}{f_k(\vec{x}) \pdv{x_k}{u}} = 0
-\label{1}
 \tag{1}
 $$
-
-$\eqref{1}$
 
 $f_k \in C^1$
 $\sum f_k^2 \neq 0$
@@ -29,7 +29,6 @@ $\veccross{f}{\grad u} = 0$
 $$
 \dot{x} = f(x)
 \tag{2}
-\label{2}
 $$
 
 Фазовые траектории - "характеристики" (1)

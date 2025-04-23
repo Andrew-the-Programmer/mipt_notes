@@ -1,6 +1,4 @@
 {
   "theme": "system",
-  "enabledCssSnippets": [
-    "mathjax-config"
-  ]
+  "enabledCssSnippets": []
 }
