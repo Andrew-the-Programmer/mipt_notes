@@ -114,5 +114,14 @@ $\Align{
 } \\
 \frac{\d x}{2xy} = \frac{\d y}{1 - y^2 - 2xz} = \frac{\d z}{-\frac{y}{x}} \\
 \circled{1}\ x,z \\
-\boxed{u_1 = \frac{1}{2x} - z}
+\boxed{u_1 = \frac{1}{2x} - z} \\
+\textit{тяжело...}\\
+\boxed{u_2 = y^2 x - \frac{x}{2} + x^2 z} \\
+\Cases{
+u_1 \\
+u_2\\
+y^2 + xz = 1 \\
+} \\
+u_2 = \frac{x}{2} \\
+u = \frac{1}{2} - y^2 = \frac{1}{2} - 1 + xz
 }$
