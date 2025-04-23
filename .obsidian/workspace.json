@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/604-mipt-differential-equations-seminar-23-04-25.md",
+                "file": "notes/334-mipt-physics-lecture-05-04-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "604-mipt-differential-equations-seminar-23-04-25"
+              "title": "334-mipt-physics-lecture-05-04-25"
             }
           },
           {
@@ -206,6 +206,8 @@
   },
   "active": "fce4178ff020f302",
   "lastOpenFiles": [
+    "courses/MIPT-physics-2025.md",
+    "notes/628-mipt-physics-lecture-29-03-25.md",
     "notes/604-mipt-differential-equations-seminar-23-04-25.md~",
     "assets/imgs/23-04-25_16-35-39_078.png",
     "notes/4913",
@@ -249,7 +251,6 @@
     "courses/MIPT-probability-theory-2025.md",
     "notes/625-mipt-probability-theory-lecture-18-04-25.md",
     "notes/406-chinese-不是...吗-bushi...ma.md",
-    "notes/670-mipt-probability-theory-lecture-21-03-25.md",
-    "notes/930-mipt-probability-theory-lecture-28-03-25.md"
+    "notes/670-mipt-probability-theory-lecture-21-03-25.md"
   ]
 }
