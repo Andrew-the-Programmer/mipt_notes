@@ -48,7 +48,7 @@ $const \cdot T_\nu^\mu + \partial_\rho B_\nu^{\rho\mu}$ - тоже тензор 
 Симметричность
 
 $$
-T^{\mu\nu} = -\frac{1}{4\pi} F^{\mu\lambda} F_{\lambda\nu}
+T^{\mu\nu} = -\frac{1}{4\pi} F^{\mu\lambda} F_{\lambda}^{\nu}
 $$
 
 # Физический смысл компонент тензора энергии-импульса ЭМ поля
