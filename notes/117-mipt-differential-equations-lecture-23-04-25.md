@@ -12,7 +12,9 @@ tags: []
 (линейные дифференциальные уравнения в частных производных 1-ого порядка)
 
 $$
-\sum_{k=0}^{n}{f_k(\vec{x}) \pdv{x_k}{u}} = 0 \hspace{1cm} (1)
+\begin{equation}
+\sum_{k=0}^{n}{f_k(\vec{x}) \pdv{x_k}{u}} = 0
+\end{equation}
 $$
 
 $f_k \in C^1$
@@ -20,7 +22,7 @@ $\sum f_k^2 \neq 0$
 $u \in C^1$
 $\veccross{f}{\grad u} = 0$
 
-Характеристическая система
+# Характеристическая система
 
 $$
 \dot{x} = f(x) \hspace{1cm} (2)
