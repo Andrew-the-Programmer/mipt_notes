@@ -79,5 +79,18 @@ $$
 
 $\Align{
 \partial_\mu T^{\mu i} = 0 \\
-\frac{1}{c} \pdv{t}{T^{0i}} + \gradv_j{T^{ji}} = 0 \\
+\frac{1}{c} \pdv{t}{T^{0i}} + \pdv{x^j}{}{T^{ji}} = 0 \\
 }$
+
+$$
+T = \Pmatrix{
+\varepsilon & \frac{S_1}{c} & \frac{S_2}{c} & \frac{S_3}{c} \\
+\frac{S_1}{c} & \sigma_{11} & \sigma_{12} & \sigma_{13} \\
+\frac{S_2}{c} & \sigma_{21} & \sigma_{22} & \sigma_{23} \\
+\frac{S_3}{c} & \sigma_{31} & \sigma_{32} & \sigma_{33} \\
+}
+$$
+
+# Законы сохранения тензара энергии-импульса ЭМ поля в присутствии внешних токов и зарядов.
+
+Ур-ия Максвелла:
