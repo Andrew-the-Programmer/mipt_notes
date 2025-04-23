@@ -22,13 +22,23 @@ $$
 
 $\delta S$ инвариантна относительно сдвигов $\varepsilon^\mu$.
 Для свободного ЭМ поля:
- $$
+
+$$
 \delta S = -\frac{1}{16\pi c} \int{\d^4 x \groupr{-4 \partial_\mu }}
 $$
+
 $\varepsilon^\mu$ произвольно $\implies$
+
+# Тензор энергии-импульса ЭМ поля
+
 $$
 \Gather{
-T_\lambda^\mu \defeq -\frac{1}{4\pi} F^{\mu\nu} (\partial_\lambda)
+T_\lambda^\mu \defeq -\frac{1}{4\pi} F^{\mu\nu} (\partial_\lambda A_\nu) +
+\frac{1}{16\pi} \delta_\lambda^\mu \group{F^{\rho\sigma} F_{\rho\sigma}} \\
 \partial_\mu\group{T_\lambda^\mu} = 0 \\
 }
 $$
+
+$T_\lambda^\mu$ задан неоднозначно
+
+${{T}^{'}}_\mu^\nu = const \cdot T_\nu^\mu + \partial_\rho B_\nu^{\rho\mu}$ - тоже тензор 
