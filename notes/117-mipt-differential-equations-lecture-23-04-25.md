@@ -153,5 +153,10 @@ f_k, f, u \in C^1
 $$
 
 # Нахождение решений
-Решение в виде:
-$V(x_1,\dots,x_n, u) = 0$
+
+Решение в виде: $V(x_1,\dots,x_n, u) = 0$
+$\Align{
+\dv{x_k}{V} = \pdv{x_k}{V} + \pdv{u}{V} \pdv{x_k}{u} = 0 \\
+\pdv{x_k}{u} = - \frac{\pdv{x_k}{V}}{\pdv{u}{V}}
+}$
+
