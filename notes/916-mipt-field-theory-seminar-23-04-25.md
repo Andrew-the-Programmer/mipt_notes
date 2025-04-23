@@ -11,5 +11,15 @@ tags: []
 В слабо меняющемся поле
 
 $$
-\mu \defeq \frac{e}{2c} \vecprodv{x}{v}
+\vec{\mu} \defeq \frac{e}{2c} \vecprodv{x}{v}
 $$
+
+Замкнутая траектория (контур) $\implies$
+
+$$
+\vec{\mu} = \frac{I}{c} \vec{S}
+$$
+
+$\Align{
+F = \frac{e}{c} v \times B(x_0 + \xi(t))
+}$
