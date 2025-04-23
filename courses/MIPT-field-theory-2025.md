@@ -36,3 +36,5 @@ tags: []
 8. hw1
 9. [[186-mipt-field-theory-seminar-02-04-25|02-04-25]]
 10. [[759-mipt-field-theory-seminar-09-04-25|09-04-25]]
+11. skip
+12. [[916-mipt-field-theory-seminar-23-04-25|23-04-25]]
