@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/916-mipt-field-theory-seminar-23-04-25.md",
+                "file": "notes/693-mipt-differential-equations-seminar-16-04-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "916-mipt-field-theory-seminar-23-04-25"
+              "title": "693-mipt-differential-equations-seminar-16-04-25"
             }
           },
           {
@@ -206,10 +206,14 @@
   },
   "active": "fce4178ff020f302",
   "lastOpenFiles": [
+    "notes/916-mipt-field-theory-seminar-23-04-25.md",
+    "notes/693-mipt-differential-equations-seminar-16-04-25.md~",
+    "notes/604-mipt-differential-equations-seminar-23-04-25.md~",
+    "courses/MIPT-differential-equations-2025.md~",
+    "notes/604-mipt-differential-equations-seminar-23-04-25.md",
     "notes/916-mipt-field-theory-seminar-23-04-25.md~",
     "notes/117-mipt-differential-equations-lecture-23-04-25.md",
     "courses/MIPT-field-theory-2025.md~",
-    "notes/916-mipt-field-theory-seminar-23-04-25.md",
     "notes/759-mipt-field-theory-seminar-09-04-25.md~",
     "notes/117-mipt-differential-equations-lecture-23-04-25.md~",
     "assets/imgs/23-04-25_12-26-40_760_IMG_20250423_121028.jpg",
@@ -226,10 +230,7 @@
     "preamble.sty~",
     "notes/608-mipt-field-theory-lecture-23-04-25.md",
     "notes/608-mipt-field-theory-lecture-23-04-25.md~",
-    "courses/MIPT-differential-equations-2025.md~",
-    "notes/339-mipt-differential-equations-lecture-16-04-25.md~",
     "notes/791-mipt-physics-seminar-22-04-25.md",
-    "notes/962-mipt-field-theory-lecture-09-04-25.md~",
     "notes/1730271345-уравнения-Максвелла.md",
     "notes/1730273516-напряженность-магнитного-поля.md",
     "notes/1730270134-электрическая-индукция.md",
@@ -249,7 +250,6 @@
     "notes/406-chinese-不是...吗-bushi...ma.md",
     "notes/670-mipt-probability-theory-lecture-21-03-25.md",
     "notes/930-mipt-probability-theory-lecture-28-03-25.md",
-    "notes/319-mipt-computational-complexity-theory-lecture-18-04-25.md",
-    "notes/601-mipt-computational-complexity-theory-lecture-11-04-25.md"
+    "notes/319-mipt-computational-complexity-theory-lecture-18-04-25.md"
   ]
 }
