@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/608-mipt-field-theory-lecture-23-04-25.md",
+                "file": "notes/117-mipt-differential-equations-lecture-23-04-25.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "608-mipt-field-theory-lecture-23-04-25"
+              "title": "117-mipt-differential-equations-lecture-23-04-25"
             }
           }
         ]
@@ -194,6 +194,8 @@
   },
   "active": "fce4178ff020f302",
   "lastOpenFiles": [
+    "notes/117-mipt-differential-equations-lecture-23-04-25.md~",
+    "notes/608-mipt-field-theory-lecture-23-04-25.md",
     "notes/608-mipt-field-theory-lecture-23-04-25.md~",
     "courses/MIPT-differential-equations-2025.md~",
     "notes/117-mipt-differential-equations-lecture-23-04-25.md",
@@ -211,7 +213,6 @@
     "notes/4913",
     "notes/791-mipt-physics-seminar-22-04-25.md",
     "courses/MIPT-field-theory-2025.md~",
-    "notes/608-mipt-field-theory-lecture-23-04-25.md",
     "notes/962-mipt-field-theory-lecture-09-04-25.md~",
     "notes/1730271345-уравнения-Максвелла.md",
     "notes/1730273516-напряженность-магнитного-поля.md",
@@ -220,7 +221,6 @@
     "notes/139-mipt-harmonic-analysis-seminar-22-04-25.md~",
     "notes/139-mipt-harmonic-analysis-seminar-22-04-25.md",
     "courses/MIPT-physics-2025.md~",
-    "notes/620-mipt-physics-seminar-15-04-25.md~",
     "notes/437-mipt-harmonic-analysis-seminar-15-04-25.md",
     "notes/886-mipt-probability-theory-seminar-04-04-25.md",
     "notes/168-mipt-anmech-seminar-18-04-25.md",
