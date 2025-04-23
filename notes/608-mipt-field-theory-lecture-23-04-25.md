@@ -115,6 +115,13 @@ $\Align{
 S = -\frac{1}{16\pi c}\int{F^{\mu\nu} F_{\mu\nu} \d^4 x} =
 \int{L \d t} = \int{\mcL\ \d^3 x\ \d t} \\
 \mcL - \textit{плотность лагранжиана} \\
-}$ 
+}$
 
 Обобщенный импульс
+
+$$
+\pi^\mu \defeq \pdv{\pdv{t}{A_\mu}}{\mcL}
+$$
+$$
+\pi^0 = 0
+$$
