@@ -100,7 +100,7 @@ $$
 $$
 
 $\Align{
-\partial_\mu T^{\mu\nu} = \frac{1}{c} F^{0\mu} \\
+\partial_\mu T^{\mu\nu} = \frac{1}{c} F^{\nu\mu} j_\mu \\
 }$
 
 ЗСЭ:
@@ -108,3 +108,13 @@ $\Align{
 $$
 \pdv{t}{\varepsilon} + \divv S = \veccross{j}{E}
 $$
+
+# Переход от лагранжиана к гамильтониану для ЭМ поля
+
+$\Align{
+S = -\frac{1}{16\pi c}\int{F^{\mu\nu} F_{\mu\nu} \d^4 x} =
+\int{L \d t} = \int{\mcL\ \d^3 x\ \d t} \\
+\mcL - \textit{плотность лагранжиана} \\
+}$ 
+
+Обобщенный импульс
