@@ -87,4 +87,9 @@ $\Align{
 \dot{z} = e^{\frac{y}{x}} + yz
 } \\
 \frac{\d x}{xy - x^2} = \frac{\d y}{y^2} = \frac{\d z}{e^{\frac{y}{x}} + yz} \\
+\circle{1} \\
+-y^2 \d x = xy \d y - x^2 \d y \\
+\circle{2} \\
+\frac{\d x}{}
+\\
 }$
