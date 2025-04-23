@@ -38,5 +38,5 @@ T \cdot \avrg{\xi_l v_j} = \oint{\xi_l \d \xi_j} = \xi_l \xi_j - \oint{\xi_j \d 
 }$
 
 $$
-
+\vec{F} = (\vec{\mu} \cdot \grad) \vec{B}
 $$
