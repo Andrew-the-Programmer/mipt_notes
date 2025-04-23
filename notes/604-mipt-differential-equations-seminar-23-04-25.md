@@ -8,8 +8,22 @@ tags: []
 # MIPT differential equations seminar 23-04-25
 
 # Ф 1064
+
 ![23-04-25_15-47-25_439.png](assets/imgs/23-04-25_15-47-25_439.png)
 
 $\Align{
-\textit{Вырожденное ДУ}: \mu = 0 \\
+\circled{1} \\
+\textit{Вырожденное ДУ}: \mu \equiv 0 \\
+\boxed{y = e^x} \\
+\circled{2} \\
+\pdv{\mu}{y} \defeq u(x,\mu) \\
+\textit{Ур-ие в вариациях}: \\
+\Cases{
+u_x = u + x + ysr + 2 \mu y u \\
+u \rvert_{x=0} = 0
+} \\
+\mu \equiv 0 \implies\\
+u_x = u + x + y^2 = u + x + e^{2x} \\
+\implies \\
+u = - x - 1 + e^{2x}
 }$
