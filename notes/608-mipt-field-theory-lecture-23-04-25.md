@@ -62,13 +62,22 @@ $$
 $T^{\mu 0}$ соответствует сдвигу по временной оси.
 $T^{\mu i}$ соответствует сдвигу по пространственным компонентам.
 
-$S = \frac{c}{4\pi} \vecprod{E}{B}$
+$\Align{
+S = \frac{c}{4\pi} \vecprod{E}{B} \\
+\gradv_i{T^{i0}} = \divv \frac{S}{c} \\
+\partial_\mu T^{\mu 0} = 0 \implies \\
+\frac{1}{c} \pdv{t}{T^{00}} + \gradv_i{T^{i0}} = 0 \\
+}$
+
+Закон сохраниения энергии ЭМ поля:
 
 $$
-\gradv_i{T^{i0}} = \divv \frac{S}{c}
+\pdv{t}{\varepsilon} + \divv S = 0
 $$
+
+Закон сохраниения импульса ЭМ поля:
 
 $\Align{
-\partial_\mu T^{\mu 0} = 0 \implies \\
-\pdv{t}{T^{00}} + \gradv_i{T^{i0}}
+\partial_\mu T^{\mu i} = 0 \\
+\frac{1}{c} \pdv{t}{T^{0i}} + \gradv_j{T^{ji}} = 0 \\
 }$
