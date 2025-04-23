@@ -87,9 +87,17 @@ $\Align{
 \dot{z} = e^{\frac{y}{x}} + yz
 } \\
 \frac{\d x}{xy - x^2} = \frac{\d y}{y^2} = \frac{\d z}{e^{\frac{y}{x}} + yz} \\
-\circle{1} \\
+\circled{1} \\
 -y^2 \d x = xy \d y - x^2 \d y \\
-\circle{2} \\
-\frac{\d x}{}
+\circled{2} \\
+\frac{\d x}{xy - x^2} = \frac{\d y}{y^2} \\
+\frac{y \d x}{xy^2 - x^2 y} = \frac{x \d y}{x y^2} \\
+\d \group{\frac{y}{x}} = \d \ln\abs{y} \\
+\boxed{u_1 = \frac{e^{\frac{y}{x}}}{y}} \\
+\circled{3} \\
+\frac{\d z}{c_1 y + yz} = \frac{\d y}{y^2} \\
+\boxed{u_2 = \frac{e^{\frac{y}{x}} + zy}{y^2}} \\
+\textit{Общее решение}: \\
+u(x,y,z) = F(u_1, u_2) \in C^1 \\
 \\
 }$
