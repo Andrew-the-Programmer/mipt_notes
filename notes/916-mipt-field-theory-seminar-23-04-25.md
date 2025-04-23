@@ -25,5 +25,9 @@ F = \frac{e}{c} v \times B(x_0 + \xi(t)) \\
 R_L - \textit{Ларморовский радиус} \\
 \grad B \cdot R_L \ll B \\
 \avrg{F_i} = \frac{e}{c} e_{ijk} \avrg{v_j B_k({x_0}_l + \xi_l(t))} =
-\frac{e}{c} e_{ijk} (\partial_)
+\frac{e}{c} e_{ijk} (\partial_l B_k) \avrg{\xi_l v_j} +
+\frac{e}{c} e_{ijk} B_k(x_0) \avrg{v_j} \\
+\avrg{v_j} = 0 \\
+\textit{Claim:} \avrg{\xi_l v_j} = - \avrg{\xi_j v_l} \\
+v_j = \dv{t}{\xi_j}
 }$
