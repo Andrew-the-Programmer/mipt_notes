@@ -67,3 +67,10 @@ $\Align{
 
 ![16-04-25_15-51-00_229.png](assets/imgs/16-04-25_15-51-00_229.png)
 ![16-04-25_16-47-54_629.png](assets/imgs/16-04-25_16-47-54_629.png)
+
+$\Align{
+u_1 = x + y + z \\
+u_2 = \frac{3y - x - z}{z^2} \\
+x = 3y,\quad u = \frac{4y}{z} \implies \\
+u = -1 - u_1 u_2
+}$
