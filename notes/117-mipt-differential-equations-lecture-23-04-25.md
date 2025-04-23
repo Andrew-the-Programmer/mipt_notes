@@ -157,6 +157,9 @@ $$
 Решение в виде: $V(x_1,\dots,x_n, u) = 0$
 $\Align{
 \dv{x_k}{V} = \pdv{x_k}{V} + \pdv{u}{V} \pdv{x_k}{u} = 0 \\
-\pdv{x_k}{u} = - \frac{\pdv{x_k}{V}}{\pdv{u}{V}}
+\pdv{x_k}{u} = - \frac{\pdv{x_k}{V}}{\pdv{u}{V}} \\
+\sum_{k=1}^{n}{f_k \pdv{x_k}{V}} + f \pdv{u}{V} = 0 -
+\textit{ЛДУ в ЧП 1 порядка ранга n} \\
+\textit{Общее решение}: \\
+V = F(V_1())
 }$
-
