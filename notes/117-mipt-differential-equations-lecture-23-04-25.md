@@ -13,9 +13,11 @@ tags: []
 
 $$
 \sum_{k=0}^{n}{f_k(\vec{x}) \pdv{x_k}{u}} = 0
-\tag{1}
 \label{1}
+\tag{1}
 $$
+
+$\eqref{1}$
 
 $f_k \in C^1$
 $\sum f_k^2 \neq 0$
@@ -48,7 +50,6 @@ $F \in C^1$
 $$
 \frac{\d x_1}{f_1(x)} = \dots = \frac{\d x_{n}}{f_{n}(x)}
 \tag{3}
-\label{3}
 $$
 
 В общем случае:
