@@ -97,5 +97,21 @@ u_1 \\
 u_2 \\
 x = yz
 } \\
-u = \cos z - \sin z
+u = \cos z - \sin z = \frac{u_2}{u_1} \\
+\boxed{u = (zy - x \tg z) \frac{\cos z}{x}}
+}$
+
+# 17.79
+
+![23-04-25_16-25-57_323.png](assets/imgs/23-04-25_16-25-57_323.png)
+![23-04-25_16-35-39_078.png](assets/imgs/23-04-25_16-35-39_078.png)
+
+$\Align{
+\Cases{
+\dot{x} = 2xy \\
+\dot{y} = 1 - y^2 - 2xz \\
+\dot{z} = -\frac{y}{x}
+} \\
+\frac{\d x}{2xy} = \frac{\d y}{1 - y^2 - 2xz} = \frac{\d z}{-\frac{y}{x}} \\
+\circled{1}\ x,z \\
 }$
