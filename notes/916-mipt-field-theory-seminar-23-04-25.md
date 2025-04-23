@@ -11,7 +11,7 @@ tags: []
 В слабо меняющемся поле
 
 $$
-\vec{\mu} \defeq \frac{e}{2c} \vecprodv{x}{v}
+\vec{\mu} \defeq \frac{e}{2c} \avrg{\vecprodv{x}{v}}
 $$
 
 Замкнутая траектория (контур) $\implies$
@@ -21,13 +21,18 @@ $$
 $$
 
 $\Align{
-F = \frac{e}{c} v \times B(x_0 + \xi(t)) \\
+F = \frac{e}{c} v \times B(x*0 + \xi(t)) \\
 R_L - \textit{Ларморовский радиус} \\
 \grad B \cdot R_L \ll B \\
-\avrg{F_i} = \frac{e}{c} e_{ijk} \avrg{v_j B_k({x_0}_l + \xi_l(t))} =
-\frac{e}{c} e_{ijk} (\partial_l B_k) \avrg{\xi_l v_j} +
-\frac{e}{c} e_{ijk} B_k(x_0) \avrg{v_j} \\
+\avrg{F_i} = \frac{e}{c} e*{ijk} \avrg{v*j B_k({x_0}\_l + \xi_l(t))} =
+\frac{e}{c} e*{ijk} (\partial*l B_k) \avrg{\xi_l v_j} +
+\frac{e}{c} e*{ijk} B_k(x_0) \avrg{v_j} \\
 \avrg{v_j} = 0 \\
+\hline
 \textit{Claim:} \avrg{\xi_l v_j} = - \avrg{\xi_j v_l} \\
-v_j = \dv{t}{\xi_j}
+v_j = \dv{t}{\xi_j} \\
+T \cdot \avrg{\xi_l v_j} = \oint{\xi_l \d \xi_j} = \xi_l \xi_j - \oint{\xi_j \d \xi_l} \\
+\xi_l \xi_j = 0 \\
+\hline
+
 }$
