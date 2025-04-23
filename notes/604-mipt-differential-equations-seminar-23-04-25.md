@@ -84,4 +84,18 @@ $\Align{
 \dot{z} = -z
 } \\
 \frac{\d x}{xz \tg z} = \frac{\d y}{y - x} = \frac{\d z}{-z} \\
+\circled{1} x,z \\
+\frac{\d x}{x} = -\d z \tg z \\
+\boxed{u_1 = \frac{x}{\cos z}} \\
+\circled{2} y,z \\
+\frac{\d (zy)}{xz} = \frac{\d z}{z} \\
+x = \cos(z) c_1 \\
+\boxed{u_2 = zy - x \tg z} \\
+u = F(u_1, u_2) \in C^1 \\
+\Cases{
+u_1 \\
+u_2 \\
+x = yz
+} \\
+u = \cos z - \sin z
 }$
