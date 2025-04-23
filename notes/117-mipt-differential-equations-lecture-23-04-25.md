@@ -105,7 +105,29 @@ u(x,y,z) = F(u_1, u_2) \in C^1 \\
 \\
 }$
 
-# .
+# Характеристическая точка
+
+1. $x \in D$
+2. $g: D \to R$
+3. $\Cases{
+g \in C^1\\
+\grad g \neq 0
+} - \textit{гладкая}$
+4. $S \defeq \set{x \in D \mid g(x) = 0}$
+
+$b \in S$ называется **_характеристической_**, если
+
+$$
+\veccross{f}{\grad g} \rvert_{x=b} = 0
+$$
+
+# Задача Коши
+
+$$
+\Cases{
+
+}
+$$
 
 # Theorem
 
@@ -113,13 +135,17 @@ u(x,y,z) = F(u_1, u_2) \in C^1 \\
 
 1. $x \in D$
 2. $g: D \to R$
-3. $g \in C^1$
-4. $\grad g \neq 0$
-5. $S \defeq \set{x \in D \mid g(x) = 0}$
-6. $\sum_{k=1}^{n}{f_k \pdv{x_k}{u}} = 0$
+3. $\Cases{
+g \in C^1\\
+\grad g \neq 0
+} - \textit{гладкая}$
+4. $S \defeq \set{x \in D \mid g(x) = 0}$
+5. $\sum_{k=1}^{n}{f_k \pdv{x_k}{u}} = 0$
 
 ## Then:
 
 $$\exists!\ u \rvert_{S}$$
 
 # Пример. C 17.46
+
+# Квазилинейные ДУ в ЧП 1 порядка
