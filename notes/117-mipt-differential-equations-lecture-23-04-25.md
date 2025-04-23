@@ -12,9 +12,9 @@ tags: []
 (линейные дифференциальные уравнения в частных производных 1-ого порядка)
 
 $$
-\begin{equation}
 \sum_{k=0}^{n}{f_k(\vec{x}) \pdv{x_k}{u}} = 0
-\end{equation}
+\tag{1}
+\label{1}
 $$
 
 $f_k \in C^1$
@@ -25,7 +25,9 @@ $\veccross{f}{\grad u} = 0$
 # Характеристическая система
 
 $$
-\dot{x} = f(x) \hspace{1cm} (2)
+\dot{x} = f(x)
+\tag{2}
+\label{2}
 $$
 
 Фазовые траектории - "характеристики" (1)
@@ -44,22 +46,24 @@ $F \in C^1$
 # Метод дробей
 
 $$
-\frac{\d x_1}{f_1(x)} = \dots = \frac{\d x_{n}}{f_{n}(x)} \hspace{1cm} (3)
+\frac{\d x_1}{f_1(x)} = \dots = \frac{\d x_{n}}{f_{n}(x)}
+\tag{3}
+\label{3}
 $$
 
 В общем случае:
 
 $$
-(2) \nsim (3)
+\eqref{2} \nsim \eqref{3}
 $$
 
 # Claim
 
 $$
 \Gather{
-f_i \neq 0 \\
+f_k \neq 0 \\
 \implies\\
-(2) \sim (3)
+\eqref{2} \sim \eqref{3}
 }
 $$
 
@@ -103,3 +107,5 @@ $\Align{
 u(x,y,z) = F(u_1, u_2) \in C^1 \\
 \\
 }$
+
+# .
