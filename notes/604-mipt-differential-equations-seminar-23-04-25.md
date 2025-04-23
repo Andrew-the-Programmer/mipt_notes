@@ -25,5 +25,8 @@ u \rvert_{x=0} = 0
 \mu \equiv 0 \implies\\
 u_x = u + x + y^2 = u + x + e^{2x} \\
 \implies \\
-u = - x - 1 + e^{2x}
+u = - x - 1 + e^{2x} \\
+\textit{Ассимптотические ряды} \\
+y(x,\mu) = y(x,0) + \mu \pdv{\mu}{y}(x,0) + \frac{\mu^2}{2} \pdv[2]{\mu}{y}(x,0) + o(\mu^2) \\
+y(x,\mu) = \sum_{i\in\NN_0}{\mu^i y_i(x)}
 }$
