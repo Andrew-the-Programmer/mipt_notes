@@ -77,8 +77,14 @@ u_1(x_1,\dots,x_n) = c_1 \\
 ## Пример. C 17.46
 
 $$
-(xy - x^2) \pdv{x}{u} - y^2 \pdv{y}{u} + (e^{\frac{y}{x}} + yz) \pdv{z}{u} = 0
+(xy - x^2) \pdv{x}{u} + y^2 \pdv{y}{u} + (e^{\frac{y}{x}} + yz) \pdv{z}{u} = 0
 $$
-$\Align{
 
+$\Align{
+\Cases{
+\dot{x} = xy - x^2 \\
+\dot{y} = y^2 \\
+\dot{z} = e^{\frac{y}{x}} + yz
+} \\
+\frac{\d x}{xy - x^2} = \frac{\d y}{y^2} = \frac{\d z}{e^{\frac{y}{x}} + yz} \\
 }$
