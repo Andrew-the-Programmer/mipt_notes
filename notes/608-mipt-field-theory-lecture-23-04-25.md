@@ -33,12 +33,16 @@ $\varepsilon^\mu$ произвольно $\implies$
 
 $$
 \Gather{
-T_\lambda^\mu \defeq -\frac{1}{4\pi} F^{\mu\nu} (\partial_\lambda A_\nu) +
+T_\nu^\mu \defeq -\frac{1}{4\pi} F^{\mu\lambda} (\partial_\nu A_\nu) +
 \frac{1}{16\pi} \delta_\lambda^\mu \group{F^{\rho\sigma} F_{\rho\sigma}} \\
-\partial_\mu\group{T_\lambda^\mu} = 0 \\
+\partial_\mu\group{T_\nu^\mu} = 0 \\
 }
 $$
 
 $T_\lambda^\mu$ задан неоднозначно
 
-${{T}^{'}}_\mu^\nu = const \cdot T_\nu^\mu + \partial_\rho B_\nu^{\rho\mu}$ - тоже тензор 
+$B_\nu^{\rho\mu} = B_\nu^{\mu\rho}$
+${{T}^{'}}_\nu^\mu = const \cdot T_\nu^\mu + \partial_\rho B_\nu^{\rho\mu}$ - тоже тензор энергии-импульса.
+
+Калибровочная инвариантность
+Симметричность
