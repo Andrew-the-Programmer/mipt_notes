@@ -69,4 +69,19 @@ y_0(0) + \mu y_1(0) = 1 + \mu \\
 y_1(0) = 1
 } \\
 \boxed{y_1 = \frac{(1 - x) - \ln\abs{1 - x}}{(1 - x)^2}} \\
+\boxed{\pdv{\mu}{x} \rvert_{\mu=0} = \frac{(1 - t) - \ln\abs{1 - t}}{(1 - t)^2}} \\
+}$
+
+# 17.45
+
+![23-04-25_16-25-57_323.png](assets/imgs/23-04-25_16-25-57_323.png)
+![23-04-25_16-25-40_189.png](assets/imgs/23-04-25_16-25-40_189.png)
+
+$\Align{
+\Cases{
+\dot{x} = xz \tg z \\
+\dot{y} = y - x \\
+\dot{z} = -z
+} \\
+\frac{\d x}{xz \tg z} = \frac{\d y}{y - x} = \frac{\d z}{-z} \\
 }$
