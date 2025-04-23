@@ -19,3 +19,16 @@ S = -\frac{1}{16\pi c} \int{F^{\mu\nu} F_{\mu\nu} \d^4 x}
 $$
 
 # Теорема Нётера.
+
+$\delta S$ инвариантна относительно сдвигов $\varepsilon^\mu$.
+Для свободного ЭМ поля:
+ $$
+\delta S = -\frac{1}{16\pi c} \int{\d^4 x \groupr{-4 \partial_\mu }}
+$$
+$\varepsilon^\mu$ произвольно $\implies$
+$$
+\Gather{
+T_\lambda^\mu \defeq -\frac{1}{4\pi} F^{\mu\nu} (\partial_\lambda)
+\partial_\mu\group{T_\lambda^\mu} = 0 \\
+}
+$$
