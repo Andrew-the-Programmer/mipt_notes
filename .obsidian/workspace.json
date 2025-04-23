@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "notes/117-mipt-differential-equations-lecture-23-04-25.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -29,6 +29,18 @@
               },
               "icon": "lucide-file",
               "title": "117-mipt-differential-equations-lecture-23-04-25"
+            }
+          },
+          {
+            "id": "ad6a3be8240246f6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
             }
           }
         ]
