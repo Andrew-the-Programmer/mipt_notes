@@ -116,3 +116,10 @@ u(x,y,z) = F(u_1, u_2) \in C^1 \\
 3. $g \in C^1$
 4. $\grad g \neq 0$
 5. $S \defeq \set{x \in D \mid g(x) = 0}$
+6. $\sum_{k=1}^{n}{f_k \pdv{x_k}{u}} = 0$
+
+## Then:
+
+$$\exists!\ u \rvert_{S}$$
+
+# Пример. C 17.46
