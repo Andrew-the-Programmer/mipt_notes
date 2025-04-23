@@ -7,9 +7,6 @@ tags: []
 
 # MIPT differential equations lecture 23-04-25
 
-$$e=mc^2 \tag{1}\label{name}$$
-$$\eqref{name}$$
-
 # ЛДУ в ЧП 1 порядка
 
 (линейные дифференциальные уравнения в частных производных 1-ого порядка)
@@ -109,3 +106,13 @@ u(x,y,z) = F(u_1, u_2) \in C^1 \\
 }$
 
 # .
+
+# Theorem
+
+## If:
+
+1. $x \in D$
+2. $g: D \to R$
+3. $g \in C^1$
+4. $\grad g \neq 0$
+5. $S \defeq \set{x \in D \mid g(x) = 0}$
