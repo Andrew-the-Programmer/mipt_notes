@@ -208,8 +208,16 @@ $$
 
 $$
 \Gather{
-E \group{\frac{\group{\ol{\mathring{\xi_n}}}^2}{1 + \group{\mathring{\xi_n}}^2}}
+E \group{\frac{\group{\ol{\mathring{\xi_n}}}^2}{1 + \group{\ol{\mathring{\xi_n}}}^2}}
 \xrightarrow{n\to\infty} 0 \\
-\same ЗБЧ
+\same \\
+ЗБЧ
 }
+$$
+
+$\set{\xi_n} - НСВ \implies$
+
+$$
+\sum_{k=1}^n E\group{\frac{\group{\mathring{\xi_k}}^2}{n^2 + \group{\mathring{\xi_k}}^2}}
+\to 0
 $$
