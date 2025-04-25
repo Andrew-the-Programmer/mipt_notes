@@ -23,6 +23,32 @@ $$
 
 # .
 
+1. $\omega \to \xi$
+2. $\omega \to \vec{\xi}$
+3. $\omega \to \set{\xi_n}_{n\in\NN}$
+
 $\Align{
-\omega \to \xi(\omega)
+\sup \xi_n \\
+\inf \xi_n \\
+\limsup \xi_n \\
+\liminf \xi_n
 }$
+
+# Сходимости
+
+$$
+\Gather{
+\xi_n \xrightarrow{d} \xi \\
+\same \\
+F_{\xi_n} \xrightarrow{гладко} F_\xi
+}
+$$
+
+$$
+\Gather{
+\xi_n \xrightarrow{P} \xi \\
+\same \\
+\forall \varepsilon > 0
+P(\abs{\xi_n - \xi} > \varepsilon) \xrightarrow{n\to\infty} 0
+}
+$$
