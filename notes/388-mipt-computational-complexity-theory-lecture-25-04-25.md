@@ -49,4 +49,12 @@ $$
 Очень сложно...
 Было доказано в 2004 ($S\mcL = \mcL$)
 
-# Сертификатное определение
+# Сертификатное определение $N\mcL$
+
+$$
+\exists ДМТ\ M(x,y): \\
+\forall (x,y) M(x,y) = 1 / 0 \land Space(M(x,y)) = O(\log \abs{x}) 
+\Cases{
+x \in L \implies \exists y : M(x,y) = 1
+}
+$$
