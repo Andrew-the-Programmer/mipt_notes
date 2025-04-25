@@ -198,8 +198,18 @@ $$
 \Gather{
 \Cases{
 \set{\xi_n} - \textit{НОРСВ} \\
-E \xi < \infty
+E \xi_n < \infty
 }
 \implies ЗБЧ
+}
+$$
+
+# Theorem. Колмогорова. Критерий выполнимости ЗБЧ.
+
+$$
+\Gather{
+E \group{\frac{\group{\ol{\mathring{\xi_n}}}^2}{1 + \group{\mathring{\xi_n}}^2}}
+\xrightarrow{n\to\infty} 0 \\
+\same ЗБЧ
 }
 $$
