@@ -85,3 +85,7 @@ $s(n) \ge \log n$
 $$
 NSpace(s) = \co NSpace(s)
 $$
+
+## Proof:
+
+
