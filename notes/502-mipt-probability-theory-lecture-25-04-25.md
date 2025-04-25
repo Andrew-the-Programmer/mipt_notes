@@ -80,7 +80,7 @@ $$
 
 # Критерий сходимости
 
-## ?
+## Theorem. Риса
 
 $$
 \Gather{
@@ -94,7 +94,23 @@ $$
 
 $$
 \forall \varepsilon > 0 \quad
-P\set{\sup_{k>n}\abs{\omega : \xi_k - \xi} > \varepsilon} \xrightarrow{n\to\infty} 0
+P\set{\omega : \sup_{k>n}\abs{\xi_k(\omega) - \xi(\omega)} > \varepsilon} \xrightarrow{n\to\infty} 0
 $$
 
+# Theorem
 
+## If:
+
+$P\set{\abs{\xi_n} \le M} = 1, \forall n$
+
+## Then:
+
+$$
+\Gather{
+\xi_n \xrightarrow{п.н.} \xi
+\implies
+\xi_n \xrightarrow{(M)} \xi
+}
+$$
+
+# Lemma
