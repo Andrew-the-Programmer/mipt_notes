@@ -89,3 +89,7 @@ $$
 ## Proof:
 
 It's joever
+
+$$
+\ol{DPath} \in N\mcL
+$$
