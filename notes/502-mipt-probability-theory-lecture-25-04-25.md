@@ -114,3 +114,25 @@ $$
 $$
 
 # Lemma
+
+$X,Y$ - с.в.
+
+$$
+P(X < a) \le P(Y < a + \varepsilon) + P(\abs{X-Y} \ge \varepsilon)
+$$
+
+# Theorem
+
+## If:
+
+$F_{\xi} \in C$
+
+ ## Then:
+
+$$
+\Gather{
+\xi_n \xrightarrow{P} \xi
+\implies
+\xi_n \xrightarrow{(M)} \xi
+}
+$$
