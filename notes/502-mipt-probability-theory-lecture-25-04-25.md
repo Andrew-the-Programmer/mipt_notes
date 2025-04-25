@@ -221,3 +221,15 @@ $$
 \sum_{k=1}^n E\group{\frac{\group{\mathring{\xi_k}}^2}{n^2 + \group{\mathring{\xi_k}}^2}}
 \to 0
 $$
+
+# Lemma. Колмогорова
+
+$\set{\xi_n}$
+$S_n \defeq \sum_{j=1}^{n}{\mathring{\xi_j}}$
+
+$$
+\varepsilon^2 P\set{\sup_{k<n}\abs{S_k} > \varepsilon} \le 
+E S_n^2 =
+D S_n^2 =
+\sum_{j=1}^n D \xi_j
+$$
