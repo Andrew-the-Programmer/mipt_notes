@@ -36,6 +36,8 @@ $\Align{
 
 # Сходимости
 
+# .
+
 $$
 \Gather{
 \xi_n \xrightarrow{d} \xi \\
@@ -44,11 +46,44 @@ F_{\xi_n} \xrightarrow{гладко} F_\xi
 }
 $$
 
+# P-сходимость почти наверное
+
 $$
 \Gather{
 \xi_n \xrightarrow{P} \xi \\
 \same \\
-\forall \varepsilon > 0
+\forall \varepsilon > 0\quad
 P(\abs{\xi_n - \xi} > \varepsilon) \xrightarrow{n\to\infty} 0
+}
+$$
+
+# .
+
+$$
+\Gather{
+r \ge 1 \\
+\xi_n \xrightarrow{(r)} \xi \\
+\same \\
+E\abs{\xi_n - \xi}^r \xrightarrow{n\to\infty} 0
+}
+$$
+
+# Сходимость почти наверное
+
+$$
+\Gather{
+\xi_n \xrightarrow{п.н.} \xi \\
+\same \\
+P\set{\omega : \xi_n(\omega) \xrightarrow{n\to\infty} \xi(\omega)} = 1
+}
+$$
+
+# Критерий сходимости
+
+$$
+\Gather{
+\xi_n \xrightarrow{P} \xi \\
+\implies \\
+\exists \set{n_k}: \xi_{n_k} \xrightarrow{п.н.} \xi
 }
 $$
