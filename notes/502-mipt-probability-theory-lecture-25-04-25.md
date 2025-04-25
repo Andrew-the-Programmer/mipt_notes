@@ -127,12 +127,31 @@ $$
 
 $F_{\xi} \in C$
 
- ## Then:
+## Then:
 
 $$
 \Gather{
 \xi_n \xrightarrow{P} \xi
 \implies
-\xi_n \xrightarrow{(M)} \xi
+\xi_n \xrightarrow{d} \xi
+}
+$$
+
+# Theorem
+
+$$
+\xi_n \xrightarrow{d} c \implies \xi_n \xrightarrow{P} c
+$$
+
+# Theorem. Свойство наследования сходимости
+
+$g(x)$
+$x_n \to x_0 \implies g(x_n) \to g(x_0)$
+
+$$
+\Gather{
+\xi_n \xrightarrow{п.н.} \xi
+\implies
+g(\xi_n) \xrightarrow{п.н.} g(\xi)
 }
 $$
