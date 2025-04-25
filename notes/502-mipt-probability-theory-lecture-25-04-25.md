@@ -163,3 +163,15 @@ P\set{\sup_{k>0}\abs{\xi_{n+k} - \xi} > \varepsilon} \xrightarrow{n\to\infty} 0 
 P\set{\sup_{k>0}\abs{\xi_{n+k} - \xi_n} > \varepsilon} \xrightarrow{n\to\infty} 0 \\
 }
 $$
+
+## Proof:
+
+# Theorem. Закон больших чисел
+
+## If:
+
+$\set{\xi_n}$
+$\ol{\xi_n} \defeq \frac{1}{n} \sum_{k=1}^n \xi_{k}$
+$\exists \set{a_n} : \ol{\xi_n} - a_n \xrightarrow{P} 0$
+ $a_n = E \ol{\xi_n}$
+ $\ol{\mathring{\xi_n}}$
