@@ -168,10 +168,38 @@ $$
 
 # Theorem. Закон больших чисел
 
-## If:
-
 $\set{\xi_n}$
 $\ol{\xi_n} \defeq \frac{1}{n} \sum_{k=1}^n \xi_{k}$
 $\exists \set{a_n} : \ol{\xi_n} - a_n \xrightarrow{P} 0$
- $a_n = E \ol{\xi_n}$
- $\ol{\mathring{\xi_n}}$
+$a_n = E \ol{\xi_n}$
+$\ol{\mathring{\xi_n}} \xrightarrow{P} 0$
+
+# Theorem. Маркова
+
+$$
+\frac{1}{n^2} D\group{\sum_{k=1}^n \xi_k} \xrightarrow{n\to\infty} 0 \implies ЗБЧ
+$$
+
+# Theorem. Чебышева
+
+$$
+\Gather{
+\Cases{
+\set{\xi_n} - \textit{некорр-ые св} \\
+D \xi_n \le C n^\alpha
+}
+\implies ЗБЧ
+}
+$$
+
+# Theorem. Хинчина
+
+$$
+\Gather{
+\Cases{
+\set{\xi_n} - \textit{НОРСВ} \\
+E \xi < \infty
+}
+\implies ЗБЧ
+}
+$$
