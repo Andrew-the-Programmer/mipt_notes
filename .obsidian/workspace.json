@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/388-mipt-computational-complexity-theory-lecture-25-04-25.md",
+                "file": "notes/319-mipt-computational-complexity-theory-lecture-18-04-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "388-mipt-computational-complexity-theory-lecture-25-04-25"
+              "title": "319-mipt-computational-complexity-theory-lecture-18-04-25"
             }
           },
           {
@@ -207,9 +207,10 @@
   "active": "fce4178ff020f302",
   "lastOpenFiles": [
     "notes/388-mipt-computational-complexity-theory-lecture-25-04-25.md~",
+    "notes/388-mipt-computational-complexity-theory-lecture-25-04-25.md",
+    "notes/319-mipt-computational-complexity-theory-lecture-18-04-25.md~",
     "notes/319-mipt-computational-complexity-theory-lecture-18-04-25.md",
     "courses/MIPT-computational-complexity-theory-2025.md",
-    "notes/388-mipt-computational-complexity-theory-lecture-25-04-25.md",
     "courses/MIPT-physics-2025.md",
     "notes/628-mipt-physics-lecture-29-03-25.md",
     "notes/604-mipt-differential-equations-seminar-23-04-25.md~",
@@ -233,7 +234,6 @@
     "notes/916-mipt-field-theory-seminar-23-04-25.md~",
     "notes/117-mipt-differential-equations-lecture-23-04-25.md",
     "courses/MIPT-field-theory-2025.md~",
-    "notes/759-mipt-field-theory-seminar-09-04-25.md~",
     "assets/imgs/23-04-25_12-26-40_760_IMG_20250423_121028.jpg",
     "notes/608-mipt-field-theory-lecture-23-04-25.md",
     "notes/791-mipt-physics-seminar-22-04-25.md",
