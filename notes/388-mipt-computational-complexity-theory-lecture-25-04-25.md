@@ -10,8 +10,9 @@ tags: []
 $$
 DPath \defeq \set{\group{G, s, t} \mid \textit{G - ориентированный граф, в котором есть путь из s в t}}
 $$
+Direct Path
 
-# Claim
+# Lemma 1
 
 $$
 DPath \in N\mcL
@@ -22,7 +23,7 @@ $$
 Идея: недетерминированный BFS.
 В памяти две вершины - $P_1, P_2$ и счетчик кол-ва вершин в пути $k$.
 
-# Claim
+# Lemma 2
 
 $$
 DPath \in \complete{N\mcL}
