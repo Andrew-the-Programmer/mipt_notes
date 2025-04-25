@@ -7,9 +7,12 @@ tags: []
 
 # MIPT computational complexity theory lecture 25-04-25
 
+# Def. DPath
+
 $$
 DPath \defeq \set{\group{G, s, t} \mid \textit{G - ориентированный граф, в котором есть путь из s в t}}
 $$
+
 Direct Path
 
 # Lemma 1
@@ -28,3 +31,22 @@ $$
 $$
 DPath \in \complete{N\mcL}
 $$
+
+# Def. UPath
+
+$$
+UPath \defeq \set{\group{G, s, t} \mid \textit{G - неориентированный граф, в котором есть путь из s в t}}
+$$
+
+# Claim
+
+$$
+UPath \in L
+$$
+
+## Proof:
+
+Очень сложно...
+Было доказано в 2004 ($S\mcL = \mcL$)
+
+# Сертификатное определение
