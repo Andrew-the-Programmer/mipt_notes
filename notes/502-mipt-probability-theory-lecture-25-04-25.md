@@ -57,7 +57,7 @@ P(\abs{\xi_n - \xi} > \varepsilon) \xrightarrow{n\to\infty} 0
 }
 $$
 
-# .
+# Сходимости порядка r
 
 $$
 \Gather{
@@ -78,9 +78,7 @@ P\set{\omega : \xi_n(\omega) \xrightarrow{n\to\infty} \xi(\omega)} = 1
 }
 $$
 
-# Критерий сходимости
-
-## Theorem. Риса
+# Theorem. Риса
 
 $$
 \Gather{
@@ -90,7 +88,7 @@ $$
 }
 $$
 
-## ?
+# Критерий сходимости п.н.
 
 $$
 \forall \varepsilon > 0 \quad
@@ -153,5 +151,15 @@ $$
 \xi_n \xrightarrow{п.н.} \xi
 \implies
 g(\xi_n) \xrightarrow{п.н.} g(\xi)
+}
+$$
+
+# Сходимость по Коши
+
+$$
+\Gather{
+P\set{\sup_{k>0}\abs{\xi_{n+k} - \xi} > \varepsilon} \xrightarrow{n\to\infty} 0 \\
+\same \\
+P\set{\sup_{k>0}\abs{\xi_{n+k} - \xi_n} > \varepsilon} \xrightarrow{n\to\infty} 0 \\
 }
 $$
