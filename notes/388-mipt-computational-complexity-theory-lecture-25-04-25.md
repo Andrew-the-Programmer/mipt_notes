@@ -51,10 +51,22 @@ $$
 
 # Сертификатное определение $N\mcL$
 
+$\exists ДМТ\ M(x,y):$
+
+1. $\forall (x,y) M(x,y) = 1 / 0 \land Space(M(x,y)) = O(\log \abs{x})$
+2. $\Cases{
+   x \in L \implies \exists y : M(x,y) = 1 \\
+   x \not\in L \implies \forall y \hthen M(x,y) = 0
+   }$
+3. На ленте сертификатора M может передвигаться только вправо.
+
+# .
+
+Все, что мы знаем из нашей картины мира
+
 $$
-\exists ДМТ\ M(x,y): \\
-\forall (x,y) M(x,y) = 1 / 0 \land Space(M(x,y)) = O(\log \abs{x}) 
-\Cases{
-x \in L \implies \exists y : M(x,y) = 1
+\Gather{
+P \neq \mcE xp \\
+N\mcL \neq PSpace
 }
 $$
