@@ -80,6 +80,8 @@ $$
 
 # Критерий сходимости
 
+## ?
+
 $$
 \Gather{
 \xi_n \xrightarrow{P} \xi \\
@@ -87,3 +89,12 @@ $$
 \exists \set{n_k}: \xi_{n_k} \xrightarrow{п.н.} \xi
 }
 $$
+
+## ?
+
+$$
+\forall \varepsilon > 0 \quad
+P\set{\sup_{k>n}\abs{\omega : \xi_k - \xi} > \varepsilon} \xrightarrow{n\to\infty} 0
+$$
+
+
