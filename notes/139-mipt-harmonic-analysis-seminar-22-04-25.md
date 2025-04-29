@@ -88,7 +88,7 @@ $$
 x^k f \in L_1(\RR) \forall k \implies f \in C^\infty(\RR)
 $$
 
-# Пространство Шварца
+# Пространство Шварца, быстро убывающих функций
 
 $$
 S \defeq \set{f \in C^\infty(\RR) \mid

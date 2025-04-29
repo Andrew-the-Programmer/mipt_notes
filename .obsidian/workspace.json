@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/625-mipt-probability-theory-lecture-18-04-25.md",
+                "file": "notes/139-mipt-harmonic-analysis-seminar-22-04-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "625-mipt-probability-theory-lecture-18-04-25"
+              "title": "139-mipt-harmonic-analysis-seminar-22-04-25"
             }
           },
           {
@@ -206,6 +206,7 @@
   },
   "active": "fce4178ff020f302",
   "lastOpenFiles": [
+    "notes/139-mipt-harmonic-analysis-seminar-22-04-25.md~",
     "notes/502-mipt-probability-theory-lecture-25-04-25.md",
     "notes/625-mipt-probability-theory-lecture-18-04-25.md~",
     "notes/502-mipt-probability-theory-lecture-25-04-25.md~",
