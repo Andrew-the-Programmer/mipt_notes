@@ -53,8 +53,16 @@ f_n - \textit{функции Эрмита}
 
 # Полнота и замкнутость
 
+# Lemma
+
+## If:
+
 $x^k f \in L_2(\RR) \forall k$
-$$ 
+$\abs{f(x)} < e^{-\delta \abs{x}}$
+
+## Then:
+
+$\set{x^k f}$ - полон в $L_2(\RR)$
 
 # Базис
 
