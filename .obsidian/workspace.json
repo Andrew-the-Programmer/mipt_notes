@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/139-mipt-harmonic-analysis-seminar-22-04-25.md",
+                "file": "notes/505-mipt-harmonic-analysis-seminar-29-04-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "139-mipt-harmonic-analysis-seminar-22-04-25"
+              "title": "505-mipt-harmonic-analysis-seminar-29-04-25"
             }
           },
           {
@@ -207,6 +207,7 @@
   "active": "fce4178ff020f302",
   "lastOpenFiles": [
     "notes/505-mipt-harmonic-analysis-seminar-29-04-25.md~",
+    "notes/139-mipt-harmonic-analysis-seminar-22-04-25.md",
     "notes/505-mipt-harmonic-analysis-seminar-29-04-25.md",
     "notes/139-mipt-harmonic-analysis-seminar-22-04-25.md~",
     "courses/MIPT-harmonic-analysis-2025.md~",
@@ -226,7 +227,6 @@
     "notes/628-mipt-physics-lecture-29-03-25.md",
     "notes/604-mipt-differential-equations-seminar-23-04-25.md~",
     "assets/imgs/23-04-25_16-35-39_078.png",
-    "preamble.sty~",
     "assets/imgs/23-04-25_16-25-57_323.png",
     "assets/imgs/23-04-25_16-25-40_189.png",
     "assets/imgs/23-04-25_16-13-27_888_IMG_20250423_155718.jpg",
@@ -245,7 +245,6 @@
     "notes/1730271345-уравнения-Максвелла.md",
     "notes/1730273516-напряженность-магнитного-поля.md",
     "notes/1730270134-электрическая-индукция.md",
-    "notes/139-mipt-harmonic-analysis-seminar-22-04-25.md",
     "notes/437-mipt-harmonic-analysis-seminar-15-04-25.md",
     "notes/886-mipt-probability-theory-seminar-04-04-25.md",
     "notes/168-mipt-anmech-seminar-18-04-25.md",
