@@ -32,7 +32,7 @@ $$
 
 $\Align{
 \dv[2]{x}{f} - x^2 f = \mu f \\
-f - \textit{решение} \same F[f] - \textit{решение} \same f - \textit{собственный вектор} \\
+f - \textit{решение} \same F[f] - \textit{решение} \implies f - \textit{собственный вектор} \\
 \textit{Ищем в виде: } f_n = P_n(x) \cdot e^{-\frac{x^2}{2}} \\
 {f}_{n}^{''} = e^{-\frac{x^2}{2}} \group{{P}_{n}^{''} - P_n + x^2 P_n - 2x {P}_{n}^{'}} \\
 {P}_{n}^{''} - 2x {P}_{n}^{'} = (\mu - 1) P_n \\
@@ -41,5 +41,6 @@ x^n: -2n a_n = (\mu - 1) a_n \\
 \implies \mu = -2n + 1 \\
 a_{n-1} = 0 \\
 a_{n-1-2k} = 0,\quad \forall k < \frac{n}{2} \\
-P_n - \textit{полиномы}
+P_n - \textit{полиномы .} \\
+f_n - \textit{функции .}
 }$
