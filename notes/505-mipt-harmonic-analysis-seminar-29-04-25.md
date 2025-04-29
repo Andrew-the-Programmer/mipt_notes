@@ -51,6 +51,6 @@ f_n - \textit{функции Эрмита}
 
 # Claim. Орт. Г.Ш.
 
-# Theorem
+# Полнота и замкнутость
 
-
+$x^k f \in L_2(\RR) \forall k$
