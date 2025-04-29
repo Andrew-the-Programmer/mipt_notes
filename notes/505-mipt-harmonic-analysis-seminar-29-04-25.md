@@ -36,5 +36,10 @@ f - \textit{решение} \same F[f] - \textit{решение} \same f - \text
 \textit{Ищем в виде: } f_n = P_n(x) \cdot e^{-\frac{x^2}{2}} \\
 {f}_{n}^{''} = e^{-\frac{x^2}{2}} \group{{P}_{n}^{''} - P_n + x^2 P_n - 2x {P}_{n}^{'}} \\
 {P}_{n}^{''} - 2x {P}_{n}^{'} = (\mu - 1) P_n \\
-x^k: (k+2)(k+1) a_{k+2} - 2k a_k = (\mu - 1) a_k
+x^k: (k+2)(k+1) a_{k+2} - 2k a_k = (\mu - 1) a_k \\
+x^n: -2n a_n = (\mu - 1) a_n \\
+\implies \mu = -2n + 1 \\
+a_{n-1} = 0 \\
+a_{n-1-2k} = 0,\quad \forall k < \frac{n}{2} \\
+P_n - \textit{полиномы}
 }$
