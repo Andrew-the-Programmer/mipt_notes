@@ -41,6 +41,10 @@ x^n: -2n a_n = (\mu - 1) a_n \\
 \implies \mu = -2n + 1 \\
 a_{n-1} = 0 \\
 a_{n-1-2k} = 0,\quad \forall k < \frac{n}{2} \\
-P_n - \textit{полиномы .} \\
-f_n - \textit{функции .}
+P_n - \textit{полиномы Эрмита} \\
+f_n - \textit{функции Эрмита}
 }$
+
+# Lemma
+
+Ф-ии Эрмита ортогональны
