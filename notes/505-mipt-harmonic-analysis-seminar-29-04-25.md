@@ -23,8 +23,15 @@ $S$ всюду плотно в $L_2(\RR)$
 $$
 F: L_1(\RR) \to C_0(\RR)
 $$
+
 $$
 F_2: L_2(\RR) \xrightarrow{\sim} L_2(\RR)
 $$
 
 # Собственные вектора $F_2$
+
+$\Align{
+\dv[2]{x}{f} - x^2 f = \mu f \\
+f - \textit{решение} \same F[f] - \textit{решение} \same f - \textit{собственный вектор} \\
+\textit{Ищем в виде: } f_n = P_n(x) \cdot e^{-\frac{x^2}{2}}
+}$
