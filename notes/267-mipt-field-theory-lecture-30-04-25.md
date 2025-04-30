@@ -108,7 +108,13 @@ $$
 $$
 \vec{A}(x,t) = \frac{1}{(2\pi)^3} \int_{\RR^3}{\vec{A}(\vec{k},t) e^{i \vec{k} \cdot \vec{x}} \d^3 k}
 $$
+Условие поперечности
+$$
+\vec{k} \perp \vec{A}(\vec{k}, t)
+$$
 
-$\Align{
+Разложение по поляризациям
 
-}$
+$$
+A(x,t) = \frac{1}{(2\pi)^3} 
+$$
