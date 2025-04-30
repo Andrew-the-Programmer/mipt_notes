@@ -49,4 +49,8 @@ $\Align{
 \group{\partial^2 \eta_{\mu\nu} - \partial_\mu \partial_\nu} A^\mu = \frac{4\pi}{c} j^\mu \\
 \dv{x}{f} \to \Matrix{
 } \\
+\textit{Рассмотрим оператор}:\ \partial^2 \eta_{\mu\nu} - \partial_\mu \partial_\nu \\
+\textit{Он не обратим}
 }$
+
+Калибровка Кулона $\divv{A} = 0$
