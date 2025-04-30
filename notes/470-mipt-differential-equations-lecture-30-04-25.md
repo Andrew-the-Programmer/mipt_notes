@@ -17,11 +17,11 @@ $\Align{
 V = V(x,y,u) = 0 \\
 \textit{ЛДУ в ЧП}: \\
 \group{1 + \sqrt{u - x - y}} \pdv{x}{V} + \pdv{y}{V} + 2 \pdv{u}{V} = 0 \\
-\textit{Характеристическая система в нормальной форме Коши}: \\
+\textit{Характеристическая система в форме Коши}: \\
 \Cases{
-x = 1 + \sqrt{u - x - y} \\
-y = 1 \\
-u = 2
+\dot{x} = 1 + \sqrt{u - x - y} \\
+\dot{y} = 1 \\
+\dot(u) = 2
 } \\
 \frac{\d x}{1 + \sqrt{u - x - y}} = \d y = \frac{\d u}{2} \\
 V_1 = 2y - u \\
@@ -31,4 +31,24 @@ V_2 = y + 2 \sqrt{u - x - y} \\
 V = V(x,y,u) = F(V_1, V_2) = 0 \\
 \textit{Специальное решение (нельзя получить из ур-ия)}: \\
 u = x + y \\
+}$
+
+# Пример 2
+
+$$
+\sin y \cdot u_x + e^y \cdot u_y = 2x u^2 \sin y
+$$
+
+$\Align{
+V = V(x,y,u) = 0 \\
+\textit{ЛДУ в ЧП}: \\
+\sin y \cdot \pdv{x}{V} + e^y \cdot \pdv{y}{V} + 2x u^2 \sin y \pdv{u}{V} = 0 \\
+\textit{Характеристическая система в форме Коши}: \\
+\Cases{
+\dot{x} = \sin y \\
+\dot{y} = e^y \\
+\dot(u) = 2x u^2 \sin y
+}\\
+\frac{\d x}{\sin y} = \frac{\d y}{e^y} = \frac{\d u}{2x u^2 \sin y} \\
+
 }$
