@@ -103,7 +103,8 @@ $$
 # Lemma. Об интегральном представлении
 
 ЗК $\same$
- $$
+
+$$
 \vec{y}(x) = \vec{{y}_{0}} + \int_{x_0}^{x}{f(\xi, \vec{y}(\xi)) \d \xi}
 $$
 
@@ -122,7 +123,7 @@ $\varphi(x) \le A e^{B \abs{x - x_0}}$
 
 $$
 \Cases{
-\dv{\vec{y}}{x} = \vec{f}(x, \vec{y}, \vec{\mu}) \\
+\dv{x}{\vec{y}} = \vec{f}(x, \vec{y}, \vec{\mu}) \\
 \vec{y}(x_0) = \vec{{y}_{0}}(\vec{\mu})
 }
 $$
