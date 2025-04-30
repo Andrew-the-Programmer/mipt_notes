@@ -53,4 +53,24 @@ $\Align{
 \textit{Он не обратим}
 }$
 
-Калибровка Кулона $\divv{A} = 0$
+# Калибровка Кулона $\divv{A} = 0$
+
+$\Align{
+\Cases{
+-\Laplace \varphi = 4\pi \rho \\
+\DAlambert A + \grad\group{\frac{1}{c} \pdv{t}{\varphi}} = \frac{4\pi}{c} j
+}
+}$
+
+Электростатика ($\pdv{t}{A^\mu} = 0$)
+
+$$
+\Cases{
+-\Laplace \varphi = 4\pi \rho \\
+-\Laplace A = \frac{4\pi}{c} j
+}
+$$
+
+Уравнение Пуассона
+
+# Калибровка лоренца $\partial_\mu A^\mu = 0$
