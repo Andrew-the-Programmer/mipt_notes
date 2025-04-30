@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/453-mipt-differential-equations-seminar-26-03-25.md",
+                "file": "notes/568-mipt-differential-equations-seminar-09-04-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "453-mipt-differential-equations-seminar-26-03-25"
+              "title": "568-mipt-differential-equations-seminar-09-04-25"
             }
           },
           {
@@ -207,6 +207,9 @@
   "active": "fce4178ff020f302",
   "lastOpenFiles": [
     "courses/MIPT-differential-equations-2025.md",
+    "notes/471-mipt-differential-equations-seminar-02-04-25.md",
+    "notes/453-mipt-differential-equations-seminar-26-03-25.md",
+    "notes/471-mipt-differential-equations-seminar-02-04-25.md~",
     "notes/470-mipt-differential-equations-lecture-30-04-25.md",
     "notes/470-mipt-differential-equations-lecture-30-04-25.md~",
     "notes/856-mipt-field-theory-seminar-30-04-25.md",
@@ -232,7 +235,6 @@
     "courses/MIPT-differential-equations-2025.md~",
     "notes/117-mipt-differential-equations-lecture-23-04-25.md~",
     "notes/462-3mipt-differential-equations-lecture-0-04-25.md",
-    "preamble.sty~",
     "notes/505-mipt-harmonic-analysis-seminar-29-04-25.md",
     "notes/139-mipt-harmonic-analysis-seminar-22-04-25.md",
     "notes/502-mipt-probability-theory-lecture-25-04-25.md",
@@ -249,8 +251,6 @@
     "notes/608-mipt-field-theory-lecture-23-04-25.md",
     "notes/791-mipt-physics-seminar-22-04-25.md",
     "notes/1730271345-уравнения-Максвелла.md",
-    "notes/1730273516-напряженность-магнитного-поля.md",
-    "notes/1730270134-электрическая-индукция.md",
-    "notes/437-mipt-harmonic-analysis-seminar-15-04-25.md"
+    "notes/1730273516-напряженность-магнитного-поля.md"
   ]
 }
