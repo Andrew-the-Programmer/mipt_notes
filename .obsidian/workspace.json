@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/505-mipt-harmonic-analysis-seminar-29-04-25.md",
+                "file": "notes/267-mipt-field-theory-lecture-30-04-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "505-mipt-harmonic-analysis-seminar-29-04-25"
+              "title": "267-mipt-field-theory-lecture-30-04-25"
             }
           },
           {
@@ -207,6 +207,7 @@
   "active": "fce4178ff020f302",
   "lastOpenFiles": [
     "notes/267-mipt-field-theory-lecture-30-04-25.md~",
+    "notes/505-mipt-harmonic-analysis-seminar-29-04-25.md",
     "courses/MIPT-field-theory-2025.md~",
     "notes/267-mipt-field-theory-lecture-30-04-25.md",
     "notes/608-mipt-field-theory-lecture-23-04-25.md~",
@@ -214,7 +215,6 @@
     "notes/4913",
     "notes/1730062409-замкнутое-множество.md~",
     "notes/139-mipt-harmonic-analysis-seminar-22-04-25.md",
-    "notes/505-mipt-harmonic-analysis-seminar-29-04-25.md",
     "notes/139-mipt-harmonic-analysis-seminar-22-04-25.md~",
     "courses/MIPT-harmonic-analysis-2025.md~",
     "notes/502-mipt-probability-theory-lecture-25-04-25.md",
@@ -223,7 +223,6 @@
     "courses/MIPT-probability-theory-2025.md",
     "notes/625-mipt-probability-theory-lecture-18-04-25.md",
     "notes/388-mipt-computational-complexity-theory-lecture-25-04-25.md",
-    "courses/MIPT-probability-theory-2025.md~",
     "notes/319-mipt-computational-complexity-theory-lecture-18-04-25.md",
     "courses/MIPT-computational-complexity-theory-2025.md",
     "courses/MIPT-physics-2025.md",
