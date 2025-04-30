@@ -7,6 +7,10 @@ tags: []
 
 # MIPT differential equations lecture 30-04-25
 
+![1.jpg](assets/imgs/30-04-25_11-31-35_645_IMG_20250430_104921.jpg)
+![2.jpg](assets/imgs/30-04-25_11-31-35_801_IMG_20250430_105439.jpg)
+![3.jpg](assets/imgs/30-04-25_11-31-35_271_IMG_20250430_110131.jpg)
+
 # Пример 1
 
 $$
