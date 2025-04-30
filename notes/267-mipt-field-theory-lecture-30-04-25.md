@@ -73,4 +73,22 @@ $$
 
 Уравнение Пуассона
 
-# Калибровка лоренца $\partial_\mu A^\mu = 0$
+# Калибровка Лоренца $\partial_\mu A^\mu = 0$
+
+Ковариантная калибровка
+
+$$
+\Cases{
+\DAlambert \varphi = 4\pi \rho \\
+\DAlambert A = \frac{4\pi}{c} j
+}
+$$
+
+# Калибровка Вейля $\varphi = 0$
+
+$$
+\Cases{
+-\Laplace \varphi - \frac{1}{c} \pdv{t}{} \group{\divv A} = 4\pi \rho \\
+\DAlambert A + \grad \divv A = \frac{4\pi}{c} j
+}
+$$
