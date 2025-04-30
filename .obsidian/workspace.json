@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/868-оператор-Д'Аламбера.md",
+                "file": "notes/856-mipt-field-theory-seminar-30-04-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "868-оператор-Д'Аламбера"
+              "title": "856-mipt-field-theory-seminar-30-04-25"
             }
           },
           {
@@ -207,6 +207,7 @@
   "active": "fce4178ff020f302",
   "lastOpenFiles": [
     "notes/856-mipt-field-theory-seminar-30-04-25.md~",
+    "notes/868-оператор-Д'Аламбера.md",
     "notes/856-mipt-field-theory-seminar-30-04-25.md",
     "notes/868-оператор-Д'Аламбера.md~",
     "notes/267-mipt-field-theory-lecture-30-04-25.md",
@@ -249,7 +250,6 @@
     "notes/1730271345-уравнения-Максвелла.md",
     "notes/1730273516-напряженность-магнитного-поля.md",
     "notes/1730270134-электрическая-индукция.md",
-    "notes/437-mipt-harmonic-analysis-seminar-15-04-25.md",
-    "notes/886-mipt-probability-theory-seminar-04-04-25.md"
+    "notes/437-mipt-harmonic-analysis-seminar-15-04-25.md"
   ]
 }
