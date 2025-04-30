@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/568-mipt-differential-equations-seminar-09-04-25.md",
+                "file": "notes/453-mipt-differential-equations-seminar-26-03-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "568-mipt-differential-equations-seminar-09-04-25"
+              "title": "453-mipt-differential-equations-seminar-26-03-25"
             }
           },
           {
@@ -207,9 +207,13 @@
   "active": "fce4178ff020f302",
   "lastOpenFiles": [
     "courses/MIPT-differential-equations-2025.md",
+    "notes/604-mipt-differential-equations-seminar-23-04-25.md",
+    "notes/693-mipt-differential-equations-seminar-16-04-25.md",
+    "notes/604-mipt-differential-equations-seminar-23-04-25.md~",
+    "notes/568-mipt-differential-equations-seminar-09-04-25.md",
+    "notes/471-mipt-differential-equations-seminar-02-04-25.md~",
     "notes/471-mipt-differential-equations-seminar-02-04-25.md",
     "notes/453-mipt-differential-equations-seminar-26-03-25.md",
-    "notes/471-mipt-differential-equations-seminar-02-04-25.md~",
     "notes/470-mipt-differential-equations-lecture-30-04-25.md",
     "notes/470-mipt-differential-equations-lecture-30-04-25.md~",
     "notes/856-mipt-field-theory-seminar-30-04-25.md",
@@ -233,7 +237,6 @@
     "assets/imgs/30-04-25_11-31-35_645_IMG_20250430_104921.jpg",
     "notes/4913",
     "courses/MIPT-differential-equations-2025.md~",
-    "notes/117-mipt-differential-equations-lecture-23-04-25.md~",
     "notes/462-3mipt-differential-equations-lecture-0-04-25.md",
     "notes/505-mipt-harmonic-analysis-seminar-29-04-25.md",
     "notes/139-mipt-harmonic-analysis-seminar-22-04-25.md",
@@ -245,12 +248,8 @@
     "courses/MIPT-computational-complexity-theory-2025.md",
     "courses/MIPT-physics-2025.md",
     "notes/628-mipt-physics-lecture-29-03-25.md",
-    "notes/693-mipt-differential-equations-seminar-16-04-25.md",
-    "notes/604-mipt-differential-equations-seminar-23-04-25.md",
     "notes/117-mipt-differential-equations-lecture-23-04-25.md",
     "notes/608-mipt-field-theory-lecture-23-04-25.md",
-    "notes/791-mipt-physics-seminar-22-04-25.md",
-    "notes/1730271345-уравнения-Максвелла.md",
-    "notes/1730273516-напряженность-магнитного-поля.md"
+    "notes/791-mipt-physics-seminar-22-04-25.md"
   ]
 }
