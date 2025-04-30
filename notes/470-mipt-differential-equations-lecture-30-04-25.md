@@ -56,8 +56,8 @@ V = V(x,y,u) = 0 \\
 \frac{\d x}{\sin y} = \frac{\d y}{e^y} = \frac{\d u}{2x u^2 \sin y} \\
 e^x \d x = \sin y \d y \\
 V_1 = e^x + \cos y \\
-V_2 = x^2 + \frac{1}{u} \\
 V(x,y,u) = F(V_1, V_2) \in C^1 \\
+V_2 = x^2 + \frac{1}{u} \\
 }$
 
 # Пример 3
@@ -97,3 +97,14 @@ $$
 $$
 \dv{x}{\vec{y}} = f(x,\vec{y})
 $$
+
+# Theorem
+
+# Lemma
+
+# Lemma. Гронуолла (о дифф. неравенстве)
+
+## If:
+
+$\varphi(x) \ge 0$
+$\exists A,B \ge 0: \varphi(x) \le A + B \abs\int{\varphi(\xi) \d \xi}$
