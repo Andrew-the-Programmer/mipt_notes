@@ -92,3 +92,9 @@ $$
 \DAlambert A + \grad \divv A = \frac{4\pi}{c} j
 }
 $$
+
+# Калибровка излучения $\varphi = 0,\quad \divv A = 0$
+
+нет токов и зарядов
+
+
