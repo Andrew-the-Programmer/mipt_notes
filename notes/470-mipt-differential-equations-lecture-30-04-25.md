@@ -56,8 +56,8 @@ V = V(x,y,u) = 0 \\
 \frac{\d x}{\sin y} = \frac{\d y}{e^y} = \frac{\d u}{2x u^2 \sin y} \\
 e^x \d x = \sin y \d y \\
 V_1 = e^x + \cos y \\
-V(x,y,u) = F(V_1, V_2) \in C^1 \\
 V_2 = x^2 + \frac{1}{u} \\
+V(x,y,u) = F(V_1, V_2) \in C^1 \\
 }$
 
 # Пример 3
@@ -107,4 +107,17 @@ $$
 ## If:
 
 $\varphi(x) \ge 0$
-$\exists A,B \ge 0: \varphi(x) \le A + B \abs\int{\varphi(\xi) \d \xi}$
+$\exists A,B \ge 0: \varphi(x) \le A + B \abs{\int_{x_0}^{x}{\varphi(\xi) \d \xi}}$
+
+## Then:
+
+$\varphi(x) \le A e^{B \abs{x - x_0}}$
+
+# ЗК с параметром
+
+$$
+\Cases{
+\dv{\vec{y}}{x} = \vec{f}(x, \vec{y}, \vec{\mu}) \\
+\vec{y}(x_0) = \vec{{y}_{0}}(\vec{\mu})
+}
+$$
