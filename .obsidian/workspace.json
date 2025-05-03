@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/249-независимые-события.md",
+                "file": "notes/930-mipt-probability-theory-lecture-28-03-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "249-независимые-события"
+              "title": "930-mipt-probability-theory-lecture-28-03-25"
             }
           },
           {
@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "незави",
+                "query": "независимые слу",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -205,6 +205,7 @@
   },
   "active": "fce4178ff020f302",
   "lastOpenFiles": [
+    "notes/249-независимые-события.md",
     "notes/886-mipt-probability-theory-seminar-04-04-25.md",
     "courses/MIPT-probability-theory-2025.md",
     "notes/299-mipt-probability-theory-seminar-28-03-25.md",
@@ -249,7 +250,6 @@
     "courses/MIPT-computational-complexity-theory-2025.md",
     "courses/MIPT-physics-2025.md",
     "notes/628-mipt-physics-lecture-29-03-25.md",
-    "notes/117-mipt-differential-equations-lecture-23-04-25.md",
-    "notes/608-mipt-field-theory-lecture-23-04-25.md"
+    "notes/117-mipt-differential-equations-lecture-23-04-25.md"
   ]
 }
