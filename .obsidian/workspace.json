@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/886-mipt-probability-theory-seminar-04-04-25.md",
+                "file": "notes/249-независимые-события.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "886-mipt-probability-theory-seminar-04-04-25"
+              "title": "249-независимые-события"
             }
           },
           {
@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "незави",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,7 +96,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -204,6 +205,7 @@
   },
   "active": "fce4178ff020f302",
   "lastOpenFiles": [
+    "notes/886-mipt-probability-theory-seminar-04-04-25.md",
     "courses/MIPT-probability-theory-2025.md",
     "notes/299-mipt-probability-theory-seminar-28-03-25.md",
     "notes/625-mipt-probability-theory-lecture-18-04-25.md",
@@ -248,7 +250,6 @@
     "courses/MIPT-physics-2025.md",
     "notes/628-mipt-physics-lecture-29-03-25.md",
     "notes/117-mipt-differential-equations-lecture-23-04-25.md",
-    "notes/608-mipt-field-theory-lecture-23-04-25.md",
-    "notes/791-mipt-physics-seminar-22-04-25.md"
+    "notes/608-mipt-field-theory-lecture-23-04-25.md"
   ]
 }
