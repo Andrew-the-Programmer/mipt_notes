@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/625-mipt-probability-theory-lecture-18-04-25.md",
+                "file": "notes/330-mipt-harmonic-analysis-seminar-06-05-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "625-mipt-probability-theory-lecture-18-04-25"
+              "title": "330-mipt-harmonic-analysis-seminar-06-05-25"
             }
           },
           {
@@ -101,7 +101,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.50694274902344
+    "width": 303.50694274902344,
+    "collapsed": true
   },
   "right": {
     "id": "118388a6ab5b8fbb",
@@ -205,6 +206,8 @@
   },
   "active": "fce4178ff020f302",
   "lastOpenFiles": [
+    "notes/330-mipt-harmonic-analysis-seminar-06-05-25.md~",
+    "preamble.sty~",
     "courses/MIPT-probability-theory-2025.md",
     "notes/886-mipt-probability-theory-seminar-04-04-25.md",
     "notes/299-mipt-probability-theory-seminar-28-03-25.md",
@@ -241,7 +244,6 @@
     "assets/imgs/30-04-25_11-31-35_801_IMG_20250430_105439.jpg",
     "assets/imgs/30-04-25_11-31-35_645_IMG_20250430_104921.jpg",
     "notes/4913",
-    "courses/MIPT-differential-equations-2025.md~",
     "notes/462-3mipt-differential-equations-lecture-0-04-25.md",
     "notes/505-mipt-harmonic-analysis-seminar-29-04-25.md",
     "notes/139-mipt-harmonic-analysis-seminar-22-04-25.md",
@@ -249,7 +251,6 @@
     "notes/388-mipt-computational-complexity-theory-lecture-25-04-25.md",
     "notes/319-mipt-computational-complexity-theory-lecture-18-04-25.md",
     "courses/MIPT-computational-complexity-theory-2025.md",
-    "courses/MIPT-physics-2025.md",
-    "notes/628-mipt-physics-lecture-29-03-25.md"
+    "courses/MIPT-physics-2025.md"
   ]
 }
