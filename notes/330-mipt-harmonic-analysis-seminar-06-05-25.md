@@ -143,8 +143,6 @@ f(x) = \delta(x) \group{e^{\sin x} + 3x \cos^2(x)} \\
 
 ## If:
 
-
-
 $\set{\varphi_n}$
 
 1.  $\varphi_n \in C$
@@ -154,6 +152,18 @@ $\set{\varphi_n}$
 +\infty,& x = 0
 }$
 
+## Then:
+
 $$
 \varphi_n \to \delta
+$$
+
+$\delta$-слабый предел
+
+# Преобразование Фурье
+
+$f \in {D}^{'}$
+
+$$
+\groupt{\mcF[f], \varphi} \defeq \groupt{f, \mcF[\varphi]}
 $$
