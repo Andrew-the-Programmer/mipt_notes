@@ -175,3 +175,19 @@ $\mcF\groupr{1} = \frac{1}{2\pi} \delta$
 # Пример 2
 
 $\mcF\groupr{e^{it}} = \frac{1}{2\pi} \delta(y + 1)$
+
+# Пример
+
+$$
+-{u}^{''} + u = e^{-\abs{x}}
+$$
+
+## 1
+
+$\Align{
+y^2 \hat u + \hat u = \frac{1}{2\pi} \frac{1}{y^2 - 1} \\
+\hat u = \frac{1}{2\pi} \frac{1}{y^4 - 1}
+}$
+
+## 2
+Ф-ия Грина
