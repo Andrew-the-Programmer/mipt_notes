@@ -7,13 +7,13 @@ tags: []
 
 # MIPT harmonic analysis seminar 06-05-25
 
-Пр-во пробных функций $D(\RR)$.
+# Пр-во пробных функций $D(\RR)$.
 
 $$
 D(\RR) \defeq \set{f \in C^\infty(\RR) \mid \supp f - \textit{компакт}}
 $$
 
-#
+# Claim
 
 $\set{\varphi_n} \in D$
 
@@ -26,4 +26,25 @@ $\set{\varphi_n} \in D$
 
 $$
 \varphi_n \to \varphi \in D
+$$
+
+# Definition
+
+$$
+{D}^{'}(\RR)
+$$
+
+$$
+f \in {D}^{'} \same \forall \varphi_n \to \varphi \in D \hthen
+f(\varphi_n) \to f(\varphi)
+$$
+
+# Claim
+
+$$
+L_1^{loc} \hthen {D}^{'}
+$$
+
+$$
+\groupt{f,\varphi} = \int_{\RR}{f \varphi \d x}
 $$
