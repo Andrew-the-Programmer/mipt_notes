@@ -48,3 +48,19 @@ $$
 $$
 \groupt{f,\varphi} = \int_{\RR}{f \varphi \d x}
 $$
+
+# Сингулярные функционалы
+
+$\delta \in {D}^{'}$
+
+$$
+\delta(\varphi) \defeq \varphi(0)
+$$
+
+Сингулярный функцианал не представляется ф-ией из $L_1^{loc}$
+
+# Definition
+
+$$
+P\groupr{\frac{1}{x}}
+$$
