@@ -124,6 +124,8 @@ $$
 {f}^{'}_{обобщ} = {f}^{'}_{класс} + \sum{\alpha_i \delta(x - x_i)}
 $$
 
+$x_i$ - точки разрыва
+
 $$
 {\delta}^{(k)} = (-1)^k {\varphi}^{(k)}(0)
 $$
@@ -136,3 +138,22 @@ f(x) = \delta(x) \group{e^{\sin x} + 3x \cos^2(x)} \\
 \groupt{\delta, \group{e^{\sin x} + 3x \cos^2(x)} \varphi} = 
 \varphi(0) = \groupt{\delta, \varphi}
 }$
+
+# Дельта-образная последовательность
+
+## If:
+
+
+
+$\set{\varphi_n}$
+
+1.  $\varphi_n \in C$
+2.  $\int_\RR{\varphi_n \d x} = 1$
+3.  $\varphi_n(x) \to \Cases{
+0,& x \neq 0 \\
++\infty,& x = 0
+}$
+
+$$
+\varphi_n \to \delta
+$$
