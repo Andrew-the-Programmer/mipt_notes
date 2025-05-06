@@ -174,4 +174,4 @@ $\mcF\groupr{1} = \frac{1}{2\pi} \delta$
 
 # Пример 2
 
-$\mcF\groupr{1} = \frac{1}{2\pi} \delta$
+$\mcF\groupr{e^{it}} = \frac{1}{2\pi} \delta(y + 1)$
