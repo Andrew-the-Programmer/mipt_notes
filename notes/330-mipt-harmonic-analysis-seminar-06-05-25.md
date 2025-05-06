@@ -28,7 +28,7 @@ $$
 \varphi_n \to \varphi \in D
 $$
 
-# Definition
+# Definition. Пр-во обобщенных функций.
 
 $$
 {D}^{'}(\RR)
@@ -70,7 +70,7 @@ f(x) = \frac{1}{x} \\
 v.p. \int_\RR{f \varphi \d x} = \int_\RR{\frac{\varphi(x) - \varphi(0)}{x} \d x}
 }$
 
-# Claim
+# Def - Claim
 
 ## If:
 
@@ -82,3 +82,10 @@ $g \in C^{\infty}$
 $$
 \groupt{gf, \varphi} \defeq \groupt{f, g \varphi}
 $$
+
+# Утв. о невозможности Шварца
+
+# .
+
+$f \in C^{\infty} \subset {D}^{'}$
+$\groupt{{f}^{'}, \varphi} = \int_{\RR}{{f}^{'} \varphi \d x} = $
