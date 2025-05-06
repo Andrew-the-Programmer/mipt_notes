@@ -131,5 +131,8 @@ $$
 # Пример
 
 $\Align{
-f(x) = \delta(x)
+f(x) = \delta(x) \group{e^{\sin x} + 3x \cos^2(x)} \\
+\groupt{f, \varphi} = 
+\groupt{\delta, \group{e^{\sin x} + 3x \cos^2(x)} \varphi} = 
+\varphi(0) = \groupt{\delta, \varphi}
 }$
