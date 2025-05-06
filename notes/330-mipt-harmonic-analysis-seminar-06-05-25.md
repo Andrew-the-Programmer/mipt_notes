@@ -104,3 +104,32 @@ $\Align{
 f(x) = \abs{x} \\
 \groupt{{f}^{'}, \varphi} = \int_{\RR}{\sign x \d x}
 }$
+
+$$
+\abs{x}^{'} \defeq \sign x
+$$
+
+$$
+\theta(x) \defeq \Cases{
+0,& x \le 0 \\
+1,& x > 0
+}
+$$
+
+$$
+{\theta}^{'} = \delta
+$$
+
+$$
+{f}^{'}_{обобщ} = {f}^{'}_{класс} + \sum{\alpha_i \delta(x - x_i)}
+$$
+
+$$
+{\delta}^{(k)} = (-1)^k {\varphi}^{(k)}(0)
+$$
+
+# Пример
+
+$\Align{
+f(x) = \delta(x)
+}$
