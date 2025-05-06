@@ -190,4 +190,17 @@ y^2 \hat u + \hat u = \frac{1}{2\pi} \frac{1}{y^2 - 1} \\
 }$
 
 ## 2
+
 Ф-ия Грина
+
+$\Align{
+D G = \delta
+\implies
+P \hat G = \frac{1}{2\pi} \\
+D f = g \implies
+P \hat f = \hat g \\
+\hat f = 2\pi \hat G \hat g \\
+f = G \star g - \textit{частное решение}
+}$
+
+Обобщенное преобразование Фурье
