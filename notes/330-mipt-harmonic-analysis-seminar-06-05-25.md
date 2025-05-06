@@ -42,7 +42,7 @@ $$
 # Claim
 
 $$
-L_1^{loc} \hthen {D}^{'}
+L_1^{loc} \to {D}^{'}
 $$
 
 $$
@@ -63,4 +63,22 @@ $$
 
 $$
 P\groupr{\frac{1}{x}}
+$$
+
+$\Align{
+f(x) = \frac{1}{x} \\
+v.p. \int_\RR{f \varphi \d x} = \int_\RR{\frac{\varphi(x) - \varphi(0)}{x} \d x}
+}$
+
+# Claim
+
+## If:
+
+$f \in {D}^{'}$
+$g \in C^{\infty}$
+
+## Then:
+
+$$
+\groupt{gf, \varphi} \defeq \groupt{f, g \varphi}
 $$
