@@ -85,7 +85,22 @@ $$
 
 # Утв. о невозможности Шварца
 
-# .
+# Взятие производной в пр-ве обощенных ф-ий
 
 $f \in C^{\infty} \subset {D}^{'}$
-$\groupt{{f}^{'}, \varphi} = \int_{\RR}{{f}^{'} \varphi \d x} = $
+$\Align{
+\groupt{{f}^{'}, \varphi} = 
+\int_{\RR}{{f}^{'} \varphi \d x} = 
+f \varphi \rvert_{-\infty}^{+\infty} - \int_{\RR}{f {\varphi}^{'} \d x} = 
+-\groupt{f, {\varphi}^{'}}
+}$
+
+$$
+\groupt{{f}^{'}, \varphi} \defeq -\groupt{f, {\varphi}^{'}}
+$$
+
+Обобщенная производная
+$\Align{
+f(x) = \abs{x} \\
+\groupt{{f}^{'}, \varphi} = \int_{\RR}{\sign x \d x}
+}$
