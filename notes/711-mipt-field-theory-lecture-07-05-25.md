@@ -119,4 +119,6 @@ $-\Laplace \varphi(x,t) = 4\pi \rho(x,t)$
 $\varphi(x \in U,t) = \frac{e(t)}{\abs{x}}$
 Угадаем решение
 
-$\varphi(x \in \RR^3,t) = \frac{e \group{t \pm \frac{\abs{x}}{c}}}{\abs{x}}$
+$\varphi(x \in \RR^3,t) = \frac{e\group{t \pm \frac{\abs{x}}{c}}}{\abs{x}}$ 
+
+Частное решение с полностью запаздывающим потенциалом (что это значит?)
