@@ -39,3 +39,13 @@ $\Align{
 $$
 y(x, \mu) \in C_\mu
 $$
+
+## Proof:
+
+$W = \set{(\mu, x,y) \mid \mu \in U_\alpha(\mu_0), x \in U_\delta(x_0), \abs{y - \varphi_0} \le R}$ - в общем трубка
+
+$\Align{
+\omega_f(\D \mu) \\
+\omega_{y_0}(\D \mu) \\
+\omega_{\cdot} \to 0, \quad \D {\mu} \to 0
+}$
