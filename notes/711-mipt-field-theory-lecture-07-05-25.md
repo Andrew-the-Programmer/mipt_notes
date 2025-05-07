@@ -13,12 +13,12 @@ tags: []
 $\Align{
 \textit{Ур-ия Максвелла}
 \to
-\partial\_\mu F^{\mu\nu} = \frac{4\pi}{c} j^\nu
+\partial_\mu F^{\mu\nu} = \frac{4\pi}{c} j^\nu
 \to \textit{калибровка Лоренца} \to
 \Cases{
 \DAlambert \varphi = 4\pi \rho \\
 \DAlambert A = \frac{4\pi}{c} j
-}
+}\\
 \textit{Схема решения}: \\
 1 \textit{Из волнового уравнения находим } \vec{A} \\
 2 \textit{Находим } \varphi \\
@@ -27,9 +27,3 @@ $\Align{
 E = -\grad \varphi - \frac{1}{c} \pdv{t}{\vec{A}} \\
 B = \rot \vec{A}
 }$
-
-<center>
-    1.\br
-    2.
-    3.
-</center>
