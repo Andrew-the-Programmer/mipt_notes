@@ -119,6 +119,22 @@ $-\Laplace \varphi(x,t) = 4\pi \rho(x,t)$
 $\varphi(x \in U,t) = \frac{e(t)}{\abs{x}}$
 Угадаем решение
 
-$\varphi(x \in \RR^3,t) = \frac{e\group{t \pm \frac{\abs{x}}{c}}}{\abs{x}}$ 
+$\varphi(x \in \RR^3,t) = \frac{e\group{t \pm \frac{\abs{x}}{c}}}{\abs{x}}$
 
-Частное решение с полностью запаздывающим потенциалом (что это значит?)
+Запаздывающим потенциал
+
+$$
+\varphi = \frac{e\group{t - \frac{\abs{x}}{c}}}{\abs{x}}
+$$
+
+Частное решение с полностью запаздывающим потенциалом
+
+$$
+\varphi(x,t) = \int{\frac{\d^3 y}{\abs{x-y}} \rho\group{y, t - \frac{\abs{x-y}}{c}}}
+$$
+
+$$
+A(x,t) = \int{\frac{\d^3 y}{\abs{x-y}} \vec{j}\group{y, t - \frac{\abs{x-y}}{c}}}
+$$
+
+Измерение точечного заряда в нерелятивистком приближении
