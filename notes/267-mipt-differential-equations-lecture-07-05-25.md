@@ -47,7 +47,7 @@ $W = \set{(\mu, x,y) \mid \mu \in U_\alpha(\mu_0), x \in U_\delta(x_0), \abs{y -
 
 Колебания
 $\Align{
-\omega_f(\D \mu) = \max_W{\D f_\mu} \\
+\omega_f(\D \mu) = \max_W{\D f_\mu} = \max_W\group{f(x, y(\mu + \D \mu), \mu + \D \mu) - f(x,y(\mu), \mu)} \\
 \omega_{y_0}(\D \mu) = \max_W{\D{{y_0}_\mu}} \\
 \omega_{\cdot} \to 0, \quad \D {\mu} \to 0
 }$
@@ -56,5 +56,5 @@ $\Align{
 $\Align{
 z(x,\mu,\D \mu) \defeq y(x,\mu+\D \mu) - y(x,\mu) \\
 \dv{x}{z} = \D f_\mu(x,y,\mu) = F \\
-z(x_0) = z_0 \defeq z(x_0)
+z(x_0) \defeq y_0(\mu + \D \mu) - y_0(\mu) = z_0(\mu)
 }$
