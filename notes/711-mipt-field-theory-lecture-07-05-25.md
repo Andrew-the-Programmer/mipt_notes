@@ -28,9 +28,8 @@ E = -\grad \varphi - \frac{1}{c} \pdv{t}{\vec{A}} \\
 B = \rot \vec{A}
 }$
 
-$$
-\begin{enumerate}
-\item A
-\item B
-\end{enumerate}
-$$
+<center>
+    1.\br
+    2.
+    3.
+</center>
