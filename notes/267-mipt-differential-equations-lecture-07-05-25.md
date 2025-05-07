@@ -31,6 +31,11 @@ $$
 
 ## Then:
 
-$\Align{\exists \delta > 0, \alpha > 0:
+$\Align{
+\exists \delta > 0, \exists \alpha > 0:\\
+\forall x \in U_\delta(x_0), \forall \mu \in U_\alpha(\mu_0) \hthen
 }$
-$\forall x \in U_\delta(x_0)$
+
+$$
+y(x, \mu) \in C_\mu
+$$
