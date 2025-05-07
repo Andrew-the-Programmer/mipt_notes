@@ -138,3 +138,13 @@ A(x,t) = \int{\frac{\d^3 y}{\abs{x-y}} \vec{j}\group{y, t - \frac{\abs{x-y}}{c}}
 $$
 
 Измерение точечного заряда в нерелятивистком приближении
+
+$\Align{
+\vec{j}(x,t) = \rho(t) \vec{v}(t) = e \delta(x - x_e(t)) \vec{{v}_{e}}(t) \\
+\vec{{v}_{e}}(t) = \dv{t}{\vec{{x}_{e}}} \\
+}$
+$x_e(t)$ - траектория движения точечного заряда
+
+ $$
+A(x,t) = \frac{e}{c} \frac{v_e(t_{ret})}{\abs{x - x_e(t_{ret})}}
+$$
