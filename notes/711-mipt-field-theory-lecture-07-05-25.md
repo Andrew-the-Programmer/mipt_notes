@@ -97,3 +97,13 @@ $D_{ij} = \int{\group{x_i x_j - \frac{1}{3} \delta_{ij} \abs{x_i}^2} \rho(x) \d^
 $-$ квадрупольный момент (тензор без следа)
 
 # Частное решение неодн. волнового ур-ия
+
+$\DAlambert \varphi = 4\pi \rho(x,t)$
+$\rho(x,t) = e(t) \delta(x)$
+$x \neq 0 \implies \DAlambert \varphi = 0 \implies \textit{сферические волны}$
+$\varphi = \frac{u \group{t \pm \frac{r}{c}}}{r}$ 
+
+Квазистатическое приближение
+$e(t)$ - периодическая функция
+
+$\frac{\abs{x}}{\lambda} \ll 1$ - квазистатическое приближение
