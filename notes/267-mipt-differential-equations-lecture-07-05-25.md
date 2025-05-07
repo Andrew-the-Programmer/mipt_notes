@@ -100,6 +100,7 @@ $u_{ij} \defeq \pdv{\mu_j}{y_i}$ удовлетворяют уравнениям
 
 $$
 \Cases{
-\dv{x}{u_{ik}} = \pdv{\mu_k}{f_i} + \sum_{j}{\pdv{y_j}{f_i} u_{jk}}
+\dv{x}{u_{ik}} = \pdv{\mu_k}{f_i} + \sum_{j}{\pdv{y_j}{f_i} u_{jk}} \\
+u_{ik}(x_0) = \pdv{\mu_k}{(y_0)_i}
 }
 $$
