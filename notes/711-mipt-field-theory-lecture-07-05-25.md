@@ -52,21 +52,30 @@ $$
 $D$ - дифференциальный оператор
 (было на семинаре по матану на этой неделе)
 
-# Решение
 $$
-\varphi(x) = 4\pi \int{\d^3 x G(x, {x}^{'}) \rho({x}^{'})}
+-\Laplace_x G = \delta
+$$
+
+# Решение
+
+$$
+\varphi(x) = 4\pi \int{\d^3 y\ G(x, y) \rho(y)}
 $$
 
 # Для точечного заряда
 
 $$
-G = \frac{1}{4\pi} \frac{1}{\abs{x - {x}^{'}}}
+-\Laplace_x \group{\frac{e}{\abs{x-y}}} = 4\pi e \delta(x - y)
+$$
+
+$$
+G(x,y) = \frac{1}{4\pi} \frac{1}{\abs{x - y}}
 $$
 
 # Для магнитостатики
 
 $$
-\vec{A}(x) = \frac{4\pi}{c} \int{\d^3 x G(x,{x}^{'}) \vec{j}({x}^{'})}
+\vec{A}(x) = \frac{4\pi}{c} \int{\d^3 y\ G(x,y) \vec{j}(y)}
 $$
 
 # Мультипольное разложение
