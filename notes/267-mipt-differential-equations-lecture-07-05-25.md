@@ -52,9 +52,22 @@ $\Align{
 \omega_{\cdot} \to 0, \quad \D {\mu} \to 0
 }$
 
-Ошибка
+Ошибка:
+$z(x,\mu,\D \mu) \defeq y(x,\mu+\D \mu) - y(x,\mu)$
+
+Фиксируем $\D \mu$.
+ЗК для ошибки:
 $\Align{
-z(x,\mu,\D \mu) \defeq y(x,\mu+\D \mu) - y(x,\mu) \\
+\Cases{
 \dv{x}{z} = \D f_\mu(x,y,\mu) = F \\
 z(x_0) \defeq y_0(\mu + \D \mu) - y_0(\mu) = z_0(\mu)
+}
+}$
+
+По ф-ле интегрального представления решения ЗК:
+$z(x) = z_0 + \int_{x_0}^{x}{F \d \xi}$
+
+
+$\Align{
+
 }$
