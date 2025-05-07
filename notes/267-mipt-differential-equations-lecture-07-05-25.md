@@ -93,5 +93,13 @@ $\Align{
 }$
 
 $$
-y(x, \mu) \in C_\mu
+y(x, \mu) \in D_\mu
+$$
+
+$u_{ij} \defeq \pdv{\mu_j}{y_i}$ удовлетворяют уравнениям в вариациях
+
+$$
+\Cases{
+\dv{x}{u_{ik}} = \pdv{\mu_k}{f_i} + \sum_{j}{\pdv{y_j}{f_i} u_{jk}}
+}
 $$
