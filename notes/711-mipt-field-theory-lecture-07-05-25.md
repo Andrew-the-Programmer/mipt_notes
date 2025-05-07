@@ -27,3 +27,31 @@ $\Align{
 E = -\grad \varphi - \frac{1}{c} \pdv{t}{\vec{A}} \\
 B = \rot \vec{A}
 }$
+
+Сферические волны
+
+$$
+\DAlambert f = 0 \implies f(t,x) = f_0 e^{i (\omega t - \vec{k} \vec{x})}
+$$
+
+ЭМ статика
+Ур-ие Пуассона
+
+$$
+
+-\grad \varphi = 4\pi \rho
+
+
+$$
+
+Функция Грина
+
+$$
+
+\varphi(x) = 4\pi \int{\d^3 x G(x, {x}^{'}) \rho({x}^{'})}
+
+
+$$
+
+$$
+$$
