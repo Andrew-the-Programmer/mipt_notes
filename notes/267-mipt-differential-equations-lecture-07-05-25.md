@@ -15,7 +15,8 @@ tags: []
 
 $$
 \Cases{
-\dv{x}{} \vec{y} = \vec{f}(x,\vec{y},\vec{\mu})
+\dv{x}{} \vec{y} = \vec{f}(x,\vec{y},\vec{\mu}) \\
+y(x_0) = y_0(\mu)
 }
 $$
 
@@ -23,4 +24,13 @@ $$
 
 ## If:
 
-$f(x,y,\mu) \in C$
+1. $f(x,y,\mu) \in C$
+2. $\exists \pdv{y_j}{f_i} \in C$
+3. $y_0(\mu) \in C$
+4. $\exists \mu_0 : (x_0, y_0(\mu_0)) - \textit{НТ}$
+
+## Then:
+
+$\Align{\exists \delta > 0, \alpha > 0:
+}$
+$\forall x \in U_\delta(x_0)$
