@@ -101,9 +101,14 @@ $-$ квадрупольный момент (тензор без следа)
 $\DAlambert \varphi = 4\pi \rho(x,t)$
 $\rho(x,t) = e(t) \delta(x)$
 $x \neq 0 \implies \DAlambert \varphi = 0 \implies \textit{сферические волны}$
-$\varphi = \frac{u \group{t \pm \frac{r}{c}}}{r}$ 
+$\varphi = \frac{u \group{t \pm \frac{r}{c}}}{r}$
 
 Квазистатическое приближение
-$e(t)$ - периодическая функция
+$e(t)$ - периодическая функция с периодом $T$
 
+$\lambda \defeq c T$
 $\frac{\abs{x}}{\lambda} \ll 1$ - квазистатическое приближение
+$\implies$
+$\pdv[2]{t}{\varphi} \ll 1$
+$\implies$ ур-ие Пуассона:
+$-\Laplace \varphi(x,t) = 4\pi \rho(x,t)$
