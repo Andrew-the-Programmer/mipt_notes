@@ -67,7 +67,31 @@ z(x_0) \defeq y_0(\mu + \D \mu) - y_0(\mu) = z_0(\mu)
 По ф-ле интегрального представления решения ЗК:
 $z(x) = z_0 + \int_{x_0}^{x}{F \d \xi}$
 
+$\Align{
+z*0 \le \omega*{y*0}(\D \omega) \\
+\int_{x_0}^{x}{F \d \xi} \le \omega_f(\D \mu) \delta
+}$
+
+$\abs{z} \to 0,\quad \D \mu \to 0$
+
+$\blacksquare$
+
+# Theorem. Дифференцируемость решения по параметру
+
+## If:
+
+1. $f(x,y,\mu) \in C$
+2. $\exists \pdv{y_j}{f_i} \in C$
+3. $\exists \pdv{\mu_j}{f_i} \in C$
+4. $y_0 \in C^1_\mu$
+
+## Then:
 
 $\Align{
-
+\exists \delta > 0, \exists \alpha > 0:\\
+\forall x \in U_\delta(x_0), \forall \mu \in U_\alpha(\mu_0) \hthen
 }$
+
+$$
+y(x, \mu) \in C_\mu
+$$
