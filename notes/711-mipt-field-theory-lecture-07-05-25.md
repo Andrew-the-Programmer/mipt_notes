@@ -19,5 +19,18 @@ $\Align{
 \DAlambert \varphi = 4\pi \rho \\
 \DAlambert A = \frac{4\pi}{c} j
 }
-\textit{Схема решения}
+\textit{Схема решения}: \\
+1 \textit{Из волнового уравнения находим } \vec{A} \\
+2 \textit{Находим } \varphi \\
+\frac{1}{c} \pdv{t}{\varphi} + \divv \vec{A} = 0 \\
+3 \textit{Находим } \vec{E}, \vec{B} \\
+E = -\grad \varphi - \frac{1}{c} \pdv{t}{\vec{A}} \\
+B = \rot \vec{A}
 }$
+
+$$
+\begin{enumerate}
+\item A
+\item B
+\end{enumerate}
+$$
