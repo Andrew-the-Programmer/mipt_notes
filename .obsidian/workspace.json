@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/330-mipt-harmonic-analysis-seminar-06-05-25.md",
+                "file": "notes/711-mipt-field-theory-lecture-07-05-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "330-mipt-harmonic-analysis-seminar-06-05-25"
+              "title": "711-mipt-field-theory-lecture-07-05-25"
             }
           },
           {
@@ -206,11 +206,13 @@
   },
   "active": "fce4178ff020f302",
   "lastOpenFiles": [
+    "notes/711-mipt-field-theory-lecture-07-05-25.md~",
+    "notes/4913",
+    "notes/330-mipt-harmonic-analysis-seminar-06-05-25.md",
     "notes/711-mipt-field-theory-lecture-07-05-25.md",
     "notes/267-mipt-field-theory-lecture-30-04-25.md~",
     "courses/MIPT-field-theory-2025.md~",
     "notes/330-mipt-harmonic-analysis-seminar-06-05-25.md~",
-    "notes/4913",
     "preamble.sty~",
     "courses/MIPT-probability-theory-2025.md",
     "notes/886-mipt-probability-theory-seminar-04-04-25.md",
@@ -231,7 +233,6 @@
     "notes/856-mipt-field-theory-seminar-30-04-25.md",
     "notes/916-mipt-field-theory-seminar-23-04-25.md",
     "notes/856-mipt-field-theory-seminar-30-04-25.md~",
-    "notes/916-mipt-field-theory-seminar-23-04-25.md~",
     "notes/868-оператор-Д'Аламбера.md",
     "notes/267-mipt-field-theory-lecture-30-04-25.md",
     "assets/imgs/30-04-25_11-31-35_483_IMG_20250430_112031.jpg",
@@ -249,8 +250,6 @@
     "notes/139-mipt-harmonic-analysis-seminar-22-04-25.md",
     "notes/502-mipt-probability-theory-lecture-25-04-25.md",
     "notes/388-mipt-computational-complexity-theory-lecture-25-04-25.md",
-    "notes/319-mipt-computational-complexity-theory-lecture-18-04-25.md",
-    "courses/MIPT-computational-complexity-theory-2025.md",
-    "courses/MIPT-physics-2025.md"
+    "notes/319-mipt-computational-complexity-theory-lecture-18-04-25.md"
   ]
 }
