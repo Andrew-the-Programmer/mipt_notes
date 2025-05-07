@@ -55,5 +55,6 @@ $\Align{
 Ошибка
 $\Align{
 z(x,\mu,\D \mu) \defeq y(x,\mu+\D \mu) - y(x,\mu) \\
-\dv{x}{z} = \D f_\mu(x,y,\mu)
+\dv{x}{z} = \D f_\mu(x,y,\mu) = F \\
+z(x_0) = z_0 \defeq z(x_0)
 }$
