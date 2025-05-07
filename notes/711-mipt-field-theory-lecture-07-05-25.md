@@ -112,3 +112,11 @@ $\implies$
 $\pdv[2]{t}{\varphi} \ll 1$
 $\implies$ ур-ие Пуассона:
 $-\Laplace \varphi(x,t) = 4\pi \rho(x,t)$
+
+В малой области можно найти решение с помощью ф-ии Грина и по единственности
+решения продолжить на все пр-во.
+
+$\varphi(x \in U,t) = \frac{e(t)}{\abs{x}}$
+Угадаем решение
+
+$\varphi(x \in \RR^3,t) = \frac{e \group{t \pm \frac{\abs{x}}{c}}}{\abs{x}}$
