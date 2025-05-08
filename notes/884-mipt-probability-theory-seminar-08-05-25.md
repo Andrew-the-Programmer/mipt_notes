@@ -11,7 +11,10 @@ $$
 \AlignCenter{
 X_n \xra{p} X \same 
 \forall \varepsilon \hthen P(\abs{X_n - X} > \varepsilon) \to 0 \\
-X_n \xra{п.н.} 
+X_n \xra{п.н.} X \same
+\forall \varepsilon \hthen P(\sup_{k \ge n}\abs{X_n - X} > \varepsilon) \to 0 \\
+X_n \xra{d} X \same
+\forall
 }
 $$
 
