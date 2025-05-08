@@ -24,7 +24,7 @@ tags: []
 11. no notes
 12. [[608-mipt-field-theory-lecture-23-04-25|23-04-25]]
 13. [[267-mipt-field-theory-lecture-30-04-25|30-04-25]]
-14. [[]]
+14. [[711-mipt-field-theory-lecture-07-05-25|07-05-25]]
 
 # Seminars
 
@@ -41,3 +41,4 @@ tags: []
 11. skip
 12. [[916-mipt-field-theory-seminar-23-04-25|23-04-25]]
 13. [[856-mipt-field-theory-seminar-30-04-25|30-04-25]]
+14. no notes
