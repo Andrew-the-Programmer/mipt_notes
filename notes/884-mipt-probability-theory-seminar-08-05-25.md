@@ -7,3 +7,12 @@ tags: []
 
 # MIPT probability theory seminar 08-05-25
 
+# 105
+
+$\Align{
+\set{X_n} \\
+X \\
+\sum_{n\in\NN}{P\set{\abs{X_n - X}}}
+}$
+
+# 106
