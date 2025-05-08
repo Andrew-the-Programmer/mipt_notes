@@ -76,6 +76,24 @@ $$
 \frac{1}{n} \sum_{k=1}^{n}{\mathring{X_k}} \xra{p} 0
 $$
 
+# Theorem. Колмогорова. Критерий выполнимости ЗБЧ.
+
+$$
+\Gather{
+E \group{\frac{\group{\ol{\mathring{\xi_n}}}^2}{1 + \group{\ol{\mathring{\xi_n}}}^2}}
+\xrightarrow{n\to\infty} 0 \\
+\same \\
+ЗБЧ
+}
+$$
+
+$\set{\xi_n} - НСВ \implies$
+
+$$
+\sum_{k=1}^n E\group{\frac{\group{\mathring{\xi_k}}^2}{n^2 + \group{\mathring{\xi_k}}^2}}
+\to 0
+$$
+
 # 109
 
 $\Align{
@@ -103,7 +121,7 @@ x_n = \Cases{
 }$
 
 Д-ть:
-$ЗБЧ$
+$\lnot ЗБЧ$
 
 $\Align{
 }$
