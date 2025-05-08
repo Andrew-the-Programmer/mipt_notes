@@ -9,7 +9,7 @@ tags: []
 
 $$
 \AlignCenter{
-X_n \xra{p} X \same 
+X_n \xra{p} X \same
 \forall \varepsilon \hthen P(\abs{X_n - X} > \varepsilon) \to 0 \\
 X_n \xra{п.н.} X \same
 \forall \varepsilon \hthen P(\sup_{k \ge n}\abs{X_n - X} > \varepsilon) \to 0 \\
@@ -59,3 +59,21 @@ $X_n + Y_n \xra{d} X + Y$
 $\Align{
 X_n \sim \mcN(0,1),\quad Y_n = X_n
 }$
+
+# Задача
+
+$\Align{
+\set{X_n} - \textit{н.с.в.} \\
+X_n \xra{p} X
+}$
+
+Д-ть:
+$X \equiv const$
+
+# ЗБЧ
+
+$$
+\frac{1}{n} \sum_{k=1}^{n}{\mathring{X_k}} \xra{p} 0
+$$
+
+# 109
