@@ -139,6 +139,12 @@ n^\alpha,& \frac{1}{2} \\
 При каких $\alpha$:
 $ЗБЧ$
 
-При $\alpha \in (0,\frac{1}{2})$ 
+При $\alpha \in (0,\frac{1}{2})$
 
-# 
+# Теорема Маркова. Достаточное условие ЗБЧ.
+
+$$
+\frac{1}{n^2} D\group{\sum_{k=1}^n \xi_k} \xrightarrow{n\to\infty} 0 \implies ЗБЧ
+$$
+
+# 111
