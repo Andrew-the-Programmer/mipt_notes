@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/502-mipt-probability-theory-lecture-25-04-25.md",
-                "mode": "source",
+                "file": "notes/884-mipt-probability-theory-seminar-08-05-25.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "502-mipt-probability-theory-lecture-25-04-25"
+              "title": "884-mipt-probability-theory-seminar-08-05-25"
             }
           },
           {
@@ -207,6 +207,7 @@
   "active": "fce4178ff020f302",
   "lastOpenFiles": [
     "notes/884-mipt-probability-theory-seminar-08-05-25.md~",
+    "notes/502-mipt-probability-theory-lecture-25-04-25.md",
     "notes/502-mipt-probability-theory-lecture-25-04-25.md~",
     "courses/MIPT-probability-theory-2025.md~",
     "courses/MIPT-probability-theory-2025.md",
@@ -226,7 +227,6 @@
     "assets/imgs/07-05-25_17-09-15_649_IMG_20250507_165213.jpg",
     "notes/789-mipt-differential-equations-lecture-05-03-25.md",
     "notes/789-mipt-differential-equations-lecture-05-03-25.md~",
-    "notes/291-mipt-anmech-seminar-04-04-25.md~",
     "assets/imgs/07-05-25_16-40-38_369_IMG_20250507_163915.jpg",
     "assets/imgs/07-05-25_16-40-38_786_IMG_20250507_163812.jpg",
     "assets/imgs/07-05-25_16-40-38_166_IMG_20250507_163036.jpg",
@@ -250,7 +250,6 @@
     "notes/856-mipt-field-theory-seminar-30-04-25.md",
     "notes/916-mipt-field-theory-seminar-23-04-25.md",
     "notes/868-оператор-Д'Аламбера.md",
-    "notes/267-mipt-field-theory-lecture-30-04-25.md",
-    "notes/462-3mipt-differential-equations-lecture-0-04-25.md"
+    "notes/267-mipt-field-theory-lecture-30-04-25.md"
   ]
 }

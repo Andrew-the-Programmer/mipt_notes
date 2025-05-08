@@ -125,3 +125,20 @@ $\lnot ЗБЧ$
 
 $\Align{
 }$
+
+# 110
+
+$\Align{
+x_n = \Cases{
+n^\alpha,& \frac{1}{2} \\
+-n^\alpha,& \frac{1}{2}
+} \\
+\set{x_n} - \textit{н.с.в.} \\
+}$
+
+При каких $\alpha$:
+$ЗБЧ$
+
+При $\alpha \in (0,\frac{1}{2})$ 
+
+# 
