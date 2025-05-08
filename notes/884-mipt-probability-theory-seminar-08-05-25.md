@@ -177,3 +177,11 @@ n, & \frac{1}{4} \\
 }$
 
 Д-ть ЗБЧ.
+
+# Задача
+
+$\Align{
+\set{\xi_n} - \textit{н.о.р.с.в.} \\
+\xi_n \sim U(0,1) \\
+x_n = \sqrt[n]{\xi_1 \cdot \ldots \cdot \xi_n}
+}$
