@@ -77,6 +77,7 @@ $$
 $$
 
 # 109
+
 $\Align{
 x_n = \Cases{
 2^k,& \frac{1}{2} \\
@@ -87,3 +88,22 @@ x_n = \Cases{
 
 Д-ть:
 $\lnot ЗБЧ$
+
+$\Align{
+}$
+
+# 109.2
+
+$\Align{
+x_n = \Cases{
+\sqrt{n},& \frac{1}{2} \\
+-\sqrt{n},& \frac{1}{2}
+} \\
+\set{x_n} - \textit{н.с.в.} \\
+}$
+
+Д-ть:
+$ЗБЧ$
+
+$\Align{
+}$
