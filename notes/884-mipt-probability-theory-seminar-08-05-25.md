@@ -185,3 +185,6 @@ $\Align{
 \xi_n \sim U(0,1) \\
 x_n = \sqrt[n]{\xi_1 \cdot \ldots \cdot \xi_n}
 }$
+
+Д-ть:
+$x_n \xra{ср.кв.}$
