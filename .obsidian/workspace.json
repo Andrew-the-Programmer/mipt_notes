@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/625-mipt-probability-theory-lecture-18-04-25.md",
+                "file": "notes/884-mipt-probability-theory-seminar-08-05-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "625-mipt-probability-theory-lecture-18-04-25"
+              "title": "884-mipt-probability-theory-seminar-08-05-25"
             }
           },
           {
@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "бореля",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -207,13 +207,14 @@
   "active": "fce4178ff020f302",
   "lastOpenFiles": [
     "courses/MIPT-probability-theory-2025.md",
-    "notes/306-mipt-probability-theory-lecture-11-04-25.md",
+    "notes/173-mipt-probability-theory-lecture-28-02-25.md",
+    "notes/884-mipt-probability-theory-seminar-08-05-25.md",
     "notes/625-mipt-probability-theory-lecture-18-04-25.md",
+    "notes/306-mipt-probability-theory-lecture-11-04-25.md",
     "notes/299-mipt-probability-theory-seminar-28-03-25.md",
     "notes/886-mipt-probability-theory-seminar-04-04-25.md",
     "notes/648-mipt-probability-theory-seminar-11-04-25.md",
     "notes/502-mipt-probability-theory-lecture-25-04-25.md",
-    "notes/884-mipt-probability-theory-seminar-08-05-25.md",
     "notes/884-mipt-probability-theory-seminar-08-05-25.md~",
     "notes/4913",
     "notes/502-mipt-probability-theory-lecture-25-04-25.md~",
@@ -250,7 +251,6 @@
     "notes/453-mipt-differential-equations-seminar-26-03-25.md",
     "notes/470-mipt-differential-equations-lecture-30-04-25.md",
     "notes/856-mipt-field-theory-seminar-30-04-25.md",
-    "notes/916-mipt-field-theory-seminar-23-04-25.md",
-    "notes/868-оператор-Д'Аламбера.md"
+    "notes/916-mipt-field-theory-seminar-23-04-25.md"
   ]
 }
