@@ -152,7 +152,7 @@ $$
 $\Align{
 \set{x_n} \\
 D x_n = \sigma_n^2 \\
-E\groupr{\mathring{x_k} \cdot \mathring{x_l}}
+E\groupr{\mathring{x_k} \cdot \mathring{x_l}} \le 0, \forall k \neq l
 }$
 
 Д-ть:
@@ -164,3 +164,16 @@ $\Align{
 \frac{1}{n^2} \sum_{k\neq l}{cov(x_k, x_l)} \le
 \frac{1}{n^2} \sum_{k = 1}^{n}{\sigma_k^2} \to 0
 }$
+
+# 109 (в)
+
+$\Align{
+\set{x_n} - \textit{н.с.в.} \\
+x_n = \Cases{
+n, & \frac{1}{4} \\
+0,& \frac{1}{2} \\
+-n,& \frac{1}{4}
+}
+}$
+
+Д-ть ЗБЧ.
