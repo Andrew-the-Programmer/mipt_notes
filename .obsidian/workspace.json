@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "свер",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +101,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.50694274902344
+    "width": 303.50694274902344,
+    "collapsed": true
   },
   "right": {
     "id": "118388a6ab5b8fbb",
@@ -203,7 +204,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c5f74878ea4f0198",
+  "active": "fce4178ff020f302",
   "lastOpenFiles": [
     "notes/625-mipt-probability-theory-lecture-18-04-25.md",
     "courses/MIPT-probability-theory-2025.md",
