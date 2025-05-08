@@ -187,4 +187,4 @@ x_n = \sqrt[n]{\xi_1 \cdot \ldots \cdot \xi_n}
 }$
 
 Д-ть:
-$x_n \xra{ср.кв.}$
+$x_n \xra{ср.кв.} X$
