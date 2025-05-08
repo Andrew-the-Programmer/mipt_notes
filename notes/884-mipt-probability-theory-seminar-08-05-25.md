@@ -9,7 +9,9 @@ tags: []
 
 $$
 \AlignCenter{
-X_n \xra{p} X \same \forall \varepsilon 
+X_n \xra{p} X \same 
+\forall \varepsilon \hthen P(\abs{X_n - X} > \varepsilon) \to 0 \\
+X_n \xra{п.н.} 
 }
 $$
 
@@ -33,5 +35,24 @@ $\exists \set{n_k}: X_{n_k} \xra{п.н.} X$
 # Claim
 
 $\Align{
-\set{X_n}, \set{Y_n}
+\set{X_n}, \set{Y_n} \\
+X_n, Y_n - \textit{н.с.в.} \\
+X_n \xra{d} X,\quad Y_n \xra{d} Y \\
+}$
+
+Д-ть:
+$X_n + Y_n \xra{d} X + Y$
+
+# 100 (г)
+
+$\Align{
+\set{X_n}, \set{Y_n} \\
+X_n \xra{d} X,\quad Y_n \xra{d} Y \\
+}$
+
+Привести пример:
+$X_n + Y_n \xra{d} X + Y$
+
+$\Align{
+X_n \sim \mcN(0,1),\quad Y_n = X_n
 }$
