@@ -148,3 +148,9 @@ $$
 $$
 
 # 111
+
+$\Align{
+\set{x_n} \\
+D x_n = \sigma_n^2 \\
+E\groupr{\mathring{x_k} \cdot \mathring{x_l}}
+}$
