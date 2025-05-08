@@ -154,3 +154,13 @@ $\Align{
 D x_n = \sigma_n^2 \\
 E\groupr{\mathring{x_k} \cdot \mathring{x_l}}
 }$
+
+Д-ть:
+$ЗБЧ$
+
+$\Align{
+\frac{1}{n^2} D\sum_{k = 1}^{n}{\mathring{x_k}} = 
+\frac{1}{n^2} \sum_{k = 1}^{n}{\sigma_k^2} + 
+\frac{1}{n^2} \sum_{k\neq l}{cov(x_k, x_l)} \le
+\frac{1}{n^2} \sum_{k = 1}^{n}{\sigma_k^2} \to 0
+}$
