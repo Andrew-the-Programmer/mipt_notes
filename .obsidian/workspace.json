@@ -11,24 +11,12 @@
             "id": "fce4178ff020f302",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "notes/955-mipt-physics-lecture-22-02-25.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "sourses/physics/lectures_2025/Лекция_3.pdf"
               },
-              "icon": "lucide-file",
-              "title": "955-mipt-physics-lecture-22-02-25"
+              "icon": "lucide-file-text",
+              "title": "Лекция_3"
             }
           },
           {
@@ -205,6 +193,7 @@
   },
   "active": "fce4178ff020f302",
   "lastOpenFiles": [
+    "notes/955-mipt-physics-lecture-22-02-25.md",
     "notes/873-давление-электромагнитного-излучения.md",
     "notes/319-mipt-computational-complexity-theory-lecture-18-04-25.md",
     "courses/MIPT-computational-complexity-theory-2025.md",
@@ -249,7 +238,6 @@
     "notes/249-независимые-события.md",
     "notes/604-mipt-differential-equations-seminar-23-04-25.md",
     "courses/MIPT-differential-equations-2025.md",
-    "notes/693-mipt-differential-equations-seminar-16-04-25.md",
-    "notes/471-mipt-differential-equations-seminar-02-04-25.md"
+    "notes/693-mipt-differential-equations-seminar-16-04-25.md"
   ]
 }
