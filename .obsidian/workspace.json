@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "бореля",
+                "query": "Карти",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,8 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.50694274902344,
-    "collapsed": true
+    "width": 303.50694274902344
   },
   "right": {
     "id": "118388a6ab5b8fbb",
@@ -204,7 +203,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fce4178ff020f302",
+  "active": "c5f74878ea4f0198",
   "lastOpenFiles": [
     "courses/MIPT-computational-complexity-theory-2025.md",
     "notes/601-mipt-computational-complexity-theory-lecture-11-04-25.md",
