@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "интенс",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,8 +84,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -191,7 +190,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fce4178ff020f302",
+  "active": "ca43457cb299a78c",
   "lastOpenFiles": [
     "notes/955-mipt-physics-lecture-22-02-25.md",
     "notes/873-давление-электромагнитного-излучения.md",
