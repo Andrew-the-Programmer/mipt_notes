@@ -36,3 +36,6 @@ t_{ret} \approx t - \frac{\abs{x}}{c} + \frac{\vec{n} \cdot \vec{x_e}(t)}{c} \\
 \frac{\frac{\vec{n} \cdot \vec{x_e}(t)}{c}}{t - \frac{\abs{x}}{c}} \sim \frac{v_e}{c} \\
 \textit{Релятивисткое приближение}: \frac{v_e}{c} \to 0
 }$
+
+2. Нулевое (ведущее) приближение $t_{ret} = t - \frac{\abs{x}}{c}$
+3. Первое приближение $t_{ret} = t - \frac{\abs{x}}{c} + \frac{\vec{n} \cdot \vec{x_e}(t - \frac{\abs{x}}{c})}{c}$
