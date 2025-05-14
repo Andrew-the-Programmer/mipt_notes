@@ -140,6 +140,7 @@ h_1 = \Matrix{
 h_2 = \Matrix{
 2 \\ -1
 } \\
+\textit{Неустойчивое седло}. \\
 (x_0, y_0) = \group{\frac{3}{4}, -\frac{3}{4}} \\
 \textit{Линеаризованная система}: \dot{r} \approx A r \\
 A = \Matrix{
@@ -147,12 +148,9 @@ A = \Matrix{
 \frac{5}{4} & \frac{1}{2}
 } \\
 \textit{Ищем собственные значения}: \\
-\det (A - \lambda E) = (\lambda - \frac{3}{2}) (\lambda + \frac{1}{2}) \\
-\lambda_1 = \frac{3}{2},\quad \lambda_2 = -\frac{1}{2} \\
-h_1 = \Matrix{
-2 \\ -5
-} \\
-h_2 = \Matrix{
-2 \\ -1
-} \\
+\det (A - \lambda E) = \lambda^2 + \frac{1}{2} \lambda + \frac{3}{4} \\
+\lambda_1 = -\frac{1}{4} \pm \frac{i}{4} \sqrt{11} \\
+\textit{Устойчивый фокус}. \\
 }$
+![14-05-25_16-34-19_391_IMG_20250514_162432.jpg](assets/imgs/14-05-25_16-34-19_391_IMG_20250514_162432.jpg)
+![14-05-25_16-34-19_783_IMG_20250514_163349.jpg](assets/imgs/14-05-25_16-34-19_783_IMG_20250514_163349.jpg)
