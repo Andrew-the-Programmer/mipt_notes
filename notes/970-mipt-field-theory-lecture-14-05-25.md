@@ -145,3 +145,8 @@ $$
 ЭМ волны излучаются только ускоренными зарядами
 
 Дифференциальное сечение рассеяния
+
+$$
+\dv{\Omega}{\sigma} = \frac{1}{\avrg{\abs{j_{пад}}}} \dv{\Omega}{\group{\dv{t}{\varepsilon}}} =
+\group{\frac{e^2}{m c^2}} \frac{\omega^4}{(\omega_0^2 - \omega^2)^2} \sin^2\theta
+$$

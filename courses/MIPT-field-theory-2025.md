@@ -36,10 +36,11 @@ tags: []
 5. [[204-mipt-field-theory-seminar-05-03-25|05-03-25]]
 6. [[604-mipt-field-theory-seminar-12-03-25|12-03-25]]
 7. [[714-mipt-field-theory-seminar-19-03-25|19-03-25]]
-8. hw1
+8. сдача 1 дз
 9. [[186-mipt-field-theory-seminar-02-04-25|02-04-25]]
 10. [[759-mipt-field-theory-seminar-09-04-25|09-04-25]]
 11. skip
 12. [[916-mipt-field-theory-seminar-23-04-25|23-04-25]]
 13. [[856-mipt-field-theory-seminar-30-04-25|30-04-25]]
 14. no notes
+15. сдача 2 дз
