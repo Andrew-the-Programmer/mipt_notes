@@ -119,6 +119,16 @@ $$
 \dot{y} = \exp{\frac{5}{4} x + 2y + y^2} - 1
 }
 $$
-$\Align{
 
+$\Align{
+\textit{ПР}: \dot{r} = 0 \\
+(x_0, y_0) = \group{\frac{3}{4}, -\frac{3}{4}} \\
+\textit{Линеаризованная система}: \dot{r} \approx A r \\
+A = \Matrix{
+P_x & P_y \\
+Q_x & Q_y
+} \rvert_{(x_0,y_0)} = \Matrix{
+-1 & -1 \\
+2 & \frac{5}{4}
+} \\
 }$
