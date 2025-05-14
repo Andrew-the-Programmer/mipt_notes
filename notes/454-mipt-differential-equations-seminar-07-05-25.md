@@ -82,6 +82,7 @@ $$
 u = y^2 z, \quad x - y = 0
 }
 $$
+
 $\Align{
 \Cases{
 \dot{x} = x - 2x^2 y \\
@@ -89,6 +90,15 @@ $\Align{
 \dot{z} = 2x^2 z^2
 } \\
 \Cases{
-x \neq 2
-}
+x \neq 2 x^2 y \\
+y \neq 0 \\
+2 x^2 z^2 \neq 0
+} \\
+\frac{\d x}{x - 2 x^2 y} = \frac{\d y}{y} = \frac{\d z}{2 x^2 z^2} \\
+\frac{\d x}{x (1 - 2 x y)} = \frac{\d (xy)}{2 xy (1 - xy)} = 
+\group{\frac{1}{2xy} + \frac{1}{2 - 2xy}} \d (xy) \\
+2 \ln\abs{y} = \ln\abs{xy} - \ln\abs{1 - xy} + c \\
+u_1 = \frac{y}{x} - y^2 \\
+\hline
+x = 
 }$
