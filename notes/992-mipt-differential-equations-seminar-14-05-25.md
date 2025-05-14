@@ -93,7 +93,32 @@ h_3 = \Matrix{
 -1 \\ 1 \\ 1
 } \\
 r = C_1 e^t h_1 + C_2 e^t \groupr{t h_1 + h_2} + C_3 e^{-t} h_3 \\
+\boxed{
 \Matrix{
 x \\ y \\ z
+} = C_1 e^t \Matrix{
+1 \\ 1 \\ 0
+} + C_2 e^t \groupr{
+t \cdot \Matrix{
+1 \\ 1 \\ 0
+} + \Matrix{
+0 \\ 0 \\ \frac{1}{2}
+}} + C_3 e^{-t} \Matrix{
+-1 \\ 1 \\ 1
+}}
+}$
+
+# 13.49
+
+![14-05-25_16-07-02_268.png](assets/imgs/14-05-25_16-07-02_268.png)
+![14-05-25_16-06-45_512.png](assets/imgs/14-05-25_16-06-45_512.png)
+
+$$
+\Cases{
+\dot{x} = 2 - 2 \sqrt{1 + x + y} \\
+\dot{y} = \exp{\frac{5}{4} x + 2y + y^2} - 1
 }
+$$
+$\Align{
+
 }$
