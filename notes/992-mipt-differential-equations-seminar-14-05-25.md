@@ -122,14 +122,29 @@ $$
 
 $\Align{
 \textit{ПР}: \dot{r} = 0 \\
-(x_0, y_0) = \group{\frac{3}{4}, -\frac{3}{4}} \\
+(x*0, y_0) = \group{0, 0} \\
 \textit{Линеаризованная система}: \dot{r} \approx A r \\
 A = \Matrix{
 P_x & P_y \\
 Q_x & Q_y
-} \rvert_{(x_0,y_0)} = \Matrix{
+} \rvert*{(x_0,y_0)} = \Matrix{
 -1 & -1 \\
 \frac{5}{4} & 2
+} \\
+\textit{Ищем собственные значения}: \\
+\det (A - \lambda E) = (\lambda - \frac{3}{2}) (\lambda + \frac{1}{2}) \\
+\lambda_1 = \frac{3}{2},\quad \lambda_2 = -\frac{1}{2} \\
+h_1 = \Matrix{
+2 \\ -5
+} \\
+h_2 = \Matrix{
+2 \\ -1
+} \\
+(x_0, y_0) = \group{\frac{3}{4}, -\frac{3}{4}} \\
+\textit{Линеаризованная система}: \dot{r} \approx A r \\
+A = \Matrix{
+-1 & -1 \\
+\frac{5}{4} & \frac{1}{2}
 } \\
 \textit{Ищем собственные значения}: \\
 \det (A - \lambda E) = (\lambda - \frac{3}{2}) (\lambda + \frac{1}{2}) \\
