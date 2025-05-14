@@ -23,6 +23,7 @@ tags: []
 12. [[117-mipt-differential-equations-lecture-23-04-25|23-04-25]]
 13. [[470-mipt-differential-equations-lecture-30-04-25|30-04-25]]
 14. [[267-mipt-differential-equations-lecture-07-05-25|07-05-25]]
+15. не был
 
 # Seminars
 
@@ -40,3 +41,4 @@ tags: []
 12. [[604-mipt-differential-equations-seminar-23-04-25|23-04-25]]
 13. 30-04-25: test + hw 2
 14. [[454-mipt-differential-equations-seminar-07-05-25|07-05-25]]
+15.
