@@ -110,7 +110,12 @@ $$
 
 $\Align{
 \abs{S} = \frac{\abs{\ddot{d}^2}}{4\pi c^3 \abs{x}^2} \sin^2 \theta \\
+\dv{t}{\varepsilon} = \abs{S} \d S = \abs{S} R^2 \d \Omega = \frac{\abs{\ddot{d}}^2}{4\pi c^3} \sin^2 \theta \d \Omega
 }$
+
+Диаграмма направленности:
+В какую сторону больше излучение?
+Получается трехмерный бублик.
 
 # Полная мощность излучения ЭМ волн
 
