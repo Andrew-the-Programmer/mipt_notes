@@ -63,11 +63,13 @@ $$
 \varphi = \frac{1}{c} \frac{\veccross{\dot{d}}{n}}{\abs{x}} + \frac{\veccross{d}{n}}{\abs{x}^2} \\
 B =
 \frac{\dot{d} \times n}{c \abs{x}^2} +
-\frac{\ddot{d} \times n}{c^2 \abs{x}} \\
+\frac{\ddot{d} \times n}{c^2 \abs{x}} =
+B_1 + B_2 \\
 E =
 \frac{3 \veccross{d}{n} \vec{n} - \vec{d}}{\abs{x}^3} +
 \frac{3 \veccross{\dot{d}}{n} \vec{n} - \dot{\vec{d}}}{c \abs{x}^2} +
-\frac{\veccross{\ddot{d}}{n} \vec{n} - \ddot{\vec{d}}}{c^2 \abs{x}}
+\frac{\veccross{\ddot{d}}{n} \vec{n} - \ddot{\vec{d}}}{c^2 \abs{x}} =
+E_1 + E_2 + E_3
 }
 $$
 
@@ -94,3 +96,8 @@ E \approx E_3 = \frac{\veccross{\ddot{d}}{n} \vec{n} - \ddot{\vec{d}}}{c^2 \abs{
 B \approx B_2 = \frac{\ddot{d} \times n}{c^2 \abs{x}}
 }
 $$
+
+1. $n \perp E \perp B$
+2. $\abs{E} = \abs{B}$
+
+Совпадают с условиями распространение ЭМ волн
