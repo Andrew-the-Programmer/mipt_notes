@@ -135,8 +135,9 @@ Q_x & Q_y
 \det (A - \lambda E) = (\lambda - \frac{3}{2}) (\lambda + \frac{1}{2}) \\
 \lambda_1 = \frac{3}{2},\quad \lambda_2 = -\frac{1}{2} \\
 h_1 = \Matrix{
-1 \\ 
+2 \\ -5
 } \\
 h_2 = \Matrix{
+2 \\ -1
 } \\
 }$
