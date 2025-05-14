@@ -84,7 +84,16 @@ h_1 \same \lambda_{1,2} = 1 \\
 h_1 = \Matrix{
 1 \\ 1 \\ 0
 } \\
+A h_2 = h_1 \\
 h_2 = \Matrix{
 0 \\ 0 \\ \frac{1}{2}
+} \\
+h_3 \same \lambda_3 = -1 \\
+h_3 = \Matrix{
+-1 \\ 1 \\ 1
+} \\
+r = C_1 e^t h_1 + C_2 e^t \groupr{t h_1 + h_2} + C_3 e^{-t} h_3 \\
+\Matrix{
+x \\ y \\ z
 }
 }$
