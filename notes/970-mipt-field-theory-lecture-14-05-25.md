@@ -58,6 +58,15 @@ d(t) \defeq e x_e
 
 $$
 \Gather{
-\varphi = \frac{1}{c} \frac{\veccross{\dot{d}}{n}}{\abs{x}} + \frac{\veccross{d}{n}}{\abs{x}^2}
+\varphi = \frac{1}{c} \frac{\veccross{\dot{d}}{n}}{\abs{x}} + \frac{\veccross{d}{n}}{\abs{x}^2} \\
+B = \frac{\ddot{d} \times n}{c^2 \abs{x}} + \frac{\dot{d} \times n}{c \abs{x}^2} \\
+E =
+\frac{3 \veccross{d}{n} \vec{n} - \vec{d}}{\abs{x}^3} +
+\frac{3 \veccross{\dot{d}}{n} \vec{n} - \dot{\vec{d}}}{c \abs{x}^2} +
+\frac{\veccross{\ddot{d}}{n} \vec{n} - \ddot{\vec{d}}}{c^2 \abs{x}}
 }
 $$
+
+Для B:
+
+3 случая
