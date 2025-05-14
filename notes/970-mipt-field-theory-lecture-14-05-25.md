@@ -37,5 +37,27 @@ t_{ret} \approx t - \frac{\abs{x}}{c} + \frac{\vec{n} \cdot \vec{x_e}(t)}{c} \\
 \textit{Релятивисткое приближение}: \frac{v_e}{c} \to 0
 }$
 
-2. Нулевое (ведущее) приближение $t_{ret} = t - \frac{\abs{x}}{c}$
-3. Первое приближение $t_{ret} = t - \frac{\abs{x}}{c} + \frac{\vec{n} \cdot \vec{x_e}(t - \frac{\abs{x}}{c})}{c}$
+<br>
+
+0. Нулевое (ведущее) приближение $t_{ret} = t - \frac{\abs{x}}{c}$
+1. Первое приближение $t_{ret} = t - \frac{\abs{x}}{c} + \frac{\vec{n} \cdot \vec{x_e}(t - \frac{\abs{x}}{c})}{c}$
+
+$$
+A(x,t) = \frac{e}{c} \frac{v_e(t - \abs{x} / c)}{\abs{x - x_e(t - \abs{x} / c)}}
+$$
+
+Мультипольное разложение
+
+$$
+A(x,t) = \frac{e}{c} \frac{v_e(t - \abs{x} / c)}{\abs{x}}
+$$
+
+$\Align{
+d(t) \defeq e x_e
+}$
+
+$$
+\Gather{
+\varphi = \frac{1}{c} 
+}
+$$
