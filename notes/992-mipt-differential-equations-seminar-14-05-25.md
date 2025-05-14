@@ -52,5 +52,22 @@ u_2 = \frac{1}{z} - \frac{x}{y}
 \Cases{
 u_1 = 1 - y^2 \\
 u_2 = \frac{1}{z} - 1
+} \\
+\boxed{u = \frac{1 - u_1}{1 + u_2} = \frac{1 - \frac{y}{x} + y^2}{1 + \frac{1}{z} - \frac{x}{y}}}
+}$
+
+# 11.55
+
+![14-05-25_15-53-13_776.png](assets/imgs/14-05-25_15-53-13_776.png)
+![14-05-25_15-52-56_429.png](assets/imgs/14-05-25_15-52-56_429.png)
+
+$$
+\Cases{
+\dot{x} = x + 2z \\
+\dot{y} = 2x - y + 2z \\
+\dot{z} = x - y + z
 }
+$$
+$\Align{
+
 }$
