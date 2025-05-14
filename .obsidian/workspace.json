@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/454-mipt-differential-equations-seminar-07-05-25.md",
+                "file": "notes/992-mipt-differential-equations-seminar-14-05-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "454-mipt-differential-equations-seminar-07-05-25"
+              "title": "992-mipt-differential-equations-seminar-14-05-25"
             }
           },
           {
@@ -205,7 +205,12 @@
   },
   "active": "fce4178ff020f302",
   "lastOpenFiles": [
+    "notes/992-mipt-differential-equations-seminar-14-05-25.md~",
+    "notes/4913",
+    "notes/454-mipt-differential-equations-seminar-07-05-25.md",
     "notes/454-mipt-differential-equations-seminar-07-05-25.md~",
+    "notes/992-mipt-differential-equations-seminar-14-05-25.md",
+    "courses/MIPT-differential-equations-2025.md~",
     "assets/imgs/14-05-25_15-37-23_006.png",
     "assets/imgs/14-05-25_15-37-04_262.png",
     "courses/MIPT-field-theory-2025.md~",
@@ -213,7 +218,6 @@
     "assets/imgs/14-05-25_10-25-35_959_IMG_20250514_100154.jpg",
     "assets/imgs/14-05-25_10-23-31_376_IMG_20250514_100547.jpg",
     "assets/imgs/14-05-25_10-23-31_632_IMG_20250514_091102.jpg",
-    "notes/4913",
     "courses/MIPT-field-theory-2025.md",
     "notes/970-mipt-field-theory-lecture-14-05-25.md",
     "hi.md",
@@ -236,10 +240,7 @@
     "notes/502-mipt-probability-theory-lecture-25-04-25.md",
     "notes/884-mipt-probability-theory-seminar-08-05-25.md~",
     "notes/502-mipt-probability-theory-lecture-25-04-25.md~",
-    "courses/MIPT-probability-theory-2025.md~",
     "notes/1738649083-функция-ограниченной-вариации.md",
-    "notes/1738753790-mipt-harmonic-analysis-seminar-04-02-25.md~",
-    "notes/454-mipt-differential-equations-seminar-07-05-25.md",
     "assets/imgs/07-05-25_17-09-15_653_IMG_20250507_165545.jpg",
     "assets/imgs/07-05-25_17-09-15_675_IMG_20250507_165232.jpg",
     "assets/imgs/07-05-25_17-09-15_516_IMG_20250507_165219.jpg",
@@ -248,7 +249,6 @@
     "assets/imgs/07-05-25_16-40-38_369_IMG_20250507_163915.jpg",
     "notes/267-mipt-differential-equations-lecture-07-05-25.md",
     "notes/711-mipt-field-theory-lecture-07-05-25.md",
-    "notes/330-mipt-harmonic-analysis-seminar-06-05-25.md",
-    "notes/930-mipt-probability-theory-lecture-28-03-25.md"
+    "notes/330-mipt-harmonic-analysis-seminar-06-05-25.md"
   ]
 }
