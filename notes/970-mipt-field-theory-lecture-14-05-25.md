@@ -30,3 +30,9 @@ $$
 Решаем систему методом последовательных приближений
 
 1. Если $x_e \ll x$
+   $\Align{
+t_{ret} \approx t - \frac{\abs{x}}{c} + \frac{\vec{n} \cdot \vec{x_e}(t)}{c} \\
+\vec{n} = \frac{\vec{x}}{\abs{x}} \\
+\frac{\frac{\vec{n} \cdot \vec{x_e}(t)}{c}}{t - \frac{\abs{x}}{c}} \sim \frac{v_e}{c} \\
+\textit{Релятивисткое приближение}: \frac{v_e}{c} \to 0
+}$
