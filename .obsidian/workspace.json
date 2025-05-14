@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/970-mipt-field-theory-lecture-14-05-25.md",
+                "file": "courses/MIPT-field-theory-2025.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "970-mipt-field-theory-lecture-14-05-25"
+              "title": "MIPT-field-theory-2025"
             }
           },
           {
@@ -205,6 +205,7 @@
   },
   "active": "fce4178ff020f302",
   "lastOpenFiles": [
+    "notes/970-mipt-field-theory-lecture-14-05-25.md",
     "notes/970-mipt-field-theory-lecture-14-05-25.md~",
     "notes/4913",
     "hi.md",
@@ -232,7 +233,6 @@
     "notes/1738753790-mipt-harmonic-analysis-seminar-04-02-25.md~",
     "notes/1738649083-функция-ограниченной-вариации.md~",
     "courses/MIPT-harmonic-analysis-2025.md~",
-    "preamble.sty~",
     "notes/454-mipt-differential-equations-seminar-07-05-25.md",
     "assets/imgs/07-05-25_17-09-15_653_IMG_20250507_165545.jpg",
     "assets/imgs/07-05-25_17-09-15_675_IMG_20250507_165232.jpg",

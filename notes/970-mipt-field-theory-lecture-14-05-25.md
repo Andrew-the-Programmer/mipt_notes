@@ -58,6 +58,6 @@ d(t) \defeq e x_e
 
 $$
 \Gather{
-\varphi = \frac{1}{c} 
+\varphi = \frac{1}{c} \frac{\veccross{\dot{d}}{n}}{\abs{x}} + \frac{\veccross{d}{n}}{\abs{x}^2}
 }
 $$
