@@ -52,6 +52,8 @@ $$
 A(x,t) = \frac{e}{c} \frac{v_e(t - \abs{x} / c)}{\abs{x}}
 $$
 
+Ответ:
+
 $\Align{
 d(t) \defeq e x_e
 }$
@@ -59,7 +61,7 @@ d(t) \defeq e x_e
 $$
 \Gather{
 \varphi = \frac{1}{c} \frac{\veccross{\dot{d}}{n}}{\abs{x}} + \frac{\veccross{d}{n}}{\abs{x}^2} \\
-B = \frac{\ddot{d} \times n}{c^2 \abs{x}} + \frac{\dot{d} \times n}{c \abs{x}^2} \\
+B = \frac{\dot{d} \times n}{c \abs{x}^2} + \frac{\ddot{d} \times n}{c^2 \abs{x}} \\
 E =
 \frac{3 \veccross{d}{n} \vec{n} - \vec{d}}{\abs{x}^3} +
 \frac{3 \veccross{\dot{d}}{n} \vec{n} - \dot{\vec{d}}}{c \abs{x}^2} +
@@ -69,4 +71,12 @@ $$
 
 Для B:
 
-3 случая
+$
+\frac{B_2}{B_1} \sim \frac{\abs{x}}{\lambda}
+$
+
+3 случая (3 зоны):
+
+1. Квазистатическая зона $\abs{z_0} \ll \abs{x} \ll \lambda$
+2. Переходная зона $\abs{z_0} \ll \abs{x} \sim \lambda$
+3. Волновая зона $\abs{z_0} \ll \lambda \ll \abs{x}$
