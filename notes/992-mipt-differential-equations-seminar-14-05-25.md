@@ -68,6 +68,23 @@ $$
 \dot{z} = x - y + z
 }
 $$
-$\Align{
 
+$\Align{
+\textit{Линеаризованная система}: \dot{r} = A r \\
+A = \Matrix{
+1 & 0 & 2 \\
+2 & -1 & 2 \\
+1 & -1 & 1
+} \\
+\textit{Ищем собственные значения}:
+\det (A - \lambda E) = (1 - \lambda) (\lambda^2 - 1) \\
+\lambda_{1,2} = 1, \lambda_{3} = -1 \\
+h_1 \same \lambda_{1,2} = 1 \\
+(A - \lambda_1 E) h_1 = 0 \\
+h_1 = \Matrix{
+1 \\ 1 \\ 0
+} \\
+h_2 = \Matrix{
+0 \\ 0 \\ \frac{1}{2}
+}
 }$

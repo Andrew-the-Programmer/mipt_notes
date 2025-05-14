@@ -41,4 +41,4 @@ tags: []
 12. [[604-mipt-differential-equations-seminar-23-04-25|23-04-25]]
 13. 30-04-25: test + hw 2
 14. [[454-mipt-differential-equations-seminar-07-05-25|07-05-25]]
-15. [[]]
+15. [[992-mipt-differential-equations-seminar-14-05-25|14-05-25]]
