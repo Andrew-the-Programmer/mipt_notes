@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/1731663299-преломление-и-отражение-электромагнитных-волн.md",
+                "file": "notes/955-mipt-physics-lecture-22-02-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1731663299-преломление-и-отражение-электромагнитных-волн"
+              "title": "955-mipt-physics-lecture-22-02-25"
             }
           },
           {
@@ -206,6 +206,7 @@
   },
   "active": "fce4178ff020f302",
   "lastOpenFiles": [
+    "notes/1731663299-преломление-и-отражение-электромагнитных-волн.md",
     "notes/1732082661-mipt-physics-seminar-20-11-24.md",
     "courses/MIPT-physics-seminars-2024.md",
     "notes/1728641439-mipt-physics_lecture_11-10-24.md",
@@ -250,7 +251,6 @@
     "notes/970-mipt-field-theory-lecture-14-05-25.md",
     "hi.md",
     "sourses/physics/lectures_2025/Лекция_3.pdf",
-    "notes/873-давление-электромагнитного-излучения.md",
     "notes/1729147430-теорема-Бореля-Кантелли.md~"
   ]
 }
