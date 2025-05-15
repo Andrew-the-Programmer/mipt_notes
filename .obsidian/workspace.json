@@ -11,12 +11,24 @@
             "id": "fce4178ff020f302",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "sourses/physics/lectures_2025/Лекция_2.pdf"
+                "file": "notes/628-mipt-physics-lecture-29-03-25.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "Лекция_2"
+              "icon": "lucide-file",
+              "title": "628-mipt-physics-lecture-29-03-25"
             }
           },
           {
@@ -88,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.50694274902344,
-    "collapsed": true
+    "width": 303.50694274902344
   },
   "right": {
     "id": "118388a6ab5b8fbb",
@@ -193,10 +204,15 @@
   },
   "active": "fce4178ff020f302",
   "lastOpenFiles": [
-    "notes/570-mipt-physics-lecture-08-02-25.md",
     "courses/MIPT-physics-2025.md",
-    "notes/893-mipt-physics-seminar-11-02-25.md",
+    "notes/412-mipt-physics-lecture-12-04-25.md",
+    "notes/539-mipt-physics-lecture-01-03-25.md",
+    "notes/955-mipt-physics-lecture-22-02-25.md",
+    "notes/570-mipt-physics-lecture-08-02-25.md",
     "notes/916-mipt-physics-lecture-01-02-25.md",
+    "courses/MIPT-physics-lectures-2024.md",
+    "sourses/physics/lectures_2025/Лекция_2.pdf",
+    "notes/893-mipt-physics-seminar-11-02-25.md",
     "sourses/physics/lectures_2025/Лекция_1.pdf",
     "notes/929-линза.md",
     "notes/937-тонкая-линза.md",
@@ -228,16 +244,11 @@
     "notes/970-mipt-field-theory-lecture-14-05-25.md",
     "hi.md",
     "sourses/physics/lectures_2025/Лекция_3.pdf",
-    "notes/955-mipt-physics-lecture-22-02-25.md",
     "notes/873-давление-электромагнитного-излучения.md",
     "notes/319-mipt-computational-complexity-theory-lecture-18-04-25.md",
     "courses/MIPT-computational-complexity-theory-2025.md",
     "notes/601-mipt-computational-complexity-theory-lecture-11-04-25.md",
     "notes/388-mipt-computational-complexity-theory-lecture-25-04-25.md",
-    "notes/1729147430-теорема-Бореля-Кантелли.md~",
-    "courses/MIPT-probability-theory-2025.md",
-    "notes/173-mipt-probability-theory-lecture-28-02-25.md",
-    "notes/884-mipt-probability-theory-seminar-08-05-25.md",
-    "notes/884-mipt-probability-theory-seminar-08-05-25.md~"
+    "notes/1729147430-теорема-Бореля-Кантелли.md~"
   ]
 }
