@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/955-mipt-physics-lecture-22-02-25.md",
+                "file": "notes/1731663299-преломление-и-отражение-электромагнитных-волн.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "955-mipt-physics-lecture-22-02-25"
+              "title": "1731663299-преломление-и-отражение-электромагнитных-волн"
             }
           },
           {
@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "закон сне",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,11 +96,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 303.50694274902344
+    "width": 303.50694274902344,
+    "collapsed": true
   },
   "right": {
     "id": "118388a6ab5b8fbb",
@@ -204,14 +206,17 @@
   },
   "active": "fce4178ff020f302",
   "lastOpenFiles": [
-    "notes/539-mipt-physics-lecture-01-03-25.md",
-    "courses/MIPT-physics-2025.md",
-    "notes/628-mipt-physics-lecture-29-03-25.md",
+    "notes/1732082661-mipt-physics-seminar-20-11-24.md",
+    "courses/MIPT-physics-seminars-2024.md",
+    "notes/1728641439-mipt-physics_lecture_11-10-24.md",
+    "courses/MIPT-physics-lectures-2024.md",
     "notes/412-mipt-physics-lecture-12-04-25.md",
     "notes/955-mipt-physics-lecture-22-02-25.md",
-    "notes/570-mipt-physics-lecture-08-02-25.md",
+    "courses/MIPT-physics-2025.md",
     "notes/916-mipt-physics-lecture-01-02-25.md",
-    "courses/MIPT-physics-lectures-2024.md",
+    "notes/539-mipt-physics-lecture-01-03-25.md",
+    "notes/628-mipt-physics-lecture-29-03-25.md",
+    "notes/570-mipt-physics-lecture-08-02-25.md",
     "sourses/physics/lectures_2025/Лекция_2.pdf",
     "notes/893-mipt-physics-seminar-11-02-25.md",
     "sourses/physics/lectures_2025/Лекция_1.pdf",
@@ -246,9 +251,6 @@
     "hi.md",
     "sourses/physics/lectures_2025/Лекция_3.pdf",
     "notes/873-давление-электромагнитного-излучения.md",
-    "notes/319-mipt-computational-complexity-theory-lecture-18-04-25.md",
-    "courses/MIPT-computational-complexity-theory-2025.md",
-    "notes/601-mipt-computational-complexity-theory-lecture-11-04-25.md",
     "notes/1729147430-теорема-Бореля-Кантелли.md~"
   ]
 }
