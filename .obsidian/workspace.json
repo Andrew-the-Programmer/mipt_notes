@@ -11,24 +11,12 @@
             "id": "fce4178ff020f302",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "notes/628-mipt-physics-lecture-29-03-25.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "sourses/physics/lectures_2025/Лекция_2.pdf"
               },
-              "icon": "lucide-file",
-              "title": "628-mipt-physics-lecture-29-03-25"
+              "icon": "lucide-file-text",
+              "title": "Лекция_2"
             }
           },
           {
@@ -205,7 +193,13 @@
   },
   "active": "fce4178ff020f302",
   "lastOpenFiles": [
+    "notes/570-mipt-physics-lecture-08-02-25.md",
     "courses/MIPT-physics-2025.md",
+    "notes/893-mipt-physics-seminar-11-02-25.md",
+    "notes/916-mipt-physics-lecture-01-02-25.md",
+    "sourses/physics/lectures_2025/Лекция_1.pdf",
+    "notes/929-линза.md",
+    "notes/937-тонкая-линза.md",
     "notes/606-mipt-physics-lecture-22-03-25.md",
     "notes/334-mipt-physics-lecture-05-04-25.md",
     "notes/992-mipt-differential-equations-seminar-14-05-25.md",
@@ -244,12 +238,6 @@
     "courses/MIPT-probability-theory-2025.md",
     "notes/173-mipt-probability-theory-lecture-28-02-25.md",
     "notes/884-mipt-probability-theory-seminar-08-05-25.md",
-    "notes/625-mipt-probability-theory-lecture-18-04-25.md",
-    "notes/306-mipt-probability-theory-lecture-11-04-25.md",
-    "notes/299-mipt-probability-theory-seminar-28-03-25.md",
-    "notes/886-mipt-probability-theory-seminar-04-04-25.md",
-    "notes/648-mipt-probability-theory-seminar-11-04-25.md",
-    "notes/884-mipt-probability-theory-seminar-08-05-25.md~",
-    "notes/502-mipt-probability-theory-lecture-25-04-25.md~"
+    "notes/884-mipt-probability-theory-seminar-08-05-25.md~"
   ]
 }
