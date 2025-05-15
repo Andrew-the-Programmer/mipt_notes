@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "связи",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,8 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.50694274902344,
-    "collapsed": true
+    "width": 303.50694274902344
   },
   "right": {
     "id": "118388a6ab5b8fbb",
@@ -204,7 +203,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fce4178ff020f302",
+  "active": "c5f74878ea4f0198",
   "lastOpenFiles": [
     "courses/MIPT-anmech-2025.md",
     "notes/278-mipt-anmech-seminar-21-02-25.md",
