@@ -100,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.50694274902344
+    "width": 303.50694274902344,
+    "collapsed": true
   },
   "right": {
     "id": "118388a6ab5b8fbb",
@@ -204,6 +205,7 @@
   },
   "active": "fce4178ff020f302",
   "lastOpenFiles": [
+    "notes/1729932387-несинусоидальные-сигналы-спектральный-анализ-сигналов.md~",
     "notes/570-mipt-physics-seminar-18-03-25.md",
     "courses/MIPT-physics-lectures-2024.md",
     "notes/1730453262-mipt-physics-lecture-01-11-24.md",
@@ -233,7 +235,6 @@
     "courses/MIPT-differential-equations-2025.md",
     "notes/454-mipt-differential-equations-seminar-07-05-25.md",
     "notes/604-mipt-differential-equations-seminar-23-04-25.md",
-    "notes/693-mipt-differential-equations-seminar-16-04-25.md",
     "assets/imgs/14-05-25_16-40-11_272.png",
     "assets/imgs/14-05-25_16-39-51_036.png",
     "assets/imgs/14-05-25_16-36-11_650_IMG_20250514_163450.jpg",
