@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/MIPT-physics-2025.md",
+                "file": "courses/MIPT-anmech-2025.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MIPT-physics-2025"
+              "title": "MIPT-anmech-2025"
             }
           },
           {
@@ -205,6 +205,9 @@
   },
   "active": "fce4178ff020f302",
   "lastOpenFiles": [
+    "notes/168-mipt-anmech-seminar-18-04-25.md~",
+    "courses/MIPT-anmech-2025.md~",
+    "courses/MIPT-physics-2025.md",
     "notes/1729932387-несинусоидальные-сигналы-спектральный-анализ-сигналов.md~",
     "notes/570-mipt-physics-seminar-18-03-25.md",
     "courses/MIPT-physics-lectures-2024.md",
@@ -218,7 +221,6 @@
     "notes/1728641439-mipt-physics_lecture_11-10-24.md",
     "notes/412-mipt-physics-lecture-12-04-25.md",
     "notes/955-mipt-physics-lecture-22-02-25.md",
-    "courses/MIPT-physics-2025.md",
     "notes/916-mipt-physics-lecture-01-02-25.md",
     "notes/539-mipt-physics-lecture-01-03-25.md",
     "notes/628-mipt-physics-lecture-29-03-25.md",
@@ -248,8 +250,6 @@
     "assets/imgs/14-05-25_15-52-56_429.png",
     "notes/454-mipt-differential-equations-seminar-07-05-25.md~",
     "assets/imgs/14-05-25_15-37-23_006.png",
-    "courses/MIPT-field-theory-2025.md~",
-    "notes/970-mipt-field-theory-lecture-14-05-25.md~",
-    "sourses/physics/lectures_2025/Лекция_3.pdf"
+    "courses/MIPT-field-theory-2025.md~"
   ]
 }
