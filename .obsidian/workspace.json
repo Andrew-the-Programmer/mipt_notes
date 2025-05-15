@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/628-mipt-physics-lecture-29-03-25.md",
+                "file": "notes/539-mipt-physics-lecture-01-03-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "628-mipt-physics-lecture-29-03-25"
+              "title": "539-mipt-physics-lecture-01-03-25"
             }
           },
           {
@@ -205,6 +205,7 @@
   "active": "fce4178ff020f302",
   "lastOpenFiles": [
     "courses/MIPT-physics-2025.md",
+    "notes/628-mipt-physics-lecture-29-03-25.md",
     "notes/412-mipt-physics-lecture-12-04-25.md",
     "notes/539-mipt-physics-lecture-01-03-25.md",
     "notes/955-mipt-physics-lecture-22-02-25.md",
@@ -248,7 +249,6 @@
     "notes/319-mipt-computational-complexity-theory-lecture-18-04-25.md",
     "courses/MIPT-computational-complexity-theory-2025.md",
     "notes/601-mipt-computational-complexity-theory-lecture-11-04-25.md",
-    "notes/388-mipt-computational-complexity-theory-lecture-25-04-25.md",
     "notes/1729147430-теорема-Бореля-Кантелли.md~"
   ]
 }
