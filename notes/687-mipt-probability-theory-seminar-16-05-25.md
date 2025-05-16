@@ -81,5 +81,9 @@ k,& \frac{1}{2} \\
 
 $\Align{
 D_n \sim \sqrt{\frac{n^3}{3}} \\
-(L)
+I = I\set{k > \varepsilon \sqrt{\frac{n^3}{3}}} \\
 }$
+
+# .
+
+$(L)$ не является необходимым
