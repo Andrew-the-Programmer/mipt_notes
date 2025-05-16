@@ -32,7 +32,7 @@ $\Align{
 F_{X_n} = \prod{P(\xi_i < n x)} = F_\xi^n(nx) \to e^{-\frac{1}{x}} \\
 }$
 
-# ЗБЧ
+# ЗБЧ (закон больших чисел)
 
 $X_i$ - норсв
 
@@ -67,3 +67,19 @@ $\forall \varepsilon$
 $$
 \frac{1}{D_n} \sum_{k=1}^{n}{\mathring{X_k}} \xra{d} \mcN(0,1)
 $$
+
+# Задача
+
+$\Align{
+X_k = \Cases{
+k,& \frac{1}{2} \\
+-k,& \frac{1}{2}
+}
+}$
+
+ЦПТ
+
+$\Align{
+D_n \sim \sqrt{\frac{n^3}{3}} \\
+(L)
+}$
