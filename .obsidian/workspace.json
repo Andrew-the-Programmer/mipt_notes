@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/316-mipt-anmech-seminar-11-04-25.md",
+                "file": "notes/168-mipt-anmech-seminar-18-04-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "316-mipt-anmech-seminar-11-04-25"
+              "title": "168-mipt-anmech-seminar-18-04-25"
             }
           },
           {
@@ -206,8 +206,9 @@
   },
   "active": "fce4178ff020f302",
   "lastOpenFiles": [
-    "notes/342-mipt-anmech-seminar-28-02-25.md",
     "courses/MIPT-anmech-2025.md",
+    "notes/316-mipt-anmech-seminar-11-04-25.md",
+    "notes/342-mipt-anmech-seminar-28-02-25.md",
     "notes/278-mipt-anmech-seminar-21-02-25.md",
     "notes/144-mipt-anmech-seminar-21-03-25.md~",
     "courses/MIPT-anmech-2025.md~",
@@ -239,7 +240,6 @@
     "notes/334-mipt-physics-lecture-05-04-25.md",
     "notes/992-mipt-differential-equations-seminar-14-05-25.md",
     "notes/992-mipt-differential-equations-seminar-14-05-25.md~",
-    "courses/MIPT-differential-equations-2025.md",
     "assets/imgs/14-05-25_16-40-11_272.png",
     "assets/imgs/14-05-25_16-39-51_036.png",
     "assets/imgs/14-05-25_16-36-11_650_IMG_20250514_163450.jpg",
