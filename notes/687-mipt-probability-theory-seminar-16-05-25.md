@@ -82,8 +82,19 @@ k,& \frac{1}{2} \\
 $\Align{
 D_n \sim \sqrt{\frac{n^3}{3}} \\
 I = I\set{k > \varepsilon \sqrt{\frac{n^3}{3}}} \\
+\frac{\sum X_k}{\sqrt{\frac{n^3}{3}}} \to \mcN(0,1)
 }$
 
 # .
 
 $(L)$ не является необходимым
+
+$\Align{
+X_1 \sim \mcN(0,1) \\
+X_k \sim \mcN(0, 2^{k-2}),\quad k \ge 2 \\
+E X_k = 0 \\
+D X_k = 2^{k-1} \\
+D_n^2 \sim 2^{n-1} - 1 \\
+\frac{1}{D_n^2} \sum{\dots} \ge 
+\frac{1}{2^{n-1} \sqrt{2\pi 2^{n-2}}}
+}$
