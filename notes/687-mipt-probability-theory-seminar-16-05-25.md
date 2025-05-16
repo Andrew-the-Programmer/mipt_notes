@@ -98,3 +98,5 @@ D_n^2 \sim 2^{n-1} - 1 \\
 \frac{1}{D_n^2} \sum{\dots} \ge 
 \frac{1}{2^{n-1} \sqrt{2\pi 2^{n-2}}}
 }$
+
+# .
