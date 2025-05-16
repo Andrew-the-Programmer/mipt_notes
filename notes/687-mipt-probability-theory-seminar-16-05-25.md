@@ -54,7 +54,8 @@ $D_n = \sqrt{D\group{\sum_{k=1}^{n}{X_k}}}$
 Условие Линдеберга:
 
 $$
-\frac{1}{D_n^2} \sum_{k=1}^{n}{E\groupr{\mathring{X_k^2} I\set{\abs{\mathring{X_k^2}}}}}
+\frac{1}{D_n^2} \sum_{k=1}^{n}{
+E\groupr{\mathring{X_k^2} I\set{\abs{\mathring{X_k^2}} > \varepsilon D_n}}}
 $$
 
 ## Then:
