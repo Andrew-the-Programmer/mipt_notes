@@ -46,8 +46,21 @@ $$
 
 # Теорема Линдеберга
 
+## If:
+
 $X_i$ - независимы
+$D_n = \sqrt{D\group{\sum_{k=1}^{n}{X_k}}}$
+
+Условие Линдеберга:
 
 $$
-\frac{1}{n} \sum_{k=1}^{n}{X_k} \xra{p} E X
+\frac{1}{D_n^2} \sum_{k=1}^{n}{E\groupr{\mathring{X_k^2} I\set{\abs{\mathring{X_k^2}}}}}
+$$
+
+## Then:
+
+$\forall \varepsilon$
+
+$$
+\frac{1}{D_n} \sum_{k=1}^{n}{\mathring{X_k}} \xra{d} \mcN(0,1)
 $$
