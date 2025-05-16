@@ -40,6 +40,8 @@ $$
 \frac{1}{n} \sum_{k=1}^{n}{X_k} \xra{p} E X
 $$
 
+# ЦПТ (центральная предельная)
+
 $$
 \frac{1}{\sqrt{n}} \sum_{k=1}^{n}{X_k} \xra{d} \mcN(E X, D X)
 $$
