@@ -26,7 +26,7 @@ tags: []
 
 # Seminars
 
-1. 
+1.
 2. [[364-mipt-probability-theory-seminar-14-02-25|14-02-25]]
 3.
 4.
@@ -38,4 +38,4 @@ tags: []
 10. [[648-mipt-probability-theory-seminar-11-04-25|11-04-25]]
 11. skip
 12. [[884-mipt-probability-theory-seminar-08-05-25|08-05-25]]
-13. [[]]
+13. [[687-mipt-probability-theory-seminar-16-05-25|16-05-25]]
