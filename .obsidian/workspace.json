@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/687-mipt-probability-theory-seminar-16-05-25.md",
+                "file": "notes/133-mipt-computational-complexity-theory-lecture-07-03-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "687-mipt-probability-theory-seminar-16-05-25"
+              "title": "133-mipt-computational-complexity-theory-lecture-07-03-25"
             }
           },
           {
@@ -206,6 +206,10 @@
   },
   "active": "fce4178ff020f302",
   "lastOpenFiles": [
+    "courses/MIPT-computational-complexity-theory-2025.md",
+    "notes/712-mipt-computational-complexity-theory-lecture-21-03-25.md",
+    "notes/181-mipt-computational-complexity-theory-lecture-14-03-25.md",
+    "notes/146-mipt-computational-complexity-theory-lecture-04-04-25.md",
     "courses/MIPT-probability-theory-2025.md",
     "notes/884-mipt-probability-theory-seminar-08-05-25.md",
     "notes/625-mipt-probability-theory-lecture-18-04-25.md",
@@ -237,10 +241,6 @@
     "notes/1732082661-mipt-physics-seminar-20-11-24.md",
     "courses/MIPT-physics-seminars-2024.md",
     "notes/1728641439-mipt-physics_lecture_11-10-24.md",
-    "notes/412-mipt-physics-lecture-12-04-25.md",
-    "notes/955-mipt-physics-lecture-22-02-25.md",
-    "notes/916-mipt-physics-lecture-01-02-25.md",
-    "notes/539-mipt-physics-lecture-01-03-25.md",
     "sourses/physics/lectures_2025/Лекция_2.pdf",
     "assets/imgs/14-05-25_16-40-11_272.png",
     "assets/imgs/14-05-25_16-39-51_036.png",
