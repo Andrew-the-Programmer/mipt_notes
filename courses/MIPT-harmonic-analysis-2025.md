@@ -22,7 +22,6 @@ tags: []
 11. [[437-mipt-harmonic-analysis-seminar-15-04-25|15-04-25]]
 12. [[139-mipt-harmonic-analysis-seminar-22-04-25|22-04-25]]
 13. [[505-mipt-harmonic-analysis-seminar-29-04-25|29-04-25]]
-14. 
 
 # Лекции Тюленева
 
