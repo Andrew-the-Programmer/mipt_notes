@@ -87,15 +87,12 @@
 \newcommand{\floor}[1]{\lfloor #1 \rfloor}
 \newcommand{\round}[1]{\lfloor #1 \rceil}
 
-\newcommand{\set}[1]{\left\{#1\right\}}
-
 \newcommand{\surround}[3]{\left#1#3\right#2}
-\newcommand{\groupbb}[1]{\surround(){#1}}
-\newcommand{\grouptt}[1]{\surround<>{#1}}
-
-\newcommand{\group}[1]{\left(#1\right)}
-\newcommand{\groupr}[1]{\left[#1\right]}
-\newcommand{\groupt}[1]{\left<#1\right>}
+\newcommand{\surrounda}[3]{\left#1#2\right#3}
+\newcommand{\set}[1]{\surround\{\}{#1}}
+\newcommand{\group}[1]{\surround(){#1}}
+\newcommand{\groupr}[1]{\surround[]{#1}}
+\newcommand{\groupt}[1]{\surround<>{#1}}
 
 \newcommand{\l}{\left}
 \newcommand{\r}{\right}

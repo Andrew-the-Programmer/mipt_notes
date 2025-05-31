@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.50694274902344
+    "width": 303.50694274902344,
+    "collapsed": true
   },
   "right": {
     "id": "118388a6ab5b8fbb",
@@ -192,6 +193,9 @@
   },
   "active": "ad6a3be8240246f6",
   "lastOpenFiles": [
+    "notes/551-mipt-field-theory-lecture-05-03-25.md~",
+    "notes/4913",
+    "preamble.sty~",
     "courses/MIPT-physics-2025.md",
     "notes/334-mipt-physics-lecture-05-04-25.md",
     "notes/628-mipt-physics-lecture-29-03-25.md",
@@ -217,17 +221,14 @@
     "notes/1728386021-chinese-directions.md",
     "courses/MIPT-computational-complexity-theory-2025.md",
     "notes/712-mipt-computational-complexity-theory-lecture-21-03-25.md",
-    "notes/181-mipt-computational-complexity-theory-lecture-14-03-25.md",
     "notes/884-mipt-probability-theory-seminar-08-05-25.md~",
     "courses/MIPT-probability-theory-2025.md~",
     "notes/687-mipt-probability-theory-seminar-16-05-25.md~",
-    "notes/4913",
     "notes/144-mipt-anmech-seminar-21-03-25.md~",
     "courses/MIPT-anmech-2025.md~",
     "notes/168-mipt-anmech-seminar-18-04-25.md~",
     "notes/1729932387-несинусоидальные-сигналы-спектральный-анализ-сигналов.md~",
     "notes/955-mipt-physics-lecture-22-02-25.md~",
-    "sourses/physics/lectures_2025/Лекция_2.pdf",
     "assets/imgs/14-05-25_16-40-11_272.png",
     "assets/imgs/14-05-25_16-39-51_036.png",
     "assets/imgs/14-05-25_16-36-11_650_IMG_20250514_163450.jpg",
