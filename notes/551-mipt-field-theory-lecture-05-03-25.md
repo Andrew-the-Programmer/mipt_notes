@@ -5,21 +5,6 @@ aliases:
 tags: []
 ---
 
-$$
-\Gather{
-\group{hi}\\
-\groupt{hi}\\
-\groupr{hi}\\
-\set{hi}\\
-\surround<|{\group{hi}}\\
-\surrounda
-<
-{hi}
-|\\
-\surround<|{\group{hi}}\\
-}
-$$
-
 # MIPT field theory lecture 05-03-25
 
 Инвариантные тензоры в пространстве Минковского.
