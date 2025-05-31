@@ -5,11 +5,6 @@ aliases:
 tags: []
 ---
 
-$$
-\mathrm{PP}
-\Pop
-$$
-
 # MIPT field theory lecture 05-03-25
 
 Инвариантные тензоры в пространстве Минковского.
