@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/916-mipt-physics-lecture-01-02-25.md",
+                "file": "notes/570-mipt-physics-lecture-08-02-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "916-mipt-physics-lecture-01-02-25"
+              "title": "570-mipt-physics-lecture-08-02-25"
             }
           }
         ]
@@ -193,6 +193,7 @@
   "active": "ad6a3be8240246f6",
   "lastOpenFiles": [
     "courses/MIPT-physics-2025.md",
+    "notes/916-mipt-physics-lecture-01-02-25.md",
     "courses/MIPT-physics-lectures-2024.md",
     "courses/MIPT-physics-seminars-2024.md",
     "notes/1735231372-поляризуемость-среды.md",
@@ -221,7 +222,6 @@
     "notes/737-преобразования-Лорентца.md",
     "notes/1738738971-пространство-время-Минковского.md",
     "notes/1738735357-mipt-field-theory-lecture-05-02-25.md",
-    "courses/MIPT-harmonic-analysis-2025.md",
     "notes/884-mipt-probability-theory-seminar-08-05-25.md~",
     "courses/MIPT-probability-theory-2025.md~",
     "notes/687-mipt-probability-theory-seminar-16-05-25.md~",
