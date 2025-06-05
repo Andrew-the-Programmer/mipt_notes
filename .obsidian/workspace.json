@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/508-вторая-теорема-о-среднем-значении.md",
+                "file": "матан/5.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "508-вторая-теорема-о-среднем-значении"
+              "title": "5"
             }
           }
         ]
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.50694274902344
+    "width": 303.50694274902344,
+    "collapsed": true
   },
   "right": {
     "id": "118388a6ab5b8fbb",
@@ -192,6 +193,8 @@
   },
   "active": "ad6a3be8240246f6",
   "lastOpenFiles": [
+    "матан/5.md~",
+    "preamble.sty~",
     "notes/909-базис-Гамеля.md",
     "notes/1738651715-абсолютно-непрерывная-функция.md",
     "notes/909-базис-Гамеля.md~",
@@ -215,14 +218,12 @@
     "notes/267-mipt-field-theory-lecture-30-04-25.md",
     "notes/551-mipt-field-theory-lecture-05-03-25.md",
     "notes/551-mipt-field-theory-lecture-05-03-25.md~",
-    "preamble.sty~",
     "4913",
     "notes/4913",
     "notes/334-mipt-physics-lecture-05-04-25.md",
     "notes/628-mipt-physics-lecture-29-03-25.md",
     "notes/725-mipt-field-theory-lecture-26-02-25.md",
     "notes/258-mipt-field-theory-lecture-19-02-25.md",
-    "notes/686-тензор.md",
     "notes/884-mipt-probability-theory-seminar-08-05-25.md~",
     "courses/MIPT-probability-theory-2025.md~",
     "notes/687-mipt-probability-theory-seminar-16-05-25.md~",
