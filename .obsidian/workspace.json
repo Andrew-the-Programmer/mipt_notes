@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "матан/6.md",
+                "file": "notes/1730119060-measurable-function-измеримые-функции.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "6"
+              "title": "1730119060-measurable-function-измеримые-функции"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Макс",
+                "query": "измери фун",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,12 +84,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 303.50694274902344,
-    "collapsed": true
+    "width": 303.50694274902344
   },
   "right": {
     "id": "118388a6ab5b8fbb",
@@ -193,10 +193,10 @@
   },
   "active": "ad6a3be8240246f6",
   "lastOpenFiles": [
+    "матан/6.md",
     "матан/6.md~",
     "notes/282-базис-Шаудера.md~",
     "матан/5.md",
-    "матан/6.md",
     "матан/5.md~",
     "notes/909-базис-Гамеля.md~",
     "матан/3.md~",
@@ -228,7 +228,6 @@
     "notes/334-mipt-physics-lecture-05-04-25.md",
     "notes/628-mipt-physics-lecture-29-03-25.md",
     "notes/884-mipt-probability-theory-seminar-08-05-25.md~",
-    "courses/MIPT-probability-theory-2025.md~",
     "assets/imgs/14-05-25_16-40-11_272.png",
     "assets/imgs/14-05-25_16-39-51_036.png",
     "assets/imgs/14-05-25_16-36-11_650_IMG_20250514_163450.jpg",
