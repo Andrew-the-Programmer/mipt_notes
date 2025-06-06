@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/1730119060-measurable-function-измеримые-функции.md",
+                "file": "notes/505-mipt-harmonic-analysis-seminar-29-04-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1730119060-measurable-function-измеримые-функции"
+              "title": "505-mipt-harmonic-analysis-seminar-29-04-25"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "измери фун",
+                "query": "{loc}",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -193,6 +193,8 @@
   },
   "active": "ad6a3be8240246f6",
   "lastOpenFiles": [
+    "notes/330-mipt-harmonic-analysis-seminar-06-05-25.md",
+    "notes/1730119060-measurable-function-измеримые-функции.md",
     "матан/6.md",
     "матан/6.md~",
     "notes/282-базис-Шаудера.md~",
@@ -226,7 +228,6 @@
     "4913",
     "notes/4913",
     "notes/334-mipt-physics-lecture-05-04-25.md",
-    "notes/628-mipt-physics-lecture-29-03-25.md",
     "notes/884-mipt-probability-theory-seminar-08-05-25.md~",
     "assets/imgs/14-05-25_16-40-11_272.png",
     "assets/imgs/14-05-25_16-39-51_036.png",
