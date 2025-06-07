@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/505-mipt-harmonic-analysis-seminar-29-04-25.md",
+                "file": "notes/709-свертка-функций.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "505-mipt-harmonic-analysis-seminar-29-04-25"
+              "title": "709-свертка-функций"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "свертка",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -191,13 +191,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c5f74878ea4f0198",
+  "active": "ad6a3be8240246f6",
   "lastOpenFiles": [
+    "notes/505-mipt-harmonic-analysis-seminar-29-04-25.md",
     "матан/Том и джерри. Начало (версия от 06.07 19_16) (1).pdf",
     "матан/Том и джерри. Начало (версия от 06.07 19_16) (1).pdf.crdownload",
     "матан/lectures/консультация 2.mp4",
     "notes/583-mipt-harmonic-analysis-lecture-10-04-25.md",
-    "notes/505-mipt-harmonic-analysis-seminar-29-04-25.md",
     "notes/330-mipt-harmonic-analysis-seminar-06-05-25.md",
     "notes/1730119060-measurable-function-измеримые-функции.md",
     "матан/6.md",
@@ -228,7 +228,6 @@
     "notes/970-mipt-field-theory-lecture-14-05-25.md",
     "notes/711-mipt-field-theory-lecture-07-05-25.md",
     "notes/551-mipt-field-theory-lecture-05-03-25.md~",
-    "4913",
     "assets/imgs/14-05-25_16-40-11_272.png",
     "assets/imgs/14-05-25_16-39-51_036.png",
     "assets/imgs/14-05-25_16-36-11_650_IMG_20250514_163450.jpg",
