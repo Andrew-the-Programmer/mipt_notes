@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "{loc}",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -191,7 +191,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ad6a3be8240246f6",
+  "active": "c5f74878ea4f0198",
   "lastOpenFiles": [
     "матан/Том и джерри. Начало (версия от 06.07 19_16) (1).pdf",
     "матан/Том и джерри. Начало (версия от 06.07 19_16) (1).pdf.crdownload",
