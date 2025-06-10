@@ -86,30 +86,27 @@ sudo systemctl restart sshd
 ## 1. **Generate an SSH key (if needed)**
 
 If you don't have an SSH key, create one:
-
-CopyRun
 ```bash
 ssh-keygen -t ed25519 -C "your_email@example.com"
 ```
 
 Follow prompts to save the key (default is usually fine), and set a passphrase if desired.
 
-### 3. **Add your SSH key to the SSH agent**
+## 2. **Add your SSH key to the SSH agent**
 
 Start the SSH agent:
-
-CopyRun 
 ```bash
 eval "$(ssh-agent -s)"
 ```
 
 Add your key:
-
-CopyRun`ssh-add ~/.ssh/id_ed25519`
+```bash
+ssh-add ~/.ssh/id_ed25519
+```
 
 _(Replace filename if your key has a different name.)_
 
-### 4. **Add your SSH public key to GitHub**
+## 3. **Add your SSH public key to GitHub**
 
 Copy your public key:
 
@@ -120,26 +117,12 @@ Go to GitHub:
 - Settings → SSH and GPG keys → New SSH key
 - Paste the public key there, give it a name, and save.
 
-### 5. **Test SSH connection to GitHub**
+## 4. **Test SSH connection to GitHub**
 
 Run:
-
-CopyRun`ssh -T git@github.com`
+```bash
+ssh -T git@github.com
+```
 
 Expected output:
-
-CopyRun`Hi username! You've successfully authenticated, but GitHub does not provide shell access.`
-```bash
-ssh-keygen -t ed25519 -C "$email"
-eval "$(ssh-agent -s)"
-```
-### 4. **Add your SSH public key to GitHub**
-
-Copy your public key:
-
-CopyRun`cat ~/.ssh/id_ed25519.pub`
-
-Go to GitHub:
-
-- Settings → SSH and GPG keys → New SSH key
-- Paste the public key there, give it a name, and save.
+`Hi username! You've successfully authenticated, but GitHub does not provide shell access.`
