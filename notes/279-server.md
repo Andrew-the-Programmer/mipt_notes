@@ -29,12 +29,16 @@ usermod -G wheel $username
 
 ## Create ssh
 ```bash
-ssh-keygen -t rsa -b 4096
+# on peer
+ssh-keygen -t rsa -b 4096 -f ~/.ssh/server.pub
 # enter ssh key name
 # enter passphrase
 
 # copy key to server
 scp ./<ssh key>.pub [<username>@]<IP>:[dir | ~ if empty]
+scp ./<ssh key>.pub [<username>@]<IP>:[dir | ~ if empty]
+
+# on server
 mkdir .ssh
 touch .ssh/authorized_keys
 cat <ssh key>.pub >> .ssh/authorized_keys
