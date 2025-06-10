@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/1729420252-измеримое-пространство.md",
+                "file": "notes/1728763957-ssh.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1729420252-измеримое-пространство"
+              "title": "1728763957-ssh"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "измеримое",
+                "query": "ssh",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -193,6 +193,8 @@
   },
   "active": "ad6a3be8240246f6",
   "lastOpenFiles": [
+    "notes/279-server.md",
+    "notes/1729420252-измеримое-пространство.md",
     "notes/380-mipt-harmonic-analysis-lecture-03-04-25.md",
     "notes/709-свертка-функций.md",
     "notes/505-mipt-harmonic-analysis-seminar-29-04-25.md",
@@ -226,8 +228,6 @@
     "notes/1730270134-электрическая-индукция.md",
     "notes/1730269644-теорема-о-циркуляции-магнитного-поля.md",
     "notes/1730271345-уравнения-Максвелла.md",
-    "courses/MIPT-field-theory-2025.md",
-    "notes/970-mipt-field-theory-lecture-14-05-25.md",
     "notes/551-mipt-field-theory-lecture-05-03-25.md~",
     "assets/imgs/14-05-25_16-40-11_272.png",
     "assets/imgs/14-05-25_16-39-51_036.png",
