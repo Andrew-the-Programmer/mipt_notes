@@ -30,12 +30,13 @@ usermod -G wheel $username
 ## Create ssh
 ```bash
 # on peer
-ssh-keygen -t rsa -b 4096 -f ~/.ssh/<name>
+name=""
+ssh-keygen -t rsa -b 4096 -f ~/.ssh/$name
 # enter ssh key name
 # enter passphrase
 
 # copy key to server
-scp ~/.ssh/<name>.pub [<username>@]<IP>:[dir | ~ if empty]
+scp "~/.ssh/$name.pub" [<username>@]<IP>:[dir | ~ if empty]
 
 # on server
 mkdir .ssh
