@@ -21,9 +21,10 @@ echo "%wheel ALL=(ALL) ALL" >> /etc/sudoers
 ## Add user
 
 ```bash
-useradd -m <username>
-passwd <username>
-usermod -G wheel <username>
+username=""
+useradd -m $username
+passwd $username
+usermod -G wheel $username
 ```
 
 ## Create ssh

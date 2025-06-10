@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/1728763957-ssh.md",
+                "file": "notes/279-server.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1728763957-ssh"
+              "title": "279-server"
             }
           }
         ]
@@ -193,6 +193,7 @@
   },
   "active": "ad6a3be8240246f6",
   "lastOpenFiles": [
+    "notes/1728763957-ssh.md",
     "notes/279-server.md",
     "notes/1729420252-измеримое-пространство.md",
     "notes/380-mipt-harmonic-analysis-lecture-03-04-25.md",
@@ -227,7 +228,6 @@
     "notes/1732007814-поляризованность.md",
     "notes/1730270134-электрическая-индукция.md",
     "notes/1730269644-теорема-о-циркуляции-магнитного-поля.md",
-    "notes/1730271345-уравнения-Максвелла.md",
     "notes/551-mipt-field-theory-lecture-05-03-25.md~",
     "assets/imgs/14-05-25_16-40-11_272.png",
     "assets/imgs/14-05-25_16-39-51_036.png",
