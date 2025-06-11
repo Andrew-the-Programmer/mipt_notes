@@ -110,7 +110,7 @@ _(Replace filename if your key has a different name.)_
 
 Copy your public key:
 
-CopyRun`cat ~/.ssh/id_ed25519.pub`
+`cat ~/.ssh/id_ed25519.pub`
 
 Go to GitHub:
 
