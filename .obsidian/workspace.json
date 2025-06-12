@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/MIPT-differential-equations-2025.md",
+                "file": "courses/MIPT-ДУ-seminars-2024.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MIPT-differential-equations-2025"
+              "title": "MIPT-ДУ-seminars-2024"
             }
           },
           {
@@ -216,8 +216,11 @@
   },
   "active": "ad6a3be8240246f6",
   "lastOpenFiles": [
-    "notes/604-mipt-differential-equations-seminar-23-04-25.md",
+    "notes/1732089116-mipt-ДУ-seminar-20-11-24.md",
+    "courses/MIPT-ДУ-seminars-2024.md",
+    "notes/1730274667-mipt-ДУ-seminar-30-10-24.md",
     "courses/MIPT-differential-equations-2025.md",
+    "notes/604-mipt-differential-equations-seminar-23-04-25.md",
     "assets/imgs/1738743938.png",
     "assets/imgs/1740575061.png~",
     "notes/1738741597-mipt-differential-equations-lecture-05-02-25.md",
@@ -239,11 +242,9 @@
     "notes/117-mipt-differential-equations-lecture-23-04-25.md",
     "notes/176-mipt-differential-equations-lecture-12-03-25.md",
     "notes/339-mipt-differential-equations-lecture-16-04-25.md",
-    "courses/MIPT-ДУ-seminars-2024.md",
     "notes/279-server.md",
     "notes/1728763957-ssh.md",
     "notes/1729420252-измеримое-пространство.md",
-    "notes/380-mipt-harmonic-analysis-lecture-03-04-25.md",
     "матан/Том и джерри. Начало (версия от 06.07 19_16) (1).pdf",
     "матан/Том и джерри. Начало (версия от 06.07 19_16) (1).pdf.crdownload",
     "матан/lectures/консультация 2.mp4",
