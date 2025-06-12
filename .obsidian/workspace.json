@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "notes/279-server.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -29,6 +29,30 @@
               },
               "icon": "lucide-file",
               "title": "279-server"
+            }
+          },
+          {
+            "id": "8336cb26b8233c6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/1728763957-ssh.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1728763957-ssh"
             }
           }
         ]

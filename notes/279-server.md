@@ -29,20 +29,8 @@ usermod -G wheel $username
 
 ## Create ssh
 ```bash
-# on peer
-name=""
-ssh-keygen -t rsa -b 4096 -f ~/.ssh/$name
-# enter ssh key name
-# enter passphrase
-
-# copy key to server
-scp "~/.ssh/$name.pub" [<username>@]<IP>:[dir | ~ if empty]
-
-# on server
-mkdir .ssh
-touch .ssh/authorized_keys
-cat <ssh key>.pub >> .ssh/authorized_keys
-rm <ssh key>.pub
+# on client
+ssh-copy-id $host
 ```
 ```bash
 sudo vim /etc/ssh/sshd_config
