@@ -19,7 +19,7 @@ $\Align{
 \pdv{\mu}{y} \defeq u(x,\mu) \\
 \textit{Ур-ие в вариациях}: \\
 \Cases{
-u_x = u + x + ysr + 2 \mu y u \\
+u_x = u + x + y^2 + 2 \mu y u \\
 u \rvert_{x=0} = 0
 } \\
 \mu \equiv 0 \implies\\
