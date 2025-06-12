@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/974-mipt-differential-equations-seminar-05-03-25.md",
+                "file": "notes/604-mipt-differential-equations-seminar-23-04-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "974-mipt-differential-equations-seminar-05-03-25"
+              "title": "604-mipt-differential-equations-seminar-23-04-25"
             }
           },
           {
@@ -217,8 +217,9 @@
   },
   "active": "ad6a3be8240246f6",
   "lastOpenFiles": [
-    "notes/655-mipt-differential-equations-seminar-12-03-25.md",
     "courses/MIPT-differential-equations-2025.md",
+    "notes/655-mipt-differential-equations-seminar-12-03-25.md",
+    "notes/974-mipt-differential-equations-seminar-05-03-25.md",
     "notes/453-mipt-differential-equations-seminar-26-03-25.md",
     "notes/693-mipt-differential-equations-seminar-16-04-25.md",
     "notes/471-mipt-differential-equations-seminar-02-04-25.md",
@@ -251,7 +252,6 @@
     "notes/909-базис-Гамеля.md~",
     "матан/3.md~",
     "preamble.sty~",
-    "notes/909-базис-Гамеля.md",
     "notes/551-mipt-field-theory-lecture-05-03-25.md~",
     "assets/imgs/14-05-25_16-40-11_272.png",
     "assets/imgs/14-05-25_16-39-51_036.png",
