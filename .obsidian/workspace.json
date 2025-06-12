@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/604-mipt-differential-equations-seminar-23-04-25.md",
+                "file": "courses/MIPT-differential-equations-2025.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "604-mipt-differential-equations-seminar-23-04-25"
+              "title": "MIPT-differential-equations-2025"
             }
           },
           {
@@ -112,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.50694274902344,
-    "collapsed": true
+    "width": 303.50694274902344
   },
   "right": {
     "id": "118388a6ab5b8fbb",
@@ -217,8 +216,8 @@
   },
   "active": "ad6a3be8240246f6",
   "lastOpenFiles": [
-    "courses/MIPT-differential-equations-2025.md",
     "notes/604-mipt-differential-equations-seminar-23-04-25.md",
+    "courses/MIPT-differential-equations-2025.md",
     "assets/imgs/1738743938.png",
     "assets/imgs/1740575061.png~",
     "notes/1738741597-mipt-differential-equations-lecture-05-02-25.md",
