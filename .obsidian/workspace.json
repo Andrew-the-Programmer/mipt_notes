@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/1732089116-mipt-ДУ-seminar-20-11-24.md",
+                "file": "notes/279-server.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1732089116-mipt-ДУ-seminar-20-11-24"
+              "title": "279-server"
             }
           },
           {
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "урав Эйлера",
+                "query": "ssh-keygen",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -217,13 +217,13 @@
   },
   "active": "ad6a3be8240246f6",
   "lastOpenFiles": [
+    "notes/1732089116-mipt-ДУ-seminar-20-11-24.md",
     "courses/MIPT-ДУ-seminars-2024.md",
     "notes/1730274667-mipt-ДУ-seminar-30-10-24.md",
     "notes/1730276993-уравнение-Эйлера.md",
     "courses/MIPT-differential-equations-2025.md",
     "notes/992-mipt-differential-equations-seminar-14-05-25.md",
     "notes/698-mipt-field-theory-lecture-19-03-25.md",
-    "notes/1732089116-mipt-ДУ-seminar-20-11-24.md",
     "notes/604-mipt-differential-equations-seminar-23-04-25.md",
     "assets/imgs/1738743938.png",
     "assets/imgs/1740575061.png~",
