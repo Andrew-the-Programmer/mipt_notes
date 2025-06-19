@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/279-server.md",
+                "file": "courses/MIPT.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "279-server"
+              "title": "MIPT"
             }
           },
           {
@@ -113,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.50694274902344
+    "width": 303.50694274902344,
+    "collapsed": true
   },
   "right": {
     "id": "118388a6ab5b8fbb",
@@ -217,6 +218,7 @@
   },
   "active": "ad6a3be8240246f6",
   "lastOpenFiles": [
+    "courses/MIPT.md~",
     "notes/1732089116-mipt-ДУ-seminar-20-11-24.md",
     "courses/MIPT-ДУ-seminars-2024.md",
     "notes/1730274667-mipt-ДУ-seminar-30-10-24.md",
@@ -245,7 +247,6 @@
     "notes/1738759267-mipt-differential-equations-seminar-05-02-25.md",
     "notes/117-mipt-differential-equations-lecture-23-04-25.md",
     "notes/176-mipt-differential-equations-lecture-12-03-25.md",
-    "notes/339-mipt-differential-equations-lecture-16-04-25.md",
     "матан/Том и джерри. Начало (версия от 06.07 19_16) (1).pdf",
     "матан/Том и джерри. Начало (версия от 06.07 19_16) (1).pdf.crdownload",
     "матан/lectures/консультация 2.mp4",
