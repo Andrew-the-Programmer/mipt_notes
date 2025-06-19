@@ -13,5 +13,6 @@ $$
 \pdv[2]{a}{}
 \dv[2]{}{}
 \alpha + \beta + \d t + Nt
+\pdv{}{}
 \pdv[2]{}{}
 $$
