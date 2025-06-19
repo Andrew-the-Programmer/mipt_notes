@@ -7,7 +7,5 @@ tags: []
 # MIPT
 
 $$
-\alphasrsr
-^2
-^2
+\alpha^2 \beta^2 \gamma^3 = 1 \varepsilon
 $$
