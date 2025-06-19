@@ -8,8 +8,8 @@ tags: []
 
 $$
 \alpha^2 \beta^2 \gamma^3 = 1 \varepsilon
-text: hi
-copy: hello
-repeat: hello
-end: \kapp
+\dv{x}{t} \pdv{t}{x}
+\vdv{t}{x}
+\vdv{t}{\vec{x}}
+\vecprod{hi}
 $$
