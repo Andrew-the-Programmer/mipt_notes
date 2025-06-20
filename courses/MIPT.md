@@ -8,5 +8,5 @@ tags: []
 
 $$
 \alpha^2 \beta^2 \gamma^3 = 1 \varepsilon
-\sumf^{\infty}{w}
+\sum{I love you}
 $$
