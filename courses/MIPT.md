@@ -8,5 +8,5 @@ tags: []
 
 $$
 \alpha^2 \beta^2 \gamma^3 = 1 \varepsilon
-\sum_{a = 2}^{\nu}{a^2}
+liminf
 $$
