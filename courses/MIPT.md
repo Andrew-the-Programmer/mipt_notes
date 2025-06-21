@@ -12,4 +12,8 @@ $$
 \Sigma/2
 \abs{\alpha}
 \abs{\alpha}^2
+\lim_{\alpha \to 0}{x_{\alpha}}
+\sum_{i = 1}^{\NN}{\frac{x}{2}}
+\\\sum{}{}{}
+\sum{}
 $$
