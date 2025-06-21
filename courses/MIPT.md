@@ -16,4 +16,5 @@ $$
 \sum_{i = 1}^{\NN}{\frac{x}{2}}
 \\\sum{}{}{}
 \sum{}
+\_{\int_{-\infty}^{+\infty}{}}^{+\infty}{}
 $$
