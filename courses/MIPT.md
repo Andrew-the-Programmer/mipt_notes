@@ -18,4 +18,6 @@ $$
 \sum{}
 \_{\int_{-\infty}^{+\infty}{}}^{+\infty}{}
 \int_{ w[ ]-\infty}^{+\infty}{}
+\int_{-\infty}^{+\infty}{}
+\int_{-\infty}^{+\infty}{}
 $$
