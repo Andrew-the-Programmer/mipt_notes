@@ -20,4 +20,9 @@ $$
 \int_{ w[ ]-\infty}^{+\infty}{}
 \int_{-\infty}^{+\infty}{}
 \int_{-\infty}^{+\infty}{}
+\sum{}
+\lim{}
+\limsup{}
+\limsup{}
+sum
 $$
