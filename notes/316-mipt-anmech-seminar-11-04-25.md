@@ -103,7 +103,7 @@ $$
 $$
 \Cases{
 \pdv{q_i}{F} = c p_i(t,q,\tilde{p}) \\
-\pdv{\tilde{p}_i}{F} = -\tilde{q}_i(t,q,\tilde{p}) \\
+\pdv{\tilde{p}_i}{F} = \tilde{q}_i(t,q,\tilde{p}) \\
 }
 $$
 
