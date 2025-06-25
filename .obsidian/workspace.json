@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/168-mipt-anmech-seminar-18-04-25.md",
+                "file": "notes/502-mipt-probability-theory-lecture-25-04-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "168-mipt-anmech-seminar-18-04-25"
+              "title": "502-mipt-probability-theory-lecture-25-04-25"
             }
           },
           {
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ssh-keygen",
+                "query": "п.н.",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +108,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -216,8 +217,14 @@
   },
   "active": "ad6a3be8240246f6",
   "lastOpenFiles": [
-    "courses/MIPT-anmech-2025.md",
+    "notes/670-mipt-probability-theory-lecture-21-03-25.md",
+    "notes/987-mipt-probability-theory-lecture-04-04-25.md",
+    "notes/306-mipt-probability-theory-lecture-11-04-25.md",
+    "courses/MIPT-probability-theory-2025.md",
+    "courses/MIPT-probability-theory-2025.md~",
+    "notes/173-mipt-probability-theory-lecture-28-02-25.md",
     "notes/168-mipt-anmech-seminar-18-04-25.md",
+    "courses/MIPT-anmech-2025.md",
     "notes/316-mipt-anmech-seminar-11-04-25.md",
     "notes/291-mipt-anmech-seminar-04-04-25.md",
     "notes/818-mipt-anmech-seminar-28-03-25.md",
@@ -247,13 +254,7 @@
     "notes/604-mipt-differential-equations-seminar-23-04-25.md",
     "assets/imgs/1738743938.png",
     "assets/imgs/1740575061.png~",
-    "notes/1738741597-mipt-differential-equations-lecture-05-02-25.md",
     "assets/imgs/1738743930.png",
-    "notes/287-mipt-computational-complexity-theory-lecture-28-03-25.md",
-    "assets/imgs/28-03-25_11-41-18_122_28-03-25_11-41-18_768.md",
-    "courses/MIPT-computational-complexity-theory-2025.md",
-    "notes/955-mipt-physics-lecture-22-02-25.md",
-    "матан/Том и джерри. Начало (версия от 06.07 19_16) (1).pdf",
     "assets/imgs/14-05-25_16-40-11_272.png",
     "assets/imgs/14-05-25_16-39-51_036.png",
     "assets/imgs/14-05-25_16-36-11_650_IMG_20250514_163450.jpg",
