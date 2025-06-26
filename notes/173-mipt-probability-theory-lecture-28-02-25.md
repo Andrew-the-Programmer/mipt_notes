@@ -27,12 +27,11 @@ $$
 
 ## If:
 
-
-
 $$
-B_n = \bigcup{\bigcap{A_n}}
+A = \bigcap_{m \in \NN}{\bigcup_{n \ge m}{A_n}}
 $$
 
 ## Then:
 
-1. $\sum{P(A_n)} < \infty \implies $
+1. $\sum{P(A_n)} < \infty \implies P(A) = 0$
+2. $\sum{P(A_n)} = \infty \land \set{A_n} \dash \text{\textit{совместно независимы}} \implies P(B) = 0$
