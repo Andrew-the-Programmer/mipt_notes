@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/MIPT-probability-theory-2025.md",
+                "file": "notes/299-mipt-probability-theory-seminar-28-03-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MIPT-probability-theory-2025"
+              "title": "299-mipt-probability-theory-seminar-28-03-25"
             }
           },
           {
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cov",
+                "query": "Poiss",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -242,8 +242,9 @@
   },
   "active": "80e632448e415836",
   "lastOpenFiles": [
-    "notes/884-mipt-probability-theory-seminar-08-05-25.md",
+    "notes/886-mipt-probability-theory-seminar-04-04-25.md",
     "courses/MIPT-probability-theory-2025.md",
+    "notes/884-mipt-probability-theory-seminar-08-05-25.md",
     "notes/299-mipt-probability-theory-seminar-28-03-25.md",
     "notes/502-mipt-probability-theory-lecture-25-04-25.md",
     "notes/173-mipt-probability-theory-lecture-28-02-25.md",
@@ -277,7 +278,6 @@
     "courses/MIPT-field-theory-2025.md~",
     "notes/698-mipt-anmech-seminar-07-02-25.md~",
     "notes/1732089116-mipt-ДУ-seminar-20-11-24.md",
-    "courses/MIPT-ДУ-seminars-2024.md",
     "assets/imgs/1738743938.png",
     "assets/imgs/1738743930.png",
     "assets/imgs/14-05-25_16-40-11_272.png",
