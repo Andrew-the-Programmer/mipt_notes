@@ -23,7 +23,6 @@ tags: []
 10. [[306-mipt-probability-theory-lecture-11-04-25|11-04-25]]
 11. [[625-mipt-probability-theory-lecture-18-04-25|18-04-25]]
 12. [[502-mipt-probability-theory-lecture-25-04-25|25-04-25]]
-13. [[795-mipt-probability-theory-lecture-26-06-25|MIPT probability theory lecture 26-06-25]]
 
 # Seminars
 
