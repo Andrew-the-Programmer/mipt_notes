@@ -24,3 +24,15 @@ $$
 # Theorem.
 
 # Lemma. Бореля-Кантелли
+
+## If:
+
+
+
+$$
+B_n = \bigcup{\bigcap{A_n}}
+$$
+
+## Then:
+
+1. $\sum{P(A_n)} < \infty \implies $
