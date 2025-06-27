@@ -19,7 +19,17 @@ $$
 \hline
 \text{\textit{Дисперсия}}: D_\xi = \sigma^2 & E \groupr{\group{\xi - E \xi}^2} \\
 \hline
+\text{\textit{Закон больших чисел (ЗБЧ)}}& \ol{\xi_n} - E \xi \xra{p} 0, \quad n \to \infty \\
+\hline
+\text{\textit{Усиленный закон больших чисел (УЗБЧ)}}& \exists \set{a_n}: \ol{\xi_n} - a_n \xra{п.н.} 0, \quad n \to \infty \\
+\hline
 }
+$$
+
+# Усиленный закон больших чисел (ЗБЧ)
+
+$$
+\exists \set{a_n}: \ol{\xi_n} - a_n \xra{п.н.} 0, \quad n \to \infty
 $$
 
 ## Математическое ожидание
@@ -357,11 +367,8 @@ $$
 \sum{\xi_n} \stackrel{п.н.}{<} \infty
 $$
 
-# Усиленный закон больших чисел (ЗБЧ)
-
-$$
-\exists \set{a_n}: \ol{\xi_n} - a_n \xra{п.н.} 0, \quad n \to \infty
-$$
+# Первая теорема Колмогорова
+# Вторая теорема Колмогорова
 
 # Распределения
 
