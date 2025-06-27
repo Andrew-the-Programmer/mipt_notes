@@ -399,6 +399,16 @@ $\set{\eta_{nk}}_{k=1}^{n}$
 $E \eta_{nk} = 0$
 $\sum_{k=1}^{n}{D \eta_{nk}} = 1$
 
+$$
+\forall \varepsilon \hthen
+\groupr{\sum_{k = 1}^{n}{\int_{\abs{x} > \varepsilon}{x^2 \d F_{nk}(x)}}}
+\to 0, \quad n \to \infty
+$$
+
+$$
+\sum_{k=1}^{n}{\eta_{nk}} \xra{d} \mcN(0, 1)
+$$
+
 # Распределения
 
 ## Бернулли $Be(p)$
