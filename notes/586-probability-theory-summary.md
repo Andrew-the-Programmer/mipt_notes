@@ -166,6 +166,14 @@ $$
 
 ### Свойство наследования сходимости
 
+$$
+\Gather{
+X_n \xra{п.н.} X \implies g(X_n) \xra{п.н.} g(X) \\
+X_n \xra{p} X \implies g(X_n) \xra{p} g(X) \\
+X_n \xra{(r)} X \centernot\implies g(X_n) \xra{(r)} g(X) \\
+}
+$$
+
 # Теоремы
 
 ## Lemma. Бореля-Кантелли
