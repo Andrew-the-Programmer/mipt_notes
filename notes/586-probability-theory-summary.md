@@ -466,11 +466,13 @@ L_3 \defeq
 \frac{E \abs{\mathring{\xi}}^3}{\sqrt{n} \group{D \xi}^{\frac{3}{2}}}
 $$
 
-## Пример
+Империческая функция распределения
 
 $$
-\sum_{k=1}^{n}{\eta_{nk}} \xra{d} \mcN(0, 1)
+F_n(x) \defeq \frac{1}{n} \sum_{k = 1}^{n}{I(\xi_k < x)}
 $$
+
+# Теорема Гливенко
 
 # Распределения
 
