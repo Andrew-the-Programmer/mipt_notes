@@ -410,10 +410,11 @@ $$
 Асимптотическая Нормальность (АH)
 
 $$
-
-\frac{1}{\sqrt{n D \xi}} \sum_{k = 1}^{n}{(\xi_k - E \xi)} 
+\frac{1}{\sqrt{n D \xi}} \sum_{k = 1}^{n}{(\xi_k - E \xi)}
 \xra{d} \mcN(0, 1)
 $$
+
+$\same$ АH
 
 # Центральная Предельная Теорема (ЦПТ)
 
@@ -422,11 +423,21 @@ $$
 \set{\xi_n} \dash НОРСВ \\
 D \xi < \infty
 } \implies
-\frac{1}{\sqrt{n D \xi}} \sum_{k = 1}^{n}{(\xi_k - E \xi)} 
+\frac{1}{\sqrt{n D \xi}} \sum_{k = 1}^{n}{(\xi_k - E \xi)}
 \xra{d} \mcN(0, 1)
 $$
 
 # Условие Ляпунова
+
+$\set{\xi_n}$ - НСВ
+
+$$
+\exists \delta > 2:
+\frac{1}{B_n^{\delta}} \sum_{k = 1}^{n}{\abs{\xi_k - a_k}^\delta}
+\to 0, \quad n \to \infty
+$$
+
+$\implies$ АH
 
 ## Пример
 
