@@ -466,10 +466,18 @@ L_3 \defeq
 \frac{E \abs{\mathring{\xi}}^3}{\sqrt{n} \group{D \xi}^{\frac{3}{2}}}
 $$
 
-Империческая функция распределения
+# Империческая функция распределения
 
 $$
 F_n(x) \defeq \frac{1}{n} \sum_{k = 1}^{n}{I(\xi_k < x)}
+$$
+
+$$
+\forall x \hthen F_n(x) \xra{п.н.} F_\xi(x), \quad n \to \infty
+$$
+
+$$
+\sup_{x}{F_n(x) - F_\xi(x)} \xra{п.н.} 0, \quad n \to \infty
 $$
 
 # Теорема Гливенко
