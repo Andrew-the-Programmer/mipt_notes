@@ -142,13 +142,14 @@ $$
 X_n \xra{p} X \implies \exists \set{n_k} : X_{n_k} \xra{п.н.} X
 $$
 
-<--!-->
+<!--
 ### Утв. б.д. для понимания
 
 $$
 X_n \xra{d} X \same \forall f \in C(\RR): \exists M : f \le M \hthen E f(X_n) \to E f(X)
 $$
-<--!-->
+
+-->
 
 ### Сходимость моментов
 
