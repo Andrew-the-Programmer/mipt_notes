@@ -308,8 +308,8 @@ $S_n \defeq \sum_{j=1}^{n}{\mathring{\xi_j}}$
 
 $$
 P \group{\sup_{k \in [1,n]}{\abs{S_k} > \varepsilon}} \le
-\frac{E S_n^2}{\varepsilon^2} \le
-\frac{D S_n^2}{\varepsilon^2} \le
+\frac{E S_n^2}{\varepsilon^2} =
+\frac{D S_n^2}{\varepsilon^2} =
 \frac{\sum_{j=1}^n{D \xi_j}}{\varepsilon^2}
 $$
 
