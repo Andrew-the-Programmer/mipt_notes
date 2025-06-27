@@ -32,7 +32,7 @@ $$
 
 # Распределения
 
-## $X \sim Be$
+## Бернулли $Be$
 
 $$
 P(X = 1) = p, \quad P(X = 0) = q = 1 - p
@@ -42,7 +42,7 @@ $$
 \varphi\groupr{Be(p)}(t) = q + p e^{it}
 $$
 
-## $X \sim Binom$
+## Биномиальное $Binom$
 
 $$
 P(X = k) = C_n^k p^k q^{n-k}
@@ -56,11 +56,13 @@ $$
 \varphi\groupr{Bi(p,n)}(t) = \group{q + p e^{it}}^n
 $$
 
-## $\mcN(m, \sigma^2)$
+## Нормальное $\mcN(m, \sigma^2)$
 
 $$
-\varphi\groupr{\mcN(m, \sigma^2)}(t) = e^{-\frac{t^2}{2 \sigma^2}} \frac{1}{\sqrt{2 \pi \sigma^2}}
+\varphi\groupr{\mcN(m, \sigma^2)}(t) = e^{itm} e^{-\frac{t^2 \sigma^2}{2}}
 $$
+
+## Равномерное $U(a,b)$
 
 # Условное математическое ожидание
 
