@@ -174,6 +174,17 @@ X_n \xra{(r)} X \centernot\implies g(X_n) \xra{(r)} g(X) \\
 }
 $$
 
+### Теорема Слуцкого
+
+$f: \RR^2 \to \RR \in C$
+
+$$
+\left.\Align{
+\xi_n \xra{d} \xi \\
+\eta_n \xra{p} c
+}\right\} \implies f(\xi_n, \eta_n) \xra{d} f(\xi, c)
+$$
+
 # Теоремы
 
 ## Lemma. Бореля-Кантелли
