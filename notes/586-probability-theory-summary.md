@@ -133,7 +133,7 @@ P --> D
 D -->|"$$X = const$$"| P
 P -->|"$$\sum_{n=1}^{\infty}{P\left(\lvert X_n - X \rvert \gt \varepsilon\right)} \lt \infty$$"| E
 B -->|"$$\sum_{n=1}^{\infty}{E \lvert X_n - X \rvert^r} \lt \infty$$"| E
-P -->|"$$$$"| B
+P -->|"$$P(X_n \le M) = 1$$"| B
 ```
 
 # Теоремы
