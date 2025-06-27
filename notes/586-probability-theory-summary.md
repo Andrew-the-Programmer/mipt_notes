@@ -429,22 +429,22 @@ $$
 ## Пуассон $Poiss(\lambda)$
 
 $$
-f \groupr{Poiss(\lambda)}(x) = \frac{\lambda^x e^{-\lambda}}{x!}
+P(X = k) = \frac{\lambda^k}{k!} e^{-\lambda}
 $$
 
 $$
 \Gather{
-E\groupr{Bi(n,p)} = n p \\
-D\groupr{Bi(n,p)} = n p q \\
+E\groupr{Poiss(\lambda)} = \lambda \\
+D\groupr{Poiss(\lambda)} = \lambda \\
 }
 $$
 
 $$
-Bi(p,n) = \sum_{k=1}^{n}{Be(p)}
+\varphi\groupr{Poiss(\lambda)}(t) = e^{\lambda (e^{it} - 1)}
 $$
 
 $$
-\varphi\groupr{Bi(p,n)}(t) = \group{q + p e^{it}}^n
+\sum{Poiss(\lambda_i)} = Poiss(\sum{\lambda_i})
 $$
 
 ## Нормальное $\mcN(m, \sigma^2)$
