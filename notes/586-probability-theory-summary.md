@@ -290,6 +290,15 @@ E \xi_n < \infty
 } \implies ЗБЧ
 $$
 
+## Теорема Чебышева. Достаточное условие ЗБЧ.
+
+$$
+\left.\Cases{
+\cov{\xi_i}{\xi_j} = 0, \quad i \ne j \\
+D \xi_n \le c n^\alpha
+}\right\} \implies ЗБЧ
+$$
+
 # Распределения
 
 ## Бернулли $Be$
