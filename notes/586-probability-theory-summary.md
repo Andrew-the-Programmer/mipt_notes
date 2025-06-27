@@ -132,10 +132,21 @@ graph TD
 
 A[Biology]
 B[Chemistry]
+C[hi]
 
 A --> B
+A --> C
 
 class A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z internal-link;
+```
+
+```mermaid
+flowchart LR
+    A["Start"]
+    B
+    A --> B{"Decision"}
+    B --> C["Option A"]
+    B --> D["Option B"]
 ```
 
 # Теоремы
