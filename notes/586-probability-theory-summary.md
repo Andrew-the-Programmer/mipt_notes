@@ -328,6 +328,10 @@ $$
 $\set{\xi_m}$ - НСВ
 $\sum{E \xi_n} < \infty$
 $\sum{D \xi_n} < \infty$
+$\same$
+$$
+\sum{\xi_n} \stackrel{п.н.}{<} \infty
+$$
 
 # Распределения
 
