@@ -154,6 +154,27 @@ $$
 \varphi_{U(-1,1)}(t) = \frac{\sin t}{t}
 $$
 
+## Коши $\mcK$
+
+$$
+K(m,\sigma^2) = \frac{1}{\pi \sigma \group{1 + \frac{(x - m)^2}{\sigma^2}}}
+$$
+
+$$
+\Gather{
+\not\exists E\groupr{K(m,\sigma)} \\
+\not\exists D\groupr{K(m,\sigma)}
+}
+$$
+
+$$
+\sum{K(m_i, \sigma_i^2)} = K(\sum{m_i}, \sum{\sigma_i^2}) \\
+$$
+
+$$
+\varphi\groupr{\mcK(m,\sigma^2)}(t) = e^{-\abs{t}}
+$$
+
 ## Таблица хар. ф-ий
 
 | $\varphi_\xi(t)$                      | $\xi$                                    |
