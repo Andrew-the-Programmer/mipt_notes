@@ -47,6 +47,19 @@ $$
 
 # Теоремы
 
+## Lemma. Бореля-Кантелли
+
+### If:
+
+$$
+A = \bigcap_{m \in \NN}{\bigcup_{n \ge m}{A_n}}
+$$
+
+### Then:
+
+1. $\sum{P(A_n)} < \infty \implies P(A) = 0$
+2. $\sum{P(A_n)} = \infty \land \set{A_n} \dash \text{\textit{совместно независимы}} \implies P(B) = 1$
+
 ## Теорема Колмогорова. Критерий выполнимости ЗБЧ.
 
 $$
@@ -187,3 +200,4 @@ $$
 | $\frac{e^{itb} - e^{ita}}{it(b-a)}$   | $U(a,b)$                                 |
 | $\frac{\sin t}{t}$                    | $U(-1,1)$                                |
 | $\cos{t}$                             | $P(\xi = 1) = P(\xi = -1) = \frac{1}{2}$ |
+| $e^{-\abs{t}}$                        | $K(m,\sigma^2)$                          |
