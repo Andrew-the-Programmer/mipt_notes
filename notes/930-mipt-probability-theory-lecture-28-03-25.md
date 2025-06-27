@@ -26,20 +26,22 @@ $$
 
 [[803-Гильбертово-пространство-hilbert-space|гильбертово пространство]]
 
-Гельдера
+# Неравенства
+
+## Гельдера
 
 $$
 E_{\abs{\xi\eta}} \le \group{E_{\abs{\xi}^p}}^\frac{1}{p} \group{E_{\abs{\eta}^q}}^\frac{1}{q}
 $$
 
-КБШ
+## КБШ
 
 $$
 \group{E_{\abs{\xi + \eta}^p}}^\frac{1}{p} \le
 \group{E_{\abs{\xi}^p}}^\frac{1}{p} + \group{E_{\abs{\eta}^p}}^\frac{1}{p}
 $$
 
-Ляпунова
+## Ляпунова
 
 $$
 \group{E_{\abs{\xi + \eta}^p}}^\frac{1}{p} \ge
@@ -47,9 +49,12 @@ $$
 p > q > 0
 $$
 
-Йенсена
+## Йенсена
+
+$g$ выпукла вниз
 
 $$
+E g(\xi) \ge g(E \xi)
 $$
 
 # Норма
