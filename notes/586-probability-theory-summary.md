@@ -49,6 +49,13 @@ P(X = k) = C_n^k p^k q^{n-k}
 $$
 
 $$
+\Gather{
+E\groupr{Bi(n,p)} = n p \\
+D\groupr{Bi(n,p)} = n p q \\
+}
+$$
+
+$$
 Bi(p,n) = \sum_{k=1}^{n}{Be(p)}
 $$
 
@@ -74,10 +81,12 @@ $$
 
 ## .
 
-$\Align{
+$$
+\Align{
+\varphi_\xi(t) = \cos(t) \implies
 P(\xi = 1) = P(\xi = -1) = \frac{1}{2} \\
-\varphi\_\xi(t) = \frac{1}{2} e^{it} + \frac{1}{2} e^{-it} = \cos(t)\\
-}$
+}
+$$
 
 # Условное математическое ожидание
 
