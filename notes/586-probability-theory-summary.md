@@ -253,28 +253,6 @@ D_{\xi\eta} = D_\xi + D_\eta \\
 }
 $$
 
-## Теорема Колмогорова. Критерий выполнимости ЗБЧ.
-
-$$
-\Gather{
-E \group{\frac{\group{\ol{\mathring{\xi_n}}}^2}{1 + \group{\ol{\mathring{\xi_n}}}^2}}
-\xrightarrow{n\to\infty} 0 \\
-\same \\
-ЗБЧ
-}
-$$
-
-$\set{\xi_n} - НСВ \implies$
-
-$$
-\Gather{
-\sum_{k=1}^n E\group{\frac{\group{\mathring{\xi_k}}^2}{n^2 + \group{\mathring{\xi_k}}^2}}
-\to 0 \\
-\same \\
-ЗБЧ
-}
-$$
-
 ## Теорема Маркова. Достаточное условие ЗБЧ.
 
 $$
@@ -295,8 +273,30 @@ $$
 $$
 \left.\Cases{
 \cov{\xi_i}{\xi_j} = 0, \quad i \ne j \\
-D \xi_n \le c n^\alpha
+D \xi_n \le c \cdot n^\alpha, \quad \alpha \in [0,1)
 }\right\} \implies ЗБЧ
+$$
+
+## Теорема Колмогорова. Критерий ЗБЧ.
+
+$$
+\Gather{
+E \group{\frac{\group{\ol{\mathring{\xi_n}}}^2}{1 + \group{\ol{\mathring{\xi_n}}}^2}}
+\xrightarrow{n\to\infty} 0 \\
+\same \\
+ЗБЧ
+}
+$$
+
+$\set{\xi_n} - НСВ \implies$
+
+$$
+\Gather{
+\sum_{k=1}^n E\group{\frac{\group{\mathring{\xi_k}}^2}{n^2 + \group{\mathring{\xi_k}}^2}}
+\to 0 \\
+\same \\
+ЗБЧ
+}
 $$
 
 # Распределения
