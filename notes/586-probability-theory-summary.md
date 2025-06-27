@@ -122,15 +122,18 @@ $$
 ```mermaid
 flowchart LR
 A["$$(r + \varepsilon)$$"]
+B["$$(r)$$"]
+E["п.н."]
 P["p"]
 D["d"]
-E["п.н."]
-A --> B["$$(r)$$"]
+A --> B
 B -->|"$$r \ge 1$$"| P
-P --> D
 E --> P
-P -->|"$$\sum_{n=1}^{\infty}{P()}$$"| E
+P --> D
 D -->|"$$X = const$$"| P
+P -->|"$$\sum_{n=1}^{\infty}{P\left(\lvert X_n - X \rvert \gt \varepsilon\right)} \lt \infty$$"| E
+B -->|"$$\sum_{n=1}^{\infty}{E \lvert X_n - X \rvert^r} \lt \infty$$"| E
+P -->|"$$$$"| B
 ```
 
 # Теоремы
