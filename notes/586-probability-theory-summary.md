@@ -103,14 +103,40 @@ $$
 
 $$
 \Array{|l|l|}{
+\hline
 X_n \xra{d} X &
 F_{X_n} \xra{п.в.} F_X \\
-X_n \xra{p} X & \same
+\hline
+X_n \xra{p} X &
 \forall \varepsilon \hthen P(\abs{X_n - X} > \varepsilon) \to 0 \\
-X_n \xra{п.н.} X & \same
+\hline
+X_n \xra{п.н.} X &
 \forall \varepsilon \hthen P(\sup_{k \ge n}\abs{X_n - X} > \varepsilon) \to 0 \\
+\hline
+X_n \xra{(r)} X &
+E \group{\abs{X_n - X}^r} \to 0 \\
+\hline
 }
 $$
+
+```mermaid
+sequenceDiagram
+    Alice->>+John: Hello John, how are you?
+    Alice->>+John: John, can you hear me?
+    John-->>-Alice: Hi Alice, I can hear you!
+    John-->>-Alice: I feel great!
+```
+
+```mermaid
+graph TD
+
+A[Biology]
+B[Chemistry]
+
+A --> B
+
+class A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z internal-link;
+```
 
 # Теоремы
 
