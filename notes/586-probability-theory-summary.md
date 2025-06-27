@@ -29,7 +29,7 @@ $$
 
 $D_\xi = \sigma^2 \defeq E \groupr{\group{\xi - E \xi}^2}$
 
-### Свойства
+### Свойства дисперсии
 
 1. $D_\xi = E_{\xi^2} - (E_\xi)^2$
 2. $D_{a\xi + b} = a^2 D_\xi$
@@ -45,11 +45,36 @@ $$
 cov(\xi, \eta) \defeq E_{\mathring{\xi}\mathring{\eta}}
 $$
 
-### Свойства
+### Свойства ковариации
 
 1. $cov(\xi, \eta) = E_{\xi\eta} - E_\xi E_\eta$
 2. $cov(\xi, \xi) = D_\xi$
 3. $\eta = a\xi + b \implies cov(\xi,\eta) = a D_\xi$
+
+## Характеристическая функция
+
+$$
+\varphi_\xi(t) \defeq E e^{it \xi} = \int_{\RR}{e^{itx} \d F_\xi(x)}
+$$
+
+### Свойства характеристической функции
+
+1. $$
+   \abs{\varphi_\xi(t)} \le 1, \quad \varphi_\xi(0) = 1
+   $$
+2. Равномерная непрерывность
+3. $\xi,\mu$ - НСВ $\implies$
+
+   $$
+      \varphi*{\xi + \mu}(t) = \varphi*\xi(t) \varphi\_\mu(t)
+   $$
+
+4. $$
+   \varphi_{a \xi + b}(t) = e^{itb} \varphi_\xi(at)
+   $$
+5. $$
+   \dv[k]{t}{} \varphi_\xi(0) = (i)^k E\groupr{\xi^k}
+   $$
 
 ## Условное математическое ожидание
 
@@ -77,13 +102,13 @@ $$
 ## Сходимость
 
 $$
-\AlignCenter{
-X_n \xra{p} X \same
+\Array{|l|l|}{
+X_n \xra{d} X &
+F_{X_n} \xra{п.в.} F_X \\
+X_n \xra{p} X & \same
 \forall \varepsilon \hthen P(\abs{X_n - X} > \varepsilon) \to 0 \\
-X_n \xra{п.н.} X \same
+X_n \xra{п.н.} X & \same
 \forall \varepsilon \hthen P(\sup_{k \ge n}\abs{X_n - X} > \varepsilon) \to 0 \\
-X_n \xra{d} X \same
-\forall
 }
 $$
 
@@ -169,29 +194,6 @@ $$
 $$
 \frac{1}{n^2} D\group{\sum_{k=1}^n \xi_k} \xrightarrow{n\to\infty} 0 \implies ЗБЧ
 $$
-
-# Характеристическая функция
-
-$$
-\varphi_\xi(t) \defeq E e^{it \xi} = \int_{\RR}{e^{itx} \d F_\xi(x)}
-$$
-
-1. $$
-   \abs{\varphi_\xi(t)} \le 1, \quad \varphi_\xi(0) = 1
-   $$
-2. Равномерная непрерывность
-3. $\xi,\mu$ - НСВ $\implies$
-
-   $$
-      \varphi*{\xi + \mu}(t) = \varphi*\xi(t) \varphi\_\mu(t)
-   $$
-
-4. $$
-   \varphi_{a \xi + b}(t) = e^{itb} \varphi_\xi(at)
-   $$
-5. $$
-   \dv[k]{t}{} \varphi_\xi(0) = (i)^k E\groupr{\xi^k}
-   $$
 
 # Распределения
 
