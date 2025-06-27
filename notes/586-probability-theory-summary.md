@@ -59,7 +59,7 @@ $$
 ## $\mcN(m, \sigma^2)$
 
 $$
-\varphi\groupr{\mcN(m, \sigma^2)}(t) = \group{q + p e^{it}}^n
+\varphi\groupr{\mcN(m, \sigma^2)}(t) = e^{-\frac{t^2}{2 \sigma^2}} \frac{1}{\sqrt{2 \pi \sigma^2}}
 $$
 
 # Условное математическое ожидание
