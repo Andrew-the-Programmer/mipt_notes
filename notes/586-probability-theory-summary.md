@@ -9,6 +9,16 @@ tags: []
 
 # Определения
 
+$$
+\Array{|l|l|}{
+\text{\textit{Математическое ожидание}} \emE \xi &
+\int_{\Omega}{\xi(\omega) P(\d \omega)}\\
+\hline
+ЗБЧ & \ol{\mathring{\xi_n}} = \frac{1}{n} \sum{\xi_n - E \xi_n} \to 0, \quad n \to \infty \\
+\hline
+}
+$$
+
 ## Математическое ожидание
 
 $$
