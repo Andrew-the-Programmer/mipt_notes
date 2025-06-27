@@ -247,7 +247,7 @@ $$
 $$
 \xi, \eta - НСВ \implies \Cases{
 E_{\xi\eta} = E_\xi E_\eta \\
-cov(\xi, \eta) = 0 \\
+\cov{\xi}{\eta} = 0 \\
 D_{\xi\eta} = D_\xi + D_\eta \\
 \rho(\xi, \eta) = 0
 }
@@ -287,6 +287,8 @@ E \group{\frac{\group{\ol{\mathring{\xi_n}}}^2}{1 + \group{\ol{\mathring{\xi_n}}
 ЗБЧ
 }
 $$
+
+Замечание: "2" можно заменить на $\alpha > 0$.
 
 $\set{\xi_n} - НСВ \implies$
 
