@@ -320,16 +320,36 @@ $S_n \defeq \sum_{j=1}^{n}{\mathring{\xi_j}}$
 $\sum_{n \in \NN}{D \xi_n} < \infty$
 
 $$
+$$
+
+$$
+\CasesR{
+\set{\xi_m} \dash НСВ \\
+S_n \defeq \sum_{j=1}^{n}{\mathring{\xi_j}} \\
+\sum{D \xi_n} < \infty
+} \same
 \exists S: S_n \xra{п.н.} S \defeq \sum_{n \in \NN}{\mathring{\xi_n}} \\
 $$
 
 # Теорема о двух рядах Колмогорова
 
-$\set{\xi_m}$ - НСВ
-$\sum{E \xi_n} < \infty$
-$\sum{D \xi_n} < \infty$
-$\same$
 $$
+\CasesR{
+\set{\xi_m} \dash НСВ \\
+\sum{E \xi_n} < \infty \\
+\sum{D \xi_n} < \infty
+} \same
+\sum{\xi_n} \stackrel{п.н.}{<} \infty
+$$
+
+# Теорема о трех рядах Колмогорова
+
+$$
+\CasesR{
+\set{\xi_m} \dash НСВ \\
+\sum{E \xi_n} < \infty \\
+\sum{D \xi_n} < \infty
+} \same
 \sum{\xi_n} \stackrel{п.н.}{<} \infty
 $$
 
