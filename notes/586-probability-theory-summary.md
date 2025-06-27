@@ -121,10 +121,15 @@ $$
 
 ```mermaid
 flowchart LR
-    A["Сходимость порядка $$\quad r + \varepsilon$$"]
-    A --> B["Сходимость порядка $$\quad r$$"]
-    C
-    A --> B[$$$$]
+A["$$(r + \varepsilon)$$"]
+A --> B["$$(r)$$"]
+P["p"]
+D["d"]
+E["п.н."]
+P --> D
+B --> P
+E --> P
+B -->|"$$\overbrace{}^{\text{если}}$$"| E
 ```
 
 # Теоремы
