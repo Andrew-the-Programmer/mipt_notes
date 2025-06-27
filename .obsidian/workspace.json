@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/987-mipt-probability-theory-lecture-04-04-25.md",
+                "file": "notes/586-probability-theory-summary.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "987-mipt-probability-theory-lecture-04-04-25"
+              "title": "586-probability-theory-summary"
             }
           },
           {
@@ -243,12 +243,15 @@
   },
   "active": "80e632448e415836",
   "lastOpenFiles": [
+    "notes/586-probability-theory-summary.md~",
+    "notes/987-mipt-probability-theory-lecture-04-04-25.md",
+    "notes/586-probability-theory-summary.md",
+    "courses/MIPT-probability-theory-2025.md~",
+    "notes/930-mipt-probability-theory-lecture-28-03-25.md~",
     "courses/MIPT-probability-theory-2025.md",
     "notes/306-mipt-probability-theory-lecture-11-04-25.md",
     "notes/930-mipt-probability-theory-lecture-28-03-25.md",
-    "notes/930-mipt-probability-theory-lecture-28-03-25.md~",
     "notes/299-mipt-probability-theory-seminar-28-03-25.md",
-    "courses/MIPT-probability-theory-2025.md~",
     "notes/173-mipt-probability-theory-lecture-28-02-25.md~",
     "notes/886-mipt-probability-theory-seminar-04-04-25.md",
     "notes/884-mipt-probability-theory-seminar-08-05-25.md",
@@ -257,7 +260,6 @@
     "notes/4913",
     "notes/670-mipt-probability-theory-lecture-21-03-25.md",
     "notes/625-mipt-probability-theory-lecture-18-04-25.md",
-    "notes/987-mipt-probability-theory-lecture-04-04-25.md",
     "notes/987-mipt-probability-theory-lecture-04-04-25.md~",
     "notes/795-mipt-probability-theory-lecture-26-06-25.md",
     "notes/416-mipt-probability-theory-lecture-26-06-25.md~",
@@ -273,11 +275,9 @@
     "notes/342-mipt-anmech-seminar-28-02-25.md",
     "notes/278-mipt-anmech-seminar-21-02-25.md",
     "notes/885-mipt-anmech-seminar-14-02-25.md",
-    "notes/698-mipt-anmech-seminar-07-02-25.md",
     "courses/MIPT-anmech-2025.md~",
     "courses/MIPT-algorithms-lectures-2024.md~",
     "courses/MIPT-calculus-lectures-2024.md~",
-    "courses/MIPT-field-theory-2025.md~",
     "assets/imgs/1738743938.png",
     "assets/imgs/1738743930.png",
     "assets/imgs/14-05-25_16-40-11_272.png",
