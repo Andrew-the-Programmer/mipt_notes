@@ -120,33 +120,11 @@ E \group{\abs{X_n - X}^r} \to 0 \\
 $$
 
 ```mermaid
-sequenceDiagram
-    Alice->>+John: Hello John, how are you?
-    Alice->>+John: John, can you hear me?
-    John-->>-Alice: Hi Alice, I can hear you!
-    John-->>-Alice: I feel great!
-```
-
-```mermaid
-graph TD
-
-A[Biology]
-B[Chemistry]
-C[hi]
-
-A --> B
-A --> C
-
-class A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z internal-link;
-```
-
-```mermaid
 flowchart LR
-    A["Start"]
-    B
-    A --> B{"Decision"}
-    B --> C["Option A"]
-    B --> D["Option B"]
+    A["Сходимость порядка $$\quad r + \varepsilon$$"]
+    A --> B["Сходимость порядка $$\quad r$$"]
+    C
+    A --> B[$$$$]
 ```
 
 # Теоремы
