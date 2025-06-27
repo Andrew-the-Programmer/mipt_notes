@@ -352,7 +352,7 @@ $$
 \set{\xi_m} \dash НСВ \\
 \sum{E \xi_n^c} < \infty \\
 \sum{D \xi_n^c} < \infty \\
-\sum{\abs{\xi}} < \infty \\
+\sum{P \group{\abs{\xi_n} \ge c}} < \infty \\
 } \same
 \sum{\xi_n} \stackrel{п.н.}{<} \infty
 $$
