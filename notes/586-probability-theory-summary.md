@@ -140,7 +140,7 @@ P -->|"$$P(X_n \le M) = 1$$"| B
 
 $$
 X_n \xra{п.н.} X \same
-\forall \varepsilon \hthen P(\sup_{k \ge n}\abs{X_n - X} > \varepsilon) \to 0 \\
+\groupr{\forall \varepsilon \hthen P(\sup_{k \ge n}\abs{X_k - X} > \varepsilon) \to 0, \quad n \to \infty} \\
 $$
 
 ### Теорема Рисса
