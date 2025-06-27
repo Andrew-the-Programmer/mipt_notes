@@ -281,10 +281,10 @@ $$
 # Теорема Чебышева. Достаточное условие ЗБЧ.
 
 $$
-\left.\Cases{
+\Cases{
 \cov{\xi_i}{\xi_j} = 0, \quad i \ne j \\
 D \xi_n \le c \cdot n^\alpha, \quad \alpha \in [0,1)
-}\right\} \implies ЗБЧ
+} \implies ЗБЧ
 $$
 
 # Теорема Колмогорова. Критерий ЗБЧ.
