@@ -451,6 +451,21 @@ $$
 L_3 \to 0 \implies АН
 $$
 
+$$
+\sup_{x}{\abs{F_{\eta_n}(x) - F_{\mcN(0,1)}(x)}} \le C L_3
+$$
+
+$(C \approx 0.8)$
+
+## Неравенство Бэрри-Эссена
+
+$\set{\xi_n}$ - НСВ $\implies$
+
+$$
+L_3 \defeq
+\frac{E \abs{\mathring{\xi}}^3}{\sqrt{n} \group{D \xi}^{\frac{3}{2}}}
+$$
+
 ## Пример
 
 $$
