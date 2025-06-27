@@ -102,22 +102,20 @@ $$
 1. $\sum{P(A_n)} < \infty \implies P(A) = 0$
 2. $\sum{P(A_n)} = \infty \land \set{A_n} \dash \text{\textit{совместно независимы}} \implies P(B) = 1$
 
-## Неравенства
-
-### Гельдера
+## Неравенство Гельдера
 
 $$
 E_{\abs{\xi\eta}} \le \group{E_{\abs{\xi}^p}}^\frac{1}{p} \group{E_{\abs{\eta}^q}}^\frac{1}{q}
 $$
 
-### КБШ
+## Неравенство КБШ
 
 $$
 \group{E_{\abs{\xi + \eta}^p}}^\frac{1}{p} \le
 \group{E_{\abs{\xi}^p}}^\frac{1}{p} + \group{E_{\abs{\eta}^p}}^\frac{1}{p}
 $$
 
-### Ляпунова
+## Неравенство Ляпунова
 
 $$
 \group{E_{\abs{\xi + \eta}^p}}^\frac{1}{p} \ge
@@ -125,7 +123,7 @@ $$
 p > q > 0
 $$
 
-### Йенсена
+## Неравенство Йенсена
 
 $g$ выпукла вниз
 
