@@ -79,7 +79,12 @@ $$
 \varphi_{U(-1,1)}(t) = \frac{\sin t}{t}
 $$
 
-## .
+## Таблица хар. ф-ий
+
+| $\varphi_\xi(t)$ | $\xi$   |
+| ---------------- | ------- |
+| $q + pe^{it}$    | $Be(p)$ |
+| $e^{itm} e^{-\frac{t^2 \sigma^2}{2}}$ | $\mcN(m, \sigma^2)$ |
 
 $$
 \Align{
@@ -96,4 +101,17 @@ $$
 
 $$
 E_{\xi} = E_\eta\group{E(\xi \mid \eta)}
+$$
+
+# Нормированная случайная величина
+
+$$
+\eta \defeq \frac{\xi - E \xi}{\sqrt{D \xi}}
+$$
+
+$$
+\boxed{\Gather{
+E \eta = 0 \\
+D \eta = 1
+}}
 $$
