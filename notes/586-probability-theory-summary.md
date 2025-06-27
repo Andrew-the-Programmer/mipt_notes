@@ -393,6 +393,12 @@ $$
 Bi(p_n, n) \xra{d} Poiss(\lambda)
 $$
 
+# Условие Линдберга
+
+$\set{\eta_{nk}}_{k=1}^{n}$
+$E \eta_{nk} = 0$
+$\sum_{k=1}^{n}{D \eta_{nk}} = 1$
+
 # Распределения
 
 ## Бернулли $Be(p)$
@@ -426,6 +432,10 @@ $$
 \varphi\groupr{Bi(p,n)}(t) = \group{q + p e^{it}}^n
 $$
 
+$$
+Bi(p,n) \to Poiss(np), \quad \lambda = np \to \infty
+$$
+
 ## Пуассон $Poiss(\lambda)$
 
 $$
@@ -445,6 +455,10 @@ $$
 
 $$
 \sum{Poiss(\lambda_i)} = Poiss(\sum{\lambda_i})
+$$
+
+$$
+Poiss(\lambda) \to \mcN(\lambda, \lambda), \quad \lambda \to \infty
 $$
 
 ## Нормальное $\mcN(m, \sigma^2)$
