@@ -7,7 +7,53 @@ tags: []
 
 # probability theory summary
 
-Характеристическая функция
+# Определения
+
+## Условное математическое ожидание
+
+$$
+E_{\xi \mid \mu}(x \mid y) \defeq \int{x \d F_{\xi \mid \mu}(x \mid y)}
+$$
+
+$$
+E_{\xi} = E_\eta\group{E(\xi \mid \eta)}
+$$
+
+## Нормированная случайная величина
+
+$$
+\eta \defeq \frac{\xi - E \xi}{\sqrt{D \xi}}
+$$
+
+$$
+\boxed{\Gather{
+E \eta = 0 \\
+D \eta = 1
+}}
+$$
+
+## Сходимость
+
+$$
+\AlignCenter{
+X_n \xra{p} X \same
+\forall \varepsilon \hthen P(\abs{X_n - X} > \varepsilon) \to 0 \\
+X_n \xra{п.н.} X \same
+\forall \varepsilon \hthen P(\sup_{k \ge n}\abs{X_n - X} > \varepsilon) \to 0 \\
+X_n \xra{d} X \same
+\forall
+}
+$$
+
+# Теоремы
+
+## Теорема Маркова. Достаточное условие ЗБЧ.
+
+$$
+\frac{1}{n^2} D\group{\sum_{k=1}^n \xi_k} \xrightarrow{n\to\infty} 0 \implies ЗБЧ
+$$
+
+# Характеристическая функция
 
 $$
 \varphi_\xi(t) \defeq E e^{it \xi} = \int_{\RR}{e^{itx} \d F_\xi(x)}
@@ -91,33 +137,3 @@ $$
 | $\frac{e^{itb} - e^{ita}}{it(b-a)}$   | $U(a,b)$                                 |
 | $\frac{\sin t}{t}$                    | $U(-1,1)$                                |
 | $\cos{t}$                             | $P(\xi = 1) = P(\xi = -1) = \frac{1}{2}$ |
-
-$$
-\Align{
-\varphi_\xi(t) = \cos(t) \implies
-P(\xi = 1) = P(\xi = -1) = \frac{1}{2} \\
-}
-$$
-
-# Условное математическое ожидание
-
-$$
-E_{\xi \mid \mu}(x \mid y) \defeq \int{x \d F_{\xi \mid \mu}(x \mid y)}
-$$
-
-$$
-E_{\xi} = E_\eta\group{E(\xi \mid \eta)}
-$$
-
-# Нормированная случайная величина
-
-$$
-\eta \defeq \frac{\xi - E \xi}{\sqrt{D \xi}}
-$$
-
-$$
-\boxed{\Gather{
-E \eta = 0 \\
-D \eta = 1
-}}
-$$
