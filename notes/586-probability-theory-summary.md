@@ -385,9 +385,17 @@ $$
 \ol{\xi_n} - a \xra{п.н.} 0 \same E \xi = a
 $$
 
+# Теорема Пуассона
+
+$n p_n \to \lambda, \quad n \to \infty$
+
+$$
+Bi(p_n, n) \xra{d} Poiss(\lambda)
+$$
+
 # Распределения
 
-## Бернулли $Be$
+## Бернулли $Be(p)$
 
 $$
 P(X = 1) = p, \quad P(X = 0) = q = 1 - p
@@ -397,10 +405,31 @@ $$
 \varphi\groupr{Be(p)}(t) = q + p e^{it}
 $$
 
-## Биномиальное $Binom$
+## Биномиальное $Binom(p,n)$
 
 $$
 P(X = k) = C_n^k p^k q^{n-k}
+$$
+
+$$
+\Gather{
+E\groupr{Bi(n,p)} = n p \\
+D\groupr{Bi(n,p)} = n p q \\
+}
+$$
+
+$$
+Bi(p,n) = \sum_{k=1}^{n}{Be(p)}
+$$
+
+$$
+\varphi\groupr{Bi(p,n)}(t) = \group{q + p e^{it}}^n
+$$
+
+## Пуассон $Poiss(\lambda)$
+
+$$
+f \groupr{Poiss(\lambda)}(x) = \frac{\lambda^x e^{-\lambda}}{x!}
 $$
 
 $$
