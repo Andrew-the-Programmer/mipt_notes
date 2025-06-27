@@ -39,7 +39,7 @@ P(X = 1) = p, \quad P(X = 0) = q = 1 - p
 $$
 
 $$
-\varphi(t) = q + p e^{it}
+\varphi\groupr{Be(p)}(t) = q + p e^{it}
 $$
 
 ## $X \sim Binom$
@@ -52,11 +52,22 @@ $$
 Bi(p,n) = \sum_{k=1}^{n}{Be(p)}
 $$
 
+$$
+\varphi\groupr{Bi(p,n)}(t) = \group{q + p e^{it}}^n
+$$
+
+## $\mcN(m, \sigma^2)$
+
+$$
+\varphi\groupr{\mcN(m, \sigma^2)}(t) = \group{q + p e^{it}}^n
+$$
+
 # Условное математическое ожидание
 
 $$
 E_{\xi \mid \mu}(x \mid y) \defeq \int{x \d F_{\xi \mid \mu}(x \mid y)}
 $$
+
 $$
 E_{\xi} = E_\eta\group{E(\xi \mid \eta)}
 $$
