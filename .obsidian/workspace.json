@@ -217,83 +217,34 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "5a7e3b11e9610df4",
-    "type": "floating",
-    "children": [
-      {
-        "id": "b2b7fc00bf997560",
-        "type": "window",
-        "children": [
-          {
-            "id": "903842e48e484126",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "0118060fb549d632",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "notes/818-mipt-anmech-seminar-28-03-25.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "818-mipt-anmech-seminar-28-03-25"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 379,
-        "y": 368,
-        "width": 901,
-        "height": 501,
-        "maximize": false,
-        "zoom": 0.5
-      }
-    ]
-  },
-  "active": "0118060fb549d632",
+  "active": "ad6a3be8240246f6",
   "lastOpenFiles": [
-    "notes/817-формула-полной-вероятности.md",
-    "notes/803-Гильбертово-пространство-hilbert-space.md",
-    "notes/797-mipt-differential-equations-seminar-12-02-25.md",
-    "notes/791-mipt-physics-seminar-22-04-25.md",
-    "notes/789-mipt-differential-equations-lecture-05-03-25.md",
-    "notes/786-mipt-physics-lecture-15-03-25.md",
-    "notes/780-телескоп.md",
-    "notes/777-mipt-computational-complexity-theory-lecture-28-02-25.md",
-    "notes/775-mipt-differential-equations-seminar-26-02-25.md",
-    "notes/768-прецессия-Томаса.md",
-    "notes/759-mipt-field-theory-seminar-09-04-25.md",
-    "notes/759-mipt-differential-equations-lecture-12-02-25.md",
-    "notes/747-формулы-Френеля.md",
-    "notes/737-преобразования-Лорентца.md",
-    "notes/736-полиномиальная-сводимость-сводимсть-по-Карпу.md",
-    "notes/725-mipt-field-theory-lecture-26-02-25.md",
-    "notes/723-формула-включений-исключений.md",
-    "notes/714-mipt-field-theory-seminar-19-03-25.md",
-    "notes/712-механическое-равновесие.md",
-    "notes/712-mipt-computational-complexity-theory-lecture-21-03-25.md",
-    "notes/711-mipt-field-theory-lecture-07-05-25.md",
-    "notes/709-свертка-функций.md",
-    "notes/702-mipt-physics-hw-2025.md",
-    "notes/698-mipt-field-theory-lecture-19-03-25.md",
-    "notes/695-mipt-physics-seminar-04-03-25.md",
-    "notes/693-mipt-differential-equations-seminar-16-04-25.md",
+    "notes/586-probability-theory-summary.md",
+    "notes/1729009854-простейшие-типы-ду-1-го-порядка.md",
+    "notes/1729005700-задача-Коши.md",
+    "notes/1728989009-алгебре.md",
+    "notes/1728985030-внешняя-мера-по-Каратеодори.md",
+    "notes/1728984761-продолжение-меры-по-Каратеодори.md",
+    "notes/1728926894-счетно-полуаддитивная-мера.md",
+    "notes/1728924971-мера-Лебега.md",
+    "notes/1728924789-ячейка.md",
+    "notes/1728920216-тензорное-произведение-систем-множеств.md",
+    "notes/1728919758-мера-на-произведении-полуколец.md",
+    "notes/1728918993-конечная-мера.md",
+    "notes/1728917820-счетно-аддитивная-мера.md",
+    "notes/1728917539-конечно-аддитивная-мера.md",
+    "notes/1728910722-мера-на-полукольце.md",
+    "notes/1728840113-полукольцо.md",
+    "notes/1728837986-метрика.md",
+    "notes/1728837879-метрическое-пространство.md",
+    "notes/1728837785-борелевская-sigma-алгебра.md",
+    "notes/1728833822-sigma-алгебра.md",
+    "notes/1728833627-единица-в-кольце.md",
+    "notes/1728833153-алгебра.md",
+    "notes/1728832386-кольцо.md",
+    "notes/1728831155-limsup-liminf.md",
+    "notes/1728830908-симметрическая-разность.md",
+    "notes/1728830216-система-множеств.md",
     "notes/586-probability-theory-summary.md~",
     "preamble.sty~",
     "4913",
