@@ -111,7 +111,7 @@ X_n \xra{p} X &
 \forall \varepsilon \hthen P(\abs{X_n - X} > \varepsilon) \to 0 \\
 \hline
 X_n \xra{п.н.} X &
-\forall \varepsilon \hthen P(\sup_{k \ge n}\abs{X_n - X} > \varepsilon) \to 0 \\
+P(\omega: X_n(\omega) \to X(\omega)) = 1 \\
 \hline
 X_n \xra{(r)} X &
 E \group{\abs{X_n - X}^r} \to 0 \\
@@ -135,6 +135,13 @@ P -->|"$$\sum_{n=1}^{\infty}{P\left(\lvert X_n - X \rvert \gt \varepsilon\right)
 B -->|"$$\sum_{n=1}^{\infty}{E \lvert X_n - X \rvert^r} \lt \infty$$"| E
 P -->|"$$P(X_n \le M) = 1$$"| B
 ```
+
+### Критерий сходимости почти наверное
+
+$$
+X_n \xra{п.н.} X \same
+\forall \varepsilon \hthen P(\sup_{k \ge n}\abs{X_n - X} > \varepsilon) \to 0 \\
+$$
 
 ### Теорема Рисса
 
