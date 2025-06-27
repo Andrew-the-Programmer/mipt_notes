@@ -9,6 +9,48 @@ tags: []
 
 # Определения
 
+## Математическое ожидание
+
+$$
+E \xi \defeq \int_{\Omega}{\xi(\omega) P(\d \omega)}
+$$
+
+### Свойства математического ожидания
+
+1. $E(\xi \equiv c) = c$
+2. $E(\alpha \xi) = \alpha E(\xi)$
+3. $E(\xi_1 + \xi_2) = E(\xi_1) + E(\xi_2)$
+4. $\xi = \eta\ (\textit{почти наверное - п.н. - P почти всюду})
+\implies E(\xi) = E(\eta)$
+5. $\xi \le \eta\ (п.н.) \implies E(\xi) \le E(\eta)$
+6. $\xi \ge 0\ (п.н.),\quad E(\xi) \ge 0 \implies \xi = 0\ (п.н.)$
+
+## Дисперсия
+
+$D_\xi = \sigma^2 \defeq E \groupr{\xi - E \xi}^2$
+
+### Свойства
+
+1. $D_\xi = E_{\xi^2} - (E_\xi)^2$
+2. $D_{a\xi + b} = a^2 D_\xi$
+3. $D_\xi = 0 \same \xi \equiv const$
+4. $D_{\xi + \eta} = 
+E\group{\mathring{\xi} + \mathring{\eta}}^2 = 
+D_\xi + D_\eta + 2 E_{\mathring{\xi}\mathring{\eta}} = 
+D_\xi + D_\eta + cov\group{\xi, \eta}$
+
+## Ковариация
+
+$$
+cov(\xi, \eta) \defeq E_{\mathring{\xi}\mathring{\eta}}
+$$
+
+### Свойства
+
+1. $cov(\xi, \eta) = E_{\xi\eta} - E_\xi E_\eta$
+2. $cov(\xi, \xi) = D_\xi$
+3. $\eta = a\xi + b \implies cov(\xi,\eta) = a D_\xi$
+
 ## Условное математическое ожидание
 
 $$
@@ -59,6 +101,37 @@ $$
 
 1. $\sum{P(A_n)} < \infty \implies P(A) = 0$
 2. $\sum{P(A_n)} = \infty \land \set{A_n} \dash \text{\textit{совместно независимы}} \implies P(B) = 1$
+
+## Неравенства
+
+### Гельдера
+
+$$
+E_{\abs{\xi\eta}} \le \group{E_{\abs{\xi}^p}}^\frac{1}{p} \group{E_{\abs{\eta}^q}}^\frac{1}{q}
+$$
+
+### КБШ
+
+$$
+\group{E_{\abs{\xi + \eta}^p}}^\frac{1}{p} \le
+\group{E_{\abs{\xi}^p}}^\frac{1}{p} + \group{E_{\abs{\eta}^p}}^\frac{1}{p}
+$$
+
+### Ляпунова
+
+$$
+\group{E_{\abs{\xi + \eta}^p}}^\frac{1}{p} \ge
+\group{E_{\abs{\xi}^q}}^\frac{1}{q},\quad
+p > q > 0
+$$
+
+### Йенсена
+
+$g$ выпукла вниз
+
+$$
+E g(\xi) \ge g(E \xi)
+$$
 
 ## Теорема Колмогорова. Критерий выполнимости ЗБЧ.
 
