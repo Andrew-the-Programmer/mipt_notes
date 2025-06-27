@@ -478,11 +478,11 @@ $$
 \forall x \hthen F_n(x) \xra{п.н.} F_\xi(x), \quad n \to \infty
 $$
 
+# Теорема Гливенко
+
 $$
 \sup_{x}{F_n(x) - F_\xi(x)} \xra{п.н.} 0, \quad n \to \infty
 $$
-
-# Теорема Гливенко
 
 # Распределения
 
