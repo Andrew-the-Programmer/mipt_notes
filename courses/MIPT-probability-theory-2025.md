@@ -39,3 +39,5 @@ tags: []
 11. skip
 12. [[884-mipt-probability-theory-seminar-08-05-25|08-05-25]]
 13. [[687-mipt-probability-theory-seminar-16-05-25|16-05-25]]
+
+[[586-probability-theory-summary|probability theory summary]]

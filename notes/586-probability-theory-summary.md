@@ -64,6 +64,21 @@ $$
 
 ## Равномерное $U(a,b)$
 
+$$
+\varphi_{U(a,b)}(t) = \frac{e^{itb} - e^{ita}}{it(b-a)}
+$$
+
+$$
+\varphi_{U(-1,1)}(t) = \frac{\sin t}{t}
+$$
+
+## .
+
+$\Align{
+P(\xi = 1) = P(\xi = -1) = \frac{1}{2} \\
+\varphi\_\xi(t) = \frac{1}{2} e^{it} + \frac{1}{2} e^{-it} = \cos(t)\\
+}$
+
 # Условное математическое ожидание
 
 $$
