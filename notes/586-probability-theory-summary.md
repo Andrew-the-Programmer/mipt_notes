@@ -319,6 +319,10 @@ $\set{\xi_n}$ - НСВ
 $S_n \defeq \sum_{j=1}^{n}{\mathring{\xi_j}}$
 $\sum_{n \in \NN}{D \xi_n} < \infty$
 
+$$
+\exists S: S_n \xra{п.н.} S \\
+$$
+
 # Распределения
 
 ## Бернулли $Be$
