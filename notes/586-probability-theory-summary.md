@@ -122,14 +122,15 @@ $$
 ```mermaid
 flowchart LR
 A["$$(r + \varepsilon)$$"]
-A --> B["$$(r)$$"]
 P["p"]
 D["d"]
 E["п.н."]
+A --> B["$$(r)$$"]
+B -->|"$$r \ge 1$$"| P
 P --> D
-B --> P
 E --> P
-B -->|"$$\overbrace{}^{\text{если}}$$"| E
+P -->|"$$\sum_{n=1}^{\infty}{P()}$$"| E
+D -->|"$$X = const$$"| P
 ```
 
 # Теоремы
