@@ -136,6 +136,14 @@ B -->|"$$\sum_{n=1}^{\infty}{E \lvert X_n - X \rvert^r} \lt \infty$$"| E
 P -->|"$$P(X_n \le M) = 1$$"| B
 ```
 
+### Теорема Рисса
+
+$$
+X_n \xra{p} X \implies \exists \set{n_k} : X_{n_k} \xra{п.н.} X
+$$
+
+### Утв. б.д. для понимания
+
 # Теоремы
 
 ## Lemma. Бореля-Кантелли
