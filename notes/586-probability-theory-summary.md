@@ -11,10 +11,13 @@ tags: []
 
 $$
 \Array{|l|l|}{
-\text{\textit{Математическое ожидание}} \emE \xi &
+\hline
+\text{\textit{Математическое ожидание}}: E \xi &
 \int_{\Omega}{\xi(\omega) P(\d \omega)}\\
 \hline
-ЗБЧ & \ol{\mathring{\xi_n}} = \frac{1}{n} \sum{\xi_n - E \xi_n} \to 0, \quad n \to \infty \\
+ЗБЧ & \ol{\mathring{\xi_n}} = \frac{1}{n} \sum\group{\xi_n - E \xi_n} \to 0, \quad n \to \infty \\
+\hline
+\text{\textit{Дисперсия}}: D_\xi = \sigma^2 & E \groupr{\group{\xi - E \xi}^2} \\
 \hline
 }
 $$
@@ -276,6 +279,15 @@ $$
 
 $$
 \frac{1}{n^2} D\group{\sum_{k=1}^n \xi_k} \xrightarrow{n\to\infty} 0 \implies ЗБЧ
+$$
+
+## Теорема Хинчина. Достаточное условие ЗБЧ.
+
+$$
+\Cases{
+\set{\xi_n} - НОРСВ \\
+E \xi_n < \infty
+} \implies ЗБЧ
 $$
 
 # Распределения
