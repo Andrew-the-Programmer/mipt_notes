@@ -17,12 +17,46 @@ $$
    \abs{\varphi_\xi(t)} \le 1, \quad \varphi_\xi(0) = 1
    $$
 2. Равномерная непрерывность
-3. $\xi,\mu$ - НСВ $\implies$ $$
-   \varphi*{\xi + \mu}(t) = \varphi*\xi(t) \varphi\_\mu(t)
+3. $\xi,\mu$ - НСВ $\implies$
+
+   $$
+      \varphi*{\xi + \mu}(t) = \varphi*\xi(t) \varphi\_\mu(t)
+   $$
 
 4. $$
    \varphi_{a \xi + b}(t) = e^{itb} \varphi_\xi(at)
    $$
 5. $$
-   \dv[k]{t}{} \varphi_\xi(0) = (i)^k \varphi_\xi(0)
+   \dv[k]{t}{} \varphi_\xi(0) = (i)^k E\groupr{\xi^k}
    $$
+
+# Распределения
+
+## $X \sim Be$
+
+$$
+P(X = 1) = p, \quad P(X = 0) = q = 1 - p
+$$
+
+$$
+\varphi(t) = q + p e^{it}
+$$
+
+## $X \sim Binom$
+
+$$
+P(X = k) = C_n^k p^k q^{n-k}
+$$
+
+$$
+Bi(p,n) = \sum_{k=1}^{n}{Be(p)}
+$$
+
+# Условное математическое ожидание
+
+$$
+E_{\xi \mid \mu}(x \mid y) \defeq \int{x \d F_{\xi \mid \mu}(x \mid y)}
+$$
+$$
+E_{\xi} = E_\eta\group{E(\xi \mid \eta)}
+$$
