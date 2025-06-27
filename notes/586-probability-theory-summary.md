@@ -439,6 +439,18 @@ $$
 
 $\implies$ АH
 
+# Дробь Ляпунова
+
+$$
+L_3 \defeq
+\frac{1}{\group{\sum_{k = 1}^{n}{D \xi_k}}^{\frac{3}{2}}}
+\sum_{k = 1}^{n}{E \abs{\xi_k - a_k}^3}
+$$
+
+$$
+L_3 \to 0 \implies АН
+$$
+
 ## Пример
 
 $$
