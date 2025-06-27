@@ -315,20 +315,13 @@ $$
 
 # Теорема Колмогорова-Хинчина
 
-$\set{\xi_n}$ - НСВ
-$S_n \defeq \sum_{j=1}^{n}{\mathring{\xi_j}}$
-$\sum_{n \in \NN}{D \xi_n} < \infty$
-
-$$
-$$
-
 $$
 \CasesR{
 \set{\xi_m} \dash НСВ \\
 S_n \defeq \sum_{j=1}^{n}{\mathring{\xi_j}} \\
 \sum{D \xi_n} < \infty
-} \same
-\exists S: S_n \xra{п.н.} S \defeq \sum_{n \in \NN}{\mathring{\xi_n}} \\
+} \implies
+\exists S \defeq \sum_{n \in \NN}{\mathring{\xi_n}}:\quad S_n \xra{п.н.} S \\
 $$
 
 # Теорема о двух рядах Колмогорова
@@ -340,6 +333,15 @@ $$
 \sum{D \xi_n} < \infty
 } \same
 \sum{\xi_n} \stackrel{п.н.}{<} \infty
+$$
+
+# Усеченная случайная величина
+
+$$
+\xi_n^c \defeq \Cases{
+\xi_n, \quad \abs{\xi_n} < c
+0, \quad \abs{\xi_n} \ge c
+}
 $$
 
 # Теорема о трех рядах Колмогорова
