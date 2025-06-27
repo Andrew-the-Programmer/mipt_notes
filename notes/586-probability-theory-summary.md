@@ -47,6 +47,28 @@ $$
 
 # Теоремы
 
+## Теорема Колмогорова. Критерий выполнимости ЗБЧ.
+
+$$
+\Gather{
+E \group{\frac{\group{\ol{\mathring{\xi_n}}}^2}{1 + \group{\ol{\mathring{\xi_n}}}^2}}
+\xrightarrow{n\to\infty} 0 \\
+\same \\
+ЗБЧ
+}
+$$
+
+$\set{\xi_n} - НСВ \implies$
+
+$$
+\Gather{
+\sum_{k=1}^n E\group{\frac{\group{\mathring{\xi_k}}^2}{n^2 + \group{\mathring{\xi_k}}^2}}
+\to 0 \\
+\same \\
+ЗБЧ
+}
+$$
+
 ## Теорема Маркова. Достаточное условие ЗБЧ.
 
 $$
@@ -110,6 +132,13 @@ $$
 $$
 
 ## Нормальное $\mcN(m, \sigma^2)$
+
+$$
+\Gather{
+\mcN(m, \sigma^2) = \sigma \mcN(0,1) + m \\
+\sum{\mcN(m_i, \sigma_i^2)} = \mcN(\sum{m_i}, \sum{\sigma_i^2}) \\
+}
+$$
 
 $$
 \varphi\groupr{\mcN(m, \sigma^2)}(t) = e^{itm} e^{-\frac{t^2 \sigma^2}{2}}
