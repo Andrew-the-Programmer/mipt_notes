@@ -27,7 +27,7 @@ $$
 
 ## Дисперсия
 
-$D_\xi = \sigma^2 \defeq E \groupr{\xi - E \xi}^2$
+$D_\xi = \sigma^2 \defeq E \groupr{\group{\xi - E \xi}^2}$
 
 ### Свойства
 
@@ -131,6 +131,17 @@ $g$ выпукла вниз
 
 $$
 E g(\xi) \ge g(E \xi)
+$$
+
+## НСВ
+
+$$
+\xi, \eta - НСВ \implies \Cases{
+E_{\xi\eta} = E_\xi E_\eta \\
+cov(\xi, \eta) = 0 \\
+D_{\xi\eta} = D_\xi + D_\eta \\
+\rho(\xi, \eta) = 0
+}
 $$
 
 ## Теорема Колмогорова. Критерий выполнимости ЗБЧ.
