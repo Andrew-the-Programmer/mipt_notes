@@ -18,16 +18,17 @@ $$
 \hline
 \text{\textit{Независимые события}}& P(AB) = P(A) P(B) \\
 \hline
-\text{\textit{Независимость в совокупности}}& P\group{\bigcup{A_i}} = \prod{P(A_i)} \\
-\hline
 \text{\textit{Независимость в совокупности}}&
-P\group{\bigcup{A_i}} = \prod{P(A_i)} \\
+P\group{\bigcup{A_i}} = \prod{P(A_i)}
+\\ \hline
+\new
+\\ \hline
+\text{\textit{Метрика}} &
+\rho(A,B) \defeq P(A \xor B)
+\\ \hline
+\text{\textit{Математическое ожидание}}&
+E \xi \defeq \int_{\Omega}{\xi(\omega) P(\d \omega)}\\
 \hline
-\text{\textit{Математическое ожидание}}: E \xi &
-\int_{\Omega}{\xi(\omega) P(\d \omega)}\\
-\hline
-\hline
-\text{\textit{Метрика}}: E \xi &
 \hline
 \hline
 ЗБЧ & \ol{\mathring{\xi_n}} = \frac{1}{n} \sum\group{\xi_n - E \xi_n} \to 0, \quad n \to \infty \\
