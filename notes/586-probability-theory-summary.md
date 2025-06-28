@@ -33,8 +33,10 @@ P\group{\bigcup{A_i}} = \prod{P(A_i)}
 &
 \rho(A,B) \defeq P(A \xor B)
 \\ \hline
-.
-\\ \hline
+\text{\textit{Случайная величина}}
+&
+\text{\textit{борелевская ф-ия: }}
+\xi
 \\ \hline
 \text{\textit{Математическое ожидание}}
 &
