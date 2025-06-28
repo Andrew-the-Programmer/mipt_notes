@@ -701,13 +701,27 @@ $$
 $$
 Exp(\lambda) \defeq Gamma(1, \lambda)
 $$
+
 $$
 \Gather{
 f \groupr{Exp(\lambda)}(x) = \lambda e^{-\lambda x} \\
 F \groupr{Exp(\lambda)}(x) = 1 - e^{-\lambda x} \\
+}
+$$
+
+$$
+\Gather{
 E\groupr{Exp(\lambda)} = \frac{1}{\lambda} \\
 D\groupr{Exp(\lambda)} = \frac{1}{\lambda^2}
 }
+$$
+
+$$
+Exp(\frac{1}{2}) = \chi^2(2)
+$$
+
+$$
+\min\group{Exp(\lambda_i)} = Exp\group{\sum{\lambda_i}}
 $$
 
 ## Коши $\mcK$
