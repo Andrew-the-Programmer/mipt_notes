@@ -103,7 +103,11 @@ D_\xi = \sigma^2 = E \groupr{\group{\xi - E \xi}^2}
 \\ \hline
 \text{\textit{Нормальный случайный вектор}}
 &
-N(\vec{m}, R) = \frac{1}{(2 \pi)^{\frac{n}{2}} \sqrt{\det R}}
+N(\vec{m}, R) = \frac{1}{(2 \pi)^{\frac{n}{2}} \sqrt{\det R}} \exp{-\frac{1}{2} (x - m)^T R\inv (x - m)}
+\\ \hline
+\text{\textit{Условное математическое ожидание}}
+&
+E \groupr{X \mid Y = y} \defeq \int_{\RR}{x \d F_{X \mid Y}(x \mid y)}
 \\ \hline
 \\ \hline
 \text{\textit{Закон больших чисел (ЗБЧ)}}
