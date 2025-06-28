@@ -12,73 +12,45 @@ tags: []
 $$
 \Array{|l|l|}{
 \hline
-\text{\textit{Вероятностное пространство}}&
+\text{\textit{Вероятностное пространство}}
+&
 \set{\Omega, \mcF, P}
 \\ \hline
 \text{\textit{Условная вероятность}}
 &
 P(A \mid B) \defeq \frac{P(AB)}{P(B)}
 \\ \hline
-\text{\textit{Независимые события}}& P(AB) = P(A) P(B) \\
-\hline
-\text{\textit{Независимость в совокупности}}&
+\text{\textit{Независимые события}}
+&
+P(AB) = P(A) P(B)
+\\ \hline
+\text{\textit{Независимость в совокупности}}
+&
 P\group{\bigcup{A_i}} = \prod{P(A_i)}
 \\ \hline
-\new
 \\ \hline
-\text{\textit{Метрика}} &
+\text{\textit{Метрика}}
+&
 \rho(A,B) \defeq P(A \xor B)
 \\ \hline
-\text{\textit{Математическое ожидание}}&
+\\ \hline
+\text{\textit{Математическое ожидание}}
+&
 E \xi \defeq \int_{\Omega}{\xi(\omega) P(\d \omega)}\\
+\\ \hline
+\text{\textit{Закон больших чисел (ЗБЧ)}}
+&
+\ol{\mathring{\xi_n}} = \frac{1}{n} \sum\group{\xi_n - E \xi_n} \xra{p} 0, \quad n \to \infty \\
 \hline
-\hline
-\hline
-ЗБЧ & \ol{\mathring{\xi_n}} = \frac{1}{n} \sum\group{\xi_n - E \xi_n} \to 0, \quad n \to \infty \\
-\hline
-\text{\textit{Дисперсия}}: D_\xi = \sigma^2 & E \groupr{\group{\xi - E \xi}^2} \\
+\text{\textit{Дисперсия}}
+&
+D_\xi = \sigma^2 = E \groupr{\group{\xi - E \xi}^2} \\
 \hline
 \text{\textit{Закон больших чисел (ЗБЧ)}}& \ol{\xi_n} - E \xi \xra{p} 0, \quad n \to \infty \\
 \hline
-\text{\textit{Усиленный закон больших чисел (УЗБЧ)}}& \exists \set{a_n}: \ol{\xi_n} - a_n \xra{п.н.} 0, \quad n \to \infty \\
-\hline
-}
-$$
-
-$$
-\Array{|l|l|}{
-\hline
-\text{\textit{Вероятностное пространство}}
+\text{\textit{Усиленный закон больших чисел (УЗБЧ)}}
 &
-\set{\Omega, \mcF, P}
-\\ \hline
-\text{\textit{Условная вероятность}} &
-P(A \mid B) \defeq \frac{P(AB)}{P(B)}
-\\ \hline
-\text{\textit{Независимые события}} &
-P(AB) = P(A) P(B)
-\\ \hline
-\text{\textit{Независимость в совокупности}} &
-P\group{\bigcup{A_i}} = \prod{P(A_i)}
-\\ \hline
-\\ \hline
-\text{\textit{Метрика}} &
-\rho(A,B) \defeq P(A \xor B)
-\\ \hline
-\\ \hline
-\text{\textit{Математическое ожидание}} &
-E \xi \defeq \int_{\Omega} \xi(\omega) P(\d \omega)
-\\ \hline
-\text{\textit{Закон больших чисел (ЗБЧ)}} &
-\ol{\mathring{\xi_n}} = \frac{1}{n} \sum_{i=1}^n (\xi_i - E \xi_i) \to 0, \quad n \to \infty
-\\ \hline
-\text{\textit{Дисперсия}}: D_\xi = \sigma^2 & E \bigl{(} (\xi - E \xi)^2 \bigr{)}
-\\ \hline
-\text{\textit{Закон больших чисел (ЗБЧ)}} &
-\ol{\xi_n} - E \xi \xrightarrow{p} 0, \quad n \to \infty
-\\ \hline
-\text{\textit{Усиленный закон больших чисел (УЗБЧ)}} &
-\exists \{a_n\} : \ol{\xi_n} - a_n \xrightarrow{\text{п.н.}} 0, \quad n \to \infty
+\exists \set{a_n}: \ol{\xi_n} - a_n \xra{п.н.} 0, \quad n \to \infty
 \\ \hline
 }
 $$
