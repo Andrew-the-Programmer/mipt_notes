@@ -72,7 +72,16 @@ B \subset \bigcup{A_n}
 P(A_k \mid B) = \frac{P(B \mid A_k) P(A_k)}{\sum{P(A_k) P(B \mid A_k)}}
 \\ \hline
 \\ \hline
-\text{\textit{}}Закон 0 и 1 Колмогорова
+\text{\textit{Закон 0 и 1 Колмогорова}}
+&
+\CasesR{
+\set{X_n} \dash \text{\textit{НСВ}} \\
+\mcF_n \defeq X_n\inv(\mcB) \\
+\mcF_{\infty} \defeq \sigma_{min}\group{\bigcap_{m \in \NN}{\bigcup_{n \ge m}{\mcF_n}}}
+}
+\implies
+\\ \hline
+\makecell{a \\ b}
 \\ \hline
 }
 $$
