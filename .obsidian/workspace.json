@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/687-mipt-probability-theory-seminar-16-05-25.md",
+                "file": "notes/1731058439-формула-Найквиста.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "687-mipt-probability-theory-seminar-16-05-25"
+              "title": "1731058439-формула-Найквиста"
             }
           },
           {
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Сходим",
+                "query": "дробово",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -219,14 +219,18 @@
   },
   "active": "ad6a3be8240246f6",
   "lastOpenFiles": [
+    "notes/586-probability-theory-summary.md~",
+    "notes/1731059222-тепловой-шум.md",
+    "notes/1731059181-шумы-в-электрических-цепях.md",
+    "notes/1731059255-дробовой-шум.md",
+    "notes/1731059153-mipt-physics-lecture-08-11-24.md",
+    "notes/687-mipt-probability-theory-seminar-16-05-25.md",
     "courses/MIPT-probability-theory-2025.md",
     "notes/930-mipt-probability-theory-lecture-28-03-25.md",
     "notes/987-mipt-probability-theory-lecture-04-04-25.md",
     "notes/670-mipt-probability-theory-lecture-21-03-25.md",
     "notes/884-mipt-probability-theory-seminar-08-05-25.md",
-    "notes/687-mipt-probability-theory-seminar-16-05-25.md",
     "notes/586-probability-theory-summary.md",
-    "notes/586-probability-theory-summary.md~",
     "notes/4913",
     "notes/1729009854-простейшие-типы-ду-1-го-порядка.md",
     "notes/1729005700-задача-Коши.md",
@@ -242,11 +246,6 @@
     "notes/1728917820-счетно-аддитивная-мера.md",
     "notes/1728917539-конечно-аддитивная-мера.md",
     "notes/1728910722-мера-на-полукольце.md",
-    "notes/1728840113-полукольцо.md",
-    "notes/1728837986-метрика.md",
-    "notes/1728837879-метрическое-пространство.md",
-    "notes/1728837785-борелевская-sigma-алгебра.md",
-    "notes/1728833822-sigma-алгебра.md",
     "preamble.sty~",
     "4913",
     "courses/MIPT-probability-theory-2025.md~",
