@@ -46,6 +46,10 @@ P\group{\bigcup{A_i}} = \prod{P(A_i)}
 &
 F_\xi(x) \defeq P(\xi < x)
 \\ \hline
+\text{\textit{Функция плотности распределения}}
+&
+f_\xi(x) \defeq \dv{x}{F_\xi}(x)
+\\ \hline
 \\ \hline
 \text{\textit{Математическое ожидание}}
 &
@@ -663,6 +667,16 @@ $$
 Poiss(\lambda) \to \mcN(\lambda, \lambda), \quad \lambda \to \infty
 $$
 
+## Равномерное $U(a,b)$
+
+$$
+\varphi_{U(a,b)}(t) = \frac{e^{itb} - e^{ita}}{it(b-a)}
+$$
+
+$$
+\varphi_{U(-1,1)}(t) = \frac{\sin t}{t}
+$$
+
 ## Нормальное $\mcN(m, \sigma^2)$
 
 $$
@@ -676,14 +690,24 @@ $$
 \varphi\groupr{\mcN(m, \sigma^2)}(t) = e^{itm} e^{-\frac{t^2 \sigma^2}{2}}
 $$
 
-## Равномерное $U(a,b)$
+## Гамма-распределение $\Gamma(\alpha, \lambda)$
 
 $$
-\varphi_{U(a,b)}(t) = \frac{e^{itb} - e^{ita}}{it(b-a)}
+f \groupr{\Gamma(\alpha, \lambda)}(x) = \frac{\lambda^\alpha}{\Gamma(\alpha)} x^{\alpha - 1} e^{-\lambda x}
 $$
 
+## Показательное $Exp(\lambda)$
+
 $$
-\varphi_{U(-1,1)}(t) = \frac{\sin t}{t}
+Exp(\lambda) \defeq Gamma(1, \lambda)
+$$
+$$
+\Gather{
+f \groupr{Exp(\lambda)}(x) = \lambda e^{-\lambda x} \\
+F \groupr{Exp(\lambda)}(x) = 1 - e^{-\lambda x} \\
+E\groupr{Exp(\lambda)} = \frac{1}{\lambda} \\
+D\groupr{Exp(\lambda)} = \frac{1}{\lambda^2}
+}
 $$
 
 ## Коши $\mcK$
