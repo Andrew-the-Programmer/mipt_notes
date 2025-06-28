@@ -53,7 +53,21 @@ f_\xi(x) \defeq \dv{x}{F_\xi}(x)
 \\ \hline
 \text{\textit{Смеси распределений}}
 &
-F_{mix}(x) = \s_{um}{}
+\Align{
+p_i > 0 \\
+\sum{p_i} = 1 \\
+F_{mix}(x) \defeq \sum{p_i F_{\xi_i}(x)}
+}
+\\ \hline
+\text{\textit{Случайный вектор}}
+&
+\Align{
+\set{\xi_i} \dash СВ \\
+% \vec{\xi} : \Omega \to \RR^n \\
+\vec{\xi} = \Matrix{
+\xi_1 \\ \vdots \\ \xi_n
+}
+}
 \\ \hline
 \\ \hline
 \text{\textit{Математическое ожидание}}
