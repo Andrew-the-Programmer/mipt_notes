@@ -72,7 +72,10 @@ B \subset \bigcup{A_n}
 P(A_k \mid B) = \frac{P(B \mid A_k) P(A_k)}{\sum{P(A_k) P(B \mid A_k)}}
 \\ \hline
 \\ \hline
-\text{\textit{Закон 0 и 1 Колмогорова}}
+\Array{l}{
+\text{\textit{Закон 0 и 1 Колмогорова}}\\
+\text{\textit{(из википедии)}}
+}
 &
 \CasesR{
 \set{X_n} \dash \text{\textit{НСВ}} \\
@@ -80,8 +83,22 @@ P(A_k \mid B) = \frac{P(B \mid A_k) P(A_k)}{\sum{P(A_k) P(B \mid A_k)}}
 \mcF_{\infty} \defeq \sigma_{min}\group{\bigcap_{m \in \NN}{\bigcup_{n \ge m}{\mcF_n}}}
 }
 \implies
+P(A) = \Cases{
+0 \\ 1
+}, \quad \forall A \in \mcF_{\infty}
 \\ \hline
-\makecell{a \\ b}
+\Array{l}{
+\text{\textit{Лемма Бореля-Кантелли}}
+}
+&
+\CasesR{
+\set{A_n}_{n \in \NN}
+B \defeq \bigcap_{m \in \NN}{\bigcup_{n \ge m}{A_k}}
+}
+\implies
+P(A) = \Cases{
+0 \\ 1
+}, \quad \forall A \in \mcF_{\infty}
 \\ \hline
 }
 $$
