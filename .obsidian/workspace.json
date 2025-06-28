@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/884-mipt-probability-theory-seminar-08-05-25.md",
+                "file": "notes/550-тервер-для-задач.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "884-mipt-probability-theory-seminar-08-05-25"
+              "title": "550-тервер-для-задач"
             }
           },
           {
@@ -219,12 +219,15 @@
   },
   "active": "ad6a3be8240246f6",
   "lastOpenFiles": [
+    "notes/550-тервер-для-задач.md~",
+    "notes/4913",
     "courses/MIPT-probability-theory-2025.md",
+    "notes/687-mipt-probability-theory-seminar-16-05-25.md",
+    "notes/884-mipt-probability-theory-seminar-08-05-25.md",
     "notes/648-mipt-probability-theory-seminar-11-04-25.md",
     "notes/299-mipt-probability-theory-seminar-28-03-25.md",
     "notes/589-неравенство-Маркова-Чебышева.md",
     "notes/550-тервер-для-задач.md",
-    "notes/550-тервер-для-задач.md~",
     "notes/886-mipt-probability-theory-seminar-04-04-25.md",
     "notes/299-mipt-probability-theory-seminar-28-03-25.md~",
     "courses/MIPT-probability-theory-2025.md~",
@@ -232,17 +235,14 @@
     "preamble.sty~",
     "notes/586-probability-theory-summary.md~",
     "notes/586-probability-theory-summary.md",
-    "notes/4913",
     "notes/1731058439-формула-Найквиста.md",
     "notes/1731059222-тепловой-шум.md",
     "notes/1731059181-шумы-в-электрических-цепях.md",
     "notes/1731059255-дробовой-шум.md",
     "notes/1731059153-mipt-physics-lecture-08-11-24.md",
-    "notes/687-mipt-probability-theory-seminar-16-05-25.md",
     "notes/930-mipt-probability-theory-lecture-28-03-25.md",
     "notes/987-mipt-probability-theory-lecture-04-04-25.md",
     "notes/670-mipt-probability-theory-lecture-21-03-25.md",
-    "notes/884-mipt-probability-theory-seminar-08-05-25.md",
     "notes/1729009854-простейшие-типы-ду-1-го-порядка.md",
     "notes/1729005700-задача-Коши.md",
     "notes/1728989009-алгебре.md",
@@ -250,7 +250,6 @@
     "notes/1728984761-продолжение-меры-по-Каратеодори.md",
     "notes/1728926894-счетно-полуаддитивная-мера.md",
     "notes/1728924971-мера-Лебега.md",
-    "notes/1728924789-ячейка.md",
     "4913",
     "notes/930-mipt-probability-theory-lecture-28-03-25.md~",
     "notes/670-mipt-probability-theory-lecture-21-03-25.md~",
