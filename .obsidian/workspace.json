@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/1731058439-формула-Найквиста.md",
+                "file": "notes/586-probability-theory-summary.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1731058439-формула-Найквиста"
+              "title": "586-probability-theory-summary"
             }
           },
           {
@@ -220,6 +220,7 @@
   "active": "ad6a3be8240246f6",
   "lastOpenFiles": [
     "notes/586-probability-theory-summary.md~",
+    "notes/1731058439-формула-Найквиста.md",
     "notes/1731059222-тепловой-шум.md",
     "notes/1731059181-шумы-в-электрических-цепях.md",
     "notes/1731059255-дробовой-шум.md",
@@ -245,7 +246,6 @@
     "notes/1728918993-конечная-мера.md",
     "notes/1728917820-счетно-аддитивная-мера.md",
     "notes/1728917539-конечно-аддитивная-мера.md",
-    "notes/1728910722-мера-на-полукольце.md",
     "preamble.sty~",
     "4913",
     "courses/MIPT-probability-theory-2025.md~",
