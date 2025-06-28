@@ -33,6 +33,7 @@ P\group{\bigcup{A_i}} = \prod{P(A_i)}
 &
 \rho(A,B) \defeq P(A \xor B)
 \\ \hline
+.
 \\ \hline
 \\ \hline
 \text{\textit{Математическое ожидание}}
@@ -92,13 +93,19 @@ P(A) = \Cases{
 }
 &
 \CasesR{
-\set{A_n}_{n \in \NN}
+\set{A_n}_{n \in \NN} \subset \mcF \\
 B \defeq \bigcap_{m \in \NN}{\bigcup_{n \ge m}{A_k}}
 }
 \implies
-P(A) = \Cases{
+\sum{P(A_n)} = \Cases{
+\infty & \implies \\
+a < \infty & \implies
+} \CasesR{
 0 \\ 1
-}, \quad \forall A \in \mcF_{\infty}
+} = P(B)
+\\ \hline
+\\ \hline
+.
 \\ \hline
 }
 $$
