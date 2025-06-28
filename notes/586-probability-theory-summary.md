@@ -34,6 +34,7 @@ P\group{\bigcup{A_i}} = \prod{P(A_i)}
 \rho(A,B) \defeq P(A \xor B)
 \\ \hline
 \\ \hline
+\\ \hline
 \text{\textit{Математическое ожидание}}
 &
 E \xi \defeq \int_{\Omega}{\xi(\omega) P(\d \omega)}\\
@@ -51,6 +52,27 @@ D_\xi = \sigma^2 = E \groupr{\group{\xi - E \xi}^2} \\
 \text{\textit{Усиленный закон больших чисел (УЗБЧ)}}
 &
 \exists \set{a_n}: \ol{\xi_n} - a_n \xra{п.н.} 0, \quad n \to \infty
+\\ \hline
+}
+$$
+
+$$
+\Array{|l|l|}{
+\hline
+\text{\textit{Формула полной вероятности}}
+&
+B \subset \bigcup{A_n}
+\implies
+P(B) = \sum{P(A_n) P(B \mid A_n)}
+\\ \hline
+\text{\textit{Формула Байеса}}
+&
+B \subset \bigcup{A_n}
+\implies
+P(A_k \mid B) = \frac{P(B \mid A_k) P(A_k)}{\sum{P(A_k) P(B \mid A_k)}}
+\\ \hline
+\\ \hline
+\text{\textit{}}Закон 0 и 1 Колмогорова
 \\ \hline
 }
 $$
