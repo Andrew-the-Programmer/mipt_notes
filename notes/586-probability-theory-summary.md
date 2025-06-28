@@ -25,7 +25,6 @@ $$
 \text{\textit{Математическое ожидание}}: E \xi &
 \int_{\Omega}{\xi(\omega) P(\d \omega)}\\
 \hline
-a b \\
 \hline
 ЗБЧ & \ol{\mathring{\xi_n}} = \frac{1}{n} \sum\group{\xi_n - E \xi_n} \to 0, \quad n \to \infty \\
 \hline
@@ -39,6 +38,22 @@ a b \\
 $$
 
 # Формула полной вероятности
+
+$B \subset \bigcup{A_n}$
+
+$$
+P(B) = \sum{P(A_n) P(B \mid A_n)}
+$$
+
+# Формула Байеса
+
+$B \subset \bigcup{A_n}$
+
+$$
+P(A_k \mid B) = \frac{P(B \mid A_k) P(A_k)}{\sum{P(A_k) P(B \mid A_k)}}
+$$
+
+# Формула включений-исключений
 
 # Усиленный закон больших чисел (ЗБЧ)
 
