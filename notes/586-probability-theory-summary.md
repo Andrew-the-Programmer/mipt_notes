@@ -576,6 +576,10 @@ $$
 \groupr{\sum_{k = 1}^{n}{\int_{\abs{x} > \varepsilon}{x^2 \d F_{nk}(x)}}}
 \to 0, \quad n \to \infty
 $$
+$\implies$ 
+$$
+\sum{\eta_{nk}}
+$$
 
 # Теорема Линдберга-Леви
 
