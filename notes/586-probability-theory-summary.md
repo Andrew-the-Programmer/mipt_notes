@@ -690,10 +690,10 @@ $$
 \varphi\groupr{\mcN(m, \sigma^2)}(t) = e^{itm} e^{-\frac{t^2 \sigma^2}{2}}
 $$
 
-## Гамма-распределение $\Gamma(\alpha, \lambda)$
+## Гамма-распределение $Gamma(\alpha, \lambda)$
 
 $$
-f \groupr{\Gamma(\alpha, \lambda)}(x) = \frac{\lambda^\alpha}{\Gamma(\alpha)} x^{\alpha - 1} e^{-\lambda x}
+f \groupr{Gamma(\alpha, \lambda)}(x) = \frac{\lambda^\alpha}{\Gamma(\alpha)} x^{\alpha - 1} e^{-\lambda x}
 $$
 
 ## Показательное $Exp(\lambda)$
@@ -711,9 +711,14 @@ $$
 
 $$
 \Gather{
+E^{[k]}\groupr{Exp(\lambda)} = \frac{k!}{\lambda^k} \\
 E\groupr{Exp(\lambda)} = \frac{1}{\lambda} \\
 D\groupr{Exp(\lambda)} = \frac{1}{\lambda^2}
 }
+$$
+
+$$
+\varphi\groupr{Exp(\lambda)}(t) = \group{1 - \frac{it}{\lambda}}\inv
 $$
 
 $$
@@ -723,6 +728,14 @@ $$
 $$
 \min\group{Exp(\lambda_i)} = Exp\group{\sum{\lambda_i}}
 $$
+
+## Бета-распределение $Beta(\alpha, \beta)$
+
+$$
+f \groupr{Beta(\alpha, \beta)}(x) = \frac{\Gamma(\alpha + \beta)}{\Gamma(\alpha)\Gamma(\beta)} x^{\alpha - 1} (1 - x)^{\beta - 1}
+$$
+
+
 
 ## Коши $\mcK$
 
