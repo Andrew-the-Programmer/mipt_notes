@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/586-probability-theory-summary.md",
+                "file": "notes/550-тервер-для-задач.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "586-probability-theory-summary"
+              "title": "550-тервер-для-задач"
             }
           },
           {
@@ -219,10 +219,10 @@
   },
   "active": "ad6a3be8240246f6",
   "lastOpenFiles": [
-    "notes/550-тервер-для-задач.md",
-    "notes/586-probability-theory-summary.md~",
     "notes/550-тервер-для-задач.md~",
     "notes/586-probability-theory-summary.md",
+    "notes/586-probability-theory-summary.md~",
+    "notes/550-тервер-для-задач.md",
     "courses/MIPT-probability-theory-2025.md~",
     "notes/4913",
     "preamble.sty~",
