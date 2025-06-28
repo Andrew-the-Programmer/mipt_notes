@@ -12,10 +12,13 @@ tags: []
 $$
 \Array{|l|l|}{
 \hline
-\text{\textit{Вероятностное пространство}}& \set{\Omega, \mcF, P} \\
-\hline
-\text{\textit{Условная вероятность}}& P(A \mid B) \defeq \frac{P(AB)}{P(B)} \\
-\hline
+\text{\textit{Вероятностное пространство}}&
+\set{\Omega, \mcF, P}
+\\ \hline
+\text{\textit{Условная вероятность}}
+&
+P(A \mid B) \defeq \frac{P(AB)}{P(B)}
+\\ \hline
 \text{\textit{Независимые события}}& P(AB) = P(A) P(B) \\
 \hline
 \text{\textit{Независимость в совокупности}}&
