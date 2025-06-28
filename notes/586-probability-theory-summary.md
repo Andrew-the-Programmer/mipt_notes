@@ -18,8 +18,14 @@ $$
 \hline
 \text{\textit{Независимые события}}& P(AB) = P(A) P(B) \\
 \hline
+\text{\textit{Независимость в совокупности}}& P\group{\bigcup{A_i}} = \prod{P(A_i)} \\
+\hline
+\text{\textit{Независимость в совокупности}}& P\group{\bigcup{A_i}} = \prod{P(A_i)} \\
+\hline
 \text{\textit{Математическое ожидание}}: E \xi &
 \int_{\Omega}{\xi(\omega) P(\d \omega)}\\
+\hline
+a b \\
 \hline
 ЗБЧ & \ol{\mathring{\xi_n}} = \frac{1}{n} \sum\group{\xi_n - E \xi_n} \to 0, \quad n \to \infty \\
 \hline
@@ -31,6 +37,8 @@ $$
 \hline
 }
 $$
+
+# Формула полной вероятности
 
 # Усиленный закон больших чисел (ЗБЧ)
 
