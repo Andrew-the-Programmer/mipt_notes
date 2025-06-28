@@ -729,6 +729,13 @@ $$
 $$
 
 $$
+\Gather{
+E\groupr{U(a,b)} = \frac{a + b}{2} \\
+D\groupr{U(a,b)} = \frac{b - a}{12}
+}
+$$
+
+$$
 \varphi_{U(-1,1)}(t) = \frac{\sin t}{t}
 $$
 
