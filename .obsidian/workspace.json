@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/987-mipt-probability-theory-lecture-04-04-25.md",
+                "file": "notes/687-mipt-probability-theory-seminar-16-05-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "987-mipt-probability-theory-lecture-04-04-25"
+              "title": "687-mipt-probability-theory-seminar-16-05-25"
             }
           },
           {
@@ -221,6 +221,7 @@
   "lastOpenFiles": [
     "courses/MIPT-probability-theory-2025.md",
     "notes/930-mipt-probability-theory-lecture-28-03-25.md",
+    "notes/987-mipt-probability-theory-lecture-04-04-25.md",
     "notes/670-mipt-probability-theory-lecture-21-03-25.md",
     "notes/884-mipt-probability-theory-seminar-08-05-25.md",
     "notes/687-mipt-probability-theory-seminar-16-05-25.md",
@@ -246,7 +247,6 @@
     "notes/1728837879-метрическое-пространство.md",
     "notes/1728837785-борелевская-sigma-алгебра.md",
     "notes/1728833822-sigma-алгебра.md",
-    "notes/1728833627-единица-в-кольце.md",
     "preamble.sty~",
     "4913",
     "courses/MIPT-probability-theory-2025.md~",
