@@ -72,23 +72,31 @@ F_{mix}(x) \defeq \sum{p_i F_{\xi_i}(x)}
 \\ \hline
 \text{\textit{Условная функция распределения}}
 &
-F_\xi(x \mid A) \defeq P(\xi(\omega) < x \mid \omega \in A)
-\\ \hline
+\Align{
+F_\xi(x \mid A) \defeq P(\xi(\omega) < x \mid \omega \in A) \\
+F_{\xi \mid \eta}(x \mid y) \defeq P(\xi < x \mid \eta < y) \\
+f_{\xi \mid \eta}(x \mid y) \defeq \frac{f_{\xi \eta}(x,y)}{f_{\eta}(y)}
+}
 \\ \hline
 \text{\textit{Математическое ожидание}}
 &
 E \xi \defeq \int_{\Omega}{\xi(\omega) P(\d \omega)}\\
 \\ \hline
-\text{\textit{Закон больших чисел (ЗБЧ)}}
-&
-\ol{\mathring{\xi_n}} = \frac{1}{n} \sum\group{\xi_n - E \xi_n} \xra{p} 0, \quad n \to \infty \\
-\hline
 \text{\textit{Дисперсия}}
 &
-D_\xi = \sigma^2 = E \groupr{\group{\xi - E \xi}^2} \\
-\hline
-\text{\textit{Закон больших чисел (ЗБЧ)}}& \ol{\xi_n} - E \xi \xra{p} 0, \quad n \to \infty \\
-\hline
+D_\xi = \sigma^2 = E \groupr{\group{\xi - E \xi}^2}
+\\ \hline
+\text{\textit{Ковариация}}
+&
+\cov{\xi}{\eta} \defeq E \groupr{\mathring{\xi}\mathring{\eta}} = E\groupr{\xi \eta}
+\\ \hline
+\\ \hline
+\text{\textit{Закон больших чисел (ЗБЧ)}}
+&
+\ol{\mathring{\xi_n}} = \frac{1}{n} \sum\group{\xi_n - E \xi_n} \xra{p} 0, \quad n \to \infty
+\\ \hline
+\text{\textit{Закон больших чисел (ЗБЧ)}}& \ol{\xi_n} - E \xi \xra{p} 0, \quad n \to \infty
+\\ \hline
 \text{\textit{Усиленный закон больших чисел (УЗБЧ)}}
 &
 \exists \set{a_n}: \ol{\xi_n} - a_n \xra{п.н.} 0, \quad n \to \infty
