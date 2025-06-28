@@ -20,10 +20,14 @@ $$
 \hline
 \text{\textit{Независимость в совокупности}}& P\group{\bigcup{A_i}} = \prod{P(A_i)} \\
 \hline
-\text{\textit{Независимость в совокупности}}& P\group{\bigcup{A_i}} = \prod{P(A_i)} \\
+\text{\textit{Независимость в совокупности}}&
+P\group{\bigcup{A_i}} = \prod{P(A_i)} \\
 \hline
 \text{\textit{Математическое ожидание}}: E \xi &
 \int_{\Omega}{\xi(\omega) P(\d \omega)}\\
+\hline
+\hline
+\text{\textit{Метрика}}: E \xi &
 \hline
 \hline
 ЗБЧ & \ol{\mathring{\xi_n}} = \frac{1}{n} \sum\group{\xi_n - E \xi_n} \to 0, \quad n \to \infty \\
@@ -54,6 +58,10 @@ P(A_k \mid B) = \frac{P(B \mid A_k) P(A_k)}{\sum{P(A_k) P(B \mid A_k)}}
 $$
 
 # Формула включений-исключений
+
+$$
+P \group{\bigcup_{k = 1}^{n}{A_k}} = \sum_{k = 1}^{n}{(-1)^{k+1} \sum_{1 \le i_1 < \dots < i_k \le n}{P(A_{i_1} \cdot \ldots \cdot A_{i_k})}}
+$$
 
 # Усиленный закон больших чисел (ЗБЧ)
 
