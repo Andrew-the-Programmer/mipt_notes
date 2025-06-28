@@ -62,12 +62,17 @@ F_{mix}(x) \defeq \sum{p_i F_{\xi_i}(x)}
 \text{\textit{Случайный вектор}}
 &
 \Align{
-\set{\xi_i} \dash СВ \\
+\set{\xi_i} \dash СВ \implies
 % \vec{\xi} : \Omega \to \RR^n \\
-\vec{\xi} = \Matrix{
+\vec{\xi} \defeq \Matrix{
 \xi_1 \\ \vdots \\ \xi_n
 }
 }
+\\ \hline
+\\ \hline
+\text{\textit{Условная функция распределения}}
+&
+F_\xi(x \mid A) \defeq P(\xi(\omega) < x \mid \omega \in A)
 \\ \hline
 \\ \hline
 \text{\textit{Математическое ожидание}}
