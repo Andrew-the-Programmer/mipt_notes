@@ -97,7 +97,14 @@ D_\xi = \sigma^2 = E \groupr{\group{\xi - E \xi}^2}
 }
 \\ \hline
 \\ \hline
-.
+\text{\textit{Коэффициент корреляции}}
+&
+\rho(\xi, \eta) \defeq \frac{\cov{\xi}{\eta}}{\sqrt{D \xi D \eta}}
+\\ \hline
+\text{\textit{Нормальный случайный вектор}}
+&
+N(\vec{m}, R) = \frac{1}{(2 \pi)^{\frac{n}{2}} \sqrt{\det R}}
+\\ \hline
 \\ \hline
 \text{\textit{Закон больших чисел (ЗБЧ)}}
 &
