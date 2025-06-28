@@ -33,10 +33,19 @@ P\group{\bigcup{A_i}} = \prod{P(A_i)}
 &
 \rho(A,B) \defeq P(A \xor B)
 \\ \hline
+\\ \hline
 \text{\textit{Случайная величина}}
 &
 \text{\textit{борелевская ф-ия: }}
-\xi
+\Cases{
+\xi : \group{\Omega, \mcF} \to \group{\RR, \mcB(\RR)} \\
+\xi\inv(A \in \mcB) \in \mcF
+}
+\\ \hline
+\text{\textit{Функция распределения}}
+&
+F_\xi(x) \defeq P(\xi < x)
+\\ \hline
 \\ \hline
 \text{\textit{Математическое ожидание}}
 &
@@ -82,7 +91,7 @@ P(A_k \mid B) = \frac{P(B \mid A_k) P(A_k)}{\sum{P(A_k) P(B \mid A_k)}}
 &
 \CasesR{
 \set{X_n} \dash \text{\textit{НСВ}} \\
-\mcF_n \defeq X_n\inv(\mcB) \\
+\mcF_n \defeq \sigma_{min}\group{X_n\inv(\mcB)} \\
 \mcF_{\infty} \defeq \sigma_{min}\group{\bigcap_{m \in \NN}{\bigcup_{n \ge m}{\mcF_n}}}
 }
 \implies
