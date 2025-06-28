@@ -41,3 +41,4 @@ tags: []
 13. [[687-mipt-probability-theory-seminar-16-05-25|16-05-25]]
 
 [[586-probability-theory-summary|probability theory summary]]
+[[550-тервер-для-задач|тервер-для задач]]
