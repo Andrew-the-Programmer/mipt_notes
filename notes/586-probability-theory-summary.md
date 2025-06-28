@@ -88,8 +88,16 @@ D_\xi = \sigma^2 = E \groupr{\group{\xi - E \xi}^2}
 \\ \hline
 \text{\textit{Ковариация}}
 &
-\cov{\xi}{\eta} \defeq E \groupr{\mathring{\xi}\mathring{\eta}} = E\groupr{\xi \eta}
+\cov{\xi}{\eta} \defeq E \groupr{\mathring{\xi}\mathring{\eta}} = E\groupr{\xi \eta} - E \xi E \eta
 \\ \hline
+\text{\textit{Интеграл Лебега-Стилтьеса}}
+&
+\Align{
+\int_{a}^{b}{g(x) \d F(x)}
+}
+\\ \hline
+\\ \hline
+.
 \\ \hline
 \text{\textit{Закон больших чисел (ЗБЧ)}}
 &
