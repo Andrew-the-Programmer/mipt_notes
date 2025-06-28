@@ -113,14 +113,13 @@ N(\vec{m}, R) = \frac{1}{(2 \pi)^{\frac{n}{2}} \sqrt{\det R}} \exp{-\frac{1}{2} 
 \\ \hline
 \text{\textit{Характеристическая функция}}
 &
+E e^{it \xi}
 \\ \hline
 9
 \\ \hline
 \text{\textit{Закон больших чисел (ЗБЧ)}}
 &
 \ol{\mathring{\xi_n}} = \frac{1}{n} \sum\group{\xi_n - E \xi_n} \xra{p} 0, \quad n \to \infty
-\\ \hline
-\text{\textit{Закон больших чисел (ЗБЧ)}}& \ol{\xi_n} - E \xi \xra{p} 0, \quad n \to \infty
 \\ \hline
 \text{\textit{Усиленный закон больших чисел (УЗБЧ)}}
 &
@@ -175,9 +174,6 @@ a < \infty & \implies
 } \CasesR{
 0 \\ 1
 } = P(B)
-\\ \hline
-\\ \hline
-.
 \\ \hline
 }
 $$
@@ -328,7 +324,7 @@ E["п.н."]
 P["p"]
 D["d"]
 A --> B
-B -->|"$$r \ge 1$$"| P
+B --> P
 E --> P
 P --> D
 D -->|"$$X = const$$"| P
@@ -385,8 +381,6 @@ $$
 \eta_n \xra{p} c
 }\right\} \implies f(\xi_n, \eta_n) \xra{d} f(\xi, c)
 $$
-
-# Теоремы
 
 ## Lemma. Бореля-Кантелли
 
