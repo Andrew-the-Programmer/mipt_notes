@@ -69,6 +69,7 @@ F_{mix}(x) \defeq \sum{p_i F_{\xi_i}(x)}
 }
 }
 \\ \hline
+7
 \\ \hline
 \text{\textit{Условная функция распределения}}
 &
@@ -96,6 +97,7 @@ D_\xi = \sigma^2 = E \groupr{\group{\xi - E \xi}^2}
 \int_{a}^{b}{g(x) \d F(x)}
 }
 \\ \hline
+8
 \\ \hline
 \text{\textit{Коэффициент корреляции}}
 &
@@ -107,8 +109,12 @@ N(\vec{m}, R) = \frac{1}{(2 \pi)^{\frac{n}{2}} \sqrt{\det R}} \exp{-\frac{1}{2} 
 \\ \hline
 \text{\textit{Условное математическое ожидание}}
 &
-E \groupr{X \mid Y = y} \defeq \int_{\RR}{x \d F_{X \mid Y}(x \mid y)}
+см. конспект
 \\ \hline
+\text{\textit{Характеристическая функция}}
+&
+\\ \hline
+9
 \\ \hline
 \text{\textit{Закон больших чисел (ЗБЧ)}}
 &
