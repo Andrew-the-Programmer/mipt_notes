@@ -51,6 +51,11 @@ F_\xi(x) \defeq P(\xi < x)
 f_\xi(x) \defeq \dv{x}{F_\xi}(x)
 \\ \hline
 \\ \hline
+\text{\textit{Смеси распределений}}
+&
+F_{mix}(x) = \s_{um}{}
+\\ \hline
+\\ \hline
 \text{\textit{Математическое ожидание}}
 &
 E \xi \defeq \int_{\Omega}{\xi(\omega) P(\d \omega)}\\
@@ -735,12 +740,17 @@ $$
 f \groupr{Beta(\alpha, \beta)}(x) = \frac{\Gamma(\alpha + \beta)}{\Gamma(\alpha)\Gamma(\beta)} x^{\alpha - 1} (1 - x)^{\beta - 1}
 $$
 
+$$
+\Gather{
+E\groupr{Beta(\alpha, \beta)} = \frac{\alpha}{\alpha + \beta} \\
+D\groupr{Beta(\alpha, \beta)} = \frac{\alpha \beta}{(\alpha + \beta)^2 (\alpha + \beta + 1)}
+}
+$$
 
-
-## Коши $\mcK$
+## Коши $\mcK(a, \sigma)$
 
 $$
-K(m,\sigma^2) = \frac{1}{\pi \sigma \group{1 + \frac{(x - m)^2}{\sigma^2}}}
+f \groupr{\mcK(m,\sigma)}(x) = \frac{1}{\pi \sigma \group{1 + \frac{(x - m)^2}{\sigma^2}}}
 $$
 
 $$
