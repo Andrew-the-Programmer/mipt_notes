@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/550-тервер-для-задач.md",
+                "file": "notes/943-условная-вероятность.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "550-тервер-для-задач"
+              "title": "943-условная-вероятность"
             }
           },
           {
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "chi^2",
+                "query": "услов",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -218,6 +218,7 @@
   },
   "active": "ad6a3be8240246f6",
   "lastOpenFiles": [
+    "notes/249-независимые-события.md",
     "notes/550-тервер-для-задач.md",
     "notes/550-тервер-для-задач.md~",
     "notes/4913",
