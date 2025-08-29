@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/матан/Семинары.md",
+                "file": "notes/594-ядро-Дирихле.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Семинары"
+              "title": "594-ядро-Дирихле"
+            }
+          },
+          {
+            "id": "9d70a2850dac1bfe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/1730454310-ряд-Фурье-fourier-series.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1730454310-ряд-Фурье-fourier-series"
             }
           },
           {
@@ -80,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -112,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "услов",
+                "query": "ряд Фурье",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -133,7 +157,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -240,14 +265,17 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "1df96f78a9b4b7f4",
+  "active": "9d70a2850dac1bfe",
   "lastOpenFiles": [
+    "notes/594-ядро-Дирихле.md",
+    "матан/2.md",
+    "notes/582-l2-как-гильбертово-пространство.md",
+    "courses/матан/Семинары.md",
     "assets/imgs/Pasted image 20250829162805.png",
     "assets/imgs/Pasted image 20250829162731.png",
     "assets/imgs/Pasted image 20250829162720.png",
     "assets/imgs/db.png",
     "Ur_Memes_Sucks.png",
-    "courses/матан/Семинары.md",
     "assets/imgs/images/image10.png",
     "notes/943-условная-вероятность.md",
     "notes/249-независимые-события.md",
@@ -277,8 +305,6 @@
     "notes/670-mipt-probability-theory-lecture-21-03-25.md",
     "notes/1729009854-простейшие-типы-ду-1-го-порядка.md",
     "notes/1729005700-задача-Коши.md",
-    "notes/1728989009-алгебре.md",
-    "notes/1728985030-внешняя-мера-по-Каратеодори.md",
     "4913",
     "notes/930-mipt-probability-theory-lecture-28-03-25.md~",
     "notes/670-mipt-probability-theory-lecture-21-03-25.md~",
@@ -286,7 +312,6 @@
     "assets/imgs/1738743938.png",
     "assets/imgs/1738743930.png",
     "assets/imgs/14-05-25_16-40-11_272.png",
-    "assets/imgs/14-05-25_16-39-51_036.png",
-    "assets/imgs/14-05-25_16-36-11_650_IMG_20250514_163450.jpg"
+    "assets/imgs/14-05-25_16-39-51_036.png"
   ]
 }
