@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Семинары.md",
+                "file": "courses/матан/Семинары.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -242,8 +242,11 @@
   },
   "active": "1df96f78a9b4b7f4",
   "lastOpenFiles": [
+    "assets/imgs/db.png",
+    "Ur_Memes_Sucks.png",
+    "courses/матан/Семинары.md",
+    "assets/imgs/images/image10.png",
     "notes/943-условная-вероятность.md",
-    "Семинары.md",
     "notes/249-независимые-события.md",
     "notes/550-тервер-для-задач.md",
     "notes/550-тервер-для-задач.md~",
@@ -273,7 +276,6 @@
     "notes/1729005700-задача-Коши.md",
     "notes/1728989009-алгебре.md",
     "notes/1728985030-внешняя-мера-по-Каратеодори.md",
-    "notes/1728984761-продолжение-меры-по-Каратеодори.md",
     "4913",
     "notes/930-mipt-probability-theory-lecture-28-03-25.md~",
     "notes/670-mipt-probability-theory-lecture-21-03-25.md~",
@@ -285,8 +287,6 @@
     "assets/imgs/14-05-25_16-36-11_650_IMG_20250514_163450.jpg",
     "assets/imgs/14-05-25_16-34-19_783_IMG_20250514_163349.jpg",
     "assets/imgs/14-05-25_16-34-19_391_IMG_20250514_162432.jpg",
-    "assets/imgs/14-05-25_16-07-02_268.png",
-    "assets/imgs/14-05-25_16-06-45_512.png",
-    "assets/imgs/14-05-25_15-53-13_776.png"
+    "assets/imgs/14-05-25_16-07-02_268.png"
   ]
 }
