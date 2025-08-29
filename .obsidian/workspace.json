@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "1df96f78a9b4b7f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Семинары.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Семинары"
+            }
+          },
+          {
             "id": "80e632448e415836",
             "type": "leaf",
             "state": {
@@ -55,7 +79,8 @@
               "title": "586-probability-theory-summary"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,8 +133,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -216,8 +240,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "ad6a3be8240246f6",
+  "active": "1df96f78a9b4b7f4",
   "lastOpenFiles": [
+    "notes/943-условная-вероятность.md",
+    "Семинары.md",
     "notes/249-независимые-события.md",
     "notes/550-тервер-для-задач.md",
     "notes/550-тервер-для-задач.md~",
@@ -248,8 +274,6 @@
     "notes/1728989009-алгебре.md",
     "notes/1728985030-внешняя-мера-по-Каратеодори.md",
     "notes/1728984761-продолжение-меры-по-Каратеодори.md",
-    "notes/1728926894-счетно-полуаддитивная-мера.md",
-    "notes/1728924971-мера-Лебега.md",
     "4913",
     "notes/930-mipt-probability-theory-lecture-28-03-25.md~",
     "notes/670-mipt-probability-theory-lecture-21-03-25.md~",
