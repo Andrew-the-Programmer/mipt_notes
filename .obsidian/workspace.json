@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -265,8 +265,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "9d70a2850dac1bfe",
+  "active": "1df96f78a9b4b7f4",
   "lastOpenFiles": [
+    "notes/1730454310-ряд-Фурье-fourier-series.md",
     "notes/594-ядро-Дирихле.md",
     "матан/2.md",
     "notes/582-l2-как-гильбертово-пространство.md",
@@ -304,7 +305,6 @@
     "notes/987-mipt-probability-theory-lecture-04-04-25.md",
     "notes/670-mipt-probability-theory-lecture-21-03-25.md",
     "notes/1729009854-простейшие-типы-ду-1-го-порядка.md",
-    "notes/1729005700-задача-Коши.md",
     "4913",
     "notes/930-mipt-probability-theory-lecture-28-03-25.md~",
     "notes/670-mipt-probability-theory-lecture-21-03-25.md~",
