@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/594-ядро-Дирихле.md",
-                "mode": "source",
+                "file": "notes/505-mipt-harmonic-analysis-seminar-29-04-25.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "594-ядро-Дирихле"
+              "title": "505-mipt-harmonic-analysis-seminar-29-04-25"
             }
           },
           {
@@ -136,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ряд Фурье",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -157,8 +157,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -268,8 +267,9 @@
   },
   "active": "1df96f78a9b4b7f4",
   "lastOpenFiles": [
-    "notes/1730454310-ряд-Фурье-fourier-series.md",
+    "courses/MIPT-harmonic-analysis-2025.md",
     "notes/594-ядро-Дирихле.md",
+    "notes/1730454310-ряд-Фурье-fourier-series.md",
     "матан/2.md",
     "notes/582-l2-как-гильбертово-пространство.md",
     "courses/матан/Семинары.md",
@@ -305,7 +305,6 @@
     "notes/930-mipt-probability-theory-lecture-28-03-25.md",
     "notes/987-mipt-probability-theory-lecture-04-04-25.md",
     "notes/670-mipt-probability-theory-lecture-21-03-25.md",
-    "notes/1729009854-простейшие-типы-ду-1-го-порядка.md",
     "4913",
     "notes/930-mipt-probability-theory-lecture-28-03-25.md~",
     "notes/670-mipt-probability-theory-lecture-21-03-25.md~",
