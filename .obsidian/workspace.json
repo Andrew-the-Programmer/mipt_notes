@@ -161,7 +161,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.50694274902344
+    "width": 303.50694274902344,
+    "collapsed": true
   },
   "right": {
     "id": "118388a6ab5b8fbb",
@@ -267,6 +268,10 @@
   },
   "active": "1df96f78a9b4b7f4",
   "lastOpenFiles": [
+    "notes/416-5семестр-ТФКП-семинар1-Пыркова-03-09-25.md~",
+    "sourses/ТФКП/Shabunin-M-Sbornik-zadach-po-teorii-funktsii-kompleksnogo-peremennogo.pdf",
+    "sourses/ТФКП/Shabunin-M-Sbornik-zadach-po-teorii-funktsii-kompleksnogo-peremennogo.pdf.crdownload",
+    "sourses/ТФКП",
     "courses/MIPT-harmonic-analysis-2025.md",
     "notes/594-ядро-Дирихле.md",
     "notes/1730454310-ряд-Фурье-fourier-series.md",
@@ -304,11 +309,7 @@
     "notes/1731059153-mipt-physics-lecture-08-11-24.md",
     "notes/930-mipt-probability-theory-lecture-28-03-25.md",
     "notes/987-mipt-probability-theory-lecture-04-04-25.md",
-    "notes/670-mipt-probability-theory-lecture-21-03-25.md",
     "4913",
-    "notes/930-mipt-probability-theory-lecture-28-03-25.md~",
-    "notes/670-mipt-probability-theory-lecture-21-03-25.md~",
-    "notes/173-mipt-probability-theory-lecture-28-02-25.md~",
     "assets/imgs/1738743938.png",
     "assets/imgs/1738743930.png",
     "assets/imgs/14-05-25_16-40-11_272.png",
