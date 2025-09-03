@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/586-probability-theory-summary.md",
+                "file": "notes/298-5семестр-матстаты-семинар1-Черноусова-03-09-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "586-probability-theory-summary"
+              "title": "298-5семестр-матстаты-семинар1-Черноусова-03-09-25"
             }
           },
           {
@@ -268,12 +268,12 @@
   },
   "active": "1df96f78a9b4b7f4",
   "lastOpenFiles": [
-    "notes/687-mipt-probability-theory-seminar-16-05-25.md",
+    "notes/298-5семестр-матстаты-семинар1-Черноусова-03-09-25.md~",
     "courses/586-probability-theory-summary.md",
+    "notes/687-mipt-probability-theory-seminar-16-05-25.md",
     "notes/586-probability-theory-summary.md~",
     "notes/687-mipt-probability-theory-seminar-16-05-25.md~",
     "notes/298-5семестр-матстаты-семинар1-Черноусова-03-09-25.md",
-    "notes/298-5семестр-матстаты-семинар1-Черноусова-03-09-25.md~",
     "notes/586-probability-theory-summary.md",
     "courses/5семестр-матстаты-семинары-Черноусова-2025.md",
     "courses/5семестр-матстаты-семинары-Черноусова-2025.md~",
@@ -312,7 +312,6 @@
     "notes/625-mipt-probability-theory-lecture-18-04-25.md",
     "notes/1731058439-формула-Найквиста.md",
     "notes/1731059222-тепловой-шум.md",
-    "notes/1731059181-шумы-в-электрических-цепях.md",
-    "notes/1731059255-дробовой-шум.md"
+    "notes/1731059181-шумы-в-электрических-цепях.md"
   ]
 }
