@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/267-mipt-field-theory-lecture-30-04-25.md",
+                "file": "notes/608-mipt-field-theory-lecture-23-04-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "267-mipt-field-theory-lecture-30-04-25"
+              "title": "608-mipt-field-theory-lecture-23-04-25"
             }
           },
           {
@@ -268,8 +268,10 @@
   },
   "active": "1df96f78a9b4b7f4",
   "lastOpenFiles": [
-    "notes/618-mipt-field-theory-lecture-02-04-25.md",
     "courses/MIPT-field-theory-2025.md",
+    "notes/711-mipt-field-theory-lecture-07-05-25.md",
+    "notes/267-mipt-field-theory-lecture-30-04-25.md",
+    "notes/618-mipt-field-theory-lecture-02-04-25.md",
     "notes/698-mipt-field-theory-lecture-19-03-25.md",
     "notes/896-mipt-field-theory-lecture-12-03-25.md",
     "notes/551-mipt-field-theory-lecture-05-03-25.md",
@@ -311,8 +313,6 @@
     "notes/943-условная-вероятность.md",
     "notes/249-независимые-события.md",
     "notes/550-тервер-для-задач.md",
-    "notes/550-тервер-для-задач.md~",
-    "courses/MIPT-probability-theory-2025.md",
-    "notes/884-mipt-probability-theory-seminar-08-05-25.md"
+    "notes/550-тервер-для-задач.md~"
   ]
 }
