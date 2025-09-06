@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/551-mipt-field-theory-lecture-05-03-25.md",
+                "file": "notes/896-mipt-field-theory-lecture-12-03-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "551-mipt-field-theory-lecture-05-03-25"
+              "title": "896-mipt-field-theory-lecture-12-03-25"
             }
           },
           {
@@ -136,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "метрический тенз",
+                "query": "лагранжиан",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -268,13 +268,13 @@
   },
   "active": "1df96f78a9b4b7f4",
   "lastOpenFiles": [
+    "notes/551-mipt-field-theory-lecture-05-03-25.md",
     "courses/MIPT-field-theory-2025.md",
     "notes/258-mipt-field-theory-lecture-19-02-25.md",
     "notes/686-тензор.md",
     "notes/896-mipt-field-theory-lecture-12-03-25.md",
     "notes/768-прецессия-Томаса.md",
     "notes/230-mipt-field-theory-seminar-19-02-25.md",
-    "notes/551-mipt-field-theory-lecture-05-03-25.md",
     "notes/298-5семестр-матстаты-семинар1-Черноусова-03-09-25.md~",
     "courses/586-probability-theory-summary.md",
     "notes/687-mipt-probability-theory-seminar-16-05-25.md",
