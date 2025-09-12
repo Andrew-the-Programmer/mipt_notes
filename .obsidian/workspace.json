@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/686-тензор.md",
+                "file": "notes/856-символ-Леви-Чивиты.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "686-тензор"
+              "title": "856-символ-Леви-Чивиты"
             }
           }
         ]
@@ -196,11 +196,11 @@
   },
   "active": "f429bec36d6e94db",
   "lastOpenFiles": [
+    "notes/686-тензор.md",
     "notes/962-mipt-field-theory-lecture-09-04-25.md",
     "notes/856-символ-Леви-Чивиты.md",
     "courses/MIPT-field-theory-2025.md",
     "notes/258-mipt-field-theory-lecture-19-02-25.md",
-    "notes/686-тензор.md",
     "notes/230-mipt-field-theory-seminar-19-02-25.md",
     "notes/768-прецессия-Томаса.md",
     "notes/618-mipt-field-theory-lecture-02-04-25.md",
