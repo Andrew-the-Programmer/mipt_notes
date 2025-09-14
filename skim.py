@@ -3,12 +3,8 @@ from pathlib import Path
 from shutil import copy
 
 
-def find_link_file(link: str) -> Path:
-    path = Path(link)
-    if path.suffix:
-        return Path("assets/imgs") / path
-    else:
-        return Path(f"notes/{link}.md")
+def find_link_file(link: Path, root: Path) -> Path:
+
 
 
 def detect_links(file: Path) -> list[Path]:
