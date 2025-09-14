@@ -4,10 +4,8 @@ from shutil import copy
 
 
 def find_link_file(link: Path, root: Path) -> Path:
-    for f in root.rglob("*"):
-        print(f)
-        if f.name == link:
-            return f
+    for f in root.rglob(f"*{link}*"):
+        return f
     raise Exception(f"File {link} not found")
 
 
@@ -32,6 +30,8 @@ def detect_links(file: Path, root: Path) -> list[Path]:
             )
     return new_links
 
+def reduce_path():
+    
 
 def main() -> None:
     src_vault = Path().home() / "my/mipt/mipt_notes"
@@ -49,6 +49,7 @@ def main() -> None:
         query.extend(new_links)
 
     for link in links:
+        link.__delattr__
         src = src_vault / link
         dst = dst_vault / link
         (dst.parent).mkdir(parents=True, exist_ok=True)
