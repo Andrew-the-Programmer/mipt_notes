@@ -4,8 +4,11 @@ from shutil import copy
 
 
 def find_link_file(link: Path, root: Path) -> Path:
-    for f in root.rglob(link):
-        return f
+    for f in root.rglob("*"):
+        print(f)
+        if f.name == link:
+            return f
+    raise Exception(f"File {link} not found")
 
 
 def detect_links(file: Path, root: Path) -> list[Path]:
@@ -18,6 +21,7 @@ def detect_links(file: Path, root: Path) -> list[Path]:
         pattern_md,
     ]
     new_links = []
+    print(file)
     if file.suffix != ".md":
         return new_links
     with file.open("r") as f:
@@ -30,8 +34,8 @@ def detect_links(file: Path, root: Path) -> list[Path]:
 
 
 def main() -> None:
-    src_vault = Path("~/my/mipt/mipt_notes")
-    dst_vault = Path("~/my/mipt/MIPT-notes-5")
+    src_vault = Path().home() / "my/mipt/mipt_notes"
+    dst_vault = Path().home() / "my/mipt/MIPT-notes-test"
     root_note = src_vault / "courses" / "5семестр-ТФКП-семинары-Пыркова-2025.md"
     links: list[Path] = []
     query: list[Path] = []
@@ -40,14 +44,15 @@ def main() -> None:
     while query:
         cur_note = query.pop()
         print(cur_note)
-        new_links = detect_links(cur_note)
+        new_links = detect_links(cur_note, src_vault)
         links.extend(new_links)
         query.extend(new_links)
 
     for link in links:
-        target = dst_vault / link
-        (target.parent).mkdir(parents=True, exist_ok=True)
-        copy(link, root_dir / link)
+        src = src_vault / link
+        dst = dst_vault / link
+        (dst.parent).mkdir(parents=True, exist_ok=True)
+        copy(src, dst)
 
 
 if __name__ == "__main__":
