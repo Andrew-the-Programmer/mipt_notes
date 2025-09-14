@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/604-mipt-differential-equations-seminar-23-04-25.md",
+                "file": "notes/416-5семестр-ТФКП-семинар1-Пыркова-03-09-25.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "604-mipt-differential-equations-seminar-23-04-25"
+              "title": "416-5семестр-ТФКП-семинар1-Пыркова-03-09-25"
             }
           },
           {
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/604-mipt-differential-equations-seminar-23-04-25.md",
+                "file": "notes/416-5семестр-ТФКП-семинар1-Пыркова-03-09-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 604-mipt-differential-equations-seminar-23-04-25"
+              "title": "Backlinks for 416-5семестр-ТФКП-семинар1-Пыркова-03-09-25"
             }
           },
           {
@@ -204,9 +204,11 @@
   },
   "active": "f429bec36d6e94db",
   "lastOpenFiles": [
+    "courses/5семестр-ТФКП-семинары-Пыркова-2025.md",
+    "notes/416-5семестр-ТФКП-семинар1-Пыркова-03-09-25.md",
+    "notes/604-mipt-differential-equations-seminar-23-04-25.md",
     "skim.py~",
     "23-04-25_16-13-27_606_IMG_20250423_155710.md",
-    "notes/604-mipt-differential-equations-seminar-23-04-25.md",
     "assets/imgs/23-04-25_16-13-27_606_IMG_20250423_155710.jpg",
     "assets/imgs/23-04-25_16-13-27_888_IMG_20250423_155718.jpg",
     "assets/imgs/1739949160.png",
@@ -239,7 +241,6 @@
     "notes/896-mipt-field-theory-lecture-12-03-25.md",
     "notes/551-mipt-field-theory-lecture-05-03-25.md",
     "notes/725-mipt-field-theory-lecture-26-02-25.md",
-    "notes/328-mipt-field-theory-lecture-12-02-25.md",
     "notes/298-5семестр-матстаты-семинар1-Черноусова-03-09-25.md~",
     "notes/586-probability-theory-summary.md~",
     "notes/687-mipt-probability-theory-seminar-16-05-25.md~",
