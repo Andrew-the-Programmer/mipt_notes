@@ -12,7 +12,9 @@ def find_link_file(link: str) -> Path:
 
 
 def detect_links(file: Path) -> list[Path]:
+    # ![[f]]
     pattern_wiki = r"\[\[([^|\]]+)(?:\|[^]]+)?\]\]"
+    # ![name](assets/imgs/f.png)
     pattern_md = r"\[.*\]\((.+)\)"
     new_links = []
     if file.suffix != ".md":

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/698-mipt-field-theory-lecture-19-03-25.md",
+                "file": "notes/604-mipt-differential-equations-seminar-23-04-25.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,19 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "698-mipt-field-theory-lecture-19-03-25"
+              "title": "604-mipt-differential-equations-seminar-23-04-25"
+            }
+          },
+          {
+            "id": "0d1f25ed3fdcc072",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "assets/imgs/23-04-25_16-13-27_606_IMG_20250423_155710.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "23-04-25_16-13-27_606_IMG_20250423_155710"
             }
           }
         ]
@@ -84,8 +96,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -105,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/1738654869-интегрируемая-по-лебегу-функция.md",
+                "file": "notes/604-mipt-differential-equations-seminar-23-04-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +126,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1738654869-интегрируемая-по-лебегу-функция"
+              "title": "Backlinks for 604-mipt-differential-equations-seminar-23-04-25"
             }
           },
           {
@@ -172,13 +183,11 @@
               "title": "Plugin no longer active"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,6 +204,30 @@
   },
   "active": "f429bec36d6e94db",
   "lastOpenFiles": [
+    "23-04-25_16-13-27_606_IMG_20250423_155710.md",
+    "notes/604-mipt-differential-equations-seminar-23-04-25.md",
+    "assets/imgs/23-04-25_16-13-27_606_IMG_20250423_155710.jpg",
+    "assets/imgs/23-04-25_16-13-27_888_IMG_20250423_155718.jpg",
+    "assets/imgs/1739949160.png",
+    "assets/imgs/1740562744.png",
+    "assets/imgs/IMG_20250221_123435-1740825830890.png",
+    "courses/матан/Семинары.md",
+    "skim.py~",
+    "assets/imgs/Pasted image 20250829162805.png",
+    "assets/imgs/phi-7865748978.png",
+    "courses/MIPT.md",
+    "assets/imgs/23-04-25_10-40-22_136_IMG_20250423_091751.jpg",
+    "assets/imgs/21-03-25_18-02-23_138_IMG_20250321_175825.jpg",
+    "assets/imgs/21-03-25_13-10-41_922_IMG_20250321_123342.jpg",
+    "notes/380-mipt-harmonic-analysis-lecture-03-04-25.md",
+    "notes/471-mipt-differential-equations-seminar-02-04-25.md",
+    "notes/618-mipt-field-theory-lecture-02-04-25.md",
+    "notes/1738649083-функция-ограниченной-вариации.md",
+    "notes/676-mipt-harmonic-analysis-lecture-06-02-25.md",
+    "notes/1738651715-абсолютно-непрерывная-функция.md",
+    "notes/1738753790-mipt-harmonic-analysis-seminar-04-02-25.md",
+    "courses/MIPT-harmonic-analysis-2025.md",
+    "notes/698-mipt-field-theory-lecture-19-03-25.md",
     "courses/MIPT-field-theory-2025.md",
     "notes/856-символ-Леви-Чивиты.md",
     "notes/962-mipt-field-theory-lecture-09-04-25.md",
@@ -203,43 +236,19 @@
     "notes/258-mipt-field-theory-lecture-19-02-25.md",
     "notes/230-mipt-field-theory-seminar-19-02-25.md",
     "notes/768-прецессия-Томаса.md",
-    "notes/618-mipt-field-theory-lecture-02-04-25.md",
-    "notes/698-mipt-field-theory-lecture-19-03-25.md",
     "notes/896-mipt-field-theory-lecture-12-03-25.md",
     "notes/551-mipt-field-theory-lecture-05-03-25.md",
     "notes/725-mipt-field-theory-lecture-26-02-25.md",
     "notes/328-mipt-field-theory-lecture-12-02-25.md",
     "notes/737-преобразования-Лорентца.md",
-    "notes/1738738971-пространство-время-Минковского.md",
-    "notes/1738735357-mipt-field-theory-lecture-05-02-25.md",
-    "notes/608-mipt-field-theory-lecture-23-04-25.md",
-    "notes/711-mipt-field-theory-lecture-07-05-25.md",
-    "notes/267-mipt-field-theory-lecture-30-04-25.md",
     "notes/298-5семестр-матстаты-семинар1-Черноусова-03-09-25.md~",
-    "courses/586-probability-theory-summary.md",
-    "notes/687-mipt-probability-theory-seminar-16-05-25.md",
     "notes/586-probability-theory-summary.md~",
     "notes/687-mipt-probability-theory-seminar-16-05-25.md~",
-    "notes/298-5семестр-матстаты-семинар1-Черноусова-03-09-25.md",
-    "notes/586-probability-theory-summary.md",
-    "courses/5семестр-матстаты-семинары-Черноусова-2025.md",
     "courses/5семестр-матстаты-семинары-Черноусова-2025.md~",
-    "notes/416-5семестр-ТФКП-семинар1-Пыркова-03-09-25.md",
     "courses/5семестр-ТФКП-семинары-Пыркова-2025.md~",
     "notes/416-5семестр-ТФКП-семинар1-Пыркова-03-09-25.md~",
-    "assets/imgs/03-09-25_15-17-51_656.png",
-    "assets/imgs/03-09-25_14-44-08_822.png",
-    "assets/imgs/03-09-25_14-35-45_169_IMG_20250903_142443.jpg",
-    "assets/imgs/03-09-25_14-35-45_265_IMG_20250903_142439.jpg",
-    "assets/imgs/03-09-25_14-32-41_884.png",
-    "assets/imgs/03-09-25_14-31-05_192.png",
-    "assets/imgs/03-09-25_14-30-41_392.png",
-    "assets/imgs/03-09-25_14-30-29_055.png",
-    "assets/imgs/03-09-25_14-26-49_805.png",
-    "assets/imgs/03-09-25_14-16-24_670.png",
     "sourses/ТФКП/Shabunin-M-Sbornik-zadach-po-teorii-funktsii-kompleksnogo-peremennogo.pdf",
     "sourses/ТФКП/Shabunin-M-Sbornik-zadach-po-teorii-funktsii-kompleksnogo-peremennogo.pdf.crdownload",
-    "sourses/ТФКП",
-    "notes/550-тервер-для-задач.md~"
+    "sourses/ТФКП"
   ]
 }
