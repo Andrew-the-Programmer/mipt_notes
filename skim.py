@@ -19,7 +19,6 @@ def detect_links(file: Path, root: Path) -> list[Path]:
         pattern_md,
     ]
     new_links = []
-    print(file)
     if file.suffix != ".md":
         return new_links
     with file.open("r") as f:
@@ -30,12 +29,14 @@ def detect_links(file: Path, root: Path) -> list[Path]:
             )
     return new_links
 
-def reduce_path():
-    
+
+def reduce_path(root: Path, file: Path):
+    return file.relative_to(root)
+
 
 def main() -> None:
     src_vault = Path().home() / "my/mipt/mipt_notes"
-    dst_vault = Path().home() / "my/mipt/MIPT-notes-test"
+    dst_vault = Path().home() / "my/mipt/MIPT-notes-5"
     root_note = src_vault / "courses" / "5семестр-ТФКП-семинары-Пыркова-2025.md"
     links: list[Path] = []
     query: list[Path] = []
@@ -50,8 +51,8 @@ def main() -> None:
 
     for link in links:
         link.__delattr__
-        src = src_vault / link
-        dst = dst_vault / link
+        src = link
+        dst = dst_vault / reduce_path(src_vault, link)
         (dst.parent).mkdir(parents=True, exist_ok=True)
         copy(src, dst)
 
