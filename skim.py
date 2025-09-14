@@ -6,7 +6,7 @@ from shutil import copy
 def find_link_file(link: Path, root: Path) -> Path:
     for f in root.rglob(f"*{link}*"):
         return f
-    raise Exception(f"File {link} not found")
+    raise ValueError(f"File {link} not found in {root}")
 
 
 def detect_links(file: Path, root: Path) -> list[Path]:
@@ -37,7 +37,7 @@ def reduce_path(root: Path, file: Path):
 def main() -> None:
     src_vault = Path().home() / "my/mipt/mipt_notes"
     dst_vault = Path().home() / "my/mipt/MIPT-notes-5"
-    root_note = src_vault / "courses" / "5семестр-ТФКП-семинары-Пыркова-2025.md"
+    root_note = src_vault / "courses" / "5семестр-матстаты-семинары-Черноусова-2025.md"
     links: list[Path] = []
     query: list[Path] = []
     query.append(root_note)
