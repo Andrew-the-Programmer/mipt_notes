@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/416-5семестр-ТФКП-семинар1-Пыркова-03-09-25.md",
+                "file": "notes/601-mipt-computational-complexity-theory-lecture-11-04-25.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "416-5семестр-ТФКП-семинар1-Пыркова-03-09-25"
+              "title": "601-mipt-computational-complexity-theory-lecture-11-04-25"
             }
           },
           {
@@ -100,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.50694274902344
+    "width": 303.50694274902344,
+    "collapsed": true
   },
   "right": {
     "id": "118388a6ab5b8fbb",
@@ -116,17 +117,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/416-5семестр-ТФКП-семинар1-Пыркова-03-09-25.md",
+                "file": "notes/601-mipt-computational-complexity-theory-lecture-11-04-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 416-5семестр-ТФКП-семинар1-Пыркова-03-09-25"
+              "title": "Backlinks for 601-mipt-computational-complexity-theory-lecture-11-04-25"
             }
           },
           {
@@ -187,7 +188,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,6 +206,10 @@
   },
   "active": "f429bec36d6e94db",
   "lastOpenFiles": [
+    "courses/MIPT-computational-complexity-theory-2025.md",
+    "notes/146-mipt-computational-complexity-theory-lecture-04-04-25.md",
+    "notes/932-mipt-computational-complexity-theory-lecture-14-02-25.md",
+    "notes/991-mipt-computational-complexity-theory-lecture-07-02-25.md",
     "courses/5семестр-ТФКП-семинары-Пыркова-2025.md",
     "notes/416-5семестр-ТФКП-семинар1-Пыркова-03-09-25.md",
     "notes/604-mipt-differential-equations-seminar-23-04-25.md",
@@ -237,10 +243,6 @@
     "notes/1738735451-ковариантность.md",
     "notes/258-mipt-field-theory-lecture-19-02-25.md",
     "notes/230-mipt-field-theory-seminar-19-02-25.md",
-    "notes/768-прецессия-Томаса.md",
-    "notes/896-mipt-field-theory-lecture-12-03-25.md",
-    "notes/551-mipt-field-theory-lecture-05-03-25.md",
-    "notes/725-mipt-field-theory-lecture-26-02-25.md",
     "notes/298-5семестр-матстаты-семинар1-Черноусова-03-09-25.md~",
     "notes/586-probability-theory-summary.md~",
     "notes/687-mipt-probability-theory-seminar-16-05-25.md~",
