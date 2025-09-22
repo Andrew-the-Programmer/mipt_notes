@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/1728763957-ssh.md",
+                "file": "notes/901-сепарабельность.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1728763957-ssh"
+              "title": "901-сепарабельность"
             }
           },
           {
@@ -207,6 +207,7 @@
   },
   "active": "f429bec36d6e94db",
   "lastOpenFiles": [
+    "notes/282-базис-Шаудера.md",
     "notes/686-тензор.md",
     "notes/686-тензор.md~",
     "notes/4913",
@@ -245,7 +246,6 @@
     "notes/698-mipt-field-theory-lecture-19-03-25.md",
     "courses/MIPT-field-theory-2025.md",
     "notes/856-символ-Леви-Чивиты.md",
-    "notes/962-mipt-field-theory-lecture-09-04-25.md",
     "notes/298-5семестр-матстаты-семинар1-Черноусова-03-09-25.md~",
     "notes/586-probability-theory-summary.md~",
     "notes/687-mipt-probability-theory-seminar-16-05-25.md~",
