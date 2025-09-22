@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/901-сепарабельность.md",
+                "file": "notes/282-базис-Шаудера.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "901-сепарабельность"
+              "title": "282-базис-Шаудера"
             }
           },
           {
@@ -207,6 +207,8 @@
   },
   "active": "f429bec36d6e94db",
   "lastOpenFiles": [
+    "notes/282-базис-Шаудера.md~",
+    "notes/901-сепарабельность.md",
     "notes/282-базис-Шаудера.md",
     "notes/686-тензор.md",
     "notes/686-тензор.md~",
@@ -244,14 +246,11 @@
     "notes/1738753790-mipt-harmonic-analysis-seminar-04-02-25.md",
     "courses/MIPT-harmonic-analysis-2025.md",
     "notes/698-mipt-field-theory-lecture-19-03-25.md",
-    "courses/MIPT-field-theory-2025.md",
-    "notes/856-символ-Леви-Чивиты.md",
     "notes/298-5семестр-матстаты-семинар1-Черноусова-03-09-25.md~",
     "notes/586-probability-theory-summary.md~",
     "notes/687-mipt-probability-theory-seminar-16-05-25.md~",
     "courses/5семестр-матстаты-семинары-Черноусова-2025.md~",
     "courses/5семестр-ТФКП-семинары-Пыркова-2025.md~",
-    "notes/416-5семестр-ТФКП-семинар1-Пыркова-03-09-25.md~",
-    "sourses/ТФКП/Shabunin-M-Sbornik-zadach-po-teorii-funktsii-kompleksnogo-peremennogo.pdf"
+    "notes/416-5семестр-ТФКП-семинар1-Пыркова-03-09-25.md~"
   ]
 }
