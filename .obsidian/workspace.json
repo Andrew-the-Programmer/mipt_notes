@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/282-базис-Шаудера.md",
-                "mode": "source",
+                "file": "notes/775-mipt-differential-equations-seminar-26-02-25.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "282-базис-Шаудера"
+              "title": "775-mipt-differential-equations-seminar-26-02-25"
             }
           },
           {
@@ -207,6 +207,8 @@
   },
   "active": "f429bec36d6e94db",
   "lastOpenFiles": [
+    "courses/MIPT-differential-equations-2025.md",
+    "notes/568-mipt-differential-equations-seminar-09-04-25.md",
     "notes/282-базис-Шаудера.md~",
     "notes/901-сепарабельность.md",
     "notes/282-базис-Шаудера.md",
@@ -245,7 +247,6 @@
     "notes/1738651715-абсолютно-непрерывная-функция.md",
     "notes/1738753790-mipt-harmonic-analysis-seminar-04-02-25.md",
     "courses/MIPT-harmonic-analysis-2025.md",
-    "notes/698-mipt-field-theory-lecture-19-03-25.md",
     "notes/298-5семестр-матстаты-семинар1-Черноусова-03-09-25.md~",
     "notes/586-probability-theory-summary.md~",
     "notes/687-mipt-probability-theory-seminar-16-05-25.md~",
