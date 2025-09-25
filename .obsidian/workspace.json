@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/775-mipt-differential-equations-seminar-26-02-25.md",
+                "file": "courses/матан/Семинары.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "775-mipt-differential-equations-seminar-26-02-25"
+              "title": "Семинары"
             }
           },
           {
@@ -101,8 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.50694274902344,
-    "collapsed": true
+    "width": 303.50694274902344
   },
   "right": {
     "id": "118388a6ab5b8fbb",
@@ -207,6 +206,7 @@
   },
   "active": "f429bec36d6e94db",
   "lastOpenFiles": [
+    "notes/775-mipt-differential-equations-seminar-26-02-25.md",
     "notes/568-mipt-differential-equations-seminar-09-04-25.md~",
     "courses/MIPT-differential-equations-2025.md",
     "notes/568-mipt-differential-equations-seminar-09-04-25.md",
@@ -251,7 +251,6 @@
     "notes/586-probability-theory-summary.md~",
     "notes/687-mipt-probability-theory-seminar-16-05-25.md~",
     "courses/5семестр-матстаты-семинары-Черноусова-2025.md~",
-    "courses/5семестр-ТФКП-семинары-Пыркова-2025.md~",
-    "notes/416-5семестр-ТФКП-семинар1-Пыркова-03-09-25.md~"
+    "courses/5семестр-ТФКП-семинары-Пыркова-2025.md~"
   ]
 }
