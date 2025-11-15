@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/матан/Семинары.md",
+                "file": "notes/1728763957-ssh.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Семинары"
+              "title": "1728763957-ssh"
             }
           },
           {
@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "chi^2",
+                "query": "ssh",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -206,6 +206,8 @@
   },
   "active": "f429bec36d6e94db",
   "lastOpenFiles": [
+    "notes/279-server.md",
+    "courses/матан/Семинары.md",
     "notes/775-mipt-differential-equations-seminar-26-02-25.md",
     "notes/568-mipt-differential-equations-seminar-09-04-25.md~",
     "courses/MIPT-differential-equations-2025.md",
@@ -233,7 +235,6 @@
     "assets/imgs/1739949160.png",
     "assets/imgs/1740562744.png",
     "assets/imgs/IMG_20250221_123435-1740825830890.png",
-    "courses/матан/Семинары.md",
     "assets/imgs/Pasted image 20250829162805.png",
     "assets/imgs/phi-7865748978.png",
     "courses/MIPT.md",
@@ -246,7 +247,6 @@
     "notes/1738649083-функция-ограниченной-вариации.md",
     "notes/676-mipt-harmonic-analysis-lecture-06-02-25.md",
     "notes/1738651715-абсолютно-непрерывная-функция.md",
-    "notes/1738753790-mipt-harmonic-analysis-seminar-04-02-25.md",
     "notes/298-5семестр-матстаты-семинар1-Черноусова-03-09-25.md~",
     "notes/586-probability-theory-summary.md~",
     "notes/687-mipt-probability-theory-seminar-16-05-25.md~",
