@@ -27,6 +27,15 @@ passwd $username
 usermod -G wheel $username
 ```
 
+> if sudo command not found: 
+> ```bash
+> root$ pacman -S sudo
+> root$ visudo
+> ```
+>  Add "root ALL=(ALL:ALL) ALL"
+>  ```bash
+>  su $username
+>  ```
 ## Create ssh
 ```bash
 # on client

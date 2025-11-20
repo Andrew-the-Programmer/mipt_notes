@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f429bec36d6e94db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/1728763957-ssh.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1728763957-ssh"
-            }
-          },
-          {
             "id": "5f1c57febf394950",
             "type": "leaf",
             "state": {
@@ -54,21 +30,8 @@
               "icon": "lucide-file",
               "title": "279-server"
             }
-          },
-          {
-            "id": "0d1f25ed3fdcc072",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "assets/imgs/23-04-25_16-13-27_606_IMG_20250423_155710.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "23-04-25_16-13-27_606_IMG_20250423_155710"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -232,6 +195,7 @@
   "active": "5f1c57febf394950",
   "lastOpenFiles": [
     "notes/1728763957-ssh.md",
+    "assets/imgs/23-04-25_16-13-27_606_IMG_20250423_155710.jpg",
     "notes/279-server.md",
     "courses/матан/Семинары.md",
     "notes/775-mipt-differential-equations-seminar-26-02-25.md",
@@ -256,7 +220,6 @@
     "notes/604-mipt-differential-equations-seminar-23-04-25.md",
     "skim.py~",
     "23-04-25_16-13-27_606_IMG_20250423_155710.md",
-    "assets/imgs/23-04-25_16-13-27_606_IMG_20250423_155710.jpg",
     "assets/imgs/23-04-25_16-13-27_888_IMG_20250423_155718.jpg",
     "assets/imgs/1739949160.png",
     "assets/imgs/1740562744.png",
@@ -271,7 +234,6 @@
     "notes/471-mipt-differential-equations-seminar-02-04-25.md",
     "notes/618-mipt-field-theory-lecture-02-04-25.md",
     "notes/1738649083-функция-ограниченной-вариации.md",
-    "notes/676-mipt-harmonic-analysis-lecture-06-02-25.md",
     "notes/298-5семестр-матстаты-семинар1-Черноусова-03-09-25.md~",
     "notes/586-probability-theory-summary.md~",
     "notes/687-mipt-probability-theory-seminar-16-05-25.md~",
