@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/279-server.md",
+                "file": "notes/1734951171-git-ssh.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "279-server"
+              "title": "1734951171-git-ssh"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ssh",
+                "query": "git",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -194,9 +194,9 @@
   },
   "active": "5f1c57febf394950",
   "lastOpenFiles": [
+    "notes/279-server.md",
     "notes/1728763957-ssh.md",
     "assets/imgs/23-04-25_16-13-27_606_IMG_20250423_155710.jpg",
-    "notes/279-server.md",
     "courses/матан/Семинары.md",
     "notes/775-mipt-differential-equations-seminar-26-02-25.md",
     "notes/568-mipt-differential-equations-seminar-09-04-25.md~",
