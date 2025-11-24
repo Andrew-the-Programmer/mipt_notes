@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/1734951171-git-ssh.md",
+                "file": "notes/1734972512-git-config.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1734951171-git-ssh"
+              "title": "1734972512-git-config"
             }
           }
         ]
@@ -194,6 +194,7 @@
   },
   "active": "5f1c57febf394950",
   "lastOpenFiles": [
+    "notes/1734951171-git-ssh.md",
     "notes/279-server.md",
     "notes/1728763957-ssh.md",
     "assets/imgs/23-04-25_16-13-27_606_IMG_20250423_155710.jpg",
