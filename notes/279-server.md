@@ -80,6 +80,13 @@ sudo systemctl restart sshd
 ```
 
 # Git
+
+## 0. Start sshd
+
+```bash
+sudo systemctl start sshd
+```
+
 ## 1. **Generate an SSH key (if needed)**
 
 If you don't have an SSH key, create one:
