@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git",
+                "query": "IT",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -192,7 +192,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5f1c57febf394950",
+  "active": "c5f74878ea4f0198",
   "lastOpenFiles": [
     "notes/279-server.md",
     "notes/1734972512-git-config.md",
