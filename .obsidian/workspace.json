@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/902-mipt-complexity-theory-seminar-18-02-25.md",
+                "file": "notes/991-mipt-computational-complexity-theory-lecture-07-02-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "902-mipt-complexity-theory-seminar-18-02-25"
+              "title": "991-mipt-computational-complexity-theory-lecture-07-02-25"
+            }
+          },
+          {
+            "id": "1ec74bb099461ea3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/373-p-np.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "373-p-np"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,15 +217,19 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5f1c57febf394950",
+  "active": "1ec74bb099461ea3",
   "lastOpenFiles": [
+    "notes/864-время-работы-машины-НМТ.md",
+    "notes/373-p-np.md",
+    "notes/991-mipt-computational-complexity-theory-lecture-07-02-25.md",
+    "courses/MIPT-computational-complexity-theory-2025.md",
+    "notes/835-mipt-computational-complexity-theory-lecture-21-02-25.md",
+    "notes/902-mipt-complexity-theory-seminar-18-02-25.md",
     "notes/777-mipt-computational-complexity-theory-lecture-28-02-25.md",
     "notes/287-mipt-computational-complexity-theory-lecture-28-03-25.md",
     "notes/181-mipt-computational-complexity-theory-lecture-14-03-25.md",
     "notes/736-полиномиальная-сводимость-сводимсть-по-Карпу.md",
-    "notes/373-p-np.md",
     "notes/319-mipt-computational-complexity-theory-lecture-18-04-25.md",
-    "notes/864-время-работы-машины-НМТ.md",
     "notes/1737801431-c++-boost-coroutine.md",
     "notes/279-server.md",
     "notes/1734972512-git-config.md",
@@ -221,10 +250,6 @@
     "notes/586-probability-theory-summary.md",
     "notes/550-тервер-для-задач.md",
     "courses/586-probability-theory-summary.md",
-    "courses/MIPT-computational-complexity-theory-2025.md",
-    "notes/146-mipt-computational-complexity-theory-lecture-04-04-25.md",
-    "notes/932-mipt-computational-complexity-theory-lecture-14-02-25.md",
-    "notes/991-mipt-computational-complexity-theory-lecture-07-02-25.md",
     "skim.py~",
     "assets/imgs/23-04-25_16-13-27_888_IMG_20250423_155718.jpg",
     "assets/imgs/1739949160.png",
