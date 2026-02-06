@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/1737801431-c++-boost-coroutine.md",
+                "file": "notes/902-mipt-complexity-theory-seminar-18-02-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1737801431-c++-boost-coroutine"
+              "title": "902-mipt-complexity-theory-seminar-18-02-25"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "IT",
+                "query": "SAT",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -187,11 +187,21 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "c5f74878ea4f0198",
+  "active": "5f1c57febf394950",
   "lastOpenFiles": [
+    "notes/777-mipt-computational-complexity-theory-lecture-28-02-25.md",
+    "notes/287-mipt-computational-complexity-theory-lecture-28-03-25.md",
+    "notes/181-mipt-computational-complexity-theory-lecture-14-03-25.md",
+    "notes/736-полиномиальная-сводимость-сводимсть-по-Карпу.md",
+    "notes/373-p-np.md",
+    "notes/319-mipt-computational-complexity-theory-lecture-18-04-25.md",
+    "notes/864-время-работы-машины-НМТ.md",
+    "notes/1737801431-c++-boost-coroutine.md",
     "notes/279-server.md",
     "notes/1734972512-git-config.md",
     "notes/1734951171-git-ssh.md",
@@ -215,24 +225,16 @@
     "notes/146-mipt-computational-complexity-theory-lecture-04-04-25.md",
     "notes/932-mipt-computational-complexity-theory-lecture-14-02-25.md",
     "notes/991-mipt-computational-complexity-theory-lecture-07-02-25.md",
-    "courses/5семестр-ТФКП-семинары-Пыркова-2025.md",
-    "notes/416-5семестр-ТФКП-семинар1-Пыркова-03-09-25.md",
-    "notes/604-mipt-differential-equations-seminar-23-04-25.md",
     "skim.py~",
-    "23-04-25_16-13-27_606_IMG_20250423_155710.md",
     "assets/imgs/23-04-25_16-13-27_888_IMG_20250423_155718.jpg",
     "assets/imgs/1739949160.png",
     "assets/imgs/1740562744.png",
     "assets/imgs/IMG_20250221_123435-1740825830890.png",
     "assets/imgs/Pasted image 20250829162805.png",
     "assets/imgs/phi-7865748978.png",
-    "courses/MIPT.md",
     "assets/imgs/23-04-25_10-40-22_136_IMG_20250423_091751.jpg",
     "assets/imgs/21-03-25_18-02-23_138_IMG_20250321_175825.jpg",
     "assets/imgs/21-03-25_13-10-41_922_IMG_20250321_123342.jpg",
-    "notes/380-mipt-harmonic-analysis-lecture-03-04-25.md",
-    "notes/471-mipt-differential-equations-seminar-02-04-25.md",
-    "notes/618-mipt-field-theory-lecture-02-04-25.md",
     "notes/298-5семестр-матстаты-семинар1-Черноусова-03-09-25.md~",
     "notes/586-probability-theory-summary.md~",
     "notes/687-mipt-probability-theory-seminar-16-05-25.md~",
