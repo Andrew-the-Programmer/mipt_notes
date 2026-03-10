@@ -59,10 +59,24 @@
             "id": "fd80a79b47789c51",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "notes/287-mipt-computational-complexity-theory-lecture-28-03-25.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "287-mipt-computational-complexity-theory-lecture-28-03-25"
             }
           }
         ],
@@ -98,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "SAT",
+                "query": "\"![карта классов](assets/imgs/28-03-25_11-41-18_122_28-03-25_11-41-18_768.png)\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,7 +133,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -226,8 +241,16 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "fd80a79b47789c51",
+  "active": "c5f74878ea4f0198",
   "lastOpenFiles": [
+    "courses/MIPT-computational-complexity-theory-2025.md",
+    "notes/712-mipt-computational-complexity-theory-lecture-21-03-25.md",
+    "notes/601-mipt-computational-complexity-theory-lecture-11-04-25.md",
+    "notes/932-mipt-computational-complexity-theory-lecture-14-02-25.md",
+    "notes/864-время-работы-машины-НМТ.md",
+    "Untitled 1.base",
+    "Untitled.base",
+    "sourses/ТФКП/Shabunin-M-Sbornik-zadach-po-teorii-funktsii-kompleksnogo-peremennogo.pdf",
     "notes/380-mipt-harmonic-analysis-lecture-03-04-25.md",
     "courses/MIPT-harmonic-analysis-2025.md",
     "notes/369-mipt-harmonic-analysis-lecture-13-02-25.md",
@@ -235,13 +258,10 @@
     "notes/364-полином-Лежандра.md",
     "notes/157-mipt-physics-lecture-19-04-25.md",
     "notes/225-chinese-кратность-действия-次-and-遍.md",
-    "courses/MIPT-computational-complexity-theory-2025.md",
     "notes/777-mipt-computational-complexity-theory-lecture-28-02-25.md",
     "notes/835-mipt-computational-complexity-theory-lecture-21-02-25.md",
-    "notes/932-mipt-computational-complexity-theory-lecture-14-02-25.md",
     "notes/736-полиномиальная-сводимость-сводимсть-по-Карпу.md",
     "notes/373-p-np.md",
-    "notes/864-время-работы-машины-НМТ.md",
     "notes/991-mipt-computational-complexity-theory-lecture-07-02-25.md",
     "notes/902-mipt-complexity-theory-seminar-18-02-25.md",
     "notes/287-mipt-computational-complexity-theory-lecture-28-03-25.md",
@@ -253,8 +273,6 @@
     "notes/1734951171-git-ssh.md",
     "notes/1728763957-ssh.md",
     "assets/imgs/23-04-25_16-13-27_606_IMG_20250423_155710.jpg",
-    "courses/матан/Семинары.md",
-    "notes/775-mipt-differential-equations-seminar-26-02-25.md",
     "notes/568-mipt-differential-equations-seminar-09-04-25.md~",
     "notes/282-базис-Шаудера.md~",
     "notes/686-тензор.md~",
@@ -270,9 +288,6 @@
     "assets/imgs/21-03-25_18-02-23_138_IMG_20250321_175825.jpg",
     "assets/imgs/21-03-25_13-10-41_922_IMG_20250321_123342.jpg",
     "notes/298-5семестр-матстаты-семинар1-Черноусова-03-09-25.md~",
-    "notes/586-probability-theory-summary.md~",
-    "notes/687-mipt-probability-theory-seminar-16-05-25.md~",
-    "courses/5семестр-матстаты-семинары-Черноусова-2025.md~",
-    "courses/5семестр-ТФКП-семинары-Пыркова-2025.md~"
+    "notes/586-probability-theory-summary.md~"
   ]
 }
