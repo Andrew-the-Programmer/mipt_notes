@@ -81,6 +81,24 @@
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "5c8e91293f86f4da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa820ad02656548f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "assets/imgs/28-03-25_11-41-18_122_28-03-25_11-41-18_768.png"
+              },
+              "icon": "lucide-image",
+              "title": "28-03-25_11-41-18_122_28-03-25_11-41-18_768"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,8 +151,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -241,8 +258,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "c5f74878ea4f0198",
+  "active": "ca43457cb299a78c",
   "lastOpenFiles": [
+    "notes/287-mipt-computational-complexity-theory-lecture-28-03-25.md",
     "courses/MIPT-computational-complexity-theory-2025.md",
     "notes/712-mipt-computational-complexity-theory-lecture-21-03-25.md",
     "notes/601-mipt-computational-complexity-theory-lecture-11-04-25.md",
@@ -264,7 +282,6 @@
     "notes/373-p-np.md",
     "notes/991-mipt-computational-complexity-theory-lecture-07-02-25.md",
     "notes/902-mipt-complexity-theory-seminar-18-02-25.md",
-    "notes/287-mipt-computational-complexity-theory-lecture-28-03-25.md",
     "notes/181-mipt-computational-complexity-theory-lecture-14-03-25.md",
     "notes/319-mipt-computational-complexity-theory-lecture-18-04-25.md",
     "notes/1737801431-c++-boost-coroutine.md",
