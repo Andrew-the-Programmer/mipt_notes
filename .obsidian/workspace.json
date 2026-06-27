@@ -78,9 +78,21 @@
               "icon": "lucide-file",
               "title": "319-mipt-computational-complexity-theory-lecture-18-04-25"
             }
+          },
+          {
+            "id": "6ced89b4f5ef040c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "5c8e91293f86f4da",
@@ -258,7 +270,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "fd80a79b47789c51",
+  "active": "6ced89b4f5ef040c",
   "lastOpenFiles": [
     "courses/MIPT-computational-complexity-theory-2025.md",
     "notes/601-mipt-computational-complexity-theory-lecture-11-04-25.md",
